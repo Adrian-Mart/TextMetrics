@@ -44,7 +44,7 @@ def main(input_path, output_path):
         for subfolder in subfolders:
             texts, filenames = load_texts_from_folder(subfolder)
             if input_path:
-                print(f"Processing {os.path.basename(subfolder)}")
+                tqdm.tqdm.write(f"Processing {os.path.basename(subfolder)}")
                 input_texts, input_filenames = load_texts_from_folder(os.path.join(input_path, os.path.basename(subfolder)))
                 texts.extend(input_texts)
                 filenames.extend(input_filenames)

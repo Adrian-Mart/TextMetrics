@@ -66,7 +66,7 @@ def load_distance_matrices(directory):
     for filename in os.listdir(directory):
         if filename.endswith(".json"):
             filepath = os.path.join(directory, filename)
-            with open(filepath, 'r') as file:
+            with open(filepath, 'r', encoding='utf-8') as file:
                 data = json.load(file)
                 if "distance_matrix" in data:
                     matrices.append(np.array(data["distance_matrix"]))
@@ -174,7 +174,7 @@ def save_extreme_values(distance_matrix, node_names, alpha, beta, gamma, output_
         "max_nodes": max_nodes
     }
     
-    with open(output_file, 'w') as file:
+    with open(output_file, 'w', encoding='utf-8') as file:
         json.dump(extreme_values, file, indent=4)
 
 def main(directory, alpha, beta, gamma, threshold, output_dir):
@@ -219,7 +219,7 @@ def main(directory, alpha, beta, gamma, threshold, output_dir):
         "node_names": row_names,
         "relationship_values": relationship_values.tolist()
     }
-    with open(output_file, 'w') as file:
+    with open(output_file, 'w', encoding='utf-8') as file:
         json.dump(output_data, file, indent=4)
 
     # Save the extreme values to a JSON file
