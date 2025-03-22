@@ -33,10 +33,10 @@ def save_distance_matrix(matrix, filenames, output_file):
 
 def main(input_path, output_path):
     if not output_path:
-        output_path = os.path.join(os.path.dirname(__file__), 'Data/Distances')
+        output_path = os.path.join(args.base_dir, 'data/distances')
 
     os.makedirs(output_path, exist_ok=True)
-    default_path = 'Data/Words'
+    default_path = 'data/words'
     
     subfolders = [f.path for f in os.scandir(default_path) if f.is_dir()]
 
@@ -59,6 +59,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate distance matrices for text files.")
     parser.add_argument('-i', '--input', type=str, help='Input folder path')
     parser.add_argument('-o', '--output', type=str, help='Output folder path (required if -i is used)')
+    parser.add_argument('-b', '--base-dir', default='.\\', type=str, help="Base directory for the output files")
     args = parser.parse_args()
     
     main(args.input, args.output)
