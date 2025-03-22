@@ -18,11 +18,12 @@ def clean_text(text):
     text = re.sub(r'\s+', ' ', text).strip()
     return text
 
-def process_text_files(input_dir, output_dir, base_dir):
+def process_text_files(input_dir, output_dir, base_dir, cache_file_path = None):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    cache_file_path = os.path.join(base_dir, 'data', 'raw.cache')
+    if not cache_file_path:
+        cache_file_path = os.path.join(base_dir, 'data', 'raw.cache')
     with open(cache_file_path, 'r', encoding='utf-8') as cache_file:
         cached_files = set(json.load(cache_file))
 
