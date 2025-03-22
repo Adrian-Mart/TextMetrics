@@ -9,13 +9,14 @@ import json
 parser = argparse.ArgumentParser(description="Download Wikipedia pages and infoboxes.")
 parser.add_argument('-s', '--skip', action='store_true', help="Skip already downloaded pages")
 parser.add_argument('-ns', '--not_skip', action='store_false', help="Does not skip already downloaded pages")
-parser.add_argument('-o', '--output', type=str, default='Data/Raw', help="Directory to store raw data")
+parser.add_argument('-o', '--output', type=str, default='data/raw', help="Directory to store raw data")
 parser.add_argument('-n', '--name', type=str, help="Specific Wikipedia page name to download")
 parser.add_argument('-y', '--yes', action='store_true', help="Automatically confirm downloading content")
+parser.add_argument('-b', '--base-dir', default='.\\', type=str, help="Base directory for the output files")
 args = parser.parse_args()
 
-# Create the Raw directory and subdirectories if they don't exist
-raw_dir = os.path.join(os.path.dirname(__file__), args.output)
+# Create the raw directory and subdirectories if they don't exist
+raw_dir = os.path.join(args.base_dir, args.output)
 skip = args.not_skip is not None
 texts_dir = os.path.join(raw_dir, 'Texts')
 links_dir = os.path.join(raw_dir, 'Links')
@@ -31,12 +32,12 @@ wikipedia.set_lang("en")
 if args.name:
     titles = [args.name]
 else:
-    with open(os.path.join(os.path.dirname(__file__), 'Data', 'titles.txt'), 'r') as file:
+    with open(os.path.join(args.base_dir, 'data', 'titles.txt'), 'r') as file:
         titles = file.readlines()
 
 # Load the cache of already downloaded pages if --skip is not specified or is the default
 if skip:
-    cache_file_path = os.path.join(os.path.dirname(__file__), 'Data', 'raw.cache')
+    cache_file_path = os.path.join(args.base_dir, 'data', 'raw.cache')
     if os.path.exists(cache_file_path):
         with open(cache_file_path, 'r', encoding='utf-8') as cache_file:
             downloaded_pages = set(json.load(cache_file))

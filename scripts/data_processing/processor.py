@@ -18,11 +18,11 @@ def clean_text(text):
     text = re.sub(r'\s+', ' ', text).strip()
     return text
 
-def process_text_files(input_dir, output_dir):
+def process_text_files(input_dir, output_dir, base_dir):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    cache_file_path = os.path.join(os.path.dirname(__file__), 'Data', 'raw.cache')
+    cache_file_path = os.path.join(base_dir, 'data', 'raw.cache')
     with open(cache_file_path, 'r', encoding='utf-8') as cache_file:
         cached_files = set(json.load(cache_file))
 
@@ -54,8 +54,15 @@ def process_text_files(input_dir, output_dir):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Process text files.")
-    parser.add_argument('-i', '--input', type=str, default=os.path.join(os.path.dirname(__file__), 'Data', 'Raw'), help='Input directory')
-    parser.add_argument('-o', '--output', type=str, default=os.path.join(os.path.dirname(__file__), 'Data', 'Words'), help='Output directory')
+    parser.add_argument('-i', '--input', type=str, help='Input directory')
+    parser.add_argument('-o', '--output', type=str, help='Output directory')
+    parser.add_argument('-b', '--base-dir', default='.\\', type=str, help="Base directory for the output files")
     args = parser.parse_args()
 
-    process_text_files(args.input, args.output)
+    if not args.input:
+        args.input = os.path.join(args.base_dir, 'data', 'raw')
+
+    if not args.output:
+        args.output = os.path.join(args.base_dir, 'data', 'words')
+
+    process_text_files(args.input, args.output, args.base_dir)
