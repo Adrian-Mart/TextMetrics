@@ -17,6 +17,16 @@ def load_texts_from_folder(folder_path):
             filenames.append(file)
     return texts, filenames
 
+def load_texts_from_array(paths):
+    texts = []
+    filenames = []
+    for path in paths:
+        if os.path.isfile(path):
+            with open(path, 'r', encoding='utf-8') as f:
+                texts.append(f.read())
+            filenames.append(os.path.basename(path))
+    return texts, filenames
+
 def calculate_distance_matrix(texts):
     vectorizer = CountVectorizer()
     X = vectorizer.fit_transform(texts)
@@ -31,14 +41,27 @@ def save_distance_matrix(matrix, filenames, output_file):
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(data, f)
 
+def get_distance_matrix(path):
+    texts, filenames = load_texts_from_array(path)
+    data = {
+        'filenames': filenames,
+        'distance_matrix': calculate_distance_matrix(texts).tolist()
+    }
+    return data
+
+def calculate_distance_matrices(info_paths, link_paths, text_paths):
+    info_matrix_data = get_distance_matrix(info_paths)
+    link_matrix_data = get_distance_matrix(link_paths)
+    text_matrix_data = get_distance_matrix(text_paths)
+    return info_matrix_data, link_matrix_data, text_matrix_data
+
 def main(input_path, output_path):
     if not output_path:
         output_path = os.path.join(args.base_dir, 'data/distances')
 
     os.makedirs(output_path, exist_ok=True)
-    default_path = 'data/words'
     
-    subfolders = [f.path for f in os.scandir(default_path) if f.is_dir()]
+    subfolders = [f.path for f in os.scandir(input_path) if f.is_dir()]
 
     with tqdm.tqdm(total=len(subfolders), desc="Processing") as pbar:
         for subfolder in subfolders:
