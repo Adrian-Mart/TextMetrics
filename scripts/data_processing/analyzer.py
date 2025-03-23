@@ -177,6 +177,46 @@ def save_extreme_values(distance_matrix, node_names, alpha, beta, gamma, output_
     with open(output_file, 'w', encoding='utf-8') as file:
         json.dump(extreme_values, file, indent=4)
 
+def get_distance_data(alpha, beta, gamma, threshold, matrices):
+    m1, m2, m3 = matrices
+    m1 = np.array(m1)
+    m2 = np.array(m2)
+    m3 = np.array(m3)
+    distance = calculate_distance(m1, m2, m3, alpha, beta, gamma)
+    if distance.size == 0:
+            raise ValueError("The distance matrix is empty")
+    interpolated_distance = interpolate_matrix(distance)
+    relationship_values = calculate_relationship_values(interpolated_distance)
+    interpolated_distance = apply_threshold(interpolated_distance, threshold)
+    rounded_distance = np.round(interpolated_distance, 2)
+
+    relationship_values = 100 - relationship_values
+
+    return {
+        "distance_matrix": rounded_distance.tolist(),
+        "raw_distance_matrix": distance.tolist(),
+        "relationship_values": relationship_values.tolist(),
+        "min_value": np.min(distance[distance > 0])
+    }
+
+def get_prediction_values(alpha, beta, gamma, threshold, z_min_value, xi_matrices, filenames, name):
+    names = filenames
+    n_value_index = names.index(f'{name}_words.json')
+    data_distance_matrix = get_distance_data(alpha, beta, gamma, threshold, xi_matrices)
+    # Get the relationship value for the n value
+    relationship_value = data_distance_matrix['relationship_values'][n_value_index]
+    # Get the minimum distance value for the n value excluding 0
+    min_distance = min([dist for dist in data_distance_matrix['raw_distance_matrix'][n_value_index] if dist > 0])
+    # Create the result object
+    result = {
+        'relationship': relationship_value,
+        'min_distance': min_distance,
+        'pass': min_distance < z_min_value
+    }
+    return result
+        
+
+
 def main(directory, alpha, beta, gamma, threshold, output_dir):
     """
     Main function to process distance matrices and save the results.
