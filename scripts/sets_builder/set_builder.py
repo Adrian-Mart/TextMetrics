@@ -7,6 +7,43 @@ from ..data_processing import distance_matrix_generator as dmg
 from ..data_processing import analyzer
 from ..prediction import oracle
 
+
+def verify_downloaded_data_integrity(output_dir, cache_file_path):
+    with open(cache_file_path, 'r', encoding='utf-8') as cache_file:
+        cached_files = set(json.load(cache_file))
+    print(f"Verifying downloaded data integrity in {output_dir}")
+    infoboxes = os.listdir(os.path.join(output_dir, 'Infoboxes'))
+    print(f'\t{os.path.join(output_dir, 'Infoboxes')}')
+    links = os.listdir(os.path.join(output_dir, 'Links'))
+    print(f'\t{os.path.join(output_dir, 'Links')}')
+    texts = os.listdir(os.path.join(output_dir, 'Texts'))
+    print(f'\t{os.path.join(output_dir, 'Texts')}')
+
+    missing_files = {'Infoboxes': [], 'Links': [], 'Texts': []}
+    
+    for file in cached_files:
+        if file + '.txt' not in infoboxes:
+            missing_files['Infoboxes'].append(f"{file}")
+        if file + '.txt' not in links:
+            missing_files['Links'].append(f"{file}")
+        if file + '.txt' not in texts:
+            missing_files['Texts'].append(f"{file}")
+    
+    if any(missing_files.values()):
+        error_message = "Missing files:\n"
+        for category, files in missing_files.items():
+            if files:
+                error_message += f"{category}:\n" + "\n".join(files) + "\n"
+            # Delete files with the same name in Links and Texts
+            for file in files:
+                if file + '.txt' in infoboxes:
+                    os.remove(os.path.join(output_dir, 'Infoboxes', file + '.txt'))
+                if file + '.txt' in links:
+                    os.remove(os.path.join(output_dir, 'Links', file + '.txt'))
+                if file + '.txt' in texts:
+                    os.remove(os.path.join(output_dir, 'Texts', file + '.txt'))
+        raise FileNotFoundError(error_message)
+
 def verify_cache(output_dir, cache_file_path):
     print(f"Verifying cache file in {output_dir}")
 
@@ -115,8 +152,11 @@ def main():
     verify_cache(os.path.join(args.base_dir, args.output_a, 'raw'), os.path.join(args.base_dir, args.output_a, 'raw', 'raw.cache'))
     verify_cache(os.path.join(args.base_dir, args.output_b, 'raw'), os.path.join(args.base_dir, args.output_b, 'raw', 'raw.cache'))
 
+    verify_downloaded_data_integrity(os.path.join(args.base_dir, args.output_a, 'raw'), os.path.join(args.base_dir, args.output_a, 'raw', 'raw.cache'))
+    verify_downloaded_data_integrity(os.path.join(args.base_dir, args.output_b, 'raw'), os.path.join(args.base_dir, args.output_b, 'raw', 'raw.cache'))
+
     # Download files
-    download_files(args.set_a_dir, args.output_a, args.base_dir)
+    download_files(args.set_a_dir, args.output_a, args.base_dir, auto_download = False)
     download_files(args.set_b_dir, args.output_b, args.base_dir)
 
     # Process files
@@ -131,10 +171,64 @@ def main():
     process_files(process_b_set_input_dir, process_b_set_output_dir, process_b_set_cache_file_path, args.base_dir)
 
     # Get distance matrix
-    distance_matrix_a_output_dir = os.path.join(args.base_dir, args.output_a, 'distances')
-    dmg.main(process_a_set_output_dir, distance_matrix_a_output_dir)
-    distance_matrix_b_output_dir = os.path.join(args.base_dir, args.output_b, 'distances')
-    dmg.main(process_b_set_output_dir, distance_matrix_b_output_dir)
+    infoboxes = [
+        os.path.join(process_a_set_output_dir, 'Infoboxes', file)
+        for file in os.listdir(os.path.join(process_a_set_output_dir, 'Infoboxes'))
+        if file.endswith('.json')
+    ] + [
+        os.path.join(process_b_set_output_dir, 'Infoboxes', file)
+        for file in os.listdir(os.path.join(process_b_set_output_dir, 'Infoboxes'))
+        if file.endswith('.json')
+    ]
+
+    links = [
+        os.path.join(process_a_set_output_dir, 'Links', file)
+        for file in os.listdir(os.path.join(process_a_set_output_dir, 'Links'))
+        if file.endswith('.json')
+    ] + [
+        os.path.join(process_b_set_output_dir, 'Links', file)
+        for file in os.listdir(os.path.join(process_b_set_output_dir, 'Links'))
+        if file.endswith('.json')
+    ]
+    
+    texts = [
+        os.path.join(process_a_set_output_dir, 'Texts', file)
+        for file in os.listdir(os.path.join(process_a_set_output_dir, 'Texts'))
+        if file.endswith('.json')
+    ] + [
+        os.path.join(process_b_set_output_dir, 'Texts', file)
+        for file in os.listdir(os.path.join(process_b_set_output_dir, 'Texts'))
+        if file.endswith('.json')
+    ]
+
+    # Verify that infoxboxes, links and texts are the same length
+    if len(infoboxes) != len(links) or len(infoboxes) != len(texts):
+        print(f"Infoboxes: {len(infoboxes)}, {"\n\t".join(infoboxes)}")
+        print(f"Links: {len(links)}, {"\n\t".join(links)}")
+        print(f"Texts: {len(texts)}, {"\n\t".join(texts)}")
+
+        raise ValueError("Infoboxes, links and texts must have the same length")
+    
+
+    infoboxes_matrix = dmg.get_distance_matrix(infoboxes)
+    links_matrix = dmg.get_distance_matrix(links)
+    texts_matrix = dmg.get_distance_matrix(texts)
+
+    # Get matrix index dictionary
+    matrix_index = {}
+    for i, filename in enumerate(infoboxes_matrix['filenames']):
+        matrix_index[filename.replace(".json", "")] = i
+
+    # Save distance matrices
+    data = {
+        'dictionary': matrix_index,
+        'infoboxes_distance_matrix': infoboxes_matrix['distance_matrix'],
+        'links_distance_matrix': links_matrix['distance_matrix'],
+        'texts_distance_matrix': texts_matrix['distance_matrix']
+    }
+
+    with open(os.path.join(args.base_dir, 'distance_matrices.json'), 'w', encoding='utf-8') as file:
+        json.dump(data, file)
 
 if __name__ == "__main__":
     main()
