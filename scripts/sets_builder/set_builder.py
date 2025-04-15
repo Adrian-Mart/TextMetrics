@@ -9,6 +9,9 @@ from ..prediction import oracle
 
 
 def verify_downloaded_data_integrity(output_dir, cache_file_path):
+    if not os.path.exists(output_dir):
+        print(f"\tSkipping: Output directory does not exist <{output_dir}>")
+        return
     with open(cache_file_path, 'r', encoding='utf-8') as cache_file:
         cached_files = set(json.load(cache_file))
     print(f"Verifying downloaded data integrity in {output_dir}")
@@ -156,7 +159,7 @@ def main():
     verify_downloaded_data_integrity(os.path.join(args.base_dir, args.output_b, 'raw'), os.path.join(args.base_dir, args.output_b, 'raw', 'raw.cache'))
 
     # Download files
-    download_files(args.set_a_dir, args.output_a, args.base_dir, auto_download = False)
+    download_files(args.set_a_dir, args.output_a, args.base_dir, auto_download = True)
     download_files(args.set_b_dir, args.output_b, args.base_dir)
 
     # Process files
