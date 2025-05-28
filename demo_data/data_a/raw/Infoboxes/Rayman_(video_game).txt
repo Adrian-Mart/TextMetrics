@@ -1,0 +1,201 @@
+Rayman
+Developer(s)
+Ubi Pictures
+Publisher(s)
+Ubi Soft
+Director(s)
+Agnès Haegel
+Producer(s)
+Gérard Guillemot
+Designer(s)
+Michel Ancel
+Serge Hascoët
+Alexandra Steible
+[
+3
+]
+Programmer(s)
+Daniel Palix
+Frédéric Houde
+Fred Markus
+[
+14
+]
+Artist(s)
+Alexandra Steible
+Éric Pelatan
+Sylvaine Jenny
+Composer(s)
+Rémi Gazel
+Didier Lord
+Stéphane Bellanger
+Series
+Rayman
+Platform(s)
+
+
+Atari Jaguar
+
+
+ 
+PlayStation
+
+
+ 
+Sega Saturn
+
+
+ 
+MS-DOS
+
+
+ 
+Game Boy Color
+
+
+ 
+Game Boy Advance
+
+
+ 
+Palm OS
+
+
+ 
+Nintendo DSi
+
+
+ 
+iOS
+
+
+
+
+Release
+
+
+1 September 1995
+
+
+ 
+Atari Jaguar
+EU
+:
+ 1 September 1995
+[
+2
+]
+NA
+:
+ 19 September 1995
+[
+1
+]
+
+
+ 
+PlayStation
+NA
+:
+ 7 September 1995
+[
+4
+]
+EU
+:
+ September 1995
+[
+3
+]
+
+
+ 
+Sega Saturn
+EU
+/
+NA
+:
+ November 1995
+[
+5
+]
+
+
+ 
+MS-DOS
+EU
+:
+ December 1995
+[
+7
+]
+NA
+:
+ 1 April 1996
+[
+6
+]
+
+
+ 
+Game Boy Color
+NA
+:
+ 2000
+[
+8
+]
+
+
+ 
+Game Boy Advance
+NA
+:
+ 11 June 2001
+[
+10
+]
+EU
+:
+ 22 June 2001
+[
+9
+]
+
+
+ 
+Palm OS
+WW
+:
+ 1 September 2001
+[
+11
+]
+
+
+ 
+Nintendo DSi
+NA
+:
+ 7 December 2009
+[
+12
+]
+
+
+ 
+iOS
+WW
+:
+ 18 February 2016
+[
+13
+]
+
+
+
+
+Genre(s)
+Platform
+Mode(s)
+Single-player

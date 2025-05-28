@@ -1,0 +1,61 @@
+Duck Hunt is a 1984 light gun shooter video game developed and published by Nintendo for the Nintendo Entertainment System (NES). The game was first released in April 1984 in Japan for the Family Computer (Famicom) console and in North America as an arcade game for the Nintendo VS. System. It became a launch game for the NES in North America in October 1985, and was re-released in Europe two years later.
+Players fire the NES Zapper at a CRT television, with three attempts per round to shoot ducks and clay pigeons.
+The game initially received a positive reception in the mid-1980s, but was later given mild praise in retrospective reviews. The game was inspired by Nintendo's previous electro-mechanical arcade game which was based on the Laser Clay Shooting System released in 1976. Upon release as a video game, Duck Hunt became a major commercial success both for arcades and consoles in the 1980s, helping to popularize light gun video games with over 28 million copies sold worldwide.
+In 1986, the nationwide launch of the NES included the Deluxe Set bundle with pack-in games Duck Hunt and Gyromite. The later Action Set has Duck Hunt and Super Mario Bros. on one cartridge. The final Duck Hunt bundle is the Power Set, with a multi-cart with World Class Track Meet, Super Mario Bros., and Duck Hunt. The game was released on Virtual Console for the Wii U in 2014.
+
+
+== Gameplay ==
+
+Duck Hunt is a first-person shooter game with moving on-screen targets, firing the NES Zapper light gun at a CRT television screen. The player selects the game mode, one or two targets appear, and the player has three attempts to hit them before they disappear. Each round totals ten targets.
+The player must hit a minimum number of targets to advance to the next round or else get a game over. The difficulty progresses with faster targets of an increasing minimum number. The player receives points per target and bonus points for shooting all ten targets per round. The highest scores are tracked per session.
+Duck Hunt has three optional game modes. In Game A and Game B, the targets are flying ducks, and in Game C the targets are clay pigeons that are launched into the distance. In Game A, one duck appears at a time and in Game B two ducks appear. Game A allows a second player to control the flying ducks with a NES controller. Completing Round 99 in Game A advances to Round 0, which is a kill screen where the game shows erratic behavior, such as haphazard or nonexistent targets, thus ending progress.
+
+
+=== Vs. Duck Hunt ===
+Vs. Duck Hunt was released as a Nintendo VS. System arcade game in April 1984, and was later included in the PlayChoice-10 arcade console. The console supports two light guns, for alternate players.: 45 
+Gameplay consists of alternating rounds of Games B and C, with 12 targets per round instead of 10 and sometimes three targets at once instead of two. Every missed target costs one life until the game ends.
+After every second round, a bonus stage has ducks flying out of the grass with the hunting dog occasionally jumping into the line of fire as a distraction. If shot, the dog scolds the player and the bonus stage ends. According to Nintendo of America employee Jerry Momoda, the dog was made impossible to shoot on console releases to make the game more family friendly.: 45–46 
+
+
+== Development ==
+
+Duck Hunt was inspired by a 1976 electronic toy version titled Beam Gun: Duck Hunt, part of the Beam Gun series, designed by Gunpei Yokoi and Masayuki Uemura for Nintendo. Nintendo Research & Development 1 developed both the NES Zapper and the NES version of Duck Hunt. The game was supervised by Takehiro Izushi, and was produced by Gunpei Yokoi. The music was composed by Hirokazu Tanaka, who did music for several other Nintendo games at the time. The music was represented in the classic games medley on the Video Games Live concert tour. Designer Hiroji Kiyotake created the graphics and characters.: 47 
+
+
+== Release ==
+Duck Hunt has been released alone and in several combination ROM cartridges. The Action Set bundle of the NES in the late 1980s has one cartridge containing Duck Hunt and Super Mario Bros. The Power Set bundle includes the Zapper, the Power Pad, and a 3-in-1 cartridge with Duck Hunt, World Class Track Meet, and Super Mario Bros.
+Duck Hunt was re-released on Virtual Console for the Wii U console in Japan on December 24, 2014, and internationally on December 25. This version was modified for the Wii Remote controller in place of the NES Zapper.
+
+
+== Reception ==
+
+In North America, Vs. Duck Hunt became the third top-grossing arcade game on the RePlay arcade charts in November 1985, below Vs. Hogan's Alley at number one. The two popularized light gun video games by 1985. It was bundled with the Nintendo Entertainment System console in 1985, with 28.3 million copies sold worldwide.
+Upon release in arcades, Eddie Adlum of RePlay magazine praised Duck Hunt and Hogan's Alley as the "cream on the cake" among Nintendo VS. System and for successfully capturing the experience of older electro-mechanical gun games into video game format. He said that Duck Hunt and Hogan's Alley "sported simulated handguns on a wire cable and pop, pop, pop, you do your thing just like in the old days only at video targets".
+AllGame called the game an "attractive but repetitive target shooter" and "utterly mindless... the game is fun for a short time, but gets old after a few rounds of play". Several communities have rated the game positively. 1UP.com users gave it an 8.7 out of 10, and the GameSpot community rated the multi-cartridge of Super Mario Bros. and Duck Hunt at 9.1 out of 10. It was rated the 150th best game on a Nintendo system in Nintendo Power's Top 200 Games list. IGN placed the game at number 77 on its "Top 100 NES Games of All Time" feature. The game was ranked 24th in GamesRadar's "The best NES games of all time" list. Jeremy Parish of USgamer stated that Duck Hunt paired with the NES Zapper "made the NES memorable" and was one of the key factors behind the success of the NES. Parish related Duck Hunt to the Wii Remote in that they made their respective consoles more approachable and reach a wider demographic.
+
+
+== Legacy ==
+Duck Hunt's nameless non-playable hunting dog  has been referred to in media as the "Duck Hunt Dog" or the "Laughing Dog", notorious for smugly laughing at the player for missing ducks. The dog is on GamesRadar's list of "the 12 most annoying sidekicks ever", GameDaily's list of characters "we wish we could kill but can't", GameSpy's "top 10 dogs in gaming", and MTV's award for the greatest video game canine. The dog makes a cameo appearance in the NES Zapper game Barker Bill's Trick Shooting, where he can be shot.
+In Wii Play (2006) and its sequel Wii Play: Motion (2011), some elements from Duck Hunt and Hogan's Alley are in the mini-games "Shooting Range" and "Trigger Twist", in which some of the various targets are ducks and cans.
+The dog and a duck, collectively referred to as "Duck Hunt", appear as playable characters in Super Smash Bros. for Nintendo 3DS and Wii U. Masahiro Sakurai, the creator and director of the Super Smash Bros. series, said that Duck Hunt's commercial success as "the most-sold shooting game in the world" was one of the primary reasons for its inclusion. In the games, the Duck Hunt team utilizes multiple attacks inspired by the light gun, including throwing clay pigeons, kicking an explosive version of the can from Hogan's Alley, summoning the cast of Wild Gunman to fire at opponents with their guns, or comically dodging shots fired at opponents from the Zapper. The games feature an unlockable Duck Hunt-themed stage. Both the Duck Hunt team and stage return in Super Smash Bros. Ultimate, and the team is featured in the June 2019 trailer announcing Banjo & Kazooie as downloadable content.
+In the 2015 film Pixels, the dog cameos as an achievement trophy sent to the protagonists by the aliens following their victory over the enemies of Centipede in London. He is adopted by an elderly woman whose apartment was infiltrated by one of the titular enemies.
+The premise for the psychological horror VR game Duck Season by Stress Level Zero is inspired by Duck Hunt.
+A fan game, Duck Hunt GB, was released for the PC in 2024 that uses Game Boy-style graphics. The same developer is currently developing a new game with 3D graphics, titled Tiny Duck Hunt 3D.
+
+
+== See also ==
+Laser Clay Shooting System
+Qwak!
+Crazy Chicken
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Duck Hunt at MobyGames
+Duck Hunt at NinDB
+Duck Hunt on the Famicom 40th Anniversary page (in Japanese)

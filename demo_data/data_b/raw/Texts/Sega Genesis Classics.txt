@@ -1,0 +1,20 @@
+Sega Genesis Classics (released as Sega Mega Drive Classics in PAL regions) is a series of compilations featuring Sega Genesis video games released for Windows, Linux, macOS, PlayStation 4, Xbox One and Nintendo Switch. The collections are split into "Volumes" for PC releases only, with the first four receiving both physical and digital releases and the fifth volume only being digitally released. 
+
+
+== Background ==
+Sega re-released the first four physically released volumes for PC only as the Sega Genesis Classic Collection: Gold Edition (Sega Mega Drive Classics: Gold Edition in PAL regions), for Windows. It is a four-disc set of the forty-six Sega Genesis games from the first four volumes. The collection has configuring keyboard support which provides a personalised gaming experience, a well as a multiplayer mode for a select number of titles. The collection also has save and load functionality that is included in all of the games that allows the player to pick up and play saved games at the exact point they left off.
+Sega released a free application on Steam on April 28, 2016, called the Sega Genesis Classics Hub (Sega Mega Drive Classics Hub in PAL regions). The application presents a virtual hub, themed after what a bedroom of a Sega fanatic might be like, to play all of the released Sega Genesis games through it. The Hub includes Steam Workshop integration, supporting ROM hacks for these games; within a day of its release, several previously developed ROM hacks were added by users to the Hub's Workshop. Any Sega Genesis games previously purchased on Steam, including collections, are automatically added to players' game libraries in the Hub. A few weeks following the release of the Hub, Sega reported more than 350,000 new purchases of the various games supported by the new software. The Sega Mega Drive and Genesis Classics compilation has sold 1,514,485 digital units on Steam, as of 1 July 2018.
+Sega released a compilation of all of the games included in compilations listed below with some exceptions in an entry simply titled Sega Genesis Classics (Sega Mega Drive Classics in PAL regions) for Linux, macOS, PlayStation 4 and Xbox One on May 29, 2018. It uses the same interface as Sega Genesis Classics Hub, but with added features such as achievements and rewinding in-game. These features were later added to the Sega Genesis Classics Hub. Additionally, select games can be played in their Japanese versions. The compilation released on Nintendo Switch on December 6, 2018. The Steam version of the collection used to exclude the Sonic the Hedgehog and ToeJam & Earl games. The former could only be purchased as a part of Sonic-related compilations, but are now included in the Steam collection. All games can be purchased separately, but the Sonic games are sold at higher prices.
+On May 20, 2022, Sonic the Hedgehog, Sonic the Hedgehog 2, and Sonic the Hedgehog 3 & Knuckles  were removed from individual and compilations sale on Steam, to be replaced by the Sonic Origins compilation which includes those titles, as well as  Sonic CD, which was also delisted. This made it impossible to get all achievements.
+On November 6, 2024, it was announced the bundle contents and collection as a whole would be delisted digitally from all major platforms on December 6, 2024.
+
+
+== List of games ==
+
+
+== Reception ==
+
+Sega Genesis Classics received "generally favorable" reviews, according to review aggregator Metacritic.
+
+
+== Notes and references ==

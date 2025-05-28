@@ -1,0 +1,182 @@
+SimCity 2000
+Developer(s)
+Maxis
+[
+a
+]
+Publisher(s)
+
+
+Maxis
+
+
+PC-98, FM Towns, Nintendo 64
+Imagineer
+SNES
+JP
+:
+ Imagineer
+NA
+:
+ 
+Black Pearl Software
+EU
+:
+ 
+THQ
+Game Boy Advance
+NA
+:
+ 
+Destination Software
+EU
+:
+ 
+Zoo Digital Publishing
+
+
+Designer(s)
+Will Wright
+[
+5
+]
+Fred Haslam
+Artist(s)
+Jenny Martin
+[
+5
+]
+Suzie Greene
+Kelli Pearson
+Eben Sorkin
+Composer(s)
+Sue Kasper
+[
+5
+]
+Brian Conrad
+Justin McCormick
+Series
+SimCity
+Platform(s)
+Macintosh
+, 
+MS-DOS
+, 
+Amiga
+, 
+RISC OS
+, 
+PC-98
+, 
+FM Towns
+, 
+Microsoft Windows
+, 
+OS/2
+, 
+Super NES
+, 
+Sega Saturn
+, 
+PlayStation
+, 
+Nintendo 64
+, 
+Game Boy Advance
+, 
+Windows Mobile
+Release
+
+
+December 1993
+
+
+Macintosh
+WW
+:
+ December 1993
+[
+1
+]
+MS-DOS
+WW
+:
+ February 1994
+Amiga
+EU
+:
+ November 1994
+RISC OS
+EU
+:
+ 1994
+PC-98
+JP
+:
+ 1994
+FM Towns
+JP
+:
+ December 1994
+Microsoft Windows
+WW
+:
+ February 28, 1995
+SNES
+JP
+:
+ May 26, 1995
+NA
+:
+ November 1996
+EU
+:
+ December 19, 1996
+Sega Saturn
+JP
+:
+ September 29, 1995
+NA
+:
+ October 11, 1995
+[
+2
+]
+EU
+:
+ December 8, 1995
+OS/2
+NA
+:
+ February 6, 1996
+PlayStation
+NA
+:
+ July 9, 1996
+[
+3
+]
+EU
+:
+ November 1996
+Nintendo 64
+JP
+:
+ February 3, 1998
+[
+4
+]
+Game Boy Advance
+NA
+:
+ November 13, 2003
+EU
+:
+ November 21, 2003
+
+
+Genre(s)
+City-building
+Mode(s)
+Single-player

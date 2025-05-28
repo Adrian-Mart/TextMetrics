@@ -1,0 +1,44 @@
+Stellaris
+Developer(s)
+Paradox Development Studio
+Publisher(s)
+Paradox Interactive
+Director(s)
+Henrik Fåhraeus
+Martin Anward (Post-release)
+Daniel Moregård (Post-release)
+Stephen "Eladrin" Muray (Post-release)
+Producer(s)
+Rikard "Åslund" Jansson
+Anna Norrevik
+Designer(s)
+Henrik Fåhraeus
+Joakim Andreasson
+Daniel Moregård
+Johan Andersson
+Artist(s)
+Fredrik Toll
+Composer(s)
+Andreas Waldetoft
+Bert Meyer
+Engine
+Clausewitz Engine
+Platform(s)
+Linux
+macOS
+Microsoft Windows
+PlayStation 4
+Xbox One
+Release
+Windows, OS X, Linux
+May 9, 2016
+PlayStation 4, Xbox One
+February 26, 2019
+Genre(s)
+4X
+, 
+Grand Strategy
+Mode(s)
+Single-player
+, 
+Multiplayer

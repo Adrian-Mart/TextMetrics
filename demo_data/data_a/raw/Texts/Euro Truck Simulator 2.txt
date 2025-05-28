@@ -1,0 +1,62 @@
+Euro Truck Simulator 2 is a truck simulator game developed and published by SCS Software for Microsoft Windows, Linux, and macOS and was initially released as open development on 18 October 2012. The game is a direct sequel to the 2008 game Euro Truck Simulator and it is the fourth video game in the Truck Simulator series.
+The game is non-linear and, like its predecessor, is set in Europe. Featuring articulated trucks  across a condensed depiction of the continent, players drive their truck (or a quick job truck, if they don’t have their own truck) and pick up cargo from various locations and deliver it to their destination. As the game progresses, it is possible for them to buy more vehicles and depots, as well as hire other drivers to work for them.
+In August 2023, SCS Software announced that it would be creating a new generation of their current game engine, Prism3D, in order to provide graphical and performance bonuses to PC players, while also preparing for the eventual release of console versions of the game.
+The game had sold over 9 million units as of March 2021, according to a press release by Renault Trucks.
+
+
+== Gameplay ==
+Euro Truck Simulator 2 is a truck driving simulator with elements of a business simulation game. Players drive articulated trucks in an open world rendition of Europe, delivering loads to a designated location in order to be compensated with money and experience points. The payload must be delivered to the destination within a given amount of time, and with the least amount of damage to the goods as possible, in order to get the most money and experience points possible. Players will have to spend money on refuelling, toll costs in certain countries, and maintenance costs if damage is incurred.
+When starting out, players choose their headquarters location in any of the game map's cities. At first, the player can only take what is known as quick jobs—these jobs involve making hired driver deliveries while employed by a delivery company, with a provided truck and all expenses (fuel, road tolls, ferry crossings) covered. As the player earns money or takes bank loans, they can eventually afford to buy themselves a truck, acquire a home garage, and start accepting better-paying jobs by using their own truck instead of being a driver for hire with equipment being provided.
+Money earned in the game can be spent on upgrading or purchasing new customizable trucks and ownable trailers, hiring non-player character drivers to take on deliveries, buying more garages and expanding them to accommodate more trucks and drivers. The skills of the drivers hired by the player also grow with experience and the player can create a huge fleet of the trucks, each with the option of having their own trailer, and drivers to drive the fleet, in turn, expanding the business across Europe.
+The player gains experience points after each delivery. A skill point is awarded after each level-up. Skill points can be used to unlock deliveries that require different ADR classes, longer distance deliveries, special cargo loads, fragile cargo loads, deliveries that are urgent and eco-driving. This progression allows the player to take on better-paying jobs. The base game features 71 cities in twelve countries, over twenty types of cargo and over fifteen fictional European companies.
+The gameplay was expanded with free updates; those brought in several new features into the game, such as the Used Truck Dealer in Update 1.49.
+
+
+=== Map updates ===
+The base game features Austria, Belgium, the Czech Republic, north-eastern France, Germany, northern Italy, Luxembourg, Netherlands, western Poland, Bratislava in Slovakia, Switzerland, and Great Britain (the United Kingdom, excluding Northern Ireland and smaller islands).
+Part of SCS Software's recent development philosophy for Euro Truck Simulator 2, amongst releasing paid downloadable map packs, is to improve old areas of the map through free map updates. As the initial game areas were mainly ported from older SCS Software games, these older areas did not stand up to the quality of recent expansion packs. Early updates included the cities of Venice, Graz and Klagenfurt.
+Several updates were released to prepare the 'base map' for downloadable content. Update 1.26 included reworked parts of France, parts outside of the Vive la France! DLC. Update 1.30 prepared existing Italian areas for the Italia DLC. Update 1.48.5 included the addition of Trieste and reworked the cities of Ancona and Bari to better prepare the game for the West Balkans DLC release.
+Germany was rebuilt in stages with Travemünde being added in version 1.33, with overall improvements visible in versions 1.32, 1.35, 1.40 with Hannover rebuilt in 1.45. Several French cities received free updates. Update 1.45 of the game added the German town of Werlte as part of the Krone Trailer Pack DLC, which features Krone's headquarters and main factory. Update 1.48 added new reworked roads and cities in the northern part of Germany, including updated cities of Travemünde, Rostock, Kiel and Hamburg, with the addition of Winsen as a new town.
+Update 1.37 brought changes to French cities of Dijon, Metz, Strasbourg and Reims, with a reskin of Lille arriving in version 1.38, a rebuild of Calais in version 1.39, and the rebuild of Lyon in version 1.43.
+An overhaul of Austria was released as part of the version 1.44 update in May 2022. 
+Two years later, an overhaul of Switzerland along with the Rhine Region (Cologne, Düsseldorf, Dortmund and Duisburg) in the western part in Germany and debut of the Scania Demo Centre in Södertälje in Sweden was released as part of the version 1.50 update in May 2024.
+The final rebuild of Germany (which also includes Berlin) was completely rebuilt as part of the version 1.53 in November 2024, marking the completion of a base country.
+
+
+== Downloadable content ==
+SCS Software has released several other minor expansion packs. Euro Truck Simulator 2 can be enhanced with several paint job packs for trucks, ranging from seasonal repaints to nation-themed repaints.
+Other expansion packs expand the game with licensed content from real-life manufacturers: Feldbinder Trailer Pack, Krone Trailer Pack, Schwarzmüller Trailer Pack, Wielton Trailer Pack, Tirsan Trailer Pack, with additional tire, wheel and truck parts modifications from Goodyear, HS-Schoch and Michelin.
+In addition, special tuning packs are available for each truck manufacturer besides Iveco and MAN. These packs add more tuning options, ranging from bull bars to branded mugs to all trucks of the selected brand, except for the Renault tuning pack, which only features new tuning parts for the Renault Range T truck.
+There are several expansion packs that expand the functionality of the game, including Cabin Accessories DLC (which allows players to personalize their truck interiors), and two DLCs that allow transport of heavy cargo: the Heavy Cargo DLC and the Special Transport DLC. With the Special Transport DLC, players take on special jobs during which they cannot make stops at rest areas, gas stations or deviate away from escort vehicles. The immense size and weight of the cargo within this DLC necessitates extra care and attention, however most of these cargos are mainly transported between one city and the next.
+
+
+== Reception ==
+
+The game was generally well received by critics, holding a score of 79/100 on Metacritic, indicating "generally favorable reviews".
+In a review for Destructoid, James Stephanie Sterling praised the game's accessibility, noting how easy the GPS and map features were to use, as well as the option to stream European internet radio, and the multitude of control options available. They also praised the graphics, stating that "[f]rom the shape of the traffic lights to the atmosphere of the backdrops, there's a sense of individuality to each new territory you uncover, and the trucks themselves are lovingly recreated with an intricate level of detail", although they did criticise the AI of the other vehicles on the road.
+In a similarly favourable review, Tim Stone of PC Gamer called it "unexpectedly engrossing", praising the size of the map and the variation of the roads and scenery available. He did however have reservations about the accuracy of the surroundings, commenting "no one seems to have told SCS's countryside crafters that rural Britain features long green things called hedges. Cities are often depicted with the shortest of visual shorthand – a few warehouses, the odd landmark if you're lucky."
+Rock, Paper, Shotgun listed Euro Truck Simulator 2 ninth on their list of "The 25 Best Simulation Games Ever Made". In 2012, PC Gamer awarded the game with the accolade of "The Sim of The Year 2012".
+As of December 2024, Euro Truck Simulator 2 was ranked 8th on the list of the highest-rated Steam games.
+
+
+=== Ports ===
+Initially released for Windows and available for purchase and download via SCS's own website, the game was added to Steam in January 2013. Expanding beyond the Windows version, SCS announced in March 2013 that they were developing a Mac version of the game. One month later, they released a Linux beta version of the game to the public through Steam. On 27 February, they stated "the Mac OS port of ETS 2 is taking longer than anybody would like, but trust us, we are still working hard on it."
+On 19 December 2014, SCS Software announced on their blog that the OS X version of the game was ready for a public beta available on Steam. On 21 January 2015, a 64-bit version of Euro Truck Simulator 2 was released, which allows for more memory to be used by the game.
+
+
+=== Multiplayer modification ===
+Modification TruckersMP (formerly ETS2MP) added multiplayer to the game in 2013. A volunteer radio station TruckersFM about the modification was set up in 2015. SCS Software added multiplayer as an official feature in 2021.
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Bibliography ===
+Leino, Olli Tapio (2017), Chaos at the Europoort: Performance, Empathy and Materiality in Euro Truck Simulator 2 (PDF), Kraków: The Philosophy of Computer Games Conference
+
+
+== External links ==
+Official website

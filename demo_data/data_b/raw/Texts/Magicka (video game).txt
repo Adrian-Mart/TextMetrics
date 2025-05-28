@@ -1,0 +1,96 @@
+Magicka is an action-adventure game developed by Arrowhead Game Studios. It was released via Steam for Microsoft Windows on January 25, 2011.
+Magicka is based on Norse mythology. Up to four mages of a sacred order travel to fight against an evil sorcerer and his creations. The game world is based loosely on Norse mythology, drawing inspiration from other fantasy games like Warhammer and Diablo. In expansions, the game also explores the Vietnam War.
+
+
+== Gameplay ==
+
+Magicka is an action-adventure game played in a 3D environment from an isometric perspective. It can be played in both single player or cooperative mode with up to four players.
+In contrast to the role-playing games that traditionally dominate the magic and high-fantasy genres, Magicka has no character class structure. Similarly, there is no "mana bar" or energy meter that limits the use of special abilities, and players are able to access a majority of the most powerful spells from the beginning of the game. Magic spells can be cast without limit, and power limitations are largely based on ability combos. The game is also exceptionally scant in its utilization of powerup items, as one of the developers' goals was to shift focus away from the acquisition of material goods, or "loot", as player motivation.
+
+
+=== Spells and elements ===
+The game contains eight base elements (water, life, shield, cold, lightning, arcane, earth and fire) which can be mixed and combined to cast spells. Up to five elements can be chained together for this purpose, but certain elements cannot be combined together due to their opposing nature (for instance, fire and cold). Additionally, two other elements can be created by mixing two base elements: steam (water and fire) and ice (water and cold); these behave like base elements, that gives players access to ten elements to cast spells from.
+
+When casting a spell composed of multiple elements, there is a set hierarchy which determines the type of the spell cast. Shields take precedence over projectiles (earth and ice), which take precedence over beams (life and arcane), which take precedence over steam, which takes precedence over lightning, which takes precedence over sprays (water, fire and cold). For example, a spell consisting of pure fire would be a spray of flame. A spell of fire and earth would be a fireball projectile. A spell of fire and arcane would create a flaming beam. A spell of fire, arcane and earth would create a flaming, arcane rock projectile. A spell of fire, arcane, earth, and shield would result in a flaming arcane rock barrier. The order in which the component elements of a spell are summoned has no effect on the type or power of the spell, and does not matter, except when attempting to cast a "Magick" as opposed to a regular spell.
+Each spell can be cast in four different ways: as a ranged projectile or beam, as an area effect spell, as an enhancement in wielding the player's secondary weapon (normally a sword), or on the players' own bodies. All elements tend to cause damage, except Life, which heals (this is reversed for Undead enemies where Arcane heals them and Life damages them), and Shield, which creates barriers. This can also affect what spell is cast; for instance casting shield and arcane as an area of effect will create a circle of arcane mines around the caster; however, casting it on oneself will instead cause the caster to have an arcane invulnerability aura.
+To cast a spell, the player first sequentially presses the associated buttons for the desired elements in order to "gather" them, which show up as icons on the screen as they are pressed. The player then chooses one of the four ways to cast the spell using different mouse buttons.
+A physics system is included within the game; explosions can send players and monsters flying across the screen, and wizards can use spray spells to push or knock back targets.
+
+
+=== Magicks ===
+Special spells called "Magicks" require specific combinations and produce unique effects. They also require the acquisition of the corresponding Spellbook in order to become available to the player. Spellbooks are placed throughout the campaign levels, but are also dropped by "Sapient Pearwood Luggage" (a low level enemy that resembles a chest) in Challenge and Versus (PvP) modes. Examples include "Haste", which temporarily allows the player to move faster, "Teleport", which instantaneously transports the player to a location of his or her choice, and "Time Warp", which slows down time.
+To cast a Magick, the player must "follow the recipe" by conjuring the appropriate elements of the Magick in the correct order.
+
+
+=== Items ===
+Though not the primary method of combat, players will always have a weapon in their right hand and a staff in their left. Weapons vary from regular swords with no special effects, to a magical mace that sets enemies ablaze with fire, to an M60 machine gun. Staves usually have some magical effect which can either be passive "always-on" abilities (such as an aura that heals nearby players) or active abilities which have a cooldown time and are used by clicking the Middle Mouse Button.
+
+
+== Development ==
+The team that developed Magicka consisted of eight full-time developers and four contractors. It took twenty-four months to complete and was made on a budget of around $400,000. The game was developed by eight students at Luleå University of Technology in Skellefteå, Sweden.
+
+
+== Plot ==
+
+
+=== Setting ===
+The game is set in Midgård, a fictional land which is loosely based around Norse mythology. Castle Aldrheim is the home of the Order of Magick which trains wizards.
+In the past Grimnir was a powerful wizard of the Order of Magick who wished to harness the power of all magick in order to help the Order bring about peace and prosperity to Midgård. However, his ambition and lust for knowledge scared the other wizards and so the Order banished Grimnir and his followers and imprisoned the powerful wizard at World's End.
+
+
+=== Main story ===
+One to four wizards from Castle Aldrheim (the players) are sent by their teacher, Vlad, to protect the city of Havindir from an increasing number of orc attacks who have all united under the leadership of a warlord named Khan. The Order throw the departing wizards a good bye party but during it they are accidentally dropped into the dungeon and have to find their way out, this acts as the game tutorial.
+En route the wizards must save the village of Veiditorp by killing Jormungandr, a giant serpent. The wizards then hijack a goblin airship which after a short flight crash lands near the town of Dunderhaed. The town is being raided by beastman under the command of a chieften named Jotunn. The wizards must defeat Jotunn and his beastman in order to hitch a wagon ride to Havindir.
+The wizards make it to Havindir and protect the city from the orc siege. They then proceed to the Khans Stronghold and kill the Khan. During this they learn that Grimnir is actually the force behind the orc attacks as he is seeking revenge for his banishment.
+The wizards make their way to World's End and confront Grimnir. Vlad hangs back to act as a rear guard as the wizards go on to face Grimnir only to find out that he is being manipulated by a powerful deamon called Assatur who resides in the ethereal realm. Grimnir cannot be beaten as Assatur constantly heals him. The only way to slay Assatur is to use a special magick to bring the deamon into the corporeal world. The wizards do not know the spell and so Vlad sends them back in time to learn the spell from the wizard Fafnir who has transformed into a dragon.
+Future Vlad now acts as a ghostly guide as he sends the wizards to find someone called the Count in the Myrkur Swamps who will know of Fafnirs whereabouts. To get to the Swamps the wizards must travel through the goblin infested Járn Mines. Once the goblins are defeated and the mines cleared the wizards enter the swamp to find it full of undead creatures.
+Fighting their way to the Count's Castle the wizards find the Count who reveals himself to be Vlad. This Vlad also reveals himself to be a vampire and fights the wizards who he believes to be 'imposters' as at this point in time the original wizards are defending Havindir. The wizards lack social skills and so cannot explain the situation and the fact they have been sent back in time and are forced to fight Vlad until they lose and are sent to Niflheim, the home of the dead. The wizards have to find Death and defeat him in a fight in order to get passage back to Midgård. Death knows of Fafnirs location and sends the wizards to the Galdrhöll Mountains.
+In the mountains the wizards must defeat a Dwarven army before they come across Fafnirs' lair. Fafnir believes the wizards have come to steal his treasure and fights them until Future Vlad arrives to tell him they are here to learn the magick to defeat Assatur. Fafnir teaches them the magick and transports them back to World's End in the present.
+The wizards go to fight Grimir but find Vlad who hung back to protect the rear in the first battle against Grimnir and who fights them again believing them to be 'imposters' as the original wizards are currently battling Grimnir. The wizards defeat Vlad who then rushes to send the original wizards back in time just as the wizards arrive. Grimnir is confused and Vlad finally understands that the 'imposters' are actually the wizards he just sent back in time.
+The wizards fight Grimnir and this time when Assatur appears to heal him Vlad gives the signal and the wizards cast the  magick they learned from Fafnir and draw Assatur into Midgård. Assatur kills Grimnir and then fights the wizards.
+
+
+== Release ==
+The game's first expansion is Magicka: Vietnam, a short themed co-op campaign and a single challenge map which was released on April 12 on Steam, GamersGate and other digital distribution channels. The expansion takes its artistic liberty further by setting the background in the Vietnam War and fighting Vietcong-themed enemies, with weapons in that era. Players also have access to a new napalm magick, which takes the form of an airstrike.
+Magicka: Marshlands, released April 26, 2011. The expansion pack adds a new challenge location; a haunted marsh involving waves of undead.
+Magicka: Caverns, released alongside Magicka: Marshlands as a free update adds a new challenge location; a cavern where the players fight waves of goblins, trolls, dwarves and beholders.
+Magicka: Nippon adds a kimono robe, a katana and a bamboo staff. For a limited time 50% of the revenue from Magicka: Nippon sales goes towards the Japanese Relief effort.
+A PvP (Player vs. Player) mode was released on June 21 allowing players to fight against each other 1v1 and 2v2 matches. Several new maps specifically for the PVP mode were also released, some for free and others as paid DLC.
+As of November 2011, many new maps and new player models (new robes) have been released—some paid and others for free including a robe referencing the buggy state of the game at launch (Patched Robe with Bugged Staff, and the Crash To Desktop magick) and more referencing Warhammer 40,000 and Star Trek among others. In addition, on November 16 a large technology update was released for the game which updated the engine and graphics, fixed bugs, and added a Fairy Familiar to revive players who are playing through the adventure mode solo.
+On October 27, 2011, Magicka: The Stars are Left was announced as the game's second expansion—this time much larger and including an all new story/adventure mode. The expansion has a Lovecraftian, Cthulhu theme and includes two robes, two bosses, seven enemies and more items and magicks. The expansion was originally intended to be called "The Stars are Right"; however, due to a last minute discovery that the copyright for that name was already held by another game, the name of the expansion was changed 12 hours before the announcement.
+An expansion, titled Magicka: The Other Side of the Coin, was released on June 14, 2012.
+On October 12, 2012, Magicka: Dungeons & Daemons was released. It takes place in the labyrinthine halls underneath Castle Aldrheim, and features a new dungeon-based tale available in either single-player or co-op modes, with new monsters and obstacles, as well as a secret hard mode.
+On October 29, 2012, a small expansion titled Magicka: Grimnir's Laboratory was released. It adds three new robes (based on various fictional Doctors) to the game, as well at the titular laboratory as an Arena map. This new arena map has a special feature which locks certain elements from being used by the player at any given time.
+
+
+=== Spinoffs ===
+A follow-up game for iOS and Android called Magicka: Wizards of the Square Tablet was developed by Ludosity Interactive and released by Paradox Interactive on March 28, 2013. The game had a Metacritic rating of 88% based on 9 critic reviews. In October 2018, the game was pulled from sale and support for it ceased in December due to it being incompatible with the General Data Protection Regulation.
+A novel written by Dan McGirt and published by Paradox Interactive called Magicka: The Ninth Element was released on November 7, 2013.
+Magicka: Wizard Wars was a free-to-play multiplayer online battle arena game developed by Paradox North and released by Paradox Interactive on May 27, 2014. It was closed July 21, 2016 due to a small player base and the large cost of running the servers.
+
+
+== Reception ==
+
+An early incomplete version of Magicka was named Game of the Year 08 at the Swedish Game Awards 2008.
+
+On release, the game suffered criticism for its many bugs, crashes and glitches along with lag and connectivity issues with their multiplayer servers, which forced the developers to release a number of patches to try and address these issues.
+Magicka received "mixed or average" reviews, according to review aggregator Metacritic.
+Eurogamer gave the game 8/10. 
+PC Gamer gave the game a 69/100.
+As of January 2012, the game has sold 1.3 million copies worldwide; over 4 million expansion packs have been sold, with Magicka: Vietnam having reached over 500,000 sales.
+
+
+=== Sales ===
+It sold over 200,000 copies in its first 17 days on sale. It had sold 1.3 million copies and 4 million DLC packs as of January 2012, making it one of the most successful games published by Paradox Interactive and was credited with a 250% rise in profits for Paradox during 2012. As of June 2014, it has sold 2.8 million copies on Steam.
+
+
+== Sequel ==
+A sequel, Magicka 2, was announced on June 9, 2014. It was developed by Pieces Interactive, the developers of some of the downloadable content for the original game, and was released in May 2015.
+
+
+== References ==
+
+
+== External links ==
+Official website
+Game entry at developer Paradox website

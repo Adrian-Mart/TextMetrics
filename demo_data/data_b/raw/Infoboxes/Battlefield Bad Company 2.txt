@@ -1,0 +1,82 @@
+Battlefield: Bad Company 2
+Developer(s)
+DICE
+[
+a
+]
+Publisher(s)
+Electronic Arts
+Producer(s)
+Patrick Bach 
+ Djörn Johnsson 
+ John Hargelid 
+ Anders Gyllenberg
+Designer(s)
+David Goldfarb 
+ Alan Kertz
+Programmer(s)
+Vidar Nygren 
+ Mikael Kalms
+Artist(s)
+Gustav Tilleby
+Writer(s)
+David Goldfarb
+Composer(s)
+Mikael Karlsson
+[
+6
+]
+Joel Eriksson
+[
+7
+]
+Series
+Battlefield
+Engine
+Frostbite 1.5
+[
+8
+]
+[
+9
+]
+Platform(s)
+Windows
+PlayStation 3
+Xbox 360
+iOS
+Android
+Kindle Fire
+Release
+NA
+:
+ March 2, 2010
+[
+1
+]
+AU
+:
+ March 4, 2010
+[
+2
+]
+[
+3
+]
+[
+4
+]
+EU
+:
+ March 5, 2010
+[
+1
+]
+Genre(s)
+First-person shooter
+, 
+tactical shooter
+Mode(s)
+Single-player
+, 
+multiplayer

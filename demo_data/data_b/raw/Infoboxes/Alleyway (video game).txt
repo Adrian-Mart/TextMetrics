@@ -1,0 +1,47 @@
+Alleyway
+European box art
+Developer(s)
+Nintendo R&D1
+[
+4
+]
+Intelligent Systems
+[
+5
+]
+Publisher(s)
+Nintendo
+Designer(s)
+Gunpei Yokoi
+Composer(s)
+Kenji Yamamoto
+[
+6
+]
+Platform(s)
+Game Boy
+Release
+JP
+:
+ April 21, 1989
+[
+2
+]
+NA
+:
+ July 31, 1989
+[
+1
+]
+EU
+:
+ September 28, 1990
+[
+3
+]
+Genre(s)
+Action
+Breakout
+ clone
+Mode(s)
+Single-player

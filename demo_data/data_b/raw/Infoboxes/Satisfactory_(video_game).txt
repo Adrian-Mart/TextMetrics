@@ -1,0 +1,25 @@
+Satisfactory
+Developer(s)
+Coffee Stain Studios
+Publisher(s)
+Coffee Stain Publishing
+Engine
+Unreal Engine 5
+[
+1
+]
+[
+a
+]
+Platform(s)
+Windows
+Release
+10 September 2024
+Genre(s)
+Factory simulation
+, 
+Sandbox
+Mode(s)
+Single-player
+, 
+multiplayer

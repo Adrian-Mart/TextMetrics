@@ -1,0 +1,38 @@
+POD (POD: Planet of Death in Germany) is a futuristic racing video game for Microsoft Windows released by Ubi Soft in 1997.
+
+
+== Plot ==
+Set in the distant future where humanity has successfully colonized one of Jupiter's moons, Io. After years of prosperity, a mining accident unleashes a deadly fungus from within the mining facility, causing widespread destruction and panic throughout the colony. Desperate, most of Io's population escapes the now-termed "p.o.d." (planet of death) while a few survivors remain, voluntarily or otherwise. With only one ship remaining, the survivors soup up cars, which they use to race each other in tournaments throughout the desolated city streets, and the winner of the final tournament will commandeer the last ship and escape to safety, leaving the others to die.
+As the player (and narrator) wins the final race on the "HQ" circuit, the creeping fungus nearly engulfs the remaining portion of land where the platform with the last ship still stands. Ditching the vehicle, he successfully take off with the ship before the mold consumes the launch pad. As the last person to leave the "p.o.d.", the player witnesses Io's final stage of destruction: being reborn as a giant flower in outer space.
+
+
+== History ==
+POD was influenced by games such as Super Mario Kart and Ridge Racer. It was published in 1997. It was one of the first games to support the MMX instruction set and came bundled as an OEM version with computers using Intel Pentium or Pentium II MMX processors, and some AMD K6 systems. The OEM 1.0 version did not support 3dfx cards or a network mode. A retail version of POD (called POD 2.0 by Ubisoft) was later released and featured more circuits and cars, plus support for 3dfx video cards and network play. A special multiplayer program called "Game Service" was provided by Ubisoft for POD players so that they could race on Ubisoft servers. POD was among the first games optimized for video cards with a 3dfx chipset using the Glide API. Only video cards with the 3dfx Voodoo 1 chipset were supported upon the game's release. Ubisoft later published patches, which added support for the Voodoo 2 using the Glide API and non-3dfx chipsets via Direct3D. Less than a year after publishing POD, Ubisoft issued an expansion pack under the title Back to Hell (also known as Extended Time in France) in late 1997. This pack contained 19 circuits and 15 new vehicles, including motorcycles, a floating purple batlike creature, and a witch riding a broom. Another version called POD: Gold was later released, which included POD, its expansion, plus a new sound set.
+A port of POD for the Nintendo 64 was announced, but never released.
+In the winter of 2000, Ubisoft released the game's successor, POD 2 (also known as POD 2: Multiplayer Online and POD: Speedzone), for the Sega Dreamcast console. It is another futuristic racing game, but players are able to attack their opponents. Each player is a miner on the colony of Damethra, and an alien virus has taken over the cars on the colony, creating mutant cars. It was one of the first games playable on SegaNet and one of the few games to support the Dreamcast Broadband Adaptor. The game features eight vehicles to use on five tracks. Bonus cars and tracks could be unlocked if the game was played online and the user had a Game Service account, but due to the shutdown of SegaNet, these are now inaccessible.
+On October 6, 2011, POD was re-released by GOG.com, with added compatibility with modern operating systems.
+
+
+== Reception ==
+
+Next Generation rated it three stars out of five, and stated that "Pod is a fantastic ride, with high-color graphics at high resolution and a steady, high frame rate. It could very well be the prettiest racing game you can buy right now."
+The game sold 3 million copies.
+
+
+=== Reviews ===
+Electric Games (1997)
+PC Multimedia & Entertainment (Apr 11, 1997)
+Coming Soon Magazine (May, 1997)
+Game-Over! (Jun 07, 1997)
+Gamezilla (1997)
+World Village (Gamer's Zone) (1997)
+
+
+== References ==
+
+
+== External links ==
+POD at MobyGames
+Holger's POD Info Archived 2009-03-03 at the Wayback Machine - Page with info and installation tips for Windows XP
+PODPhreaks, a useful website about the game. It contains a lot of downloads.
+nelsonspbr's POD, with information, videos, tips and tricks about the game.

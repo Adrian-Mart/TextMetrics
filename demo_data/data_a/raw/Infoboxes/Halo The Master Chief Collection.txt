@@ -1,0 +1,36 @@
+Halo: The Master Chief Collection
+Developer(s)
+343 Industries
+[
+a
+]
+Publisher(s)
+Xbox Game Studios
+Series
+Halo
+Engine
+Saber3D Engine
+[
+b
+]
+Unreal Engine 4
+[
+c
+]
+Platform(s)
+Xbox One
+[
+d
+]
+Windows
+Release
+Xbox One
+November 11, 2014
+Windows
+December 3, 2019
+Genre(s)
+First-person shooter
+Mode(s)
+Single-player
+, 
+multiplayer

@@ -1,0 +1,35 @@
+Pokémon Pinball is a pinball-based Pokémon spin-off video game for the Game Boy Color. It was released in Japan on April 14, 1999, and in North America on June 29, 1999. In it, the ball is a Poké Ball, and most of the objects on the table are Pokémon-related.
+Like any pinball game, the main objective is to get points, using the different modes of advances to score them at a higher rate. Pokémon Pinball has a secondary objective hinted at by the tagline "Gotta Catch 'em All," which is to collect all 151 Pokémon to fill your Pokédex. The Pokédex is saved between individual games, so it can be built up over time.
+
+
+== Gameplay ==
+There are two tables in the game: Red and Blue. Each table has its own details and gameplay elements.
+Each table has different playable "locations", which determine which Pokémon are available for capture. A subset of available locations are displayed slot-machine style in the beginning of a game, and pressing A will select a starting location and launch the first ball into play. After that, each table has its own mechanism for advancing to the next location, including the locations not available at the start of the game.
+"Catch Mode," when activated, starts a 2-minute window of opportunity where the player can attempt to capture a Pokémon. Once you activate "catch mode," the player must hit the pop bumpers 6 times. Each hit unlocks 1/6 of an image of the Pokémon currently available for capture. Once the image is complete, the Pokémon  appears on the table, where it must be hit 4 times with the ball to be captured.
+"Evolution Mode," when activated, starts a 2-minute window of opportunity in which the player selects a captured Pokémon (from the current game in progress only) and attempts to evolve it into another form. This is the only way to add the evolved form to the player's Pokédex. Once you select a Pokémon, the player must hit targets on the playfield. There are up to 7 targets on the red board, 6 on the blue board, but only 3 of them have items in them needed to evolve a Pokémon, with the others creating a time-wasting sequence before the player can hit targets again. If the player hits a target with an item, the item appears on the playfield and must be collected with the ball. Once the player has collected 3 items, the hole in the center of the board opens up. Sinking the ball in the hole successfully evolves the Pokémon.
+
+
+== Release ==
+Pokémon Pinball was announced in the March 1999 issue of The 64Dream and was first released in Japan on April 14, 1999.
+
+
+== Reception ==
+Pokémon Pinball received generally positive reviews, holding an aggregate score of 81.73% at GameRankings. GameSpot gave it a score of 8.7, citing its use of the Game Boy Color's display and presentation. However, they also criticized the game, lamenting the lack of other pinball-related elements and the game's poor physics. They additionally criticized the built-in rumble feature, calling it "a waste [...] of an AAA battery" and a "nice novelty". San Jose Mercury News praised its rumble, however, noting that it "won them over". Los Angeles Times editor Aaron Curtiss called it a "great game". CNET called it "more than a shameless cash-in on the Pokémon phenomenon", calling it one of the best pinball games for the Game Boy Color. However, they criticized the "gratuitous Pikachu appearances" and the "incorrect physics" as detracting somewhat from the pinball experience. The New York Times editor Joe Hutsko called the rumble mechanic as innovative, stating that it will likely lead to more games that use rumble from other developers. GamesRadar listed Pokémon Pinball as one of the titles they want in the 3DS Virtual Console.
+In Japan, Famitsu magazine scored the game a 32 out of 40.
+Pokémon Pinball received a "Gold" sales award from the Entertainment and Leisure Software Publishers Association (ELSPA), indicating sales of at least 200,000 copies in the United Kingdom.
+
+
+=== Sequel ===
+
+Pokémon Pinball: Ruby & Sapphire is a pinball game based on Pokémon Ruby and Sapphire, and is the sequel to Pokémon Pinball for the third generation of Pokémon games. It was developed by Jupiter and published by Nintendo for the Game Boy Advance handheld game console. It was first revealed at E3 in 2003, and was released in the same year – on August 1, August 25, and November 14 in Japan, North America, and PAL regions respectively. The North American release was done to coincide with the fifth anniversary of the North American release of Pokémon Red and Blue. In some ways, it plays like a traditional pinball game, where the objective is to get a high score by keeping the ball going as long as possible and completing objectives. It features Pokémon collection, where while the players play pinball, they must also capture Pokémon.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+Official Nintendo Pokémon Pinball page

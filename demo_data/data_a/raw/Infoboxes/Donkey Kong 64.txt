@@ -1,0 +1,47 @@
+Donkey Kong 64
+North American box art
+Developer(s)
+Rare
+Publisher(s)
+Nintendo
+Director(s)
+George Andreas
+Producer(s)
+Shigeru Miyamoto
+Programmer(s)
+Chris Sutherland
+[
+3
+]
+Artist(s)
+Mark Stevenson
+Composer(s)
+Grant Kirkhope
+Series
+Donkey Kong
+Platform(s)
+Nintendo 64
+Release
+NA
+:
+ November 22, 1999
+[
+2
+]
+PAL
+:
+ December 6, 1999
+[
+1
+]
+JP
+:
+ December 10, 1999
+Genre(s)
+Platform
+, 
+action-adventure
+Mode(s)
+Single-player
+, 
+multiplayer

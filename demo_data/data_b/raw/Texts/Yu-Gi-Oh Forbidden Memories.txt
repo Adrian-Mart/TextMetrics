@@ -1,0 +1,76 @@
+Yu-Gi-Oh! Forbidden Memories, known in Japan as Yu-Gi-Oh! Shin Duel Monsters (遊戯王真デュエルモンスターズ封印されし記憶), is a video game loosely based on the Yu-Gi-Oh! manga and anime series. The game was released exclusively for the PlayStation console in December 1999 in Japan and in 2002 in other regions.
+The storyline of Forbidden Memories takes on a dual setting in Ancient Egypt and current-day Domino City. The players play the Yu-Gi-Oh! Trading Card Game alongside characters that appear in the series.
+
+
+== Characters ==
+Throughout most of the game, the protagonist is Atem, the Prince of Ancient Egypt. After the high priest Heishin overthrows the Pharaoh, Atem sets out to free Egypt from Heishin's rule. It is later revealed that Heishin seeks to usher the return of Nitemare, an ancient evil wizard.
+Part of the game takes place in modern times. For this part, the protagonist is Yugi Mutou. He is taking part in a tournament when he is tasked by Atem with retrieving relics that the Prince needs to complete his quest, which are held by some of the contestants in the tournament.
+
+
+== Plot ==
+The game begins in ancient Egypt, with Prince Atem sneaking out of the palace to see his friends, Jono and Teana, at the dueling grounds.  While there, they witness a ceremony performed by the mages, which is darker than the ceremonies that they normally perform. After the ceremony, Atem duels one of the priests, named Seto, and defeats him.
+When Atem returns to the palace, he is quickly sent to bed by Simon Muran, his tutor and advisor. As Simon walks away, he is informed by a guard that the high priest Heishin has invaded the palace, using a strange magic. Muran searches for Heishin. When Muran finds him, Heishin tells Muran that he has found the Dark Power, then uses the Millennium Rod to blast Muran. When Heishin finds Atem, he threatens to kill the Egyptian king and queen if he does not hand over the Millennium Puzzle. Muran appears behind Heishin and tells Atem to smash the puzzle. Atem obeys, and Muran seals himself and Atem inside the puzzle, to wait for someone to reassemble it.
+Five thousand years later, Yugi Mutou reassembles the puzzle. He speaks to Atem in the puzzle, and Atem gives Yugi six blank cards. Not sure what they are for, he carries them into a Dueling Tournament. After he defeats one of the duelists, one of the cards is filled with a Millennium item. Realizing what the cards are for, Yugi completes the tournament and fills all six cards with Millennium items. This allows Atem to return to his time.
+Once in his own time, Muran tells Atem of what has happened since he was sealed away. Heishin and the mages have taken control of the kingdom with the Millennium items, and that the only way to free the kingdom is to recover the items from the mages guarding them. After passing this on, Muran dies.
+After he catches up with Jono and Teana, he goes to the destroyed palace and searches it. He finds Seto, who gives him a map with the locations of the mages and the Millennium items, and asks him to defeat the mages.
+After Atem recovers all of the Millennium items but one, Seto leads him to Heishin, who holds the Millennium Rod. Atem defeats Heishin, but discovers that Seto has the Millennium Rod, and merely wanted to use Atem to gather the items in one place. Atem duels Seto for the items and defeats him, but after the duel, Heishin grabs the items and uses them to summon the DarkNite. Hoping to use the DarkNite to destroy his enemies, he doesn't have the item to prove his authority and as a result, the DarkNite instead turns Heishin into a card. Heishin now turned into a playing card, DarkNite now mocks Heishin before incinerating the card. After Atem shows that he had the Millennium Items, DarkNite challenges him to a duel. Atem defeats him, and he transforms into Nitemare, who challenges Atem again. Atem defeats him again, and Nitemare begrudgingly returns from where he came. Atem then is able to take the throne and lead his people in peace.
+
+
+== Game mechanics ==
+The mechanics of this game differ from the Yu-Gi-Oh! Trading Card Game. The main differences are:
+
+A deck must be made up of exactly forty cards.
+Summoning a monster normally (without using a Ritual Card) does not require any sort of tribute. For example, if one held a Blue-Eyes White Dragon card in their hand and wanted to summon it, one can place it on the field, rather than tribute two other monsters.
+At the start of the player's turn, he or she draws from his or her deck until his or her hand consists of five cards; if the deck does not hold enough cards for the player to draw, the player loses the duel.
+The player must play at least one card to the field after drawing.
+Cards can be "fused" in the hand without the card Polymerization; the player can fuse any amount of his or her cards together and in any order, but the chance of a "successful" fusion (where a new monster or magic or trap is made, or when a monster is strengthened) depends on the cards the player is fusing.
+After fusion, cards can only be played face-up. Traps that are played face-up are not activated until their condition is met, but those produced as a result of fusion are immediately activated (often to no effect).
+When any magic or trap card is fused with a monster that is not compatible, the magic or trap card is discarded and the monster is unaffected.
+Playing ritual cards to summon ritual monsters requires specific monsters to be on the field in order to work; for instance, "Serpent Night Dragon" is summoned by playing Revived [sic] of Serpent Night Dragon while Darkfire Dragon, Dragoness the Wicked Night and Obese Marmot of Nefariousness are in play; this differs from the rules of Ritual Spell Cards in the TCG, which simply requires tributing monster cards with combined levels equal to the Ritual Monster.
+There is no Special Summoning; fused and ritual monsters are simply considered normal summons.
+Monster cards must select one of two "Guardian Stars", which allow a monster to gain five hundred attack and defense points if it has chosen a superior alignment against its opposing card; these alignments are taken directly from cosmic bodies and are arranged as follows (> means "is superior to"):
+Mercury > Sun > Moon > Venus > Mercury
+Mars > Jupiter  > Saturn > Uranus > Pluto > Neptune > Mars
+The following example is used in the manual: "when "Gaia the Dragon Champion" (AP:2600) chooses Mercury and attacks "Blue-Eyes White Dragon" (AP:3000 and in attack position), "Gaia" has his AP increased to 3100, making it possible to defeat "Blue-Eyes White Dragon"."
+
+The Guardian Stars selected represent the type of the monster. In the 3-D battle sequence the attack the monster uses depends on the guardian star selected. For example, when you summon Meteor-Black Dragon you are given the choice of Sun or Mars. Choosing Mars will cause Meteor-Black Dragon to use a fire attack and give it an attack bonus against Jupiter (typically plant-type) monsters.
+Mercury represents monsters from the Black Magic alignment.
+Sun represents monsters from the White Magic alignment.
+Moon represents monsters from the Demon Magic alignment.
+Venus represents monsters from the Illusion Magic alignment.
+Mars represents monsters from the Fire alignment.
+Jupiter represents monsters from the Forest alignment
+Saturn represents monsters from the Wind alignment
+Uranus represents monsters from the Earth alignment
+Pluto represents monsters from the Thunder alignment
+Neptune represents monsters from the Water alignment
+During the battle phase, after attacking and before damage is calculated, pressing square will take the player to a polygonic action battle screen. However, there is no automatic select in option screen or indications on screen. So if purchased without a book, you will never know this except by accident.
+Cards that cannot be used at that time are darkened (once a monster has attacked, its card darkens.)
+Pressing start will end the player's turn.
+Cards can be played in attack or defense mode, face-up or face-down. Hence, a monster can be played in face-down attack mode. However, the card flips over after it attacks.
+
+
+== Other information ==
+The game is sold in a 2-disc PlayStation game case, yet the game is only one disc. The reason for this is because the manual for this game is much bigger than a typical PlayStation game.
+Despite what is known in the anime, Seto and Kaiba are referred to as two different people in the game, Seto being the ancient Egyptian ancestor of Kaiba.
+
+
+== Reception ==
+
+In Japan, the game sold 510,804 units. In the United States and Europe, the game sold 2 million units as of 2004. This adds up to 2,510,804 units sold worldwide.
+The game received "mixed" reviews according to video game review aggregator Metacritic.
+
+
+== Sequel ==
+The game was followed by a sequel, Yu-Gi-Oh! The Duelists of the Roses (遊戯王真デュエルモンスターズII 継承されし記憶, Yu-Gi-Oh Shin Deyueru Monsutazu Tzū Keishō Sareshi Kioku; Game King New Duel Monsters II Inherited Memories), released on September 6, 2001 in Japan and on February 16, 2003 in North America for the PlayStation 2.
+
+
+== References ==
+
+
+== Further reading ==
+Review in Scrye #52
+
+
+== External links ==
+Yu-Gi-Oh! Forbidden Memories at MobyGames

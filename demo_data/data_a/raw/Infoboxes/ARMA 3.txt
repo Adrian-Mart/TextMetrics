@@ -1,0 +1,58 @@
+Arma 3
+Developer(s)
+Bohemia Interactive
+Publisher(s)
+Bohemia Interactive
+Director(s)
+Jay Crowe
+Ivan Buchta
+Producer(s)
+Joris-Jan van't Land
+Designer(s)
+Lukáš Haládik
+	Jaroslav Kašný
+Programmer(s)
+Vojtěch Hladík
+Ondřej Martinák
+Artist(s)
+David Zapletal
+Composer(s)
+Ondřej Matějka
+Ján Dušek
+Series
+Arma
+Engine
+Real Virtuality 4
+Platform(s)
+Microsoft Windows
+,
+[
+3
+]
+ 
+Linux
+, 
+macOS
+Release
+Microsoft Windows
+WW
+:
+ September 12, 2013
+[
+1
+]
+OS X
+, 
+Linux
+WW
+:
+ August 31, 2015
+[
+2
+]
+Genre(s)
+Tactical shooter
+Mode(s)
+Single-player
+, 
+multiplayer

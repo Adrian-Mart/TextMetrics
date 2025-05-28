@@ -1,0 +1,62 @@
+Stellaris is a 4X grand strategy video game developed by Paradox Development Studio and published by Paradox Interactive. In Stellaris, players take control of an interstellar civilization on the galactic stage and are tasked with exploring, colonizing, and managing their region of the galaxy, encountering other civilizations that they can then engage in diplomacy, trade, or warfare with. A large part of the game involves dealing with both scripted and emergent events, through which new empires alter the balance of power, powerful crises threaten the galaxy, or event chains tell the story of forgotten empires. It was released worldwide for Windows, macOS, and Linux on May 9, 2016, and for PlayStation 4 and Xbox One as Stellaris: Console Edition on February 26, 2019.
+
+
+== Gameplay ==
+
+Stellaris is a real-time strategy with 4X and grand strategy elements, taking place on a map of a procedurally generated galaxy with individual star systems acting as two-dimensional tiles similar to previous Paradox releases. Players take the role of a single FTL-capable civilization, referred to as an empire, with the goal of exploring and claiming systems, colonizing habitable planets, and expanding their economy to outcompete rival civilizations progressively encountered through first contact events. The relative power of empires is evaluated on three factors - military power, technological progress, or economic power - allowing players to either specialize in a single area or maintain a balanced approach, with the ultimate goal being to either ally with or defeat every other empire in the game while surviving a number of external "crises" threatening the entire galaxy. Star systems can only be traversed via a web of faster-than-light routes called hyperlanes, while habitable planets hold populations of an empire's citizens – represented by "pops" (although this is subject to change) – and can be built up with buildings and districts that produce resources or other passive effects as long as there are enough pops to fill the available jobs.
+A large part of Stellaris's main gameplay is determined by the design of the player's empire, with templates dictating both visual and mechanical effects and the player being free to either select from developer-made pre-set empires or create their own. Players can customize the unique "traits" of their starting species, an "origin" representing the pre-FTL history of their civilization, the starting head of state, a selection of two to three "ethics" representing the core philosophy of their empire, and an "authority" and two "civics" representing the internal structure of their government and society. Ethics are chosen from a total of eight options along four mutually exclusive axes, allowing the player to either select moderate versions of three ethics or a fanatical version of one and a moderate version of another, while authorities in the base game consist of democratic, oligarchic, dictatorial, or imperial options representing the system of election for new rulers. The Utopia expansion would add a Gestalt Consciousness ethic, overriding other ethic choices and granting access to new authorities representing either a biological Hive Mind or an artificial intelligence network, as well as a large number of new civics and a megacorporation authority.
+In most cases, the player's empire begins with a single inhabited planet, several mining and/or research stations, a construction ship, a science ship, three small warships, and a starbase. Early gameplay consists of exploring and colonizing increasing swaths of space, while mid-game activities may include engaging with warfare and/or diplomacy with other empires, but can also be filled with a vast amount of micro-management. The economy of a player's empire throughout the game is primarily based on five main resources: energy credits, minerals, food, consumer goods, and alloys, each having a primary purpose to contribute to the player's economy. There are also Strategic resources that are used to make advanced buildings, weapons, defenses, and can also be used to endorse edicts. Edicts also can cost Unity which can be obtained by supporting factions within your empire or by constructing buildings that create Unity producing jobs. Advancement in Stellaris is achieved through technologies and traditions which progressively scale in cost for the player to achieve, but provide better features for the player as the game continues. Edicts are used to boost and passively upgrade empires, which can cost Strategic resources, energy, or Unity to maintain. There are also mid-game crises which can occur, such as a crusade by a marauder empire or an invasion by nanomachines from an extragalactic cluster. Later in the game, larger crisis events occur that have galaxy-wide implications—for example, an awakening of dormant sentient AI, another version of this which works more diplomatically, or an invasion by extra-dimensional or extra-galactic forces, these being either randomly chosen or selected by the player at the start of the game. Paradox hoped that this feature would address a common late-game problem in 4X style games; whereby one faction is so powerful that their eventual victory is inevitable, resulting in frustrating gameplay. In the Nemesis DLC, the player can choose to become a psionics-oriented crisis with the goal of destroying the galaxy, while in the Machine Age DLC, players can become a tech-oriented crisis (widely considered the most powerful path to use).
+Another thing found within the game (although only accessible via the Utopia or Machine Age DLCs) are ascension paths, which radically alter the player's empire. These include biological, cybernetic, psionic or synthetic. However, if the player has the Machine Age DLC, machine empires are capable of going on three separate paths (4 if they have the Driven Assimilator civic) that are inaccessible to biological empires. These are the virtual, modular, nanotech, and if the empire has the Driven Assimilator civic, cybernetic.
+Some civics within the game radically change how to play the game. For example, "genocidal" civics may not initiate diplomacy and sometimes act like early-game crises. Or the feudal civic which makes vassalization a priority.
+
+
+== Development and release ==
+Stellaris was developed by Paradox Development Studios and published by Paradox Interactive. The game uses the same Clausewitz Engine that the studio has used since Europa Universalis III in 2007 albeit with some modifications, such as the usage of physically based rendering (PBR). The game was presented at Gamescom in August 2015. Director Henrik Fahraeus describes his influences as "one third Star Control 2, one third Master of Orion 2 and one third Europa Universalis IV", to "create a strategy game with particular focus on exploration and expansion". The team also referenced Star Control II with several character concepts and personalities, including alien races who resemble birds, mushrooms, and gas clouds.
+Stellaris was released to the public on May 9, 2016. After launch, the developers confirmed that there would be a number of expansion packs, as well as free updates to address bugs and introduce new gameplay features. The updates were named after famous science fiction writers, including Stanisław Lem, Arthur C. Clarke, Isaac Asimov, Robert A. Heinlein, Iain Banks, Douglas Adams, Ray Bradbury, Karel Čapek, Pierre Boulle, C. J. Cherryh, Larry Niven, Ursula K. Le Guin, Gene Wolfe, Tanith Lee, and Mary Shelley, until 2022, when they began to take the names of constellations starting with 3.3, "Libra".
+The game is also accompanied by free patches, which may adjust existing mechanics or add new ones in the same theme as the expansions. The first major patch arrived on May 24, shortly after the game's release, featuring numerous improvements to the AI, as well as an additional playable race. The 2.0 patch (Cherryh), released in February 2018, revamps a significant amount of game mechanics, even for players who have not purchased the corresponding "Apocalypse" DLC. The 2.1 (Niven) update, released alongside the "Distant Stars" DLC in May, revamped the base game play loop and added more quality-of-life features. The 2.2 (Le Guin) update was released in December, along with the "Megacorp" DLC, and revamped how planets are organized. The 3.0 (Dick) update was released in April 2021, coinciding with the release of the "Nemesis" DLC. Minor releases have continued through 2022 with 3.5 being released September 2022.
+There have also been plenty of story packs and species packs that have been released, each adding a new in game events, origins, empire types, species, traits, civic, and ascension perks. Plantoids Species Pack dropped August 4 2016 being the first, and the latest being Astral Planes, released November 16th, 2023.
+Paradox ported the game to consoles. The PlayStation 4 and Xbox One versions of Stellaris were released on February 26, 2019, as Stellaris: Console Edition. A version of the game optimized for Xbox Series X/S released on March 25, 2021.
+
+
+=== Expansions and DLCs ===
+
+A number of DLCs have been released for the game. All are optional and may be applied to the base game in any combination. The largest DLCs come in the form of expansions, which significantly alter the mechanics and features of the game. There are also story packs (which add new events and minor mechanics) and species packs (which add new species, with accompanying audio, visuals and mechanics).
+
+
+== Reception ==
+
+
+=== Pre-release ===
+In a preview of the game at Rock, Paper, Shotgun, Adam Smith wrote that Stellaris "could be Paradox's finest hour, and a landmark in the development of both 4X and grand strategy design".
+
+
+=== Critical response ===
+Stellaris received "generally favorable" reviews, according to review aggregator Metacritic. A number of reviews emphasized the game's approachable interface and design, along with a highly immersive and almost RPG-like early game heavily influenced by the player's species design decisions, and also the novelty of the end-game crisis events. The more mixed reviews also noted that the mid-game could be less satisfying, thanks to an overly simple diplomatic system and a somewhat passive AI.
+
+
+=== Sales ===
+Less than 24 hours after release, Paradox Interactive announced that Stellaris had sold over 200,000 units, breaking the revenue record for any of Paradox Interactive's previous titles during the same time period. It almost matched the sales record currently held by Cities: Skylines. It became Paradox Development Studio's fastest selling game. On 21 June 2016, the game had sold over 500,000 units. On 12 May 2020, the publisher announced a new record for total players online, with the game's sales exceeding 3 million units.
+
+
+== Spin-offs ==
+In June 2023, a spin-off titled Stellaris: Nexus was announced. It is developed by Whatboy Games. During the early access period, the game dropped the Stellaris name and was retitled to Nexus 5X. The game is still set in the Stellaris universe. 
+Star Trek: Infinite was released on October 12, 2023 by Paradox. It was described as extremely similar to Stellaris.
+
+
+== See also ==
+
+List of grand strategy video games
+List of Paradox Interactive games
+List of PC games
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official website
+Official wiki
+Stellaris at MobyGames

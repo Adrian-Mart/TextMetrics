@@ -1,0 +1,26 @@
+Tetris 2, known in Japan as Tetris Flash, is a puzzle video game developed by Tose and published by Nintendo for the Nintendo Entertainment System. It was ported to the Game Boy in 1993 and Super Nintendo Entertainment System in 1994.
+
+
+== Gameplay ==
+As a variation of the Tetris concept, rather than having the objective of filling horizontal lines of blocks that descend from the top of the screen as tetrominos, the player matches the colors of the descending blocks (which include irregular tetromino shapes) to blocks already fixed on the game board, which causes blocks to disappear from the board when three blocks of the same color are matched, in a manner similar to the game Dr. Mario.
+
+
+== Reception ==
+
+In the United States, it was the top-selling NES and Game Boy game in January 1994, and the top Game Boy game in February. In the United Kingdom, it was the top-selling NES game for eight months in 1994, in March and then from May through summer and autumn to November. It was also the top-selling Game Boy game in August 1994.
+Electronic Gaming Monthly gave the SNES version an 8 out of 10, saying that "If you were a fan of the first one, then this one will definitely please." They particularly praised the backgrounds and the two-player mode. 
+Reviews of the NES version were more mixed. The magazine Game Players, who reviewed the NES released in February 1994, called Tetris 2 "a disappointing attempt for puzzle fans who have patiently waited for this sequel." Famitsu gave it a score of 21 out of 40. Famitsu also gave the Game Boy version a 23 out of 40 score.
+
+
+== See also ==
+List of Tetris variants
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Tetris Flash on the Famicom 40th Anniversary page (in Japanese)

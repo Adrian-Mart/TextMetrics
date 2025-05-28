@@ -1,0 +1,42 @@
+Factorio
+Developer(s)
+Wube Software
+Publisher(s)
+Wube Software
+Director(s)
+Michal Kovařík
+Tomáš Kozelek
+Albert Bertolín
+Designer(s)
+Michal Kovařík
+Artist(s)
+Albert Bertolin
+Václav Benč
+Composer(s)
+Daniel James Taylor
+Petr Wajsar
+ (
+Space Age
+ expansion)
+Platform(s)
+Linux
+macOS
+Windows
+Switch
+Release
+Linux
+, 
+macOS
+, 
+Windows
+14 August 2020
+Switch
+28 October 2022
+Genre(s)
+Construction and management simulation
+, 
+real-time strategy
+Mode(s)
+Single-player
+, 
+multiplayer

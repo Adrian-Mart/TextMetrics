@@ -1,0 +1,100 @@
+The Getaway is an action-adventure video game developed by Team Soho and published by Sony Computer Entertainment for the PlayStation 2. It was released on 11 December 2002. It is inspired by British gangster films such as Get Carter and Snatch. The game was planned to be released alongside the launch of the PlayStation 2 in 2000, but was delayed by over two years due to the difficulty of recreating large areas of London in high resolution.
+The Getaway focuses on two characters: Mark Hammond, an ex-bank robber, and Frank Carter, a police officer in service with the Flying Squad. Both plots run parallel and intersect before concluding in the finale of the game. A sequel, The Getaway: Black Monday, was released in 2004. A spin-off, Gangs of London, was released in 2006; this spawned the 2020 television adaptation of the same name and a 2022 graphic novel.
+
+
+== Gameplay ==
+The Getaway is an open world action-adventure game played from third-person view in which the player controls the two lead characters as they carry out their missions for game progression. Both of the characters can perform a series of physical tasks such as walking, sprinting, rolling, shooting, and taking cover during a gunfight. Once Mark Hammond's missions are completed, free-roaming is unlocked for his character, which allows the player to roam around the City of London and Central London without mission objectives or time limits. Due to similarities to the Grand Theft Auto series, it is often labeled as a Grand Theft Auto clone.
+The game features a number of licensed vehicles from automobile manufacturers that the player can control, unlike those seen in Grand Theft Auto, which are fictional. The majority of the vehicles in the game are made by MG Rover Group, Jensen Motors, Saab, PSA Peugeot Citroën, Fiat, and Lexus, along with a number of others. Firearms and weapons available to the player include the Glock 17 pistol, AK-47 assault rifle, Remington 870 pump-action shotgun, and Heckler & Koch MP5 submachine gun; other weapons include a meat cleaver and crowbar, among others.
+A major feature of the game is its approach to being "movie-like" and immersive, which was achieved by excluding features that are present in most games; there is no HUD or map system, players driving in a car are guided to a destination by the car's indicators and hazard lights blinking, running out of ammunition is signalled by the character dropping their weapon, health points are represented by how badly the character is bleeding and limping, and recovery to full health is done by resting against a wall.
+
+
+== Plot ==
+The game takes place in London during a single day, and is played through the perspectives of two characters: ex-convict Mark Hammond and police officer Frank Carter of the Flying Squad.
+
+
+=== Mark Hammond ===
+Mark Hammond, a former member of the Soho-based Collins Gang, witnesses the kidnapping of his son Alex and the unintentional murder of his wife Susie by the kidnappers. He pursues the kidnappers toward Bethnal Green, where he is confronted by Charlie Jolson, the head of the Bethnal Green mob. Charlie informs Mark that he is to do Charlie's bidding under the threat of Alex being killed. Mark is sent across London on increasingly dangerous tasks, such as ambushing a prisoner transport vehicle to free Charlie's nephew "Crazy" Jake Jolson and instigating a gang war between the Yardies and Triads. Due to Mark's criminal history, any possibility of police assistance is unlikely; this is exacerbated by Mark having unintentionally touched the gun that was used to shoot Susie, leading the police to believe he killed her and kidnapped Alex.
+Mark is sent on his most dangerous mission yet: the execution of corrupt Detective Chief Inspector Clive McCormack, who arrested him five years prior and who was also working for Charlie. In return for information on Alex, Mark spares his other target Yasmin, who was one of Alex's kidnappers. Expecting Charlie to betray him, Mark steals £300,000 of Yardie drug money and gives it to his close friend Liam for safekeeping. Mark's suspicions are confirmed at a cash drop-off with Jake, but he is captured before he can flee. Charlie later reveals to Mark and Yasmin that his ultimate plan is to wipe out his rivals and take over London in their absence, with Mark acting as the scapegoat.
+
+
+=== Frank Carter ===
+Detectives Frank Carter and Joe Fielding identify and arrest Jake at a safe house, though Joe is wounded in the siege. Frank follows up on the chaos instigated by Mark across London, before he is unexpectedly placed on escort duty when Jake is moved. Arriving too late to prevent Jake's escape, Frank is suspended by McCormack. Frank, having already been suspicious of McCormack, follows him to one of Charlie's depots. He discovers a hoard of seized evidence being repatriated to the Jolsons. Before Frank can clear his name, Mark executes McCormack. Frank visits the hospital where Joe is recovering, and Joe points him in the direction of another one of Charlie's warehouses, where he finds the captured Mark and Yasmin. Left with no other options for assistance, Frank frees Mark and Yasmin and convinces them to team up with him and bring the Jolsons down.
+
+
+=== Finale ===
+Mark, Yasmin, and Frank converge on the Sol Vita at St Saviour's Dock, where Charlie has taken Alex and where he intends to wipe out the rival gangs with a bomb. Following a shootout, Mark and Yasmin rescue Alex and are able to escape the ship mere moments before the bomb detonates. Frank fights his way out, leaving Charlie and several gang affiliates to die in the explosion.
+
+
+== Development ==
+The Getaway's development originated at Sony Computer Entertainment Europe on the PlayStation, off the back of Porsche Challenge. After Porsche Challenge, director Brendan McNamara felt that a free-roaming vehicle game was an interesting concept worth exploring. The title was prototyped and playable missions were made; several screenshots appeared in the Official U.S. PlayStation Magazine. The project evolved into a PlayStation 2 game. The original code was kept and there was a discussion of including it on the finished version of The Getaway, which would ultimately not happen. The original version has not been released.
+Bizarre Creations received attention due to their successful result in reproducing the streets of central London for their Sega Dreamcast racer Metropolis Street Racer (MSR). As MSR was being hyped and primed for release as one of the Dreamcast's so-called "killer applications", Sony Computer Entertainment Europe felt compelled to attempt to steal Sega's thunder by promising the creation of a PlayStation 2 title which would re-create a massive 113 square kilometers (70 square miles) of London, displaying the ferocity with which Sony Computer Entertainment Europe was willing to attempt to challenge its veteran competitor. In moving over to vastly more capable hardware, the scope of the title expanded, as did its ambitions; the unit at Sony was formally spun off as an independent unit named Team Soho. The final creation actually only yielded an area of 16 square kilometers (10 square miles).
+Re-creating 16 square kilometers proved a daunting task and a technical nightmare, factors which may have delayed the release of The Getaway by several years. In the case of the latter, the programmers had to perfect an engine that could constantly stream three-dimensional geometry and texture data; of the areas of London the player was in close proximity to. At no point was the city loaded into memory, as it simply would not fit. Unlike Rockstar Games's Grand Theft Auto III, it was not an acceptable option for the Team Soho developers to break the city up into separate regions and impose a loading time delay when crossing between areas.
+The hype surrounding the project began in earnest just before E3 2000, when a series of screenshots were published online. They revealed a level of detail, showing the identifiable streets near Team Soho's studio. Though it has been argued that these shots were actually mock-up pre-renders, it is possible they were taken from actual code that received further detailed vehicle and character models, higher resolution textures and also anti-aliased the final output.
+Although the prototype game was shown behind closed doors, the public was not privy to its results for at least another year. It was made playable at E3 2002. By then, the project had ballooned, exceeding its development budget many times over. Sony Computer Entertainment Europe had a range of other titles in development; however, the decision was taken by Phil Harrison to can many of them, perhaps to allow yet more funds to be poured into The Getaway.  As a result of this, the axe was to fall on two of its studios, Sony Computer Entertainment Europe Manchester and Sony Computer Entertainment Europe Leeds.
+When the game was launched in December 2002 it was a huge seller across Europe, especially in the United Kingdom. Worldwide and particularly in the United States, the game received mixed reviews and sales. The fact that it was released around the same time as the hugely-popular Grand Theft Auto: Vice City (to which the game was often compared) also hurt sales, despite a large marketing campaign in the United States.
+The game had a marketing budget of $10.3 million.
+
+
+=== Soundtrack ===
+The game's soundtrack is complemented by a title song and cutscene soundtrack, performed by the London Philharmonic Orchestra. The game's soundtrack was chiefly composed by Andrew Hale, while portions of the soundtrack were written by Shawn Lee.
+
+
+== Censorship ==
+One alteration that Team Soho had to make was the removal of a vehicle and phone box logos which appeared in the initial release of the game. During one of Hammond's missions, a British Telecommunications (BT) van is used in a mission in which Hammond must kill the driver and take the van to assassinate a corrupt police officer. BT complained that it "did not want [its] name and livery associated with the violent scenes" in the game, and was worried that it "might incite attacks on [its] engineers". Although the initial release of the game was not recalled, subsequent production was amended to remove the offending details.
+
+
+=== Ban in Australia ===
+Originally passed with an MA 15+ rating for the uncut version on 22 November 2002, it was resubmitted and banned 5 days later due to a scene of detailed torture. A censored version, omitting this scene, was released on 13 December the same year, with the identical rating.
+
+
+== Reception ==
+
+The Getaway received "average" reviews according to video game review aggregator Metacritic.
+Maxim gave the game a score of eight out of ten and wrote: "If the ensuing police brutality doesn't mold you into the model Wheelman, then having to endure those whiny English cop sirens surely will". FHM gave it a score of four stars out of five and said: "Not just a little similar to GTA III in look, feel, and gameplay, it's nonetheless worth sleeping in front of the game store for this one". The Cincinnati Enquirer gave the game a score of three-and-a-half stars out of five, saying that "the biggest hindrance in The Getaway involves its user interface - or lack thereof - as the development team attempted to make the game look and play out like a movie". Entertainment Weekly was very negative of the game, giving it a D and stating: "The level of detail is extraordinary; even the facial expressions are motion captured. But the slickest graphic presentation can't cover for Getaway's flawed script. [...] In a game infused with more humor and less pretentious aspirations, these flaws would be more forgivable".
+Sales of The Getaway reached 300,000 copies within two weeks of the game's release. It received a "Double Platinum" sales award from the Entertainment and Leisure Software Publishers Association (ELSPA), indicating sales of at least 600,000 copies in the United Kingdom. By July 2006, The Getaway had sold 1 million copies and earned $36 million in the United States. Next Generation ranked it as the 53rd highest-selling game launched for the PlayStation 2, Xbox, or GameCube between January 2000 and July 2006 in that country. According to Mike Rouse, a former Sony developer who worked on The Getaway, it sold almost 4 million copies in total.
+During the 7th Annual Interactive Achievement Awards, the Academy of Interactive Arts & Sciences nominated The Getaway for "Outstanding Achievement in Character Performance - Female" for Anna Edwards' vocal performance as Yasmin. 
+In a retrospective article from 2014, Den of Geek made the game number 23 in their top 50 underappreciated PlayStation 2 games list. In 2020, Push Square included the game and its sequel in a list of games they would like to see released on the PlayStation 4.
+
+
+== Franchise ==
+
+
+=== The Getaway: Black Monday (2004) ===
+
+The Getaway: Black Monday is the second game in the series and was again developed for the PlayStation 2 in 2004. The game's story is based on such films as The Long Good Friday and Lock, Stock and Two Smoking Barrels.
+
+
+=== Gangs of London (2006) ===
+
+Gangs of London is the third game in the series and was again developed for the PlayStation Portable in 2006. A spin-off, the game's story follows five different gangs in London, with different ethnicities and outfits, as they battle for control of the city.
+
+
+=== Development of The Getaway 3 ===
+The Getaway 3 was to be the fourth installment of Sony's The Getaway series for the PlayStation 3 console and the third main installment in the franchise. The title was reported as cancelled on 4 June 2008, along with Eight Days. In October 2009, the games were reported as not being cancelled, but "on hold".
+A technical demo featuring Piccadilly Circus was demonstrated in May 2005 at E3, but this was not directly from the game. It was confirmed that the game would again be set in London.
+Information regarding The Getaway 3 was released on 7 March 2008 by screenplay writer Katie Ellwood, who affirmed the action title was still in the works. No estimated release date was given, but Ellwood did say that Sony executives were making deals with film companies about the possibility of a future film adaptation of The Getaway 3.
+Nicolas Doucet said: "I would not say they have been abandoned, just put to one side. Much work had been done. The studio just wanted to focus on its strengths, EyeToy and SingStar. Given the potential of EyePet, priorities have been changed, but the other projects aren't dead yet. Ultimately, the decision [to put those games to one side] has benefited everyone".
+Richard Bunn, a former developer, had noted the game was cancelled shortly after Phil Harrison was replaced by Shuhei Yoshida as president of SCE Worldwide Studios.
+
+
+=== Gangs of London (2020–present) ===
+
+Gareth Evans and Matt Flannery created a television adaptation of Gangs of London starring Joe Cole, Sope Dirisu, and an ensemble cast, which debuted on Sky Atlantic and AMC in April 2020, with Dirisu portraying Elliot Carter / Finch, a character loosely based on The Getaway's Frank Carter, and Colm Meaney portraying Finn Wallace, a character loosely based on Gangs of London's Andy Steele.
+In an interview with Sky News in April 2020, Evans stated that while initially hired to "make a film franchise" of Gangs of London, he had felt like if we were going to do a film franchise, we would have two-thirds of our running time focused purely on our central characters, and then only a third left to explore the side characters that populate that world", and so on deciding that "we wouldn't do justice to the myriad of different diverse cultures and ethnicities that make up the city [I then] pitched it back saying this should be a TV show because you can afford to go off and detour for 10 to 15 minutes and spend time with other characters, and learn about them in more detail."
+
+
+=== Ghosts (2022) ===
+In December 2022, a Gangs of London graphic novel, set between the first and second series of the television adaptation and titled A Gangs of London Story: Ghosts, written by Corin Hardy and Rowan Athale and illustrated by Ferenc Nothof, was released digitally to the news aggregator Den of Geek, ahead of a physical release.
+
+
+== See also ==
+L.A. Noire – 2011 video game made by several The Getaway developers
+
+
+== References ==
+
+
+== External links ==
+Official website
+The Getaway at IMDb
+The Getaway at MobyGames

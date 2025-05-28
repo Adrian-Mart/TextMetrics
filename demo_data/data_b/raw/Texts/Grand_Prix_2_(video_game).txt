@@ -1,0 +1,48 @@
+Grand Prix 2, released in North America as "Grand Prix II",  is a racing simulator released by MicroProse in 1996. It is a sequel to Formula One Grand Prix. It was made under an official FIA license that featured the Formula One 1994 season, with all of the circuits, teams, drivers and cars. The cars were painted with liveries reflecting the races that did not allow tobacco and alcohol sponsors (e.g. 1994 German Grand Prix).
+It had 3D texture mapping and SVGA graphics, as well as an early 3D physics engine. A large community of GP2 enthusiasts formed following the game's release. Grand Prix 2 was a commercial hit, and is recognized as one of the definitive racing simulations of its era.
+
+
+== Gameplay ==
+The game is a simulation of the 1994 Formula One season with all 16 circuits from the 1994 season and 28 drivers in their 14 teams. Unlike the real 1994 season, where teams changed drivers and sponsorship liveries repeatedly, the game has a consistent driver list and set of liveries throughout, which reflects that of the 1994 German Grand Prix. As a result, Ayrton Senna and Roland Ratzenberger, who both were killed during the 1994 San Marino Grand Prix are not present in the game; Nigel Mansell was also not included in the game as he was not Williams' regular second driver after Senna's death. The liveries for each of the cars are also based on their appearance at the 1994 German Grand Prix, where all teams ran non-tobacco livery. It features all parts of a Formula One weekend, including practice, qualifying and racing. It also included a championship mode which simulated the entire season.
+Some circuits in the game show safety-related changes to the tracks made during the season, e.g. Silverstone, Estoril and Jerez have them included while they are missing at Barcelona, Montreal and Spa.
+There was no "arcade" mode in Grand Prix II, per se, but it included the ability to turn on and off seven "driving aids": steering help, braking help, automatic turn-around (has the car face forward after a crash), indestructibility, racing line help, automatic shifting and traction control. The game had five levels of difficulty one could choose from, and the higher the level, the less options for driving aids one could turn on or off.
+There also is a "Quickrace" function that lets the player jump into a race without having to go through the perfunctory qualifying session. The quickrace option was customizable, allowing the player to race as many laps as desired and letting them set their grid position.
+The player selects the car they will drive among the 28 seats available, supplanting the driver who originally raced in that vehicle.
+The game had multiple camera angles, including a simulated TV coverage angle. The player can control their car from any of them, but the primary angle used was the first-person cockpit angle.
+
+The game can be played using the keyboard, mouse or joystick depending on the player's preference.
+The cars can be customizable in myriad ways through the setup function. Car setups could be modified to high detail with a high degree of accuracy and attention to detail.
+In addition to the single player modes, the game also offered hotseat and modem-linked LAN multiplayer modes.
+A race can be played in turns, with different players driving different cars. Gameplay in this mode has one player at a time driving their car in the race. Instead of a split screen game, The computer simulates the driving for the other players' cars when they are not being controlled by someone waiting their turn.
+The game also included a replay function and save game feature. The replay function showed the last ~30 seconds of racing and included the ability to save replays; it did not have an edit function. The save game feature allowed players to save their progress.
+The game also replicated engine, gearbox and electronic failures. This meant cars not only could crash, but also have flames or smoke shoot out of their backs from engine failure, after which they raced around the circuit damaged for a limited time before parking on the side of the road or in the pits. This game was the first to simulate visual car failures; as in 1989's Indianapolis 500: The Simulation cars fell out of the race, but went to the pits and parked permanently when a failure occurred.
+Grand Prix II did not include wet weather conditions. There was also the lack of a 'black flag' system replicating Formula One regulation penalties for course cutting, instead slowing the car down for a limited period of time if the course is cut through.
+
+
+=== Teams and drivers ===
+
+
+=== Circuits ===
+
+
+== Development ==
+The game was developed by Geoff Crammond as a follow-up to 1991's Formula One Grand Prix (which was known as World Circuit in the US). In a time when the gaming industry had become dominated by development teams, it was a rare instance of an essentially one-man-project.
+It was the first serious racing simulation programmed with all three axes in it—i.e. the ability for vehicles to get airborne in the game (1990's Stunts and Stunt Driver featured this ability, but were not racing simulations of a series). However, GP2 lacked the feature of having a car flip over entirely, which was not seen in hardcore racing simulations. In some cases, the game would crash if the car was about to overturn. Microsoft's Monster Truck Madness (1996), simulating monster truck racing, may have been the first to have that feature.
+It had more extensive physics and included image mapping over the 3D model of the car to show vehicle liveries, a feature that emerged in racing simulations with Papyrus Design Group's 1993 IndyCar Racing.
+In January 2025, an updated version of the game was released, allowing it to run natively in Windows for the first time (as opposed to DOSBox). Codenamed the 'x86 mod', notable features included a moveable steering wheel, a wider screen format and animated tyres. Further additions were added in the months following the initial release, such as menu music and updated TV graphics (including a real-time track map) when selecting a view other than the cockpit position.
+
+
+== Reception ==
+
+Following Grand Prix 2's release in July 1996, its global sales reached 500,000 copies in September. This number rose to 750,000 copies by mid-January 1997, driven in large part by European purchases. In August 1998, the game received a "Platinum" sales award from the Verband der Unterhaltungssoftware Deutschland (VUD), indicating sales of at least 200,000 units across Germany, Austria and Switzerland. Grand Prix 2 sold 1.5 million copies worldwide by late 2000. That year, Andy Mahood of PC Gamer US described the entire Grand Prix series as "one of the most successful PC racing franchises in history".
+Critics hailed Grand Prix II as stunning and the class of the field for Formula 1 simulations. Jim Varner of GameSpot particularly applauded the way it breaks the convention of racing games always falling into either simulation-style or arcade-style, through the use of adjustable "driving aids", which when turned off, make Grand Prix II a phenomenally complex and realistic driving sim, and when turned on, make it one of the most fun and exciting arcade-style racers ever made. He called it "unquestionably the best racing game yet made for the PC" and gave it a 9.5 out of 10. PC Zone gave the game 95%. The game was rated outstanding by CNet.
+Grand Prix 2 was nominated as Computer Games Strategy Plus's 1996 "Racing Simulation" of the year, although it lost to NASCAR Racing II.
+Though they never published a review of Grand Prix 2, shortly after its release Next Generation named it the 46th best game of all time, calling it as the most sophisticated and realistic driving game. Grand Prix 2 and its predecessor, collectively, were named the seventh best computer game of all time by PC Gamer UK in 1997.
+
+
+== References ==
+
+
+== External links ==
+Official website (archived)
+Grand Prix 2 at MobyGames

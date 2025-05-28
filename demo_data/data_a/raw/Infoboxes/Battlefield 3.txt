@@ -1,0 +1,44 @@
+Battlefield 1
+Developer(s)
+DICE
+[
+a
+]
+Publisher(s)
+Electronic Arts
+Director(s)
+Stefan Strandberg
+Producer(s)
+Aleksander Svendsen Grøndal
+Andreas Morell
+Jamie Keen
+Designer(s)
+Lars Gustavsson
+Eric Holmes
+Programmer(s)
+Vidar Nygren
+Artist(s)
+Gustav Tilleby
+Writer(s)
+Christofer Emgård
+Mikael Säker
+Steven Hall
+Composer(s)
+Patrik Andrén
+Johan Söderqvist
+Series
+Battlefield
+Engine
+Frostbite 3
+Platform(s)
+PlayStation 4
+Microsoft Windows
+Xbox One
+Release
+October 21, 2016
+Genre(s)
+First-person shooter
+Mode(s)
+Single-player
+, 
+multiplayer

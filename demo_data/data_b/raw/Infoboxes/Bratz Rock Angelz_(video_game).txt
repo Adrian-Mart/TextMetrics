@@ -1,0 +1,49 @@
+Bratz: Rock Angelz
+North American GameCube box art
+Developer(s)
+Blitz Games
+[
+a
+]
+Publisher(s)
+THQ
+Designer(s)
+Paul Jennings
+Andrew Fletcher
+Programmer(s)
+Chris Allen
+Christopher Fry
+Robert Grant
+Matthew Hayward
+Tim Page
+Artist(s)
+Brian Hartley
+Auburn Hodgson
+Sebastian Livall
+Robert Price
+Bryn Williams
+Writer(s)
+Chris Bateman
+Richard Boon
+Adria Smiley
+Engine
+RenderWare
+Platform(s)
+Game Boy Advance
+GameCube
+PlayStation 2
+Windows
+Release
+NA
+:
+ October 4, 2005
+[
+1
+]
+PAL
+:
+ October 14, 2005
+Genre(s)
+Adventure
+Mode(s)
+Single-player

@@ -1,0 +1,84 @@
+Civilization
+Box art by Sally Vitsky
+Developer(s)
+MicroProse
+Publisher(s)
+
+
+MicroProse
+
+
+Super NES
+JP
+:
+ 
+Asmik Ace
+NA
+:
+ 
+Koei
+PS1, Saturn
+JP
+:
+ Asmik Ace
+
+
+Producer(s)
+Sid Meier
+Designer(s)
+Sid Meier 
+ 
+Bruce Shelley
+Programmer(s)
+Sid Meier
+Writer(s)
+B. C. Milligan 
+ 
+Jeffery L. Briggs
+ 
+ Bruce Shelley
+Composer(s)
+Jeffery L. Briggs
+Series
+Civilization
+Platform(s)
+MS-DOS
+ 
+ 
+Amiga
+ 
+ 
+PC-98
+ 
+ 
+Atari ST
+ 
+ 
+Windows
+ 
+ 
+Macintosh
+ 
+ 
+Super NES
+ 
+ 
+Sony PlayStation
+ 
+ 
+Sega Saturn
+[
+3
+]
+Release
+September 1991
+[
+1
+]
+[
+2
+]
+Genre(s)
+Turn-based strategy
+Mode(s)
+Single-player

@@ -1,0 +1,72 @@
+Tekken
+Developer(s)
+Namco
+Publisher(s)
+Namco
+PlayStation
+NA
+:
+ Namco Hometek
+EU
+:
+ 
+Sony Computer Entertainment
+Director(s)
+Seiichi Ishii
+Producer(s)
+Hajime Nakatani
+Designer(s)
+Seiichi Ishii
+Programmer(s)
+Masanori Yamada
+Composer(s)
+Yoshie Arakawa
+Yoshie Takayanagi
+Shinji Hosoe (PS)
+Nobuyoshi Sano (PS)
+Series
+Tekken
+Platform(s)
+Arcade
+PlayStation
+Release
+Arcade
+JP
+:
+ December 9, 1994
+[
+2
+]
+[
+3
+]
+[
+1
+]
+NA
+:
+ February 1995
+[
+1
+]
+WW
+:
+ May 12, 1995
+PlayStation
+JP
+:
+ March 31, 1995
+EU
+:
+ November 7, 1995
+NA
+:
+ November 8, 1995
+Genre(s)
+Fighting
+Mode(s)
+Single-player
+, 
+multiplayer
+Arcade system
+Namco System 11

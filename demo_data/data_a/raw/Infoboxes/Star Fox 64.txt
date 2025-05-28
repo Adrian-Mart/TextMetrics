@@ -1,0 +1,52 @@
+Star Fox 64
+North American box art
+Developer(s)
+Nintendo EAD
+Publisher(s)
+Nintendo
+Director(s)
+Takao Shimizu
+Producer(s)
+Shigeru Miyamoto
+Designer(s)
+Shigeru Miyamoto
+[
+1
+]
+Programmer(s)
+Kazuaki Morita
+Artist(s)
+Takaya Imamura
+Writer(s)
+Mitsuhiro Takano
+Composer(s)
+Koji Kondo
+Hajime Wakai
+Series
+Star Fox
+Platform(s)
+Nintendo 64
+, 
+iQue Player
+Release
+JP
+:
+ April 27, 1997
+NA
+:
+ June 30, 1997
+PAL
+:
+ October 4, 1997
+iQue Player
+CHN
+:
+ November 18, 2003
+Genre(s)
+Rail shooter
+, 
+shoot 'em up
+Mode(s)
+Single-player
+, 
+multiplayer

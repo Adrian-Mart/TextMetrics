@@ -1,0 +1,79 @@
+Mass Effect
+Developer(s)
+BioWare
+[
+a
+]
+Publisher(s)
+Microsoft Game Studios
+[
+b
+]
+Director(s)
+Casey Hudson
+Designer(s)
+Preston Watamaniuk
+Programmer(s)
+David Falkner
+Artist(s)
+Derek Watts
+Writer(s)
+Drew Karpyshyn
+Composer(s)
+Jack Wall
+Sam Hulick
+Richard Jacques
+David Kates
+Series
+Mass Effect
+Engine
+Unreal Engine 3
+Platform(s)
+
+
+Xbox 360
+
+
+Windows
+PlayStation 3
+
+
+Release
+
+
+November 20, 2007
+
+
+Xbox 360
+NA
+:
+ November 20, 2007
+AU
+:
+ November 22, 2007
+EU
+:
+ November 23, 2007
+Windows
+NA
+:
+ May 28, 2008
+AU
+:
+ June 5, 2008
+EU
+:
+ June 6, 2008
+PlayStation 3
+NA
+:
+ December 4, 2012
+EU
+:
+ December 7, 2012
+
+
+Genre(s)
+Action role-playing
+Mode(s)
+Single-player

@@ -1,0 +1,27 @@
+Yakuman is a 1989 Japanese mahjong game developed by Intelligent Systems and published by Nintendo as a launch title for the Game Boy, exclusive to Japan. One of the first four games released for the system, it was also the first to utilize the Game Link Cable for multiplayer functionality.
+
+
+== Background ==
+Nintendo had released Computer Mah-jong Yakuman a handheld electronic mahjong game in 1983. Satoru Okada, assistant director of Nintendo Research & Development 1, the team behind the Game Boy, had worked on the device, which allowed two machines to connect via a cable for competitive play. Recognizing the potential of a similar feature for the Game Boy, Okada strongly advocated for the inclusion of a link cable, despite skepticism from the development team. He personally spearheaded the development of the Game Link Cable technology, which was first implemented in Yakuman for the Game Boy.
+
+
+== Summary ==
+
+Released on April 21, 1989, Yakuman was one of four launch titles for the Game Boy in Japan, alongside Alleyway, Baseball, and Super Mario Land. Unlike the others, it never saw a wide international release and was only released outside Japan in China in 1995.
+The game features both a single-player mode where players choose one of five unique computer-controlled opponents and a two-player versus mode, which requires two Game Boy consoles connected with a Game Link Cable. The game supports several different mahjong rule variations.
+Japanese mahjong is a four-player, tile-based game where players compete to form winning hands by drawing and discarding tiles, earning points from their opponents. A "Yakuman" refers to a class of rare, high-scoring hands that follow unique tile combinations. Yakuman for the Game Boy adapts this game into a two-player variation.
+
+
+== Legacy ==
+Yakuman was the first entry in a series of first-party Japanese mahjong games on Nintendo systems, with versions later released for the Famicom, Game Boy Advance, DS, Wii, Wii U, and 3DS.
+The Yakuman player, as depicted on the game's cover art, has made cameo appearances in other Nintendo games, including Super Smash Bros. Ultimate.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official website

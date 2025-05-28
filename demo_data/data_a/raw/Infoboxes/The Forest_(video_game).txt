@@ -1,0 +1,31 @@
+The Forest
+Developer(s)
+Endnight Games
+Publisher(s)
+Endnight Games
+Director(s)
+Ben Falcone
+Designer(s)
+Anna Terekhova
+Programmer(s)
+Guillaume Kehren
+Composer(s)
+Gabe Castro
+Engine
+Unity
+Platform(s)
+Windows
+PlayStation 4
+Release
+Windows
+30 April 2018
+PlayStation 4
+6 November 2018
+Genre(s)
+Survival horror
+, 
+survival game
+Mode(s)
+Single-player
+, 
+multiplayer

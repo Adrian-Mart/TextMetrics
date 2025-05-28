@@ -1,0 +1,56 @@
+Gears of War
+Developer(s)
+Epic Games
+[
+a
+]
+Publisher(s)
+Microsoft Game Studios
+Producer(s)
+Rod Fergusson
+Designer(s)
+Cliff Bleszinski
+Programmer(s)
+Ray Davis
+Artist(s)
+Jeremiah O'Flaherty
+Chris Perna
+Writer(s)
+Susan O'Connor
+Eric Nylund
+Composer(s)
+Kevin Riepl
+Series
+Gears of War
+Engine
+Unreal Engine 3
+Platform(s)
+Xbox 360
+Windows
+Release
+Xbox 360
+NA
+:
+ November 7, 2006
+EU
+:
+ November 17, 2006
+AU
+:
+ November 23, 2006
+Windows
+NA
+:
+ November 6, 2007
+EU
+:
+ November 9, 2007
+AU
+:
+ November 15, 2007
+Genre(s)
+Third-person shooter
+Mode(s)
+Single-player
+, 
+multiplayer

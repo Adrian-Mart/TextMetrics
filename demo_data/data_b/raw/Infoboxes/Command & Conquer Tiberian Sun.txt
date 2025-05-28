@@ -1,0 +1,46 @@
+Command & Conquer: Tiberian Sun
+Developer(s)
+Westwood Studios
+Publisher(s)
+Electronic Arts
+Producer(s)
+Brett W. Sperry 
+ Donny Miele 
+ Rade Stojsavljevic
+Designer(s)
+Adam P. Isgreen 
+Brett W. Sperry 
+Erik Yeo
+Programmer(s)
+Bret Ambrose 
+Joseph Bostic 
+ Steve Tall
+Artist(s)
+Tse Cheng Lo 
+Eric Gooch 
+ Jim May
+Writer(s)
+Donny Miele
+Brett W. Sperry
+Erik Yeo
+Composer(s)
+Frank Klepacki
+Jarrid Mendelson
+Series
+Command & Conquer
+Platform(s)
+Windows
+Release
+August 27, 1999
+[
+1
+]
+[
+2
+]
+Genre(s)
+Real-time strategy
+Mode(s)
+Single player
+, 
+multiplayer

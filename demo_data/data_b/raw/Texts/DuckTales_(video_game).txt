@@ -1,0 +1,42 @@
+DuckTales is a platform game developed and published by Capcom and based on the Disney animated TV series of the same name. It was first released in North America for the Nintendo Entertainment System in 1989 and was later ported to the Game Boy in 1990. The story involves Scrooge McDuck traveling around the globe collecting treasure and outwitting his rival Flintheart Glomgold to become the world's richest duck.
+Produced by key personnel from the Mega Man series, DuckTales sold over a million copies worldwide on each system, becoming Capcom's best-selling title for both platforms. The game was praised for its controls, unique and open-ended gameplay and bright presentation, and is often regarded as one of the best titles for the NES, appearing on numerous "Best of" lists.
+DuckTales was followed by a sequel, DuckTales 2, in 1993. A remastered version of DuckTales developed by WayForward Technologies, featuring high resolution graphics and performances by the surviving members of the show's voice cast, named DuckTales: Remastered, was released in 2013 for PC, Xbox 360, PlayStation 3, and Wii U. The original 8-bit version of the game was also included in The Disney Afternoon Collection compilation for PC, PlayStation 4, and Xbox One.
+
+
+== Gameplay ==
+
+Players control Scrooge McDuck as he travels around the world and in outer space in search of five treasures to further increase his fortune. Scrooge is able to attack enemies and get around using his cane. On the ground, Scrooge can swing his cane to attack enemies and to break open or throw certain objects. While jumping, Scrooge can bounce on his cane similarly to a pogo stick and attack enemies from above. This also allows him to reach higher areas as well as bounce across hazardous areas that hurt his palmate. Along the way, Scrooge can find various diamonds, hidden inside treasure chests or appearing in certain areas, to increase his fortune and ice cream that can restore his health. Scrooge will also encounter various characters from the series who have a variety of roles, such as providing hints, offering useful items, opening access to new areas, or attempting to stop Scrooge's progress. Hidden in the game is a secret life-restoring cheat, accessed by pressing the select button while standing still, that will refill Scrooge's heart points for $3,000,000.
+The game features five levels: African mines, The Amazon, The Himalayas, Transylvania, and the Moon. The player can visit any of the destinations to pursue the treasures in any order. However, The African mines and Transylvania must be revisited to acquire certain essential items. Two secret treasures are scattered between all five destinations. Each destination's treasure is protected by a boss that Scrooge must defeat to retrieve. When all five main treasures are collected, the player returns to Transylvania for a final boss fight against Dracula Duck. After defeating him, the player must contend with Flintheart Glomgold and Magica DeSpell for the final treasure.
+Upon completing the game, players can receive one of three endings based on their performance: a regular ending for simply clearing the game, a great ending for clearing the game with at least $10,000,000, and a bad ending for clearing the game with $0. As the player is given $1,000,000 for each level's treasure, the bad ending is only achievable by spending all accumulated money on the life-restore cheat before the player ends the game. In order to do that, the player has to collect exactly $1,000,000 to get a total money of $6,000,000 because one gets a total of $5,000,000 from the bosses. Then, the player has to apply the life-restore cheat two times to end up with $0.
+
+
+== Development ==
+Although Capcom had previously worked with Disney by publishing the Hudson-produced Mickey Mousecapade in North America in 1988, DuckTales became the first licensed game that the company developed, and shared many key personnel with the original Mega Man series including producer Tokuro Fujiwara, character designer Keiji Inafune, and sound programmer Yoshihiro Sakaguchi.
+Revisions to the game included the removal of crosses from the coffins in the Transylvania stage, replacing them with the letters "RIP", replacing hamburgers as power-ups with ice cream, and the omission of an option for Scrooge to give his money up, an action deemed too "un-Scrooge-like". Scrooge McDuck's shirt sprite was changed from blue to red to make him stand out and pop more against the blue and dark backgrounds. A leaked prototype cartridge from a private collector reveals several differences between the original, unfinished version and the final release, such as different level names, unused music for the Transylvania stage, slower tempo on the music for the Moon stage, unused or altered text, and the character Gizmoduck going by his Japanese name "RoboDuck". Despite the changes, images of the unfinished beta version could be seen in the 1990 books Consumer Guide: Hot Tips for the Coolest Nintendo Games and the NES Game Atlas by Nintendo.
+DuckTales was later ported to the Game Boy in late 1990. This version features the same gameplay, music and levels of the original console release, though the layout of each level was changed to accommodate the handheld's lower resolution screen.
+
+
+== Reception ==
+
+DuckTales was a commercial success, with the NES and Game Boy versions selling approximately 1.67 million and 1.43 million copies worldwide respectively, each becoming Capcom's highest-selling titles for their respective platforms. It was released to generally positive reviews, with Electronic Gaming Monthly praising the NES version for its gameplay and colorful graphics, calling it "a prime example of very good game design". The magazine additionally commented that the title was probably made "with younger players in mind" due to its short length and relative lack of difficulty or complexity, declaring that "you'll probably enjoy this game but find it beaten after the first day of play". Conversely, Mean Machines magazine called the game "very tough and challenging", elaborating that "it requires plenty of skill to get all the way through the game in one go". Nintendo Power later called the Game Boy port "a faithful translation from the NES version".
+Nintendo Power listed DuckTales as the 13th best Nintendo Entertainment System game in 2008, praising it as fun in spite of being a licensed product. The magazine later placed the game 44th in its list of the "285 Greatest Games of All Time" in 2012. In 2009, website IGN  ranked the title 10th on its list of the 100 greatest NES games, remarking that "out of all of the games built on Capcom's famous Mega Man architecture (but wasn't an actual Mega Man game), Duck Tales is perhaps the best of the bunch". Official Nintendo Magazine also included the game at number 85 on their own list of the "100 Best Nintendo Games" that same year, and 9th in its "Top Ten Best NES Games" list in 2013. It also placed 9th on 1UP.com's "Top 25 NES Games" feature in 2010, 2nd in GamesRadar's own "Top 7 Disney Games" list in 2009, and 12th in GamesRadar's "Best NES Games of All Time" list in 2012.
+Creative director of DuckTales Remastered, Matt Bozon, called the music of DuckTales "some of the best 8-bit music [he's] ever heard", with his developer team citing themes as that of the Transylvania and Himalayas stages as memorable. Polygon cites the "Moon Theme" as the most famous piece of music from the title, with Geekparty calling it "the most perfect piece of 8-bit music ever written". The "Moon Theme" appears in the 2017 animated series reboot during scenes set on the moon, most prominently as the basis for a lullaby that Della Duck sings in the second-season episode "What Ever Happened to Della Duck?!"
+
+
+== DuckTales: Remastered ==
+
+A remake of the game, titled DuckTales: Remastered, was released in 2013 for PC, PlayStation 3, Xbox 360, Wii U and in 2015 for iOS, Android and Windows Phone. Developed by WayForward Technologies, Remastered features updated graphics and music, expanded story content, and full voice-acting for the characters, including the surviving members of the animated series' cast. The original game's levels are included, but expanded with new areas and new boss patterns, along with two new levels exclusive to Remastered.
+
+
+== See also ==
+List of Disney video games
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+DuckTales at MobyGames

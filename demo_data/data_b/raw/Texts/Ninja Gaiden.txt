@@ -1,0 +1,163 @@
+Ninja Gaiden (NINJA 外伝) is a media franchise based on action video games by Tecmo featuring the ninja Ryu Hayabusa as its protagonist. The series was originally known as Ninja Ryukenden (忍者龍剣伝, Ninja Ryūkenden, lit. "Legend of the Ninja Dragon Sword") in Japan. The word "gaiden" in the North American Ninja Gaiden title means "side story" in Japanese. The original arcade version, first two Nintendo Entertainment System games and Game Boy game were released as Shadow Warriors in PAL regions. As of 2008, the series had shipped over 7.7 million units worldwide.
+The series gained popularity on the NES for its tight action-platform gameplay, catchy music and, according to G4's X-Play, for being the first console game to have the story presented in cinematic cutscenes. The 8-bit trilogy was enhanced for the 16-bit Super Nintendo Entertainment System in 1995. Sega released two Ninja Gaiden games for the Game Gear and Master System, the latter only for PAL regions. The original series' setting of said universe is a retro-futuristic version of the 1980s. A new game, titled Ninja Gaiden, was released in 2004 as a 3D action game on the Xbox, developed by Team Ninja, the makers of Dead or Alive. The Ninja Gaiden franchise is known for its high degree of difficulty, particularly the original NES version and the Xbox revival.
+According to Eurogamer, the gameplay of the Strider arcade franchise was a vital influence on the modern incarnation of the Ninja Gaiden franchise.
+
+
+== Arcade game ==
+
+The arcade version of Ninja Gaiden (released in 1988, in Japan, North America, and Europe) was a Bad Dudes-style beat 'em up, in which the player controls a nameless blue ninja (red for a second player) as he travels to various regions of the United States, to defeat an evil cult led by a descendant of Nostradamus, who is trying to fulfill his ancestor's prophecy of the rise of an evil king in 1999. The player has a variety of techniques, such as a flying neck throw and a backflip. The player can obtain power-ups by throwing characters into background objects, such as street lights and dumpsters. The player fights primarily with their bare hands, although a sword can be used for a limited time as a power-up; they can use overhead environmental objects as a prop from which he can deliver more powerful kicking attacks. Although the game takes place in different environments, there are primarily only five kinds of enemies, all of which appear in every level (although some levels have extra enemy types). The game is remembered for its infamous continue screen, where the player character is chained to a table underneath a descending circular saw.
+The original Ninja Gaiden arcade game was ported to the Amstrad CPC, Commodore 64, Amiga, Atari ST, and ZX Spectrum. The Amiga version retained almost all of the graphics and functionality of the original game, including the two-player cooperative gameplay and the introduction. All these versions, developed by Ocean Software, were released in Europe as Shadow Warriors. An MS-DOS port of the original Ninja Gaiden was also developed by Hi Tech Expressions, this time for its release in North America as Ninja Gaiden, as opposed to the other versions. However, it featured stripped down play mechanics and a low 16 colour palette. Lastly, it was ported to the Atari Lynx handheld system. An emulated version of the arcade game exists in the Xbox version's update Ninja Gaiden Black as a bonus feature and was available through Nintendo's Wii Virtual Console download service.
+
+
+== NES series ==
+The story of the 1988 release of Ninja Gaiden and its sequels take place in a retrofuturistic version of the 1980s. The continuity established by the NES series is often referred to as "Earth-88".
+
+
+=== Ninja Gaiden (NES) ===
+
+The first Ninja Gaiden for the Nintendo Entertainment System was released in Japan on December 9, 1988, in the United States in March 1989, and in Europe on August 15, 1991. Set in a retro-futuristic version of 1988, a ninja named Ryu Hayabusa finds a letter by his recently missing father, Ken, telling him to go to America and meet with an archaeologist Dr. Smith. Dr. Smith tells Ryu that two statues hidden by Ryu's father and the doctor have the power to end the world if united. Ryu ends up in South America and battles Jaquio, an evil cult leader bent on reviving the ancient demon called "Jashin" and responsible for the attack on Ken Hayabusa.
+While the arcade game itself bears little or no connection to the later NES trilogy or Xbox revival, certain aspects of it were carried over to the first NES title. The first stage in the NES game is a loose adaptation of the first stage in the arcade game and the opening cutscene in the NES game vaguely resembles the intro in the arcade version. Both games feature Jason Voorhees lookalikes and the final boss in the arcade game vaguely resembles Bloody Malth from the NES game. The game introduced many of the series' staples, including cinematic cutscenes, the boomerang-like Windmill Shuriken, and the magical techniques called Ninja Arts. To use the ninja arts, players must collect power-ups. Each art uses up a certain number of power-ups.
+A port was developed by Hudson for the PC Engine featuring enhanced graphics, reworked music, and rebalanced difficulty. An LCD handheld version produced by Tiger Electronics was released in 1988, which also had a sequel.
+
+
+=== Ninja Gaiden II: The Dark Sword of Chaos ===
+
+In the sequel, Ninja Gaiden II: The Dark Sword of Chaos, Ryu learns of a new villain named Ashtar, Emperor of Chaos and master to Jaquio. Ryu must rescue Irene Lew, a former CIA agent, from Ashtar and destroy the Dark Sword, a weapon of great power, forged from a bone of the demon, as the Dragon Sword is forged from a fang of a dragon. In the end, Ryu learns that Jaquio has been reborn to fulfill the destiny of Ashtar and the Dark Sword. This game was the first to feature Spirit Clones, invincible copies of Ryu which would mimic his movements and fight by his side. Also introduced was the ability to scale walls without the need to constantly jump upwards.
+Ninja Gaiden II: The Dark Sword of Chaos was ported by GameTek for IBM PC compatibles and the Amiga, both for their release in North America. They include save and load, where the player's exact position in the game can be saved at any given moment. The IBM PC version has 256 color VGA graphics.
+
+
+=== Ninja Gaiden III: The Ancient Ship of Doom ===
+
+The third game, titled Ninja Gaiden III: The Ancient Ship of Doom features rogue secret agents, genetic engineering and the eponymous warship. The gameplay is largely unchanged and more is revealed about Foster, the CIA agent who sent Ryu after Jaquio in the first game and his true intentions towards the ninja. It is the first game in the series to have limited continues. Additionally, most attacks deal 2 damage units to the player character (rather than 1 in the previous games), who still has only 16 health units. Additions include a sword extension power-up that increases the range of the player's attack until the end of the level or until death, new types of surfaces from which the player can hang, and automatically scrolling areas.
+It was ported to the Atari Lynx handheld system. The port retains all the content of the NES game.
+
+
+== Prequel series ==
+The story of the 2004 release of Ninja Gaiden and its sequels have been established as prequels to the NES series, and takes place in the same universe as Team Ninja's Dead or Alive fighting games and a futuristic version of the 21st century. The continuity also established by the two series is often referred to as "Earth-9604". The main story of the game involves Ryu Hayabusa setting out on a quest to retrieve the Dark Dragon Blade from the hands of evil after most of his clan was wiped out.
+
+
+=== Ninja Gaiden ===
+
+The series was revived after several years with the 2004 release of Ninja Gaiden for the Xbox. The title was developed over five years by Team Ninja under the direction of Tomonobu Itagaki and eventually released to high sales and critical acclaim, having a 94% score on Metacritic. The magazine Electronic Gaming Monthly awarded it Best Xbox game of the year.
+An updated version with new content, modes and features came out the following year under the name Ninja Gaiden Black. Later, another updated version directed by Yosuke Hayashi was made for the PlayStation 3 as Ninja Gaiden Sigma, released on July 3, 2007. This version has its graphics reworked to high definition standards, and Rachel as a playable character. In 2012, a further updated version of Sigma was a launch title for the PlayStation Vita, titled Ninja Gaiden Sigma Plus. It added a few new costumes for the playable characters, touch controls and making ninpo attacks stronger, and a new trophy list for the game.
+
+
+=== Ninja Gaiden II ===
+
+Ninja Gaiden II  was published in 2008 by Microsoft Game Studios for the Xbox 360. It is set one year after the events in the 2004 game. The new features in the game were four difficulty levels, a regenerating health bar, and upgraded graphics and enemy AI.
+An enhanced version of Ninja Gaiden II was released for the PlayStation 3, titled Ninja Gaiden Sigma 2. Another updated version, titled Ninja Gaiden Sigma 2 Plus, was released in 2013 for the PlayStation Vita. An Unreal Engine 5 remaster that combines features from the original game and Sigma 2, titled Ninja Gaiden II Black, was simultaneously announced and released on January 23, 2025 for PlayStation 5, Windows and Xbox Series X/S.
+
+
+=== Ninja Gaiden 3 ===
+
+Although series director Tomonobu Itagaki left shortly after the release of Ninja Gaiden II, Tecmo Koei still owned the franchise and planned to instigate developments of another title, with a newly restructured Team Ninja. This title was revealed as Ninja Gaiden III at the Tokyo Game Show 2010. Information about the game in the coming months revealed that the new director, Yosuke Hayashi, would be taking the series to new directions, including the addition of "resistance" in cutting through enemies. Later, at the E3 2011, the game was unveiled as Ninja Gaiden 3. Changes to gameplay included removing dismemberment, replacing the roll with a new "slide" maneuver, and a "kunai climb" technique that would allow Ryu to scale certain walls. Tecmo Koei released the game on March 20, 2012, for both the PlayStation 3 and Xbox 360.
+An expanded version of the game titled Ninja Gaiden 3: Razor's Edge was released later on November 18 of the same year for the Wii U. In early 2013, Razor's Edge was released for the PlayStation 3 and Xbox 360 as well.
+
+
+=== Ninja Gaiden 4 ===
+
+In February 2020, Nioh 2 director Fumihiko Yasuda stated that several members of Team Ninja were interested in making a new game, and that he "[hoped] to deliver some good news one day". He also expressed interest in making a female spin-off featuring  Kasumi, Ayane, Momiji and Rachel. In 2024, Wo Long: Fallen Dynasty director Masakazu Hirayama stated in an interview that there were currently "no plans at the moment" to revisit Ninja Gaiden.
+However, a new entry in the modern series with Hirayama as the co-director was announced during Microsoft Gaming's Xbox Developer Direct video presentation in January 2025. The game is a joint production between Team Ninja and PlatinumGames, and is set to be published by Xbox Game Studios in fall 2025 for PlayStation 5, Windows, and Xbox Series X/S.
+
+
+== Other games ==
+Sega, under license from Tecmo, developed three games but ultimately released only two: one for the Master System and another for the Game Gear, both bearing the Ninja Gaiden title, marking the first time a game in the series was released with the Ninja Gaiden name in Japan and Europe.
+
+
+=== Ninja Gaiden (Game Gear) ===
+
+Released in Japan, North America and Europe in 1991 for the Game Gear, this game was not very close to any of the other Ninja Gaiden games. It featured a smaller screen size, bigger character sprites, slower game speed, and unlike the NES and Master System games which were more oriented to platforming action, this was more a linear side-scrolling game.
+
+
+=== Ninja Gaiden Shadow ===
+
+Tecmo released a Game Boy version called Ninja Gaiden Shadow. It was a licensed edit of a proposed Shadow of the Ninja (Natsume) Game Boy port, and serves as a prequel to the original game and set in a retro-futuristic version of 1985.
+
+
+=== Ninja Gaiden (1992) ===
+
+Released in Europe, Australia and Brazil in 1992 for the Master System, this game has similar gameplay mechanics to the NES games, though Ryu bounces off walls instead of clinging to them, like the later 3D games. The game features a new storyline, characters and scenarios, not connected to any of the other Ninja Gaiden games.
+
+
+=== Ninja Gaiden (Mega Drive) ===
+A Mega Drive/Genesis version of Ninja Gaiden was in development by Sega sometime in 1992. It was planned to be a belt scroll-style beat-'em-up similar to the arcade version of Ninja Gaiden, instead of following the side-scrolling platform game format from the NES trilogy. The plot would have involved Ryu traveling to the United States in order to track down a pair of sibling ninjas named Jin and Rika who have gone rogue by stealing the Secret Scrolls of the Huma (an alternate romanization of the name "Fūma"). The Mega Drive version is not a port of the arcade game, but some of the stages (such as a casino) and enemy characters (like the hockey mask-wearing punks) are similar, though the play mechanics are very different.
+The game was not released commercially despite being reviewed in magazines, but a beta build was leaked through the internet as a ROM image. The beta features seven stages, including cut-scenes and bosses, but has several programming bugs such as odd moving controls, unfinished levels, and cut-scenes which are skipped before finishing. Although the opening and stage names are in Japanese, the rest of the cut-scenes were translated into English. The techniques available in the beta consist of a standard punch combo, a jump kick, a rolling move, a special somersault kick, and a throw.
+
+
+=== Ninja Gaiden X ===
+The game was released in Japan for mobile phones as a prequel to the first NES title in 2004. The game is a short single act which retains the elements of the classic Nintendo trilogy.
+
+
+=== Ninja Gaiden: Dragon Sword ===
+
+Ninja Gaiden: Dragon Sword was released in March 2008, for the Nintendo DS. The game is played in a diagonal top-down view with 3D graphics, and the player needs to hold the Nintendo DS sideways. Ninja Gaiden: Dragon Sword is played using the stylus. The story is set six months after the events of 2004's Ninja Gaiden. There is a new playable female ninja character, Momiji.
+
+
+=== 100 Man'nin no Ninja Gaiden (100万人のNinja Gaiden) ===
+The game was released in 2012 in Japan for Android and iOS mobile systems. A release in North America was announced in 2012 under the title Ninja Gaiden Clans, but was eventually cancelled. Gameplay is similar to Ninja Gaiden: Dragon Sword, but the game involves card collection trading.
+
+
+=== Yaiba: Ninja Gaiden Z ===
+
+Released in 2014 for PlayStation 3, Xbox 360 and Microsoft Windows, the game follows the exploits of the ninja Yaiba Kamikaze. The game received mixed reviews, with many magazines and websites criticizing the repetitive gameplay, difficulty and level design.
+
+
+=== Ninja Gaiden: Ragebound ===
+Announced during The Game Awards 2024, Ragebound is a 2D side-scrolling game in the vein of the original NES trilogy. The game's story runs parallel to the events of the original Ninja Gaiden and stars new protagonists Kenji Mozu, who defends Hayabusa Village while Ryu is in America, and Kumori, a member of the Black Spider Clan. Ragebound is developed by the Spanish indie studio The Game Kitchen and will be published by Dotemu, in association with Koei Tecmo, in 2025 for consoles and PC.
+
+
+== Compilations ==
+
+
+=== Ninja Gaiden Trilogy ===
+
+Ninja Gaiden Trilogy (忍者龍剣伝 巴, Ninja Ryūkenden Tomoe) is a 1995 SNES collection containing the three Ninja Gaiden games for the NES. It is also included as a bonus unlockable in 2004's Ninja Gaiden for the Xbox. The three games are straight ports and were not optimized for the SNES, but there are several differences from the NES versions. Passwords are included and the cinematic sequences were redrawn. The third game is based on the Japanese version, with infinite continues and lower damage from enemy attacks. The ports have no closing credits. Parallax scrolling was removed from the backgrounds of some levels (Ninja Gaiden III stage 2-1 for example). Other graphical changes were made to comply with Nintendo's "Family Friendly" censorship policy at the time (i.e. a pool of blood changed from red to green, and the removal of pentagrams). Some music tracks are omitted (two pieces of music from Ninja Gaiden III and the stage 1–1 music in the Ninja Gaiden II pursuit cutscenes). A degree of censorship was actually removed from certain parts of the script (for example, Jaquio's "Argh! He's awake" is replaced with "Damn, he's awake").
+
+
+=== Ninja Gaiden: Master Collection ===
+Ninja Gaiden: Master Collection is a compilation of Ninja Gaiden Sigma, Ninja Gaiden Sigma 2, and Ninja Gaiden 3: Razor's Edge. It was released on Microsoft Windows via Steam, Nintendo Switch, PlayStation 4, and Xbox One on June 10, 2021, marking the first time the Sigma games have been released on Nintendo and Xbox platforms.
+
+
+== Related media ==
+
+
+=== Anime ===
+An OVA titled Ninja Ryūkenden was released only in Japan in 1991.
+
+
+=== Print media ===
+The NES version of Ninja Gaiden received a novelization in the Worlds of Power series which had books based on other current Nintendo games. A prequel comic book based on Yaiba: Ninja Gaiden Z, published by Dark Horse Comics and written by Tim Seeley and Josh Emmons, tells the story of how Yaiba's sword came to be known as Heartless.
+
+
+=== Crossovers ===
+Ninja Gaiden characters and references to the series, including those who first appeared in Dead or Alive series can be found in various games by Koei Tecmo, Microsoft, and Sony.
+
+Ryu, Rachel, Momiji, Irene Lew, and Muramasa appeared in the Dead or Alive games, with the three former are playable while the two latter are non-playable.
+Ryu, and Momiji, accompanied by Dead or Alive's Ayane and Kasumi all make cameo appearances in Dynasty Warriors: Strikeforce.
+Ryu, Rachel, Momiji, accompanied by Dead or Alive's Ayane and Kasumi are playable characters in Warriors Orochi 3. They appear in another dimension where they assist the other warriors.
+Ryu and Dead or Alive's Ayane appear in the Japan-only Dynasty Warriors Vs. (previously known as Dynasty Warriors 3DS).
+Ryu, accompanied by Dead or Alive's Ayane and Kasumi appear in Warriors All-Stars, whereas Ayane represents a Ninja Gaiden character to accompany Ryu, while Kasumi remains a Dead or Alive represented character to accompany her home series' new characters Honoka and Marie.
+Ryu appears as a playable character in Warriors Orochi 4 Ultimate.
+The presumable ancestors of Ryu Hayabusa respectively, Jin and Ren Hayabusa, including the ancient variant of Dead or Alive's Nyotengu, appear in Nioh 2 as secret bosses. Ryu Hayabusa later appears in a patch for the game.
+An armor similar to Ryu's outfit makes a cameo in Halo 3 as an unlockable armor set called Hayabusa. To obtain the chest, shoulder, and helmet pieces of the armor, the player must collect all hidden skulls in campaign mode. Additionally, the player is awarded an in-game (unusable) replica of Ryu's Dragon Sword if they get the gamerscore of 1000.
+"Hayabusa Ninja" is an alternative costume for the character Max in Super Swing Golf: Season 2.
+Ryu's Ninja Gaiden costume parts were available as exclusive DLC during the first anniversary promotion campaign for Dynasty Warriors Online.
+
+
+== See also ==
+
+Team Ninja
+Shinobi series
+List of ninja video games
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+Ninja Gaiden series at MobyGames
+Ninja Gaiden Tiger Electronics LCD handheld simulator at Plasticgear's Living Museum

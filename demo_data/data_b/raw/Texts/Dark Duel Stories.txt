@@ -1,0 +1,45 @@
+Yu-Gi-Oh! Dark Duel Stories is a 2000 digital collectible card game of the Yu-Gi-Oh! universe for the Game Boy Color developed and published by Konami. The game was Konami's first attempt at a Yu-Gi-Oh! game released in English and the third game in the Japanese Duel Monsters series. This game uses the rules of the previous Duel Monsters games, as opposed to the rules for the Yu-Gi-Oh! Trading Card Game. Players of the game can trade and battle with other players using a link cable.
+
+
+== Gameplay ==
+Players must beat each available player in a stage at least five times in order to get to the next stage. However, he or she may keep on dueling them for more points. A usual game consists of players using their assembled decks of cards to reduce their opponent's 8000 life points to zero, but a duel can also be won by forcing the player's opponent to run out of cards in their deck and having them unable to draw a card at the start of their turn, or by having all five pieces of Exodia in their hand.
+To defeat the opposing monster, the player must have a monster with higher ATK (attack) points than that opposing card's ATK or DEF (defense) points, depending on whether the opponent's monster is in its Attack or Defense Position. Yu-Gi-Oh! Dark Duel Stories also allows them to defeat monsters based on card type or element weaknesses; here, the different between ATK or DEF points is not taken into account and the card with the weakness is instantly destroyed. In addition, cards in the Element List do not have an advantage over cards in the Special List and vice versa.
+In order to duel, a player's Deck must contain 40 cards and be under their current deck cost limit, which is increased by winning duels. If the deck is over/under 40 cards or over the cost limit, the player will not be able to duel until the error is fixed. Certain cards may also not be included in their Deck unless they have the appropriate Duelist Level, which is also increased by winning duels. The deck cost limit and the Duelist Level do not decrease by losing.
+
+
+=== Passwords ===
+Players can input the 8-digit passwords found at the bottom of Yu-Gi-Oh! trading cards to receive that card in the in-game card trunk, provided that the password is compatible with the game (only the older expansion sets can be used, and certain cards will not work) As with cards obtained in-game, players can add saved cards from their chest to their deck, depending on how high a Duelist Level they have; the higher DL, the stronger the card allowed. Note that when using such a password, the card's effects will most likely change from the actual TCG card, due to the way Dark Duel Stories plays (using the standard Duel Monsters ruleset).
+If a special password is typed in, Solomon Mutou will appear after matches and will give an additional card upon winning a match (including the one Teá gives the player). Solomon will also give them one extra Monster Card Part for each win as well.
+There are also hidden passwords that unlock the hidden bosses in Stage 5, with the default being Yami Yugi. Whenever a password is inputted, the previous boss in that stage is replaced, but not deleted as inputting that boss' password again will re-enable him for battle. Furthermore, a boss' Record is never deleted; whenever the player switch between bosses, the old Records are hidden when another boss is "active" (to be replaced by the new boss' records), and the old records reappear whenever that boss becomes "active" again, hiding away the new boss' records.
+
+
+=== Card creation ===
+Dark Duel Stories allows the player to "create" cards using a top-half and a bottom-half Monster Card Part, which are earned by winning duels. Different card parts will produce different ATK and DEF results. After creation, these cards go to their in-game card trunk and can be put into their Deck later, provided they have made room for the card and their deck cost limit or Duelist Level meets the required level.
+
+
+== Development ==
+The game was originally scheduled to release in North America in November 2001.
+
+
+== Release ==
+Dark Duel Stories came bundled with three cards for the Yu-Gi-Oh! TCG that can be used in the real card game. Dark Duel Stories was packaged with two different sets of cards: Set 1 consists of Exodia the Forbidden One, Dark Magician and Blue Eyes White Dragon and Set 2 had Acid Trap Hole, Seiyaryu, and Salamandra. All 6 cards can be used in-game by collecting them after a won duel, or by using the password printed on the card.
+The game was re-released in 2025 as part of the Yu-Gi-Oh! Early Days Collection game compilation.
+
+
+== Reception ==
+
+GameSpot gave the game a score of 6.2 out of 10 stating, "Dark Duel Stories comes recommended to avid enthusiasts of the Duel Monsters card game, as well as players who are interested in trying out a new card game with plenty of replay value."
+
+
+== Sales ==
+The game is the fourth best selling Game Boy Color game in Japan, with 726,518 copies sold.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official website (archived)

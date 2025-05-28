@@ -1,0 +1,50 @@
+Baldur's Gate II: Shadows of Amn
+Developer(s)
+BioWare
+[
+a
+]
+Publisher(s)
+Black Isle Studios
+Interplay Entertainment
+Producer(s)
+Ben Smedstad
+Designer(s)
+James Ohlen
+Kevin Martens
+Programmer(s)
+Mark Darrah
+Artist(s)
+Marcia Tofer
+Writer(s)
+James Ohlen
+Composer(s)
+Michael Hoenig
+[
+b
+]
+Series
+Baldur's Gate
+Engine
+Infinity Engine
+Platform(s)
+Windows
+Mac OS
+Release
+Windows
+NA
+:
+ September 21, 2000
+PAL
+:
+ September 29, 2000
+Mac OS
+NA
+:
+ October 15, 2001
+Genre(s)
+Role-playing
+Mode(s)
+Single-player
+, 
+multiplayer

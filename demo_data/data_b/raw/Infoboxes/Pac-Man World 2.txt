@@ -1,0 +1,132 @@
+Pac-Man World 2
+Packaging artwork
+Developer(s)
+Namco Hometek
+[
+a
+]
+Publisher(s)
+NA
+:
+ Namco Hometek
+JP
+:
+ Namco
+EU
+:
+ 
+Sony Computer Entertainment
+ (PS2)
+EU
+:
+ 
+Electronic Arts
+ (GCN)
+[
+5
+]
+EU
+:
+ 
+Zoo Digital Publishing
+ (GBA)
+Windows
+EU
+:
+ Light & Shadow Production
+[
+6
+]
+NA
+:
+ Hip Games
+Director(s)
+Jesse Taylor
+Producer(s)
+Glen Cureton
+Matt Sentell
+Artist(s)
+Vince Joly
+Mike Witt
+Monty Kane
+Composer(s)
+David Logan
+Series
+Pac-Man
+Platform(s)
+GameCube
+PlayStation 2
+Xbox
+Game Boy Advance
+Microsoft Windows
+Release
+
+
+February 26, 2002
+
+
+PlayStation 2
+NA
+:
+ February 26, 2002
+[
+1
+]
+JP
+:
+ July 25, 2002
+EU
+:
+ February 28, 2003
+
+
+GameCube
+NA
+:
+ March 12, 2002
+[
+2
+]
+EU
+:
+ March 21, 2003
+
+
+Xbox
+NA
+:
+ October 15, 2002
+
+
+Windows
+EU
+:
+ March 21, 2004
+NA
+:
+ May 25, 2004
+
+
+Game Boy Advance
+EU
+:
+ August 19, 2005
+[
+4
+]
+NA
+:
+ October 17, 2005
+[
+3
+]
+
+
+
+
+Genre(s)
+Platform
+Mode(s)
+Single-player
+, 
+multiplayer

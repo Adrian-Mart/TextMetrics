@@ -1,0 +1,44 @@
+Donkey Kong Land 2
+North American box art
+Developer(s)
+Rare
+Publisher(s)
+Nintendo
+Designer(s)
+Lee Schuneman
+Programmer(s)
+Robert Harrison
+Artist(s)
+Keri Gunn, Dean Smith
+Composer(s)
+Grant Kirkhope
+[
+a
+]
+Series
+Donkey Kong
+Platform(s)
+Game Boy
+Release
+NA
+:
+ September 23, 1996
+[
+2
+]
+AU
+:
+ October 1996
+[
+1
+]
+JP
+:
+ November 23, 1996
+EU
+:
+ November 28, 1996
+Genre(s)
+Platform
+Mode(s)
+Single-player

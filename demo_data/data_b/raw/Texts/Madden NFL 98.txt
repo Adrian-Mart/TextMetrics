@@ -1,0 +1,33 @@
+Madden NFL 98 is a 1997 football video game.  It was the last edition of the Madden series to be released for the Super NES, Genesis and Sega Saturn platforms, as well as the last Madden game to utilize 2D sprites for the players and referee, on 3D playing fields.
+The game's development focused on improving the Madden series' artificial intelligence. This aspect earned the game critical acclaim, with some reviewers considering Madden NFL 98 a new landmark for A.I. in football video games.
+The Green Bay Packers had the best team overall in the game with a 95. The worst team overall was the Baltimore Ravens with a score of 71. The Dallas Cowboys, the New England Patriots and the Green Bay Packers were a 3-way tie for the best offense with a perfect score of 100. There is also a 3-way tie for the best defense in the game between the San Francisco 49ers, the Seattle Seahawks and the Green Bay Packers with a score of 97. The San Diego Chargers had the best special teams in the game with a score of 96.
+Publisher EA Sports licensed the Super NES and Genesis versions of the game to THQ, who published it for those platforms.
+The PlayStation version of the game is playable in the collectors edition of Madden NFL 2005 with updated rosters.
+
+
+== Gameplay ==
+Madden NFL 98 introduced touch passing to the series, which allows players to control the speed of a pass by how hard they push the button. Control can be switched to any football player at any time.
+The PC version of Madden NFL 98 allowed players to download the latest NFL rosters from EA's website, thereby keeping the game up-to-date.
+
+
+== Development ==
+In response to the longstanding criticism of the Madden series that its AI is too vulnerable, the development team made improving the AI their main emphasis with Madden NFL 98. The AI architects dubbed their new system "Liquid AI". A version for the  Panasonic M2 was in the works, but never released due to the system's cancellation. A version for the Game.com was also planned, with Tiger Electronics as the developer, though Tiger producer Allen Richardson admitted that the game would be difficult to do on the Game.com due to the 16 megabit size of the cartridges.
+
+
+== Reception ==
+
+Madden NFL 98 was positively received, with the overwhelming majority of critics agreeing that the new "liquid AI" had eliminated the longstanding Madden NFL series problem of "money plays" that could be used to successfully run the ball in any situation, making the game more challenging and the final scores more comparable to those of real football games. Kraig Kujawa of Electronic Gaming Monthly called it "the smartest football game I've played", and Gary Cutlack of Sega Saturn Magazine said the new AI "Makes the game a lot harder, but a well earned victory is much more satisfying, don't you think?" Next Generation dissented with the majority, contending that while the AI was improved from the previous installment of the series, they had managed to find some "money plays". However, other aspects of the game were widely praised as well, particularly the lively audio commentary, realistic animations, and wide selection of options. Several reviewers made particular mention of the new "fantasy draft" option.
+By far the largest source of criticism was the use of sprite-based rather than polygon-based players. While full polygonal football video games were unexplored territory (the first fully polygonal football game, NFL GameDay 98, was released the same month as Madden NFL 98, and GameSpot acknowledged that polygonal graphics are a much greater drain on processing power in football games than other genres, due to the large number of players), most critics felt that the Madden series, as the leader in the football genre, should have advanced into it by this time. Next Generation in particular felt that the Madden series had unequivocally been dethroned by its failure to beat NFL GameDay to fully polygonal graphics, concluding that "despite some problems, at least the gameplay is solid – a distinct improvement over last year. However, it's too little too late, and stacked against the jaw-dropping GameDay, good is no longer good enough." GameSpot countered that "Although some might scoff at Madden 98 not using polygons like its chief competitor GameDay 98, these player sprites are well animated and detailed.", and pointed out several impressive graphical features accomplished with the sprites. Arguing that the excellent gameplay and AI outweigh the graphical shortcomings, Kujawa deemed Madden NFL 98 "the best PlayStation football game", while his co-reviewer Dean Hager, like Next Generation, held that GameDay 98 had edged it out with its polygonal players.
+While most reviewers did not compare versions, GamePro noted that the Saturn version has greater pixelation than the PlayStation version and uses an antiquated "gliding sprites" method of animation. Despite this, the Saturn's much smaller library of football games (Sega's only answer to Sony's NFL GameDay was the critically panned NFL '97) left critics with few reservations about declaring the Saturn version of Madden NFL '98 the best football game on the system.
+In the same issue in which they reviewed the Saturn version (and just a month after reviewing the PlayStation version), Electronic Gaming Monthly ranked the Saturn and PlayStation versions as the 19th best console video game of all time, saying that the AI was the best of any football game yet. They also named Madden NFL 98 a runner-up for "Saturn Game of the Year" (behind Saturn Bomberman) and "Sports Game of the Year" (behind International Superstar Soccer 64) at their 1997 Editors' Choice Awards.
+
+
+=== Sales ===
+Madden NFL 98 was outsold by Sony Interactive Entertainment's NFL GameDay 98. Electronic Arts chief operating officer John Riccitiello argued that while this was an impressive achievement for Sony, it was not a major defeat for EA Sports: "Do I wish we had sold another 100,000 copies of Madden on PlayStation so we would have sold more in the quarter than [Sony] did? Sure. But I am happy that even though we were outspent seven or eight to one on television, we sold within 15% in units and 10% of dollars to Sony. And I'm virtually certain that if we'd have matched their spend, we'd have blown them out of the water."
+
+
+== See also ==
+Madden Football 64
+
+
+== References ==

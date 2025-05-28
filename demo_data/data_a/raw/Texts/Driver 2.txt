@@ -1,0 +1,72 @@
+Driver 2 (also known as Driver 2: Back on the Streets and as Driver 2: The Wheelman Is Back in North America) is a 2000 action driving video game and the second installment of the Driver series. It was developed by Reflections Interactive and published by Infogrames for PlayStation. A port to the Game Boy Advance, titled Driver 2 Advance, was released in 2002, developed by Sennari Interactive and released under Infogrames' Atari range of products.
+The follow up to Driver, Driver 2 too was a commercial success, although received a less enthusiastic critical reception in comparison. The next installment would be Driver 3 in 2004, while a prequel title was released as Driver: Renegade in 2011.
+
+
+== Gameplay ==
+
+Driver 2 expands on Driver's structure, as well as adding the ability of the character John Tanner to step out of his car to explore on foot and commandeer other vehicles in the game's environments. The story missions are played separately from the 'Take a Ride' mode where the player can explore the cities in their own time.
+Missions in the game are generally vehicle-oriented, and involve trailing witnesses, ramming cars and escaping from gangsters or cops. A cutscene is shown prior to almost every mission to help advance the storyline, and thus the game plays rather like a Hollywood-style car chase movie. Although Tanner can leave his car and interact with certain elements of the environment, all violence takes place during pre-rendered scenes.
+While the original PlayStation version offered a two-player split screenplay, the Game Boy Advance version introduced a four-player link option.
+Driver 2 includes four cities, which are notably larger than the original game. The cities are Chicago, Havana, Las Vegas, and Rio de Janeiro.
+A wide variety of cars can be found throughout the game. They are based on real life cars like Chevys, Fords, GMC and more. All the cars can be driven and there are also hidden cars in the game's four cities. Similar to the first game, cars' hubcaps can fly off.
+
+
+== Plot ==
+In Chicago, Pink Lenny meets with a tattooed Brazilian man at a bar. Two gangsters suddenly enter the bar and open fire on them; Lenny escapes, but the Brazilian man is killed. His body is later examined at a morgue by police officers John Tanner and Tobias Jones. The man's tattoos indicate that he worked for Alvaro Vasquez, the leader of a Brazilian criminal organization. Following this, Tanner and Jones are sent undercover to investigate Lenny's involvement in recent gang violence in Chicago.
+They interrogate a witness to the bar shooting, who explains that Lenny used to work as a money launderer for Solomon Caine, a high-ranking mobster with operations based in Chicago and Las Vegas. Furthermore, it is revealed that Lenny has made a deal with Vasquez, Caine's greatest rival.  Tanner and Jones later follow one of Vasquez's men to a warehouse, where they find hardware that has been shipped from Cuba.
+As both Caine and Vasquez will seek to exploit Lenny's financial expertise for their operations, Tanner and Jones search for Lenny before gang violence spirals out of control. The officers track Lenny to Havana, where Tanner disrupts Vasquez's operations, but is too late to stop Lenny from leaving the city on a ship bound for San Diego.
+Tanner later apprehends Charles Jericho, one of Caine's men, before traveling to Las Vegas with Jones to negotiate a truce with Caine. Caine assigns Jones to find Lenny while Tanner uses his driving skills to assist Caine's operations in Las Vegas, eventually succeeding in destroying Vasquez's supply depot. Soon after, Caine learns that both Lenny and Vasquez are in Rio de Janeiro.
+After Caine arrives in Rio, Jones notes that Vasquez did not stop Caine from entering the city, despite monitoring the docks and airport.  Tanner continues assisting Caine and disrupting Vasquez's operations. Jones manages to infiltrate Vasquez's gang to gain more information, but Tanner warns him that his cover will not last.
+Tanner later learns that Vasquez has discovered Jones' true identity and that Lenny is attempting to leave Rio by helicopter.  After rescuing Jones, Tanner is forced by Caine to pick up Jericho before going to stop Lenny from escaping.  Tanner and Jericho shoot down the helicopter before Tanner reveals himself to Jericho and goes after Lenny alone, arresting him after his helicopter eventually crashes.
+After Tanner brings Lenny back to Chicago, it is revealed that Caine and Vasquez have been affiliated previously, and they reconcile in Rio.
+
+
+== Development ==
+The game was first released on the PlayStation video game console and was later ported to Nintendo's Game Boy Advance. Due to the sheer number of FMVs which were almost exclusively utilised to tell the story, the game was released on two discs. The first disc contained the Chicago and Havana missions, while the second disc contained the Las Vegas and Rio missions.
+The GBA version was significantly condensed from its counterpart on the PlayStation, due to memory limitations. Of the four cities in the PS1 version (Chicago, Havana, Las Vegas, and Rio), only Chicago and Rio are present, and the storyline is simplified to just these two cities, either omitting the other two cities' missions or transplanting them into the two that actually appear in the game.
+In-game cinematics are replaced with slideshows that feature a text crawl for dialogue, with occasional sound clips (such as gunshots or police sirens) added for atmosphere. The graphics are also rendered in polygon shapes, with tiny, simplistic 2D sprites for pedestrians. Certain animations such as Tanner going in and out of vehicles are also omitted, and a number of AI scripts, such as roadblocks that appear when the police chase the player, are axed. However, the police still utilise voice clips from the PS1 version when chasing Tanner, even using dialogue in Portuguese for the police of Rio de Janeiro. The licensed music is also replaced with a number of instrumental tunes composed for the game.
+
+
+=== Unofficial Windows port ===
+In 2020, fans decompiled the game and released an unofficial port for Windows named REDRIVER 2, featuring enhancements such as bugfixes, improved draw distance, and consistent 30 frame-per-second gameplay (not 60 frames-per-second as was widely reported).
+
+
+=== Music ===
+In a move similar to the first game, Driver 2 featured a soundtrack reminiscent of typical 1970s car movies, containing instrumental funk and boogie tracks as well as more popular songs by artists and composers, to further emphasise the retro feel of the game. The original music was composed by Allister Brimble.
+Background music for each city seems to match both with the car-chasing movie music and the predominant music styles of each city, for example, Havana BGM seems to be influenced by the Son cubano, Vegas BGM sounds with influences of North America's Western music and Rio BGM is influenced by samba and bossanova.
+Cars in the levels themselves have approximately 5 or 6 seconds of looped music, in Chicago it is Rock/Electro Beat style, Havana is Jazz-funk, Las Vegas is Funk/Soul and Rio is Drum & Bass.
+The licensed songs featured in the game (as listed in the credits) are:
+
+"Fever" by Dust Junkys – the first cutscene in Las Vegas with the trucks pulling into the gas station.
+"In the Basement" by Etta James – in a bar in Las Vegas where Tanner and Jones shoot pool.
+"Help Me" by Sonny Boy Williamson – Tanner arrives back at his apartment and confronts Jericho.
+"Sitting Here Alone" by Hound Dog Taylor – the opening scene of the game at the Red River bar.
+"Just Dropped In" by Kenny Rogers & The First Edition – plays over the end credits of the game.
+"Lacrimosa" by Mozart – the climactic scene in Rio at the base of the statue of Christ the Redeemer.
+
+
+== Reception ==
+
+The game received "mixed or average reviews" on both platforms according to the review aggregation website Metacritic.
+Ryan MacDonald of GameSpot concluded that the PlayStation version was "an extraordinary game". In a mixed review, Douglass C. Perry of IGN described the same console version as "one of the most disappointing games, if not the most disappointing game, of 2000". David Chen of NextGen said that the same console version "should please both newcomers and fans of the first, but it's not nearly as revolutionary or well executed."
+Air Hendrix of GamePro said of the PlayStation version in its January 2001 issue, "All told, Driver 2 definitely isn't a bad game, but its flaws prevent it from living up to its predecessor's huge Fun Factor. If you're a hardcore Driver fan, you'll probably stomach its blemishes and enjoy all the other things that it does well. If not, be sure to take this baby for a test drive before signing on the dotted line." 23 issues later, Star Dingo called Driver 2 Advance "a mildly impressive technical feat...well, for a Game Boy Advance game, anyway."
+
+
+=== Sales ===
+Driver 2 was counted as a success by Infogrames as the game sold 2 million units worldwide by February 2001. Alongside the Greatest Hits/Platinum release of Driver, Deer Hunter 4: World-Class Record Bucks and Unreal Tournament, the game was credited with an increased sale revenues for Infogrames North American Division during the Second Quarter of 2000-01 fiscal year. The PlayStation version received a "Platinum" sales award from the Entertainment and Leisure Software Publishers Association (ELSPA), indicating sales of at least 300,000 units in the UK. The same console version was the 12th best-selling game of 2001 in the UK. The same console version was also the 10th best-selling game of 2001 in the U.S., selling a total of 865,709 units. However, Grand Theft Auto III by Rockstar North, which is the closest competitor of the game, ultimately sold a total of 1.96 million units, edging out the game by approximately 1.1 million units.
+
+
+=== Awards ===
+The PlayStation version won a Blockbuster Entertainment Award in the "Favorite Video Game" category. GameSpot named the Game Boy Advance version the best game of October 2002. The same handheld version won the award for "Best Driving Game on Game Boy Advance" at GameSpot's Best and Worst of 2002 Awards, and was nominated for the "Best Graphics on Game Boy Advance" award, which went to Yoshi's Island: Super Mario Advance 3.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Driver 2 at MobyGames
+Driver 2 Advance at MobyGames
+Driver 2 retrospective at Gamer Limit

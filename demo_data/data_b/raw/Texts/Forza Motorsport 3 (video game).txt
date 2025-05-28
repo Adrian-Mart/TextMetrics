@@ -1,0 +1,62 @@
+Forza Motorsport 3 is a 2009 racing video game developed for Xbox 360 by Turn 10 Studios. It is the sequel to Forza Motorsport 2 and the third installment in the Forza series. The game includes more than 400 customizable cars (more than 500 cars in the Ultimate Collection version) from 50 manufacturers and more than 100 race track variations with the ability to race up to eight cars on track at a time. These cars vary from production cars to race cars such as those from the American Le Mans Series.
+
+
+== Gameplay ==
+
+New additions to the game include an in-car driving view, one button assisted driving, vehicle rollover with detailed undercarriages, drifting, drag racing, and SUVs (Mostly Crossovers). Also new to the series is the addition of stock cars, albeit generic. Furthermore, the game also provides the ability to paint and upgrade all cars, whereas Forza Motorsport 2 only allowed for production and tuner cars to be painted or upgraded (although one downloadable Peugeot LMP could be painted). Also included is the ability to upgrade certain production and tuner cars to the race-class level (represented by the performance ratings R3, R2, and R1) whereas Forza Motorsport 2 did not, as well as the ability to create in-game videos and upload them to the Forza Motorsport website. Forza Motorsport 3 is shipped on two discs, but only utilizes one for gameplay. The second disc serves as the "installation disc," which contains extra vehicles and track content, 1.9GB in total. Forza Motorsport 3 supports only two Force Feedback racing wheels: The Xbox 360 Wireless Racing Wheel and the Porsche 911 Turbo S wheel made by Fanatec.
+A new single-player season mode puts the player through a completely personalized racing calendar that includes more than 200 different events, including circuit, oval, drag, drift, and timed events personalized to the player's tastes. New to the series are Circuit de la Sarthe and Circuit de Catalunya. These tracks join Road Atlanta, Road America, Twin Ring Motegi, Silverstone, Laguna Seca, Tsukuba, Mugello Circuit, Sebring International Raceway, Suzuka Circuit, and Nürburgring Nordschleife as the licensed real-world tracks included in the game.
+In addition, the online multiplayer mode gains an all-new game rules editor. New Xbox Live scoreboards display not only the greatest racers but also the most prolific car tuners, and painters in the community. Forza Motorsport 3 received great recognition for its accessibility features, most notably an assist mode allowing acceleration and braking to be automatically controlled, reducing the number of inputs required to just two—left and right, for steering. This allows compatibility with a wide range of assistive technology devices via switch access, opening up the game to players with multiple and profound disabilities that prevent them from operating a standard controller. The game includes a large variety of Xbox Live content and options available to online gamers. This is based around a completely redesigned "storefront". It allows gamers to create car designs, setup files, logos and sell them via the "storefront" to other gamers. Further flexibility is available, allowing players to select how many of each car design or logo will be available. The storefront feature is not available to Xbox Live Silver members. Xbox Live users are also able to buy and sell cars via the "auction house." Cars are put up for a certain amount of time and for a certain amount of in-game currency. Players can choose to out-bid each other in order to buy a car. Players can also buy and sell their personalized paint jobs for cars.
+
+
+== Development and marketing ==
+
+
+=== Development ===
+During another interview at E3 2009, game director Dan Greenawalt revealed that the updated physics engine would include tire deformation, and the ability to flip the car over. He also included that there is a "pressure" system in which the A.I., depending on how the difficulty is set, would make mistakes when under pressure. In addition to improvements to the A.I. and physics, the new Photo Mode features ten times more polygons in each car model, bump mapping, and texture resolutions four times higher than before. Also, it is confirmed that the game would run at 60 frames per second. The interview also revealed that there would be several scoreboards ranging from driver scoreboards to painting and tuner leaderboards. There also would be a video editor feature available. Greenawalt stated that Project Blackjack, the team that made an E3 trailer, used capture cards to make their videos. The video editor grants players more possibilities. Players would also be able to create their own race rules but only in private matches as public matches are held through a matchmaking system that has no customization for the player. The player instead has to choose from one of the hoppers provided which are A-R class races. Unlike its predecessors, Forza Motorsport 3 does not support System Link.
+At the E3 2009 Microsoft Press Conference, Turn 10 mentioned a rewind feature (much like the "flashback" feature on Race Driver: Grid and DiRT 2), but did not divulge specifics. It was later revealed at the E3 2009 coverage council that the rewind feature allows players to turn back time to fix previous mistakes made on the track. The rewind feature has no limit on how many times it may be used but afterwards the player must wait 30 seconds before being able to rewind again. It is one of the many assists in Forza Motorsport 3.
+The sound design team created car audio by recording each car or at least each engine featured in the game. They added to their extensive library of engine sounds from previous games by recording actual cars either locally, by traveling, or by partnering with others perform the recording sessions. The team always used a specific mic and input setup on the cars while running them on chassis dynos for consistent sound. Tire noise is crucial for communicating feedback to players on their car handling at the limit of grip. The developers set out to capture the full range of traction and grip sounds by recording tires on different surfaces, and then implemented that into the game audio system. For in-game programming, the developers used FMOD API with custom code and debug menus to modulate audio sound effects such as distortion, panning, EQ, volume, and compression—all as functions of car physics parameters.
+
+
+=== Release ===
+
+A redeemable code was packaged with new copies of the game for a free DLC known as the "Motorsports Legends Car Pack", which includes 10 classic cars (such as the 1960 Chevrolet Corvette, 1964 Aston Martin DB5, the 1969 Dodge Charger Daytona, and the 1965 Shelby Daytona) and two extra tracks. A special Hyundai Genesis Coupe DLC pack was released for free on November 17, 2009, containing three versions of the car. The first paid downloadable content for Forza Motorsport 3 was made available on December 8, 2009. It is known as the "Hot Holidays" pack and includes the 2010 Ferrari 458 Italia and 2010 Nissan GTR SpecV. The Nürburgring GP Strecke was made available for download on February 9, 2010. On December 14, 2010, a "Community Choice Classics" pack was released for download. It includes the DeLorean, AMC Javelin, Chevrolet El Camino, De Tomaso Pantera, BMW 2002, and Ferrari 250.
+Three editions of Forza Motorsport 3 have been released: Standard and Limited Edition and a later Ultimate Collection. The Limited Edition consists of a Forza branded USB stick; a Forza branded key chain, a VIP Membership for use on the online Auction House and Community Storefront; an exclusive car pack of five cars; and a Forza Motorsport 3 theme for the Xbox 360 dashboard. In September 2009, Microsoft announced a special limited edition black Xbox 360 Elite console for Forza Motorsport 3. The unit includes a 250 GB hard drive, two black wireless controllers, a black wired headset, an Ethernet cable, a standard definition composite A/V cable, and the standard edition version of the game. In October, 2010, an Ultimate Collection version was released, which includes all DLC along with several new cars including the Plymouth 'Cuda, Jaguar D-Type, Lancia 037, and Porsche 550. Also included was an exclusive DLC pack titled "Stig’s Garage Car Pack" which included the Mercedes-Benz SLS AMG, the Koenigsegg CCX, and the Lexus LFA. This pack was exclusive to the Ultimate Collection and angered many fans who had bought the game previously and were now excluded from having the new cars. In October 2013, all downloadable content was removed prior to the release of Forza Motorsport 5.
+
+
+== Soundtrack ==
+
+In December 2009, the Forza Motorsport 3 soundtrack composed by Lance Hayes (known as DJ Drunken Master) was made available at retail and as a digital download from Sumthing Digital and iTunes. Featuring cuts from the primarily ambient electronica score; a selection of 13 tracks with over an hour of music. Unfortunately four tracks were cut from the official soundtrack, possibly due to CD time constraints, these being; Hot Wheels Hawks, Simulated Physics, Pinion, and an ambient piece from the Initial Experience. A race track entitled Oversquare is also missing. Licensed tracks also include "Cygnes" by Mr. Sam & Claud9 (music and lyrics by Claudio Pelissero), "Tick Tick Boom" by The Hives, "Talk Me Down" by Mistabishi, "Send a Little Love Token" by The Duke Spirit and "Suburban Knights" by Hard-Fi.
+Some game UI sounds are tones and samples pulled directly from the soundtrack.
+
+
+== Reception ==
+
+Forza Motorsport 3 received "universal acclaim" like its first two predecessors according to the review aggregation website Metacritic. IGN called it 'One of the best racing games of this generation'. Criticism mainly stemmed from the grid being much smaller than rival games (only 8 cars), the inability for users to tune their vehicles during public multiplayer racing, and the inability to create custom public multiplayer races. Turn 10 however is adding more modes to the online lobbies in an attempt to counter this problem, such as the Playground lobby which lets users play Tag Mode online in public races but custom public lobbies are currently unavailable.
+411Mania gave the game a score of nine out of ten and said, "Turn 10 may have dethroned Gran Turismo as the sim racing King. This game is breathtaking in every sense of the word and you’ll be hard pressed to find a more complete game in any genre. A must have for any racing fan." The Daily Telegraph also gave it nine out of ten, saying, "With Forza Motorsport 3 Turn 10 have made great strides towards accessibility, but have managed to do so without compromising what remains the most open, detailed and enjoyable racing simulation on the market." However, Wired gave it eight stars out of ten, saying that the game's "main mission" is "to deliver a realistic racing experience with more than 400 licensed cars and 100 real-world tracks. Consider that a mission accomplished — or at the very least rewound and nailed again on the third go-round." In Japan, Famitsu gave it a score of all four nines for a total of 36 out of 40.
+
+
+=== Awards ===
+Forza Motorsport 3 won numerous awards.
+
+At the 2009 Spike Video Game Awards, Forza Motorsport 3 was named the Best Driving Game.
+During the 13th Annual Interactive Achievement Awards, Forza Motorsport 3 was awarded "Racing Game of the Year", along with a nomination for "Outstanding Achievement in Gameplay Engineering".
+Forza Motorsport 3 was given GameSpot's Driving Game of the Year award for 2009.
+Forza Motorsport 3 received the AbleGamers' Mainstream Accessible Game of the Year award for 2010.
+Forza Motorsport 3 was one of GameSpot's 2009 editors' choice awards.
+Forza Motorsport 3 was awarded Best Xbox 360 Racing Game of the Year by IGN.
+Forza Motorsport 3 was given G4TV's Best Racing Game of 2009 award.
+Forza Motorsport 3 was named CNNTech's Best Racing Game of 2009.
+Forza Motorsport 3 was nominated for the Best Xbox 360 Game of the Year by GameSpot.
+Forza Motorsport 3 received the 2009 Crystal Award for Driving Game of the Year.
+Forza Motorsport 3 was given the Best Racing Game of 2009 award by GameTrailers.
+
+
+== See also ==
+Racing game
+
+
+== References ==
+
+
+== External links ==
+Forza Motorsport 3 at MobyGames

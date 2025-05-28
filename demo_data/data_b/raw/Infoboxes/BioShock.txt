@@ -1,0 +1,86 @@
+BioShock
+Developer(s)
+2K Boston
+2K Australia
+[
+a
+]
+Publisher(s)
+2K
+Director(s)
+Ken Levine
+Designer(s)
+Paul Hellquist
+Programmer(s)
+Rowan Wyborn
+Christopher Kline
+Artist(s)
+Scott Sinclair
+Writer(s)
+Ken Levine
+Composer(s)
+Garry Schyman
+Series
+BioShock
+Engine
+Unreal Engine 2
+[
+4
+]
+Platform(s)
+Microsoft Windows
+Xbox 360
+PlayStation 3
+Mac OS X
+iOS
+Release
+
+
+August 21, 2007
+
+
+Windows
+, 
+Xbox 360
+NA
+:
+ August 21, 2007
+[
+2
+]
+PAL
+:
+ August 24, 2007
+[
+1
+]
+[
+2
+]
+PlayStation 3
+PAL
+:
+ October 17, 2008
+NA
+:
+ October 21, 2008
+[
+3
+]
+Mac OS X
+NA
+:
+ October 7, 2009
+EU
+:
+ October 7, 2009
+iOS
+WW
+:
+ August 27, 2014
+
+
+Genre(s)
+First-person shooter
+Mode(s)
+Single-player

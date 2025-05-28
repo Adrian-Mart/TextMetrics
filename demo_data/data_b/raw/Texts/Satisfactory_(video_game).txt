@@ -1,0 +1,38 @@
+Satisfactory is a 2024 factory simulation game by Coffee Stain Studios for Windows. The player (a "Pioneer") is dropped onto an alien planet with a handful of tools and must exploit the planet's natural resources to construct increasingly complex factories. The initial goal is to construct a space elevator, through which the Pioneer begins supplying the megacorp the player works for (FICSIT Inc.) with increasingly numerous and complex components for their unknown, but stated to be prudent, purposes. These exports unlock access to new technology that in turn unlocks a new tier of manufacturing and refinement machines to support the production of the next phase of parts to be delivered to FICSIT.
+Satisfactory was made available for early access on 19 March 2019. By January 2024, the game had sold 5.5 million copies. The full version of the game was released on 10 September 2024. With the full release, Coffee Stain has also announced plans for a console version.
+
+
+== Gameplay ==
+Satisfactory is played from the first-person perspective and features cooperative multiplayer. The player takes the role of a FICSIT Pioneer who is sent to a resource-rich planet to collect and refine resources. They must build out an automated factory and supporting infrastructure. The ultimate goal is the mass-manufacture of unknown components, which are sent to FICSIT using a space elevator. The player spawns on a pre-designed map in one of four locations, and must explore on foot to find resources and lift the fog of war on their map. FICSIT guides the player through a series of tiers, each completed by collecting resources and crafting a specified number of components. Each tier unlocks new equipment, blueprints, and technologies, allowing the player to expand and upgrade their factory. As players advance through tiers, automation becomes necessary to produce the large quantities of complex items that FICSIT requires. Conveyor belts, pipelines, trucks, trains, and drones are unlocked at various stages and are used to transport resources and components. The player must also build and upgrade a power grid to run their factory.
+
+
+== Development and release ==
+Satisfactory was first announced at E3 2018. Coffee Stain Studios tested the game through closed alpha test in mid-2018, before releasing it into open early access release in March 2019, initially with a year-long period of exclusivity on the Epic Games Store. The game was originally built using Unreal Engine 4 as the studio had past experience with it for their previous titles of Sanctum and Goat Simulator. By November 2023, Coffee Stain migrated the game to Unreal Engine 5, which provided improved performance and a more stable foundation for future updates. The game's world is not procedurally generated, and is instead a number of manually-created biomes covering an estimated 30 square kilometres (12 sq mi) area. The map is far larger than the open worlds that Coffee Stain has created in previous games.
+
+
+== Reception ==
+
+
+=== Critical response ===
+
+Satisfactory received "universal acclaim" from critics, according to review aggregator Metacritic.
+Rock Paper Shotgun compared the building element of Satisfactory to Wube Software's Factorio.
+
+
+=== Sales ===
+Within three months of its early-access release, over 500,000 copies had been sold. By July 2020, more than 1.3 million copies had been sold, while reaching 5.5 million sales by January 2024. Based on data collected by Simon Carless in mid-2021, Satisfactory had made at least US$11.5 million in revenue, surpassing the amount that Epic Games had assured as a minimum payout to Coffee Stain.
+
+
+=== Awards ===
+Satisfactory was named the PC Game of the Year at the 2024 Golden Joystick Awards.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official website 
+Official wiki

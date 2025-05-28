@@ -1,0 +1,154 @@
+Tom Clancy's Splinter Cell
+Developer(s)
+Ubi Soft Montreal
+[
+a
+]
+Publisher(s)
+Ubi Soft
+Aspyr Media
+ (Mac)
+[
+12
+]
+Producer(s)
+Mathieu Ferland
+Reid Schneider
+Designer(s)
+Nathan Wolff
+Clint Hocking
+[
+13
+]
+Programmer(s)
+Antoine Dodens
+Artist(s)
+Hugo Dallaire
+Writer(s)
+J.T. Petty
+Clint Hocking
+Composer(s)
+Michael Richard Plowman
+Series
+Tom Clancy's Splinter Cell
+Engine
+Unreal Engine 2
+Platform(s)
+Xbox
+Microsoft Windows
+PlayStation 2
+GameCube
+Game Boy Advance
+Mobile
+N-Gage
+Mac OS X
+PlayStation 3
+Release
+
+
+November 18, 2002
+
+
+
+
+Xbox
+NA
+:
+ November 18, 2002
+[
+2
+]
+EU
+:
+ November 29, 2002
+[
+1
+]
+Microsoft Windows
+NA
+:
+ February 18, 2003
+[
+4
+]
+EU
+:
+ February 28, 2003
+[
+3
+]
+Mobile
+WW
+:
+ March 3, 2003
+[
+5
+]
+PlayStation 2
+EU
+:
+ March 28, 2003
+[
+7
+]
+NA
+:
+ April 8, 2003
+[
+6
+]
+GameCube
+NA
+:
+ April 8, 2003
+[
+6
+]
+EU
+:
+ June 6, 2003
+[
+8
+]
+Game Boy Advance
+NA
+:
+ April 24, 2003
+[
+9
+]
+EU
+:
+ June 6, 2003
+[
+8
+]
+N-Gage
+EU
+:
+ December 5, 2003
+NA
+:
+ December 10, 2003
+Mac OS X
+NA
+:
+ September 29, 2004
+[
+10
+]
+PlayStation 3
+EU
+/
+AU
+:
+ September 16, 2011
+NA
+:
+ September 27, 2011
+
+
+Genre(s)
+Stealth
+Mode(s)
+Single-player

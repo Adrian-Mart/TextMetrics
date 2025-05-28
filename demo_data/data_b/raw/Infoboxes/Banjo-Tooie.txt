@@ -1,0 +1,46 @@
+Banjo-Tooie
+North American Nintendo 64 box art
+Developer(s)
+Rare
+[
+a
+]
+Publisher(s)
+Nintendo
+[
+b
+]
+Designer(s)
+Gregg Mayles
+Programmer(s)
+Chris Sutherland
+Paul Machacek
+Artist(s)
+Steve Mayles
+Composer(s)
+Grant Kirkhope
+Series
+Banjo-Kazooie
+Platform(s)
+Nintendo 64
+Xbox 360
+Release
+Nintendo 64
+NA
+:
+ 20 November 2000
+EU
+:
+ 12 April 2001
+Xbox 360
+WW
+:
+ 29 April 2009
+Genre(s)
+Platform
+, 
+action-adventure
+Mode(s)
+Single-player
+, 
+multiplayer

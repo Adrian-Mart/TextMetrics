@@ -1,0 +1,51 @@
+Total Annihilation
+Developer(s)
+Cavedog Entertainment
+Publisher(s)
+NA
+:
+ Cavedog Entertainment
+[
+3
+]
+EU
+:
+ 
+GT Interactive
+Producer(s)
+Ron Gilbert
+[
+4
+]
+Designer(s)
+Chris Taylor
+Artist(s)
+Clayton Kauzlaric
+[
+5
+]
+Composer(s)
+Jeremy Soule
+Platform(s)
+Microsoft Windows
+, 
+Mac OS
+Release
+UK
+:
+ September 25, 1997
+[
+2
+]
+NA
+:
+ September 27, 1997
+[
+1
+]
+Genre(s)
+Real-time strategy
+Mode(s)
+Single-player
+, 
+multiplayer

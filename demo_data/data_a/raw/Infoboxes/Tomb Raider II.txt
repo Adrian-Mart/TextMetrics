@@ -1,0 +1,53 @@
+Tomb Raider II
+Developer(s)
+Core Design
+[
+a
+]
+Publisher(s)
+Eidos Interactive
+[
+b
+]
+Producer(s)
+Troy Horton
+Designer(s)
+Neal Boyd
+Heather Gibson
+Programmer(s)
+Gavin Rummery
+Artist(s)
+Stuart Atkinson
+Jocelyn Charmet
+Writer(s)
+Vicky Arnold
+Composer(s)
+Nathan McCree
+Series
+Tomb Raider
+Platform(s)
+Microsoft Windows
+PlayStation
+Mac OS
+iOS
+Android
+Release
+Windows, PlayStation
+NA
+:
+ 21 November 1997
+EU
+:
+ 21 November 1997
+Mac OS
+NA
+:
+ October 1998
+iOS
+3 December 2014
+Android
+28 October 2015
+Genre(s)
+Action-adventure
+Mode(s)
+Single-player

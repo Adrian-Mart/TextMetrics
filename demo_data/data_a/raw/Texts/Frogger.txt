@@ -1,0 +1,95 @@
+Frogger is a 1981 arcade action game developed by Konami and published by Sega. In North America, it was distributed by Sega/Gremlin. The object of the game is to direct five frogs to their homes by dodging traffic on a busy road, then crossing a river by jumping on floating logs, turtles and alligators.
+Frogger was positively received as one of the greatest video games ever made. It was followed by numerous clones and several home-only sequels in the Frogger series. The 1982 Atari 2600 version from Parker Brothers sold 4 million cartridges, making it one of the best-selling Atari 2600 games. By 2005, 20 million copies of its various home video game incarnations had been sold worldwide.
+
+
+== Gameplay ==
+The objective of the game is to guide a frog to each of the empty homes at the top of the screen. The game starts with three, five, or seven frogs, depending on the machine's settings. Losing all frogs is game over. The player uses the 4-direction joystick to hop the frog once. Frogger is either single-player or two players alternating turns.
+
+The frog starts at the bottom of the screen, which contains a horizontal road occupied by speeding vehicles such as race cars, dune buggies, trucks, and bulldozers. The player must guide the frog between opposing lanes of traffic to avoid becoming roadkill and losing a life. After crossing the road, a median strip separates the two major parts of the screen. The upper half consists of a river with logs, alligators, and turtles, all moving horizontally across the screen in opposite directions. By jumping on swiftly moving logs and the backs of alligators and turtles, the player can guide the frog to safety. The player must avoid snakes, otters, and the open mouths of alligators. A brightly colored female frog is sometimes on a log and may be carried for bonus points. The very top of the screen contains five "frog homes", and at least one is always open and available. These sometimes contain bonus insects or deadly alligators.
+When all five frogs are in their homes, the game progresses to the next level with increased difficulty. After five levels, the difficulty briefly eases and yet again progressively increases after each level. The timer gives 30 seconds to guide each frog into one of the homes, and resets back to 60 ticks whenever a life is lost or a frog reaches home safely.
+In 1982, Softline stated that "Frogger has earned the ominous distinction of being 'the arcade game with the most ways to die'." There are many different ways to lose a life (illustrated by a skull and crossbones symbol where the frog was), including being run over by a road vehicle; jumping into the river; running into snakes, otters, or an alligator's jaws; sinking while on top of a diving turtle; riding a log, alligator, or turtle off the side of the screen; jumping into a home already occupied by a frog or alligator; jumping into the side of a home or the bush; or running out of time.
+The opening tune is the first verse of a Japanese children's song called "Inu No Omawarisan" ("The Dog Policeman"). Other Japanese tunes include the themes to the anime series Hana no Ko Lunlun and Rascal the Raccoon. The American release has the same opening song plus "Yankee Doodle".
+
+
+=== Scoring ===
+Forward steps score ten points, and every frog arriving safely home scores 50. Ten points are awarded per each unused ½ second of time. Guiding a lady frog home or eating a fly scores 200 each, and when all five frogs reach home to end the level the player earns 1,000 points. A single bonus frog is given at 20,000 points. 99,990 points is the maximum high score that can be achieved on an original arcade cabinet. Players may exceed this score, but the game "rolls over" and only keeps the last 5 digits.
+
+
+== Release ==
+The game was developed by Konami. On July 22, 1981, Sega gained exclusive rights to manufacture the game worldwide.
+
+
+=== North America ===
+Sega/Gremlin was skeptical about Frogger's earning potential in North America. This was because no other company licensed the game. Also, an earlier game called Frogs that was developed there had flopped. It was believed that Eliminator would be the company's next big hit. Elizabeth Falconer, a market researcher at Sega/Gremlin, was tasked by Gremlin founder Frank Fogleman to check Gremlin's library of video presentations to see if there was anything worth licensing, and she stumbled across Frogger.
+Thinking the game deserved a chance though being "cute", she requested a licensing window for playtesting. She persuaded executives who denigrated Frogger as a "women and kids game" by reminding them of Pac-Man. Sega/Gremlin agreed to pay Konami $3,500 per day for a 60-day licensing window. A prototype was playtested in a San Diego bar and was so successful that distributors agreed to resell the game based on the test alone.
+Wanting to broaden the player base demographics, Jack Gordon, the director of video game sales at Sega/Gremlin, noted that women shied away from the "shoot em' ups" on the market and that games like Frogger "filled the void".
+
+
+== Ports ==
+
+Frogger was ported to many contemporary home systems. Several platforms such as the Commodore 64 support both ROM cartridges and magnetic media, so they received multiple versions of the game.
+Sierra On-Line gained the magnetic media rights and sublicensed them to developers who published for systems not normally supported by Sierra. Cornsoft published the official TRS-80/Dragon 32, Timex Sinclair 1000, and Timex Sinclair 2068 ports. Because of that, even the Atari 2600 received multiple releases: a standard cartridge and a cassette for the Starpath Supercharger. Sierra released disk or tape versions for the Commodore 64, Apple II, original Macintosh, IBM PC and Supercharger-equipped 2600, and cartridge versions for the TRS-80 Color Computer
+Parker Brothers received the license from Sega for cartridge versions which it released for the Atari 2600, Intellivision, Atari 5200, ColecoVision, Atari 8-bit computers, TI-99/4A, VIC-20 and Commodore 64. Parker Brothers spent $10 million on advertising Frogger. The Atari 2600 version was programmed by Ed English.
+Coleco released stand-alone Mini-Arcade tabletop versions of Frogger, which, along with Pac-Man, Galaxian, and Donkey Kong, had three million sales combined.
+The game was ported to systems such as the PC-6001 and Game Boy (with two separate releases for the Game Boy and Game Boy Color in 1998). Frogger is one of the 6 launch games for the 1983 Gakken Compact Vision TV Boy.
+
+
+== Reception ==
+
+Reporting on Gordon's claim that Frogger's appeal lacked barriers of age or sex, Cashbox in October 1981 said "watch for it". Distributors reportedly found that Gordon's statement was accurate, with women enjoying its "non-aggressive yet challenging" gameplay. Frogger's success increased production, becoming one of the top-grossing arcade games in North America during 1981. The arcade game earned over $135 million (equivalent to $467 million in 2024) for Sega/Gremlin in US cabinet sales, becoming the most successful Sega/Gremlin release. In Japan, Frogger was the 12th highest-grossing arcade game of 1981.
+Home versions of Frogger had high sales. The 1982 Atari 2600 version earned its publisher Parker Brothers $40 million in orders upon launch. By the end of the year, 4 million Atari 2600 cartridges were sold with $80,000,000 (equivalent to $261,000,000 in 2024) in wholesale revenue. It became the company's most successful first-year product, beating the sales and revenues of its previous best-seller, Merlin. By 2005, 20 million copies of the various home versions had been sold worldwide, including 5 million in the United States.
+In 1981, Computer and Video Games reviewed the arcade game as "one of the popular new generation of arcade games which are getting way from space themes". In his 1982 book Video Invaders, Steve Bloom described Frogger as a "climbing game" along with Space Panic (1980) and Nintendo's Donkey Kong (1981). He said it was one of the "most exciting variations" on Pac-Man's maze theme along with Donkey Kong due to how players need to "scale from the bottom of the screen to the top" which make them "more like obstacle courses than mazes" since "you always know where you're going—up." Brett Alan Weiss of AllGame later reviewed the arcade game, calling it one of "the most beloved videogames ever created" and "pure, undiluted gaming at its finest". He said the "graphics are cute and detailed, the sound effects are crisp and clear, and the controls are sharp and responsive".
+Arcade Express reviewed the Atari VCS version in 1982, calling it "a highly authentic translation of the coin-op hit" that combines "great graphics with sophisticated play action". Ed Driscoll reviewed the Atari VCS version in The Space Gamer, commenting: "All in all, if you liked the arcade version, this should save you a lot of quarters. The price is in line with most cartridges. It also proves that Atari isn't the only one making home versions of the major arcade games for the VCS." Danny Goodman of Creative Computing Video & Arcade Games wrote in 1983 that the Atari 2600 version "is one of the most detailed translations I have seen", noting the addition of the wraparound screen. InfoWorld's Essential Guide to Atari Computers cited the Sierra version as an entertaining arcade game. Ahoy! said that both the Sierra disk version and Parker Brothers cartridge version for the Commodore 64 "are excellent, with little to choose between them".
+In 2013, Entertainment Weekly named Frogger one of the top ten games for the Atari 2600.
+
+
+=== Reviews ===
+Games
+
+
+== Legacy ==
+
+
+=== Remakes and sequels ===
+
+In 1997, Hasbro Interactive released Frogger, a vastly expanded remake of the original for Windows and the PlayStation. Unlike the original, it consists of multiple different levels. It was a commercial success, with Windows sales alone at nearly one million units in less than four months. In 1998, Hasbro released a series of versions of the game for the Sega Genesis, Super NES, Game.com, Game Boy, and Game Boy Color. Each version has different graphics, with the Genesis version having the same as the original arcade game. The Genesis and SNES versions are the last games released for those consoles in North America. Though using the same box art, they are otherwise unrelated to the 1997 remake.
+In 2005, InfoSpace worked with Konami Digital Entertainment to create the mobile game Frogger for Prizes, in which players across the U.S. competed in multiplayer tournaments to win daily and weekly prizes. In 2006, the mobile game version of Frogger grossed over $10 million in the United States. A Java version was released for compatible mobile phones.
+Frogger was released on the Xbox Live Arcade for the Xbox 360 on July 12, 2006. It was developed by Digital Eclipse and published by Konami. It has two new gameplay modes: versus speed mode and co-op play. Some of the music was replaced, including the familiar Frogger theme. This version is in the compilation Konami Classics Vol. 1.
+The original 1981 arcade version joined the Nintendo Switch and PlayStation 4 Arcade Archives on December 12, 2019.
+
+
+=== Clones ===
+Video game clones include Ribbit for the Apple II (1981), Acornsoft's Hopper (1983) for the BBC Micro and Acorn Electron, A&F Software's Frogger (1983) for BBC Micro and ZX Spectrum, PSS's (Personal Software Services) Hopper for the Oric-1 in the UK (1983) and a later release for the ORIC Atmos, Froggy for the ZX Spectrum released by DJL Software (1984), Solo Software's Frogger for the Sharp MZ-700 (1984) in the UK, and Leap Frog for the NewBrain.
+Several clones retain the basic gameplay of Frogger and change the style or plot. Pacific Coast Highway (1982), for the Atari 8-bit computers, splits the gameplay into two alternating screens: one for the highway, one for the water. Preppie! (1982), for the Atari 8-bit changes the frog to a preppy retrieving golf balls at a country club. Frostbite (1983), for the Atari 2600, uses the Frogger river gameplay with an arctic theme. Crossy Road (2014), for iOS, Android and Windows Phone, has a randomly generated series of road and river sections in one endless level, with only one life and a single point given for each forward hop.
+
+
+=== In popular culture ===
+In 1983, Frogger made its animated television debut as a segment on CBS's Saturday Supercade cartoon lineup. Frogger, voiced by Bob Sarlatte, worked as an investigative reporter.
+The hardcore punk band Bad Religion recorded a song titled Frogger, included on their 1985 EP Back to the Known, which uses the game as a metaphor to describe the traffic in the band's hometown of Los Angeles. The song even opens with a sample of the game's theme music.
+In the 1998 Seinfeld episode "The Frogger", Jerry and George visit a soon-to-be-closed pizzeria they frequented as teenagers and discover the Frogger machine still in place, with George's decade-old high score still recorded.
+Frogger appears in the films Wreck-It Ralph, Pixels and Ralph Breaks the Internet.
+A scene in the Teen Titans episode "Cyborg the Barbarian" parodies the game.
+In 2006, a group in Austin, Texas, used a modified Roomba dressed as Frogger to play a real-life version of the game.
+In science, Frogger is the name given to a transposon ("jumping gene") family in the fruit fly Drosophila melanogaster.
+In 2008, the City of Melbourne created a spin-off called Grogger as part of a public service campaign to encourage people to take safe transportation home after a night of drinking.
+
+
+=== Game show ===
+Konami announced that a Frogger game show was in production for Peacock, produced by Konami Cross Media NY and Eureka Productions. It debuted on September 9, 2021.
+
+
+== Competition ==
+On November 26, 1999, Rickey's World Famous Sauce offered $10,000 to the first person who could score 1,000,000 points on Frogger or $1,000 for a new world record prior to January 1, 2000. On March 25, 2005, Robert Mruczek offered $1,000 for beating the fictitious world record of 860,630 as set by George Costanza in an episode of Seinfeld or $250 for a new world record by the end of that year. On December 1, 2006, John Cunningham offered $250 for exceeding the same fictitious world record of 860,630 points by February 28, 2007. These scores were surpassed only after the bounties had all expired.
+The first and only score to have been verified as having beaten George Costanza's fictional score of 860,630 points was set by Pat Laffaye of Westport, Connecticut on December 22, 2009, with 896,980 points. He continues to be the current Frogger world record holder, who on August 15, 2017 set a new personal best by scoring 1,029,990 points, also becoming the first and only person verified to break one million points on an original arcade machine.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Frogger at the Killer List of Videogames
+Frogger at the Arcade History database
+Frogger at MobyGames

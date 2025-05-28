@@ -1,0 +1,43 @@
+Fallout 3
+Developer(s)
+Bethesda Game Studios
+Publisher(s)
+Bethesda Softworks
+Director(s)
+Todd Howard
+Producer(s)
+Ashley Cheng
+Gavin Carter
+Designer(s)
+Emil Pagliarulo
+Programmer(s)
+Guy Carver
+Steve Meister
+Artist(s)
+Istvan Pely
+Writer(s)
+Emil Pagliarulo
+Composer(s)
+Inon Zur
+Series
+Fallout
+Engine
+Gamebryo
+Platform(s)
+Microsoft Windows
+PlayStation 3
+Xbox 360
+Release
+NA
+:
+ October 28, 2008
+PAL
+:
+ October 31, 2008
+JP
+:
+ December 4, 2008
+Genre(s)
+Action role-playing
+Mode(s)
+Single-player

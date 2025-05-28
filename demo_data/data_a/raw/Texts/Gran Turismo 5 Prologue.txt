@@ -1,0 +1,108 @@
+Gran Turismo 5 Prologue is a 2007 sim racing video game developed by Polyphony Digital and published by Sony Computer Entertainment for the PlayStation 3. It is the eighth overall installment in the Gran Turismo series. Gran Turismo 5 Prologue is a precursor to Gran Turismo 5, in celebration of the series' tenth anniversary.
+The game has sold 5.09 million copies worldwide, making it the second highest-selling PlayStation 3 exclusive title after its successor, Gran Turismo 5.
+
+
+== Gameplay ==
+
+This game introduced the ability to race with up to 16 cars at once to the Gran Turismo series. According to game developer Polyphony Digital, the NPC's AI has also improved from previous Gran Turismo games.
+New to the series is the realistic in-car view feature. It includes functioning speedometers, odometers, reflecting rear-view mirrors, wing mirrors and real-time in-car lighting effects, such as shadows. Players driving with either the control pad or the steering wheel can look left and right in the cockpit of the car by using the D-pad. This function can be mapped to other buttons on the controller if preferred. Any PlayStation 3 - compatible steering wheel works with Gran Turismo 5 Prologue. Three viewing modes show the car from exterior angles. The fourth, called "cockpit mode", includes the driver's perspective from the interior of the car looking past the steering wheel to the track and is available only for "premium" cars.
+The Spec II update brings Drift Mode (similar to that of Gran Turismo HD Concept), car tuning adjustments, and head to head two-player racing offline.
+
+
+=== Online ===
+Gran Turismo 5 Prologue is the first mass-produced Gran Turismo game to feature online multiplayer. Up to 16 players can play online at once in GT5 Prologue. Since Gran Turismo 5's development cycle was so long, GT5 Prologue's servers were online for two years even though the game only served as a prologue. Gran Turismo 4 for the PlayStation 2 was intended to contain an online component, but this feature was pulled before the game's release to avoid further delays; a beta of GT4 online was even released. Gran Turismo HD Concept also contained an online Time Trial feature.
+The latest update, entitled Spec III, added new cars and further improvements to the game and was released in October 2008. A separate disc was also released in Japan that included all updates, including Spec III. The Platinum release of the game, originally unveiled in Europe, also comes with the Spec III update.
+
+
+=== Interface ===
+
+The game has a brand new interface called 'My Page' that acts as the player's personalized menu for the game. When the game starts up, the player is taken straight to this interface, and the currently selected car is displayed on the screen in a picturesque real-life location. The vehicle is set in a Full HD advanced 3D environment with a 360° camera and the GUI's real-time zoom-in function is enabled.
+In the Japanese version, the 'My Page' interface includes:
+
+News: a regularly updated online log archiving game news such as newly added Online Event Races, VOD programs or technical information such as server maintenance schedule.
+GT-TV: a Video-on-demand service was offering free of charge and playable HD content. Available videos are real-life car-related videos such as new model tests, Auto show reports, car documentaries, or special event videos. Game videos such as opening and ending movies are also available for download from the Blu-ray Disc to the console's HDD once unlocked. However, premium content was discontinued on December 29, 2009, to move focus to the release of the full game.
+Online: Online Events consist of either multiplayer races from 2 up to 16 players (some of which are world scale), or online Time Trial events. Each event is limited in time, once finished, a ranking board shows the most successful players' scores. Top players' replay files are made available for download as ghost replays. Each week new events with their specific parameters (car class, tire types, assistance level, etc.) are added to the list while older are closed.
+Ranking: an online ranking board for each course archiving the best record per track and car.
+Arcade: a single race mode is allowing the player to choose a track to race on board the currently selected car and to compete against 15 AI-controlled cars. Credits are not earned in this mode.
+2P Battle: an offline two-player split-screen mode.
+Event: Event Races are championships, time trials and mission races against the AI in various classes. Once completed in Gold, Silver, or Bronze level, new, harder classes are made available. Credits are earned by the player as he wins the races in top positions. Three basic classes are available Class C, B, and A. Once Class A is completed, the game's ending movie is available for download in GT-TV, and a bonus class called Class S is added.
+Garage: where the players' cars can be viewed, raced and also sold to earn credits.
+Dealerships: where the player can buy a new car using credits earned from Event races. Various models from world-famous automakers are available for purchase in the showroom. Some automakers have their Event race consisting of a one-make race for a specific model. Brand related News is regularly provided through online updates.
+Replay: saved or downloaded replays are available for watching.
+Option: various options settings for the game.
+Manual: the game's Playing Manual is displayed on-screen. The Manual is almost always updated with a software update.
+Save: allows to record the game when the auto-save feature is disabled.
+When the user's PlayStation Network account is signed off, online content related icons are disabled (1, 2, 3 and 4). The Museum is activated from the 'My Page' interface once the game is in rolling demo mode. This feature provides the players with automakers' background and history.
+
+
+=== Updates ===
+Updates were available on game boot through online download, all free. Game content such as new cars, game modes or GT-TV videos were added with each update. Some elements such as BGMs are regionally exclusive due to licensing issues. Once Polyphony Digital begun to focus on Gran Turismo 5, it stopped applying updates to GT5 Prologue.
+
+
+=== GT-TV ===
+The Gran Turismo TV feature was introduced in the free demo version. The VOD service was activated on October 22, 2007, providing free SD trailers for three upcoming GT-TV programs, Super GT ("Climax Digest"), D1 Grand Prix ("Top of the Drifting World") and Best Motoring ("Best Motoring Trailer"). From October 22 to November 30 three GT-TV exclusive HD videos featuring game producer Kazunori Yamauchi premiered in the demo: "First Impression: Lancer Evolution X", "Tokyo Motor Show 2007" and "GT-R Legend Inside Story part I".
+The demo was removed from the Japanese PlayStation Store on November 30 and its online functions ended on December 6, however all issued VOD videos were later re-released in the game's retail version through updates, except the SD trailers. "The GT-R Legend Inside Story" part 1 documentary was included in the Blu-ray Disc though. It was later completed by parts II & III, both released through GT-TV updates.
+The first episode of the BBC's Top Gear series 6 was available for free since March 31. In the meantime, five videos released in December 2007 have been removed. On April 1, two promotion videos for Super GT ("Fascination for the Super GT") and D1 Grand Prix ("The Drifting World") were added. The first trailer for Video Option ("What is the Video Option?") was also included announcing upcoming releases for this magazine.
+On August 1, 2008, GT-TV was completely overhauled with a new interface, layout, and the launch of the PPV (pay-per-view)  service. The "GT-R Legend Inside Story (all parts)", "'08 Nurburgring 24h Introduction" and "First Impression Lancer Evolution X" videos stayed free-of-charge. "Fascination for the Super GT", "The Drifting World", and "What is The Video Option?" videos were taken off of GT-TV. The new update added new PPV videos; 8 Top Gear videos, 1 Option video, 1 Super GT video, D1 Grand Prix video, 1 Gran Turismo video and 1 Best Motoring video. Also kept were the opening and ending movies, also staying free-of-charge. All PPV videos were released at a reduced price at the launch of the service. When asked whether the GT-TV service could come to the PSP, Yamauchi answered, "We definitely want to do that in the future", suggesting that watching GT-TV on the move could become a reality in the future, but this never happened ultimately.
+
+
+=== Cars ===
+The Japanese release in December 2007 featured 37 stock cars (plus the uncredited GT-R "Black Mask" returning from the free playable demo) from various Japanese, European and American manufacturers including Nissan, Ferrari, and Ford. While GT3 and GT4 did have Formula One cars, GT5 Prologue was the first of the series to feature a fully licensed F1 car, the F2007.
+The Spec II update added new manufacturers, more stock cars and introduced racing cars and tuned cars. The update brought the total number of playable cars to 71. The North American version of Gran Turismo 5 Prologue brought additional stock and tuned cars, increasing the game's car list to 76 credited cars.
+
+
+=== Tracks ===
+Four circuits located in Japan, Europe, and North America are included in the original game, plus two fictitious tracks: The High-Speed Ring and Eiger/Eiger Nordwand. In the absence of suitable roads in the real-life location around Kleine Scheidegg and the Eiger, the game developers created the track based on an actual hiking trail.
+Each track is available in two different layouts. London, High-Speed Ring, and Eiger Nordwand are available in the forward and reverse directions. The Fuji International Speedway is available in both "F1" and "GT" variation; the Daytona International Speedway has both the Oval and Road Course layouts; the Suzuka Circuit has a shorter layout known as the East Course. Each real-life circuit has an HD video "Course Guide" that documents the location with actual footage and commentary text.
+Spec II update adds the Gran Turismo franchise's classic High-Speed Ring fictitious circuit (available in both forward and reverse version) which brings the total number of tracks to six (twelve different layouts).
+
+
+=== Input device support ===
+The Gran Turismo 5 Prologue free playable demo was the first PlayStation 3 release supporting both Dual Shock 3 controller vibration and racing wheels force feedback feature. On February 20, 2008, Logitech announced a new Gran Turismo official wheel, the Driving Force GT to be launched in May to coincide with the game's western release. Previous official Gran Turismo wheels are supported, which include the Driving Force Pro, GT Force, Driving Force and Driving Force EX. Limited support for the Logitech G25 Racing Wheel is available; the wheel is not officially supported, but it is possible to re-map the button layout via the Driving Force Pro setup screen and the clutch can be enabled by pressing the triangle button at the start of each race, as soon as the player has control of the car. Support for the Logitech G27 is also limited, for example, the paddle shifts do not work in-game, although the paddle shifts signals are detected (up and down) in the controller configuration screen.
+
+
+== Release ==
+
+
+=== Japanese PSN demo ===
+A free demo (グランツーリスモ5 プロローグ 無料体験版) was made available for download between October 20 and November 30, 2007 in the Japanese PlayStation store with the Suzuka Circuit and seven playable cars. The demo unlocked cars as they were unveiled at the 40th Tokyo Motor Show. This demo replaced Gran Turismo HD Concept that was removed from the Japanese PlayStation Store on September 30.
+The demo initially had four playable cars from various Japanese and European manufacturers. The remaining three cars (Mazda ATENZA Sport '07, Lexus IS-F '07 and Subaru Impreza WRX STI '07) were unlocked as each one was unveiled at the Tokyo Motor Show. The show also unveiled the release of the Nissan GT-R '07 (replacing the "GT-R Black Mask" with its defining panels concealed). The Black Mask was removed from the car section on October 23 to coincide with its official unveiling at the Tokyo Motor Show and was subsequently made available the following day.
+
+
+=== SEMA Show 2007 demo ===
+The North American version of Gran Turismo 5 Prologue demo was unveiled at Sony's booth during the 2007 SEMA Show in Las Vegas, Nevada. Compared with the Japanese demo this new version had American cars (Dodge Viper GTS '02 and Ford Mustang V8 Coupe Premium '07) and tracks (Daytona International Speedway), these were included but not playable in the PSN demo. An American tuner car, the Art Morrison Corvette '60 SEMA version 2006, was added to the selectable vehicles. This vehicle was later added to the retail game with update "Spec II".
+
+
+=== Downshift Session 2008 ===
+This was an event held in October by Polyphony Digital to celebrate ten years of Gran Turismo. The main attraction in the show was Gran Turismo 5 Prologue running at a resolution of 3840x2160. The game normally runs at 60 FPS and 1920x1080 resolution. The game needed four PlayStation 3 consoles to run, and it was projected onto a 220-inch (5.6 m) screen using an expensive Sony projector. Each PS3 handled the rendering of one-quarter of the screen. With one PS3 system, approximately 2.1 million pixels would be displayed, but with this special high-resolution display, approximately 8.3 million pixels were displayed. A separate demo ran with the original resolution but at 240 FPS.
+
+
+=== Release with 80 GB PlayStation 3 in Japan ===
+On October 9, 2008, Gran Turismo 5 Prologue Spec III was announced to be released for a limited time only, bundled with the new 80GB PS3 model released only in Japan. The new model had a choice of 3 colors; black, silver, and white, and came with the DualShock 3 controller as standard. Spec III introduced gameplay improvements and 3 new cars. The new packaging has also been shown, showing the GT by Citroën car on the front instead of the Nissan GT-R. The bundle was released on October 30.
+
+
+=== Documentary ===
+Beyond the Apex is an 18-minute GT-TV documentary included in the Blu-ray version of the North American release of Gran Turismo 5 Prologue. This documentary was filmed and edited over four months by director Greg Harvey. It features behind-the-scenes footage of the development of the game along with an interview with series creator, Kazunori Yamauchi.
+
+
+=== Soundtrack ===
+A Gran Turismo 5 Prologue soundtrack was released in Japan on February 20, 2008. The CD is published by Village Music and includes 18 tracks.
+The "Moon Over the Castle" theme song from the Gran Turismo series is featured, arranged and performed by Vince DiCola. DiCola stated in an interview with Music4Games that he recorded two versions of the theme, one for use in-game and the other for the soundtrack album. This new version of the song was re-recorded in Los Angeles.
+
+
+== Reception ==
+
+Gran Turismo 5: Prologue received "generally favorable" reviews, according to review aggregator Metacritic. According to SCEE's ThreeSpeech blog, the game has reached the one million mark in pre-orders from PAL territories making it the first PlayStation 3 game to reach Platinum status before its release. Hyper's Eliot Fish commends the game for "looking and feeling fantastic". However, he criticizes it for having "no damage model".
+By April 30, 2008, Gran Turismo 5 Prologue had shipped 2.23 million worldwide according to Sony Computer Entertainment and Polyphony Digital, with 270,000 units in Japan, 550,000 in North America, 1.38 million in Europe, and 30,000 in Asia. As of August 2009, Gran Turismo 5 Prologue has shipped 3.94 million copies worldwide, with 690,000 copies in Japan, 820,000 in North America, 2.33 million in Europe, and 100,000 in Southeast Asia.
+Gran Turismo 5 Prologue received a "Platinum" sales award from the Entertainment and Leisure Software Publishers Association (ELSPA), indicating sales of at least 300,000 copies in the United Kingdom. By December 2011, the games had sold 5.34 million copies; making it the second highest-selling PlayStation 3 title of all time being beaten by its successor, Gran Turismo 5.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official website
+Gran Turismo 5 Prologue at MobyGames

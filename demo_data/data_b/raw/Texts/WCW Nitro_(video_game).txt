@@ -1,0 +1,38 @@
+WCW Nitro is a professional wrestling video game based on the television show WCW Monday Nitro. Released by THQ for the PlayStation game console in 1998, the game featured a large roster of playable WCW wrestlers as well as full motion video clips of the television show. The game was followed by WCW/nWo Thunder, which was based on Nitro's Thursday night counterpart. Ports for Nintendo 64 and Microsoft Windows were released later in 1998 and 1999 with the updated roster featured in Thunder.
+Reviews for WCW Nitro were mixed, with many critics concluding that though the game is considerably flawed, it was better than most of the few wrestling video games out at the time and would therefore appeal to fans of the sport.
+
+
+== Gameplay ==
+
+Moves are performed by inputting various button combinations. Each wrestler shares a repertoire of wrestling moves and possesses several of their own signature moves.
+Modes of play include singles and tag team matches for one or two players, as well as a one-player tournament mode, where the player must defeat a number of wrestlers to be crowned champion.
+There are initially 16 playable characters (each featuring a video introduction), with 48 others that can be unlocked, either by playing through the tournament mode with various wrestlers or by using a cheat code. Some of these secret characters are WCW wrestlers or personalities, while others are fictional characters or THQ staff.
+Versions for the Nintendo 64 and Microsoft Windows were released in 1999 and 2000 featuring the updated roster from the game's sequel Thunder. The Nintendo 64 version does not have any full motion video. The Microsoft Windows version has the selection screen videos and an intro video, but no wrestler entrance videos. However, the Microsoft Windows version does support network play via TCP/IP.
+
+
+== Development ==
+Mike Cihak, president of the game's developer, Inland Productions, claimed during development that We are the first to develop a seamless, closed mesh, fully texture-mapped animation system. What this means is that there are no separations between a character's arms and legs. The entire body is covered with a seamless skin that is texture-mapped with digitized images of the entire wrestler. ... The guys at Shiny Entertainment say they just invented this a few months ago, but we've had this technology for over a year and now have the game to prove it.
+The game was ready for release by the end of 1997, but publisher THQ delayed it until 1998 because their game WCW vs. the World was still selling well and they did not want to create their own competition.
+Inland Productions released screenshots for a Nintendo 64 version shortly after the PlayStation version's release, but said a publisher for this version had not yet been secured. Ultimately THQ would publish this version as well.
+
+
+== Reception ==
+
+WCW Nitro received mixed reviews upon its release for the PlayStation. It was praised for its dead-on WCW atmosphere and large roster. Some reviewers, though, complained of drops in frame rate when more than two wrestlers are on screen at once, and opinions on the controls and gameplay were varied and sometimes contradicting. For example, GamePro complained that "Some of Nitro's moves require too much patience and practice to perform," but Next Generation instead complained that "the moves are so easy to pull that gameplay is reduced to a contest of button-mashing rather than anything requiring a modicum of strategy, tactics, or skill." Jeff Gerstmann of GameSpot, in contrast, said the game does not have either of these problems: "Rather than rely on senseless button mashing to execute moves, Nitro instead has more of a fighting game style to it, with each move having its own set of buttons that trigger the move. Don't be fooled - there is still a bit of button pounding in the game, but not nearly as much as most other wrestling titles out there."
+The four reviewers of Electronic Gaming Monthly found the controls intuitive and the graphics moderately impressive, but said the controls suffer from delayed responsiveness. John Ricciardi deemed it a rental-only game, but Kraig Kujawa and Joe Fielder both said that while conspicuously less than perfect, WCW Nitro was one of the best games in the wrestling genre, with Kujawa giving the pragmatic assessment that "if you want a wrestling game, slim pickings make this the one to get by default." Gerstmann similarly said that though the game has its flaws, it was better than previous games in the genre and so would not disappoint wrestling fans. Next Generation likewise assessed it as a strong example of a genre with traditionally modest aspirations, concluding that "Ultimately, WCW Nitro, not unlike actual wrestling, delivers fun, if not terribly sophisticated entertainment." GamePro argued that the gameplay lacks the depth of WCW vs. the World, but still recommended the game to wrestling fans.
+During the inaugural Interactive Achievement Awards, the PlayStation version of WCW Nitro received a nomination for "Console Fighting Game of the Year" by the Academy of Interactive Arts & Sciences.
+
+
+== See also ==
+
+List of licensed wrestling video games
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+WCW Nitro at MobyGames

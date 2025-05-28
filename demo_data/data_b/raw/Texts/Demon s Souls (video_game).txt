@@ -1,0 +1,36 @@
+Demon's Souls is a 2020 action role-playing game developed by Bluepoint Games and published by Sony Interactive Entertainment for the PlayStation 5. The game was released as a launch title for the PlayStation 5 in November. It is a remake of Demon's Souls, originally developed by FromSoftware for the PlayStation 3 in 2009. Japan Studio's Internal Development Department assisted development on the remake, which makes Demon’s Souls its last game before its integration into Team Asobi. Demon's Souls received critical acclaim, who praised its gameplay, visuals, technical aspects, and improvements over the original game. It had sold 1.8 million copies by 2023.
+
+
+== Gameplay ==
+
+The game features new weapons, armor, rings and items called "Grains" which give players a temporary resistance to effects like poison, fire, and bleeding. As with the original, players are limited in how much they can carry before their character becomes encumbered, although some aspects of this encumbrance system have been adjusted. Example: In the original game, all types of moon grass take up 0.1 item burden; in the remake, the item burdens increase upward based on the effectiveness of the grass, from 0.1 per crescent moon grass to 6.0 per dark moon grass. Furthermore, players are given the option to send items to Stockpile Thomas instead of risking items disappearing permanently. One new feature, called "Fractured World", is a mirror mode which reverses the layout of environments. The game also includes a photo mode, whereupon using it the game will pause, something not possible in the original. Filters from the photo mode can also be used during gameplay, including a "classic mode" filter intended to evoke the look of the original PlayStation 3 game. Although the Souls series is notorious for its difficulty, Bluepoint stated that the remake would not introduce different difficulty levels. The character creation feature has also been updated, with more options for customization.
+
+
+== Development ==
+In 2016, Hidetaka Miyazaki, the director of the original Demon's Souls, acknowledged the demand for developing a remake but said that because the intellectual property (IP) belonged to Sony, the inception of such a project would depend on their desire to do so. Japan Studio and Bluepoint Games began development of a remake following completion of their 2018 remake of Shadow of the Colossus. Japan Studio assisted with the development of the original game. Japan Studio's Gavin Moore, best known for his work on Puppeteer, served as the creative director for the project. A core goal was to remain true to the original while making adjustments in line with the more advanced hardware. Using the original art assets, music and level design as a blueprint, the team wanted to "finetune" the experience so it would appeal to players accustomed to modern games.
+The score of the original game was recorded digitally and this presented difficulties in updating it for a modern remake. As such, the original score was redone in the style of Shunsuke Kida's original work, utilizing a full orchestra and choir. The voice acting was redone, with many of the original cast returning to both re-record their old lines and voice new dialogue. The motion capture animations were also redone. The game utilizes the haptic functionality of the DualSense controller giving the feeling of [metal striking metal] or to aid in the timing parries. The game ships with two visual modes: "cinematic mode" running at a native 4K resolution, at 30 frames per second and "performance mode" with a dynamic 4K at 60 frames per second. Despite earlier statements, Demon's Souls does not support ray tracing. Though a recurring request was the realization of a supposed sixth zone represented by a broken teleport stone in the original, the team decided to leave the game's number of worlds as is. At one point the team considered making an "Easy Mode" but ultimately decided it was not their place to add something that would fundamentally alter the game's balance.
+
+
+== Release ==
+The game was announced at the PlayStation 5 reveal event on June 11, 2020. Demon's Souls released as a launch title for the PlayStation 5 in North America, Australia and New Zealand on November 12, 2020, and worldwide on November 19. Sony Interactive Entertainment published the remake worldwide, a change from the original game, which it had opted to only publish in Japan. A limited collector's edition was also released featuring a soundtrack album and other additional materials alongside a copy of the game.
+
+
+== Reception ==
+
+Demon's Souls received "universal acclaim" from critics, according to review aggregator Metacritic.
+IGN stated, "Demon's Souls is breathtakingly gorgeous and plays significantly better than it did on the PS3, not only thanks to the graphical power of the PlayStation 5, but because of smart quality-of-life changes and light touches that modernize some frustrating aspects of the original, without ever sacrificing the relentless challenge, puzzle-infused boss battles, and style that made it such a landmark game in the first place." While GameSpot wrote, "Quirks aside, Bluepoint's remake is an unmitigated success. It is a technical tour de force and a true showpiece for the PS5 and the power of Sony's next-generation console. But, more importantly, it's also a creative marvel coming from a studio that is clearly showing the world it has its own voice."
+Demon's Souls' inspiration on the later Dark Souls series was noted by Game Informer, "Demon's Souls is the predecessor to a slew of FromSoftware titles, and players can see tons of inspirations for environments and encounters that would reappear later in the Dark Souls series. Having not played the original in ages, this remake was like walking through a fascinating interactive museum in some respects, witnessing the precursors to Blighttown, the Pursuer, and many other series staples."
+
+
+=== Sales ===
+During its first week of release, Demon's Souls debuted at the sixth position in the all-format charts in the UK, the fifth position in the Switzerland all-format charts, and the eleventh position in the Japan individual-format charts. 18,607 physical copies were sold that week in Japan. By March 26, 2023, 300,682 copies of the game had been sold in Japan. By December, the game had sold over 1.8 million copies worldwide.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official website

@@ -1,0 +1,50 @@
+Pokémon Trading Card Game is a digital collectible card video game developed by Hudson Soft and Creatures and published by Nintendo for the Game Boy Color. It is an adaptation of the card game of the same name. It was initially released in Japan in December 1998 and internationally in 2000. The game includes the first three sets of the trading card game, as well as exclusive cards not available elsewhere.
+A second Game Boy Color game, Pokémon Card GB2: Great Rocket-Dan Sanjo! (Pokémon Card GB2: Here Comes Team Great Rocket!), was released in Japan in 2001, having a centered storyline. Although this sequel was not released in North America or Europe, several enthusiasts have released unofficial English translations.
+
+
+== Gameplay ==
+
+Pokémon Trading Card Game is a video game simulation of the original tabletop collectible card game with role-playing elements similar to the main Pokémon RPG-series. Players control a young boy and must travel around the game world interacting with non-player characters and challenging them to card battles using 60-card decks. During gameplay, the player must defeat eight Club Masters, each with a different deck representing one of the game's elemental card types. Finally, the player faces four Grand Masters, and defeating them earns the player the right to inherit four powerful Legendary Cards. A total of 226 cards exist within the game, which include cards from the first three sets of the real-life game, as well as exclusive cards not available outside of the game. The player is given the opportunity to choose one of three starter decks at the start of their journey, each containing Pokémon cards revolving around the three possible starting creatures from Pokémon Red and Blue. As players defeat opponents, they are rewarded with booster packs containing a random assortment of additional cards they may use in their deck, with up to four separate decks able to be saved at a time.
+Up to two players may interact with each other using the Game Boy's infrared and/or Link Cable to battle or trade cards. As players trade with one another, they are given access to a special feature called "Card Pop!", which allows them to obtain cards that would otherwise be inaccessible in the main game. This feature is not accessible in the 3DS version.
+
+
+== Development ==
+Pokémon Trading Card Game was co-developed by Hudson Soft and Creatures. Creatures' official website describes their work on the game as "planning and game design, card design". Tsunekazu Ishihara, founder of Creatures and designer of the card game, is credited as one of the game's producers. Curiously, Hudson is not credited anywhere on the game's package, cartridge, or title screen. However, the ending credits list them as the game's developer.
+Although Pokémon Trading Card Game features most cards from the first three sets of the collectible card game, two real-life cards are absent from the Game Boy Color version: Electrode from the base set, and Ditto from Fossil. The cards were excluded as it was difficult to translate their tabletop effects to the video game engine, but they are replaced by game-exclusive cards of the same Pokémon (the Electrode card was later made available in Japan via an online card shop). The game features cameos from President and CEO of The Pokémon Company Tsunekazu Ishihara as "Mr. Ishihara", and musician Tomoaki Imakuni under his stage name Imakuni?.
+
+
+== Release ==
+The game was revealed in November 1998 and released in Japan on December 18, under the title Pokémon Card GB (ポケモンカードGB, Pokemon Kādo Jī Bī) one month before the tabletop version debuted in English. In September 1999, Nintendo of America announced that they would be releasing an English version in North America with the proposed title of simply Pokémon Card. Though initially planned for release the following winter, the game, now known under its finalized title of Pokémon Trading Card Game, was pushed back to April 2000, which IGN attributed to the company wanting to focus their efforts on the upcoming Pokémon Stadium for the Nintendo 64. The following February, the game made an appearance at the 2000 Toy Fair in New York City as part of Nintendo's "Pokémon 2000" interactive line-up along with Pokémon Gold and Silver. An exclusive tabletop version promotional card from Wizards of the Coast featuring Meowth was included with the game.
+
+
+=== Re-releases ===
+The game was released on the Nintendo 3DS Virtual Console in Europe on July 10, 2014, Australia on July 11, 2014, North America on November 13, 2014, and Japan on December 24, 2014. It was rereleased as part of the Nintendo Classics service on August 8, 2023.
+
+
+== Reception ==
+
+Pokémon Trading Card Game sold 607,193 copies in Japan by the end of 1999, becoming the 20th most-bought console game of that year in the region. It would go on to sell an additional 1.51 million copies during its first year in North America, and received mostly positive reception from critics, earning an 81.25% average score from aggregate review website GameRankings. GameSpot referred to the game as "a faithful and amusing adaptation of the collectible card game" calling the gameplay "addictive", but found it to be overall less satisfying than the original Pokémon role-playing games, stating that its goal of 'collecting all 226 pieces of paper' just doesn't satisfy like 'catching 'em all' can and does." Others, such as IGN called the game "a blast to play" and that it offered mostly the same experience as the tabletop version "without the clutter or cost", yet acknowledged that the video game adaptation could not fully replicate the original given the finite number of cards available. Though the website found its main story to be "simple and basic", and gameplay to be largely luck-based, it ultimately declared that "whether you like or hate those darn Pokémon... if Nintendo keeps making Pokémon videogames of this quality, those creatures aren't going away anytime soon." GamesRadar ranked it the 50th best game available on the Game Boy and/or Game Boy Color. The staff called it an "excellent addition to Pokemon's Game Boy catalog."
+In a 2009 retrospective of Pokémon spin-offs, IGN retained their high praise for the game, stating "It was really kind of ridiculous how awesome this game turned out to be...if there was one spin-off [we] could ask Nintendo to reintroduce, it'd be the TCG game."
+
+
+=== Censorship ===
+The game was banned in Saudi Arabia because it supposedly promoted Zionism. According to Sheikh Abdul Aziz bin Abdullah, the Pokémon video game and cards have symbols that are "the star of David, which everyone knows is connected to international Zionism and is Israel's national emblem".
+
+
+== Sequel ==
+
+Pokémon Card GB2: Great Rocket-Dan Sanjō!, released March 28, 2001, is a Japanese-exclusive sequel to the original Pokémon Trading Card Game, also for the Game Boy Color. Like its predecessor, the game was developed by Hudson Soft and Creatures, but unlike its predecessor, it was only published by The Pokémon Company, which also marks the first time a Pokémon game was ever published by The Pokémon Company. It was first announced in January 2001 by Japanese website WatchImpress. It includes new enhancements, such as the ability to choose one of two genders for the player character, a training mode to help new players, a Deck Diagnosis to rate the effectiveness of a player's deck, and a new group of antagonists known as Team Great Rocket. The game features all cards from the original game, along with new cards from the fourth set, Team Rocket, as well as cards originally exclusive to Japanese vending machines and the Pokémon Trading Card Game Instructional Video Intro Pack, bringing the total number of cards to 445.
+Like the previous title, players must travel across the game world challenging non-player characters to simulated battles using rules adopted from the original tabletop version. All locations from the original are present, along with a new setting known as GR Island which contains its own Battle Masters for players to encounter. By defeating a total of 16 Battle Masters on the old and new islands, players may challenge the game's final boss, King Biruritchi. Though an English release in North America was deemed "likely" by website IGN in 2001, the game has not been made available outside Japan. Pokémon Card GB2 earned a 29 out of 40 score from Japanese Weekly Famitsu magazine.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+Official website (in Japanese)
+Official website (Archived)
+Pokémon Play It!, a PC game with a similar concept

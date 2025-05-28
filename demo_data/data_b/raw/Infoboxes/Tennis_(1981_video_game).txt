@@ -1,0 +1,21 @@
+Tennis
+Developer(s)
+Activision
+Publisher(s)
+Activision
+Designer(s)
+Alan Miller
+[
+1
+]
+: 76 
+Platform(s)
+Atari 2600
+Release
+1981
+Genre(s)
+Sports
+Mode(s)
+Single-player
+, 
+multiplayer

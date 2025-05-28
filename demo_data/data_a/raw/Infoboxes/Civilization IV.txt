@@ -1,0 +1,55 @@
+Civilization IV
+Developer(s)
+Firaxis Games
+Publisher(s)
+2K
+ 
+(Win)
+Aspyr
+ 
+(Mac)
+Producer(s)
+Barry Caudill
+[
+1
+]
+Designer(s)
+Soren Johnson
+Programmer(s)
+Soren Johnson
+Artist(s)
+Steve Ogden
+Composer(s)
+Jeffery L. Briggs
+Christopher Tin
+Series
+Civilization
+Engine
+Gamebryo
+[
+2
+]
+Platform(s)
+Windows
+, 
+Mac OS X
+Release
+Windows
+NA
+:
+ October 25, 2005
+PAL
+:
+ November 4, 2005
+Mac OS X
+NA
+:
+ June 26, 2006
+Genre(s)
+Turn-based strategy
+, 
+4X
+Mode(s)
+Single-player
+, 
+multiplayer

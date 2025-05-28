@@ -1,0 +1,117 @@
+LittleBigPlanet (LBP; stylised as LittleBIGPlanet) is a puzzle platform video game series created and produced by British developer Media Molecule and published by Sony Interactive Entertainment. Most games in the series put a strong emphasis on user-generated content and are based on the series' tagline "Play, Create, Share". The tagline represents the three core elements of the series: playing alone or with others locally (on the same console) or online, creating new content using the in-game creation tools, and sharing creations and discoveries online with other players.
+Tarsier Studios, Fireproof Games and Supermassive Games also contribute to the development of the PlayStation 3 games, creating in-game assets (downloadable content) including costumes, backgrounds, objects, and stickers. Some of these assets will also provide the player more tools and gadgets to use in the level editor.
+The series comprises six games across five gaming platforms. The series was launched in 2008 with the PlayStation 3 game LittleBigPlanet, which was followed in 2009 by a PlayStation Portable version of the same name, initially developed by Studio Liverpool and later handed to SCE Studio Cambridge. The sequel to the PlayStation 3 version, LittleBigPlanet 2, was released in January 2011 alongside a smaller spin-off title called Sackboy's Prehistoric Moves. LittleBigPlanet PS Vita was developed by Tarsier Studios and Double Eleven, released in September 2012 for the PlayStation Vita. At E3 2014, Sony announced LittleBigPlanet 3, a PlayStation 4 instalment that was developed by Sumo Digital and released in November 2014. The games are all published by Sony Computer Entertainment. The latest instalment for the LittleBigPlanet franchise titled Sackboy: A Big Adventure was revealed during the PS5 live event and released on the PlayStation 4 and PlayStation 5 in November 2020. A Windows version was released on 27 October 2022.
+On 17 January 2015, it was announced that all LittleBigPlanet servers in Japan would shut down on 31 July, along with the PlayStation Portable version and LittleBigPlanet Karting in late August in all regions. Due to attacks on the online servers, all LittleBigPlanet servers were taken down in May 2021 (the Vita version had remained closed since March). The servers for the PS4 version of LittleBigPlanet 3 were brought back up on 13 September 2021, however, in the same announcement, it mentioned that the servers for LittleBigPlanet, LittleBigPlanet 2, LittleBigPlanet PS Vita and the PS3 version of LittleBigPlanet 3 will remain closed permanently. On 8 January 2024, it was announced that, presumably due to more attacks on the online servers, the servers for the PS4 version of LittleBigPlanet 3 were being temporarily closed while they investigate them.
+On 19 April 2024, the servers for the PlayStation 4 version of LittleBigPlanet 3 were permanently shut down due to ongoing technical issues.
+On 8 October 2024, it was announced that LittleBigPlanet 3 for the PlayStation 4, alongside its DLC, would be removed from the PlayStation Store on 31 October 2024.
+
+
+== Gameplay ==
+The core mechanics of the series revolve around its tagline, "Play, Create, Share".
+
+
+=== Play ===
+In the first two installments of the series, gameplay consist primarily of traditional two-dimensional look in a three-dimensional style platforming like jumping and avoiding obstacles to successfully navigate to the end of a level to win. Since LittleBigPlanet 2, the series has included mini-games, including ones that do not follow the platformer genre. Most LittleBigPlanet games involve a player playing solo or co-operatively with friends to navigate through a level whilst collecting various "bubbles" along the way, which can take the form of either points or collectibles. In-game collectibles can be used in level creation or to customize Sackboy, the player character. There are also numerous co-operative parts of levels whereby certain prize bubbles can be earned. In LittleBigPlanet 3 and Sackboy: A Big Adventure, Collectables are also present, being used in various shops to purchase more costumes.
+
+
+=== Create ===
+The Create component primarily refers to level creation in the game, along with other features like character customisation. Players can create their own levels with the built-in level creator. Many items that are collected while playing through the story mode and from LittleBigPlanet's community can be used to help with level creation. These levels can remain as the original LittleBigPlanet platforming gameplay, or they can include other game types, such as racing, fighting, shooting and sports. The player can also make non-gaming creations such as music and films (commonly known in-game as cut-scenes). In LittleBigPlanet 2, Sackbots were introduced to give players more control over non-player characters in their levels as well as make the levels in their entirety more intelligent. The creation technique introduced on the game gave the possibility for logic, and it gave the ability to build sets of machines and complex contraptions.
+
+
+=== Share ===
+Lastly, the Share component relates to sharing creations with the game's community by uploading levels to the PlayStation Network. To-date there were an excess of ten million user-created levels available to play on the LittleBigPlanet server in the PlayStation 3 games. After the release of LittleBigPlanet 2 and the LBP.me community website, the Share component also had a strong emphasis sharing discoveries. Players were encouraged to share levels they found with other players by writing reviews and comments in-game and by sharing links to creations' LBP.me pages via social networks.
+
+
+== Overview ==
+The series takes place in a world known as LittleBigPlanet. Each curator is in charge of a part of LittleBigPlanet and they govern them independently. LittleBigPlanet has geography inspired by the real-life Earth. All games in the series follow the main protagonist Sackboy, a small anthropomorphic creature made of brown fabric with a zip fastener and button eyes. He can be customized to the player's liking using costumes that are either unlocked in the game or bought as downloadable content from the PlayStation Store. The player can control Sackboy's four emotions; happiness, sadness, worry and anger, each of which has three levels of intensity. The English language version of each game is narrated by Stephen Fry and in all formats Fry's scripts are written by Dean Wilkinson.
+
+
+== Games ==
+
+
+=== Main series ===
+
+
+==== LittleBigPlanet ====
+
+The first game in the series was released on the PlayStation 3 platform in 2008 and was the first title developed by Media Molecule, under the name The Next Big Thing.  The player controls Sackboy as he travels around the titular LittleBigPlanet, helping the eight creator curators of LittleBigPlanet with their problems in their own respective realms. Throughout the story, Sackboy tries to stop The Collector, one of the eight creator curators who has gone rogue, kidnapping the creations of LittleBigPlanet. The game received widespread acclaim for its design, gameplay, and customization afforded to the player, particularly the built-in level editor. After its release, it received numerous industry awards.
+
+
+==== LittleBigPlanet 2 ====
+
+The second game in the series is a direct sequel to the first LittleBigPlanet and was developed by Media Molecule for the PlayStation 3 for a release in 2011. The sequel saw a major shift in the direction of the series, going from a primarily traditional platform game in the first two entries to a more varied style of gameplay called a "platform for games". The second game gave players a wider variety of options when it came to level design, which saw the creation of levels other than platforming such as racing, puzzles, and fighting games. Following the events of the first two entries in the series, the game takes place when an antagonist known as the Negativitron invades LittleBigPlanet and begins to suck up all its inhabitants. Sackboy must team up with a secret organization known as "The Alliance", led by Larry Da Vinci, to save LittleBigPlanet from the Negativitron. The game also supported the PlayStation Move, with an update post-launch.
+
+
+==== LittleBigPlanet 3 ====
+
+LittleBigPlanet 3 is a game for the PlayStation 3 and PlayStation 4. Announced at E3 2014, it was developed by Sumo Digital and was released in November 2014. In the game, Sackboy is transported to another world, Bunkum, where he has to awaken its three missing heroes, OddSock, Toggle and Swoop, who are new playable characters. Sackboy travels through different worlds in order to free the 3 new characters and stop Newton.
+
+
+=== Handheld ===
+
+
+==== LittleBigPlanet (PlayStation Portable) ====
+
+A portable entry of the series was developed primarily by SCE Studio Cambridge in association with Media Molecule for the PlayStation Portable. The game, released in 2009, shared the same name as the original game; however, it was not a port of the PlayStation 3 game, but rather a new entry in the series. It has a story-mode with levels and features many of the same mechanics of its PlayStation 3 counterpart, such as customizations, albeit without the multiplayer component of the game. The game takes place after the events of the PlayStation 3 version of LittleBigPlanet, in which The Collector has been defeated. A carnival is being held and Sackboy decides to go around the world to invite the eight curators of LittleBigPlanet to the carnival whilst finding materials for his own carnival float.
+
+
+==== LittleBigPlanet PS Vita ====
+
+The fourth game in the series was developed by Tarsier Studios, Double Eleven, and XDev for the PlayStation Vita handheld and had a 2012 release. The game features the same core mechanics from LittleBigPlanet 2, with the focus being on a "platform for games" rather than a platformer like previous entries in the series before LittleBigPlanet 2. The game utilizes the unique controls of the PlayStation Vita by using its multi-touch touchscreen and its rear touchpad to navigate through various obstacles in stages as well as for level creation by users. The game supports cross-buy of DLC costume packs between LittleBigPlanet 2, as well as LittleBigPlanet Karting.
+
+
+=== Spinoff games ===
+
+
+==== LittleBigPlanet Karting ====
+
+LittleBigPlanet Karting is a kart racing game developed by United Front and San Diego Studio in conjunction with series creator Media Molecule for the PlayStation 3. In its story mode, the player ventures through worlds including: LittleBigPlanet, Monster Islands, Victoria's Laboratory, The Progress Emporium, Eve's Asylum, The Space Bass, and Hoard, Sweet Hoard, to put an end to the Hoard racers, who snatch many pieces of the different planets to stash them in the Garage at the End of the Universe. Sony Entertainment America shut down the North American LittleBigPlanet Karting online servers on 31 August 2016.
+
+
+==== Sackboy's Prehistoric Moves ====
+
+The game was developed by XDev as a spin-off from the LittleBigPlanet series utilizing the PlayStation Move on the PlayStation 3. It was released in December 2010, as a downloadable title from the PlayStation Store and was later bundled with LittleBigPlanet 2. The game was described as a "demo" and featured 10 prehistoric inspired story levels. In the game, Sackboy must save Little Big Planet from the T-Rex. Unlike the main games, which can be played as a single-player experience, the game required a minimum of two players to work. This was due to the main mechanics of the spin-off whereby one player would control Sackboy traditionally using the gamepad for platforming while a second player had to use a PlayStation Move similar to a pointer to move obstacles and objects out of the way in order to successfully navigate a level.
+
+
+==== Run Sackboy! Run! ====
+Run Sackboy! Run! is a free-to-play endless running game developed by Firesprite and published by PlayStation Mobile that was released on iOS on 30 October 2014, Android on 17 December 2014 and PlayStation Vita on 31 March 2015. The game has no real plot, except for Sackboy running through Craftworld from the Negativitron. The game awarded players with exclusive costumes for LittleBigPlanet 3 (which was released at a similar time) by reaching point goals and collecting stickers.
+
+
+==== LittleBigPlanet Hub ====
+LittleBigPlanet Hub is an unreleased free-to-play game for the PlayStation 3. It was planned to be a downloadable title from the PlayStation Store which would have allowed players to create levels and play a curated selection of community levels from LittleBigPlanet and LittleBigPlanet 2 as well as 16 levels from the games' story modes. LittleBigPlanet Hub would also have contained weekly challenges, not found in other LittleBigPlanet games. Downloadable content purchased in other games were to be compatible with LittleBigPlanet Hub, and users were rumoured to be also able to access additional content from the PlayStation Store.
+Since its announcement in August 2013, no further details about LittleBigPlanet Hub were revealed. In February 2024, a beta tester posted a video showing gameplay from a beta build onto YouTube, and shortly afterwards, with assistance, dumped it online for download. This makes the build playable through unofficial means, such as emulations like RPCS3 or PlayStation 3 homebrew.
+
+
+==== Sackboy: A Big Adventure ====
+
+Sackboy: A Big Adventure is a 2020 platform game developed by Sumo Digital and published by Sony Interactive Entertainment for the PlayStation 5 and the PlayStation 4. It was announced at the PlayStation 5 reveal event on June 11, 2020, and was released on November 12, 2020; a version for Windows was released on October 27, 2022, marking the series's first release on PCs. Unlike previous LittleBigPlanet entries with 2.5D platforming, A Big Adventure features a range of perspectives and 3D movement.
+
+
+==== Ultimate Sackboy ====
+Ultimate Sackboy is a free-to-play endless running game developed by Exient Entertainment and released on mobile on 21 February 2023. It is the first LittleBigPlanet game to feature limited-time paid subscriptions known as "Marathons." In contrast to Run Sackboy! Run!, it adopts the style from Sackboy: A Big Adventure and is played in 3D.
+
+
+=== Appearances in other games ===
+
+
+==== PlayStation All-Stars Battle Royale ====
+
+PlayStation All-Stars Battle Royale is a fighting crossover game developed by SuperBot Entertainment released on PS3 and PlayStation Vita on November 20, 2012.
+
+
+==== PlayStation All-Stars Island ====
+
+PlayStation All-Stars Island is a free-to-play mobile game developed by Zoink and released on mobile on August 8, 2013 in European territories. Sponsored by Coke Zero, the game features many PlayStation characters drinking and collecting the beverage. Gameplay consists of a variety of tasks, split by islands and different characters.
+
+
+== Reception ==
+
+Most of the games in the series have been well received by critics with the LittleBigPlanet on PlayStation 3 and PlayStation Portable gaining Metacritic scores of 95/100 and 87/100 respectively. LittleBigPlanet 2 garnered nearly as much acclaim as the first game, with an average score of 91/100. LittleBigPlanet PS Vita also received very positive reviews and was the highest-ranked PS Vita game at the time of its release with an average score of 88/100. However, the release of LittleBigPlanet 3 did not receive critical acclaim, garnering a mostly positive average of 79/100.
+Critically, LittleBigPlanet Karting is the worst-performing major game in the series so far but still gained a "mixed or average" Metacritic score of 74/100. However, the mobile game Run Sackboy! Run! performed worse, with a Metacritic score of 65/100. Additionally, the character of Sackboy is often seen as a PlayStation mascot. In 2011, readers of Guinness World Records Gamer's Edition voted Sackboy as the 50th-top video game character of all time.
+
+
+== References ==
+
+
+== External links ==
+Official website

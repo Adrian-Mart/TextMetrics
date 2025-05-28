@@ -1,0 +1,40 @@
+Counter-Strike: Condition Zero
+Developer(s)
+Ritual Entertainment
+Turtle Rock Studios
+Valve
+Publisher(s)
+Sierra Entertainment
+[
+a
+]
+Valve (digital)
+Composer(s)
+Zak Belica
+Series
+Counter-Strike
+Engine
+GoldSrc
+Platform(s)
+Windows
+, 
+OS X
+, 
+Linux
+Release
+Windows
+WW
+:
+ March 23, 2004
+OS X
+, 
+Linux
+WW
+:
+ March 6, 2013
+Genre(s)
+First-person shooter
+Mode(s)
+Single-player
+, 
+multiplayer

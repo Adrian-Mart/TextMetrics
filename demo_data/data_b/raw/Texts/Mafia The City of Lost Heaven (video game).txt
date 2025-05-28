@@ -1,0 +1,88 @@
+Mafia is a 2002 action-adventure game developed by Illusion Softworks and published by Gathering of Developers. The game was released for Windows in August 2002, and later ported to the PlayStation 2 and Xbox in 2004. Set within the fictional city of Lost Heaven, Illinois, during the 1930s, the story follows the rise and fall of taxi driver-turned-mobster Tommy Angelo within the Salieri crime family.
+Mafia received critical acclaim for the Windows version, with critics praising the game for its complex narrative and realism, while the PlayStation 2 and Xbox versions both received mixed reviews. The game launched the Mafia series, beginning with the first sequel, Mafia II, which was developed by 2K Czech and released in August 2010. Hangar 13 developed an additional three entries in the series, namely the sequel Mafia III, released in October 2016; a remake of the first game, Mafia: Definitive Edition, which was released in September 2020; and a prequel, Mafia: The Old Country, set to release in 2025.
+
+
+== Gameplay ==
+
+Mafia's storyline gameplay consists of driving, mainly easy city cruises between different locations, as well as chases and races; the rest of the game is based on third-person on-foot navigation and shooting - all inter-connected with cutscenes. In addition to the city and countryside, detailed interiors like the city's airport, a museum, a church, a hotel, an abandoned prison, restaurants, and Don Salieri's bar are included. Weather changes and day/night cycles are in use, though missions take place at a set time and the weather is fixed during the duration of the level.
+51 cars around the city can be driven in Mafia, plus nineteen bonus cars (five of which are racing models) unlockable after the main mode and the opening of a new game mode. Cars are introduced periodically - in the beginning of the game, early 1920s models drive on the streets of the city, while models from the early 1930s begin appearing in later game stages. All of the vehicles are based on real-world cars from the era, albeit renamed and redesigned due to trademark issues.
+Police book players for minor offenses such as speeding or running a red light, and car accidents cause physical harm to the driving player. While other forms of transport are available, such as streetcars and the elevated rails of the Lost Heaven Railroad, they are only ridable and not drivable by the player.
+Mafia is noted for having comprehensive damage physics on nearly all vehicles, even going so far as to make use of real-time deformation, compared to vehicles in other games that used pre-made damage models. While substantially more robust than their real counterparts, smaller and weaker vehicles stand less abuse before breaking down and finally exploding, than large armored vehicles. More realism is added here compared to other games in the same genre, such as the ability to puncture the fuel tank, overheat the engine, and the ability to break transmission gears. Many exterior components (such as windows, tires, headlights, and bumpers) can be removed from most vehicles with physical means such as crash-driving, hitting with blunt weapons (fists, baseball bat) as well as firing weapons at them.
+Finishing the main storyline unlocks the "Freeride Extreme" mode, which is essentially the same as Freeride, but with the added benefit of stunt jumps, side quests, and the lack of police patrols. Side missions in this mode range from the trivial, such as carrying packages or killing gangsters, to the extreme and sometimes outlandish, like chasing an alien spaceship or driving an explosive-rigged truck at a certain speed.
+
+
+=== Major and minor offense system ===
+The police department in Lost Heaven uphold the various laws that have been set. When these laws are broken in view of the police, they will respond by booking the player with offenses that can be "minor" or "serious". Minor offenses (such as speeding in a vehicle or running a red light) will end up with the player being fined (-$1,000 in Freeride mode; no monetary value in campaign mode), and serious offenses (such as physical assault, or visible display of a weapon) can lead to the player being arrested for the first offense, or a shootout with the police. A series of four successive minor offenses qualify as a "serious" offense. Police force increases with the severity of the player's disregard of the law to a point where police, now well armed, form blockades with tire spike strips in attempt to defeat the player while firing from behind their cars.
+
+
+== Synopsis ==
+
+
+=== Setting ===
+
+Mafia takes places within the fictional U.S. city of Lost Heaven, Illinois, during the final years of Prohibition in the 1930s. The West and East River divides the city it into three boroughs: West Side (on the Saint Peter Coast), consisting of industrial buildings, the main port, and residential communities inhabited by Chinese and Italian immigrants; Central Island, dividing the river and consisting of the city's commercial district and municipal buildings; and East Side (on the Saint Paul Coast), consisting of both residential suburbs and slums, a bustling downtown district, and the city's local armory and stadium. The city features surrounding countryside that includes a hydroelectric dam, international airport, and a race circuit. The game's main story involves two major mafia families—the Salieri family, and the Morello family—who fight for control over the city's rackets in the wake of the demise of a third mafia family. Alongside the two groups, the city features a variety of smaller street gangs.
+Much of the city's design, including the architectural styles, public transportation and landmarks, are inspired from real-life American cities of the period, including New York, Chicago and Los Angeles. The overall size of the setting encompasses around 4.63 square miles (12.0 km2).
+
+
+=== Plot ===
+In 1930, taxi driver Tommy Angelo is forced by Paulie and Sam, two members of the Salieri crime family, into helping them escape an ambush by the rival Morello family. Tommy is compensated for his help and offered a position in the organization of Don Salieri. Forced to accept the offer the following day, when two Morello gangsters track him down and destroy his cab in an act of revenge, Tommy is welcomed into the Salieri family and begins assisting with running their rackets across the city, overseen by Salieri's trusty consigliere Frank Colletti.
+In 1932, Tommy enters a relationship with Sarah, the daughter of Salieri's bartender, after protecting her from a gang of street thugs. On Salieri's orders, Tommy and Paulie retaliate against the gang, but learn that their leader, whom Paulie killed, was the son of a corrupt city councillor, who vows revenge. Tommy is later ordered to destroy a brothel for switching its loyalties to Morello, and kill an informant working there. Discovering the informant to be Sarah's friend Michelle, who needed money to pay for her brother's medical care, Tommy begins to question his morality and lets Michelle go. He covers it up and assists Sam on a hit against a witness to the councillor's son's murder.
+In 1933, Morello begins using corrupt police officers to ambush Salieri's operations, and gains support from the councillor. Following an ambush on a bootlegging operation, Salieri discovers that Frank has been supplying information on his money laundering activities to the authorities, and reluctantly orders Tommy to kill him. Discovering he was forced to do so for his family's safety, Tommy allows Frank to leave the country with his family and again covers it up, before retrieving the evidence against Salieri. Tommy later marries Sarah and they start a family.
+In 1935, the Salieri and Morello families begin branching out into new rackets following the end of prohibition. Learning that Salieri is making moves to gain control over law enforcement, Morello attempts to have him killed. After Tommy saves him, Salieri declares open war on his rival. Tommy helps to weaken Morello's position by assassinating the councillor, to reduce Morello's control over city politics, and Morello's brother Sergio, to reduce his control on the port unions. The war comes to an end after Tommy, Paulie and Sam kill Morello himself as he tries to flee the city.
+By 1938, the Salieri family is in full control of Lost Heaven's rackets and is ruthlessly eliminating anyone who opposes them. When Tommy, Paulie and Sam agree to recover a shipment of impounded cigar crates, that supposedly had diamonds stashed inside but are shocked when the damaged crates reveal drugs hidden in the shipment. Realizing Salieri was deceiving them, Tommy and Paulie decide to rob a bank without telling Salieri. Although the job is successful, Tommy finds Paulie dead in his apartment the following day and the stolen money missing. Tommy goes to discuss the matter with Sam, who instead reveals Salieri ordered Tommy and Paulie's deaths for going behind his back, and that Michelle and Frank were murdered by Salieri's men after Tommy's past cover-ups were exposed. Tommy survives Sam's ambush and kills him, but is forced to go into hiding with his family. Fearing for their safety, he contacts Detective Norman, who has been investigating Salieri, for help.
+After relaying his story, Tommy offers to testify against the Salieri family in exchange for a reduced prison sentence and protection for his family. Norman agrees, and the resulting investigation and trials lead to most of the Salieri family, including the Don, being convicted and sentenced. After serving eight years in prison, Tommy is reunited with his family as they are all placed under witness protection and relocated to another city. Years later, Tommy's past catches up to him and he is killed on his front lawn by two hitmen on Salieri's behalf. The game ends with a monologue narrated by Tommy, explaining how the world really works and lamenting over how he and his friends only wanted the good life but ended up with nothing at all; he concludes that it is important to keep balance in everything, as life can both give and take away.
+
+
+== Development ==
+The game had been in development since the end of 1998. It was codenamed Gangster and was originally intended to be a driving game similar to Driver. Multiplayer modes were also planned and announced during development, but were eventually cut in the final release. The release date was scheduled for 2000. Illusion Softworks initially utilised the engine used in Hidden and Dangerous but was replaced by LS3D as the previous engine did not fulfill the developer's requirements. Due to the change of the engine, the game was released two years later than planned.
+Mafia was ported to PlayStation 2 and Xbox in 2004. Some of the features of the PC version do not exist in the console port, such as police patrols around the city in Free Ride, and some aspects of the game's realism and graphics.
+The Italian version of the game on PC features alternative artwork.
+Mafia: Special Edition, released exclusively to the German market and is limited to 5,000 copies. It includes the base game, official Prima strategy guide, replica copy of the Lost Heaven Courier, poster, ball-point pen, notepad, postcard and sticker sheet.
+
+
+=== Story and theme development ===
+
+The original cinematic inspirations of Mafia were films like Goodfellas and The Godfather, aiming for a more serious and mature tone for the game. Wanting to create a rich story line, director Daniel Vavra tried to mix drama, action and humour to heighten the game's realism. The development team originally intended to put players in the role of a police officer taking on the mafia; this was reversed when Daniel Vavra took in charge of writing the game's script.
+
+
+=== Re-release ===
+Mafia was made available for digital download via Steam on September 7, 2010, under the 2K label, but was removed sometime in 2012. A DRM-free re-release of Mafia was released on GOG.com in 2017, as well as being reinstated on Steam. The 2017 re-release is essentially unchanged from the original game, albeit lacking the soundtrack due to licensing issues.
+
+
+== Reception ==
+
+Mafia was well received by critics upon release as more realistic and serious than a usual Grand Theft Auto-styled game. It was compared to Grand Theft Auto III in a positive way, at the time Game Informer wrote "This is a lot like GTA III. Awesome!" and "There's no shame in taking a proven gameplay formula and changing it a little bit" in its review. Mafia contains a much bigger city to explore than most video games of the time, with multiple forms of available transport in addition to an expansive countryside. Dan Adams of IGN gave the game a rating of 9.2/10, while GameSpot described the PC version as "one of the best games of the year" and rated it at 9.3/10. Game Informer compared it favorably to Grand Theft Auto III, and wrote that "from the living city in which you reside, to the incredibly realistic vehicles, this title has the heart and soul of a blockbuster."
+While the original PC game received widespread acclaim, the versions for the PlayStation 2 and Xbox were considered inferior by many critics, and received lower scores as a result. In the Czech Republic, the country where the game's developers come from, the game received universal acclaim from critics. Mafia was elected the best video game developed in the Czech Republic and Slovakia in a survey by Czech server BonusWeb when it received 3866 votes out of 13,143 as every reader could choose three games to vote for.
+
+
+=== Awards ===
+
+Mafia won GameSpot's annual "Best Music" award among computer games, and was nominated in the "Best Single-Player Action Game on PC", "Biggest Surprise", "Best Sound", "Best Graphics (Technical)", "Best Graphics (Artistic)", "Best Story" and "Game of the Year" categories.
+
+
+=== Sales ===
+In the United States, Mafia debuted in sixth place on the NPD Group's weekly sales rankings for computer games, a position it held for another two weeks. It was absent from the weekly charts after four weeks. Ultimately, it was NPD's ninth-best-selling computer game of September 2002. In the United Kingdom, the computer version of Mafia received a "Silver" sales award from the Entertainment and Leisure Software Publishers Association (ELSPA), for sales of at least 100,000 copies. 
+Mafia had a successful start in the German market, where it premiered as September's top-selling full-price computer game, according to Media Control. After one week on German shelves, Mafia achieved sales between 40,000 and 50,000 copies. The Verband der Unterhaltungssoftware Deutschland (VUD) gave the game a "Gold" certification on November 20, indicating at least 100,000 units sold across Germany, Austria and Switzerland. Mafia maintained an unbroken streak in Media Control's monthly top 30 through May 2003, by which point its sales in the region totaled roughly 150,000 copies. Despite its early success, Mafia's momentum at retail had declined in the German market by May. This was common for popular action games at the time; distributor Markus Biehl attributed it to widespread illegal copying.
+According to Take-Two Interactive, Mafia had sold more than 2 million copies worldwide by August 2007.
+
+
+== Legacy ==
+
+A sequel, Mafia II, was announced on August 22, 2007, and was released for Windows, PlayStation 3 and Xbox 360 on August 24, 2010. The third installment in the series, Mafia III, was announced on July 28, 2015, and was released on October 7, 2016 for Windows, PlayStation 4 and Xbox One. The fourth installment, Mafia: The Old Country, which serves as a prequel to the series, was announced on August 20, 2024, and is set to release in 2025 for Windows, PlayStation 5 and Xbox Series X/S.
+On May 13, 2020, a remake of Mafia was announced by 2K Games, to be titled Mafia: Definitive Edition. The remake was the main focus of the Mafia: Trilogy collection, which also features a remastered version of Mafia II and a version of Mafia III comprised with its additional story packs, all developed by Hangar 13. The original Mafia was rebuilt from the ground-up, with developers focusing on expanding the storyline, altering the setting to provide a new look to Lost Heaven, doing a major overhaul of the gameplay (including the introduction of motorcycles to the series), and creating a new "original score". Mafia: Definitive Edition was released on September 25, 2020, for Xbox One, PlayStation 4, and Windows, both individually and as part of the Mafia: Trilogy.
+
+
+== See also ==
+Video games in the Czech Republic
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+Mafia at MobyGames
+Mafia at IMDb

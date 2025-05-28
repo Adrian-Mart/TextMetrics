@@ -1,0 +1,46 @@
+Yoshi's Cookie is a 1992 tile-matching puzzle video game developed by Tose and published by Nintendo for the NES and Game Boy platforms in 1992. A Super NES version was released the following year, developed and published by Bullet-Proof Software.
+
+
+== Gameplay ==
+Yoshi's Cookie is a tile-matching video game in which the player is given a playing field populated with cookies of several types, arranged in a rectangular grid. The main objective of each level is to clear the playing field of all the cookies. The player mixes and matches the cookies such that entire rows or columns consist only of cookies of the same type. The player controls a cursor on the grid that is used to rotate individual lines in a manner similar to a Rubik's Cube. When a single row or column contains all matching cookies, the row is cleared from the grid. The grid grows in size from cookies entering from the top and right sides of the playing field and a game over occurs when the grid overflows. A sixth cookie type, shaped like Yoshi's head, occasionally appears that acts as a wild card, used to help clear lines of any other cookie.
+
+
+=== Game modes ===
+Yoshi's Cookie has different game modes. In the single-player Action Mode, the player completes successive levels that progressively grow more complex. A multiplayer VS Mode has two players competing against each other in split-screen. The Super NES version has a single-player VS Mode in which the player competes against a computer player. The Super NES version also contains a Puzzle Mode in which each level has a predefined grid of cookies and player must clear all the cookies in a maximum number of moves.
+
+
+== Development ==
+Yoshi's Cookie originally began development as an arcade game called Hermetica (ヘルメティカ, Herumetika), which was being produced by game developer Home Data. The arcade game did poorly at the location test, so Home Data sold the Hermetica rights to Bullet-Proof Software. Bullet-Proof Software then produced an SNES version, designed by David Nolte. This version was shown at the 1992 Consumer Electronics Show. Nintendo obtained the licenses for the 8-bit (NES and Game Boy) versions of Hermetica, and developed the game into Yoshi's Cookie, which now featured Mario characters. The soundtrack was composed by Akira Satou, Nobuya Ikuta, Noriko Nishizaka, and Tsutomu, which also features a rendition of Csikós Post, written by German composer Hermann Necke.
+While Bullet-Proof Software retained the rights to the original Super NES game, Nintendo licensed the Mario characters and allowed the developer to use the Yoshi's Cookie branding. This version was produced by both Nolte and Yasuaki Nagoshi. The levels in the game's Puzzle Mode were designed by Tetris creator Alexey Pajitnov.
+
+
+== Release ==
+Yoshi's Cookie was first released in Japan on November 21, 1992, for the Nintendo Entertainment System and Game Boy. Five months later, it was released in North America in April 1993, and in Europe on April 28, 1994.
+The Super NES version was released in June 1993 in North America, on July 9, 1993, in Japan, and in Europe during the same year.
+
+
+=== Yoshi no Cookie: Kuruppon Oven de Cookie ===
+National, a brand of Panasonic, released 500 copies of a special limited edition of Yoshi's Cookie for the Super Famicom, titled Yoshi no Cookie: Kuruppon Oven de Cookie (ヨッシーのクッキー クルッポンオーブンでクッキー), which worked with a peripheral called the Kuruppon Oven to show players how to make the cookies in the game. In October 2010, a copy of this edition was valued at ¥157,500 (equivalent to US$1,924 in 2010).
+
+
+=== Remake and emulation ===
+Yoshi's Cookie was remade and included in the Nintendo Puzzle Collection for the GameCube, released in Japan on February 7, 2003. The remake adds a story mode and four-player competitive multiplayer mode. The collection also contained the NES emulated version on the disc that could be transferred to the Game Boy Advance via the GameCube – Game Boy Advance link cable. Besides lacking the VS Mode, the GBA version is virtually identical to the original.
+The NES emulated version was also re-released for the Wii's Virtual Console service on April 4, 2008, in Europe and Australia, April 7, 2008, in North America, June 10, 2008, in Japan, and November 11, 2008, in South Korea. It was discontinued from the service on October 11, 2013, in Japan and Europe, and October 18, 2013, in North America.
+
+
+== Reception ==
+
+Yoshi's Cookie received mixed reviews. GamesRadar ranked it the 48th best game available on the Game Boy and Game Boy Color. The Washington Post in 1993 called the game "simple, but addictive, just like all puzzlers from the Big N. Give Yoshi's Cookie a taste test - but don't do it before bedtime. You might have nightmares about that NES coming back to life." Nintendo Power rated Yoshi's Cookie the fifth best NES game of 1993. IGN ranked the game 50th on their Top 100 SNES Games."
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official Nintendo Japan Yoshi's Cookie Game Boy site (in Japanese)
+Yoshi's Cookie at MobyGames
+Yoshi's Cookie at NinDB
+Yoshi's Cookie on the Famicom 40th Anniversary page (in Japanese)

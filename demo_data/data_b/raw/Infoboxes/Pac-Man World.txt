@@ -1,0 +1,73 @@
+Pac-Man World
+North American cover art for PlayStation
+Developer(s)
+Namco Hometek
+[
+a
+]
+Publisher(s)
+NA
+:
+ Namco Hometek
+JP
+:
+ 
+Namco
+EU
+:
+ 
+Sony Computer Entertainment
+ (PS)
+EU
+:
+ 
+Zoo Digital Publishing
+ (GBA)
+Producer(s)
+Brian Schorr
+Designer(s)
+Scott Rogers
+Programmer(s)
+Gil Colgate
+Joey Headen
+Brian Leake
+Roman Scharnberg
+Composer(s)
+Todd Dennis
+[
+2
+]
+[
+3
+]
+Series
+Pac-Man
+Platform(s)
+PlayStation
+Game Boy Advance
+Release
+PlayStation
+NA
+:
+ October 15, 1999
+JP
+:
+ November 2, 1999
+EU
+:
+ February 28, 2000
+Game Boy Advance
+ 
+NA
+:
+ November 16, 2004
+[
+1
+]
+EU
+:
+ November 26, 2004
+Genre(s)
+Platform
+Mode(s)
+Single-player

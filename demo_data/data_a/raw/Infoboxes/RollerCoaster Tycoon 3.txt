@@ -1,0 +1,73 @@
+RollerCoaster Tycoon 3
+North American cover art
+Developer(s)
+Frontier Developments
+Publisher(s)
+Atari Interactive
+[
+a
+]
+Producer(s)
+Jonny Watts
+Composer(s)
+Alistair Lindsay
+Series
+RollerCoaster Tycoon
+Platform(s)
+Microsoft Windows
+Mac OS X
+iOS
+Nintendo Switch
+PlayStation 4
+PlayStation 5
+Xbox One
+Xbox Series X/S
+Release
+Windows
+NA
+:
+ November 2, 2004
+[
+2
+]
+EU
+:
+ November 5, 2004
+[
+1
+]
+Mac OS X
+NA
+:
+ November 17, 2005
+[
+3
+]
+EU
+:
+ November 25, 2005
+iOS
+WW
+:
+ August 12, 2015
+[
+4
+]
+Nintendo Switch
+WW
+:
+ September 24, 2020
+[
+5
+]
+PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S
+WW
+:
+ March 20, 2025
+[
+6
+]
+Genre(s)
+Construction and management simulation
+Mode(s)
+Single-player

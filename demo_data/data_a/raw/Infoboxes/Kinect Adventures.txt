@@ -1,0 +1,42 @@
+Kinect Adventures!
+Developer(s)
+Good Science Studio
+Smoking Gun Interactive
+Publisher(s)
+Microsoft Game Studios
+Director(s)
+Kudo Tsunoda
+Producer(s)
+Dana Hanna
+Michael David Forgey
+Designer(s)
+Matt Coohill
+Shawn Wright
+Stephen Latta
+Composer(s)
+Daniel Pemberton
+Engine
+Unreal Engine 3
+Platform(s)
+Xbox 360
+Release
+NA
+:
+ November 4, 2010
+EU
+:
+ November 10, 2010
+AU
+:
+ November 18, 2010
+JP
+:
+ November 20, 2010
+Genre(s)
+Adventure
+, 
+sports
+Mode(s)
+Single player
+, 
+multiplayer

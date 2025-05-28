@@ -1,0 +1,59 @@
+EyeToy: Play is a minigame compilation video game developed by London Studio and published by Sony Computer Entertainment for the PlayStation 2. It was the first game to make use of the PlayStation 2's video camera accessory, EyeToy. The game was initially packaged with the EyeToy when the accessory was first released.
+
+
+== Gameplay ==
+EyeToy: Play features twelve mini-games to choose from. This game, and all other EyeToy titles, are played by moving one's body. The motion is detected by the USB camera. The software recognizes pixel changes in the video image and compares the proximity of the change to other game objects to play the game. Users who get a high score get to take a photo to tease other players.
+
+
+=== Games ===
+Beat Freak: A rhythm action game where the player must touch moving discs as they cross speakers.
+Wishi Washi: Players must move their body to clean a sequence of soapy windows, set to the song When I'm Cleaning Windows by George Formby.
+Soccer Craze (EU Name: Keep Ups): A keepie-uppie style game where the player must use their head to keep a ball from falling while avoiding enemies.
+Boxing Chump: A boxing game where the player must defeat a robotic monkey opponent.
+Kung Foo: A Whac-A-Mole style game where the player must defend themselves from attacking ninjas.
+UFO Juggler: A game where players must spin UFOs at safe speeds while defeating attacking enemy spaceships.
+Slap Stream: A Whac-A-Mole style game where players must hit enemy mice and rats while avoiding friendly rabbits.
+Plate Spinner: Players must spin up to four plates to earn as many points as possible.
+Disco Stars (EU Name: Boogie Down): A rhythm action game where players must copy a dancer and hit icons on the beat to earn points.
+Ghost Elimination (EU Name: Ghost Catcher): A game where the player must defend a graveyard from ghosts and bats.
+Mirror Time: A Whac-A-Mole style game, where the player must hit green symbols and avoid red ones, with the added twist of the screen occasionally mirroring or reversing their movements.
+Rocket Rumble: A Fantavision-style game where the player must highlight rockets of similar colours and then detonate them with a plunger.
+
+
+== Development and release ==
+EyeToy: Play was developed by Sony Computer Entertainment's London Studio under the direction of Jamie MacDonald, with Ron Festejo acting as producer. Craig Kerrison and Pete Marshall were the game's respective lead designer and programmer, while Masami Kochi and Andrea Falcone served as the lead artists. The voices for the game's characters were provided by Burt Kwouk, Ben Fairman, Cornell John, and Amy Shindler.
+
+
+== Reception ==
+Eye Toy: Play received a "Double Platinum" sales award from the Entertainment and Leisure Software Publishers Association (ELSPA), indicating sales of at least 600,000 copies in the United Kingdom. In October 2003, Sony Computer Entertainment Europe announced one million copies of EyeToy: Play had been sold in Europe. By December 2003, Sony reported that number had increased to two million copies in the same region. In 2004, Sony reported that worldwide sales of EyeToy: Play were over four million units, making it overall the 18th best-selling PlayStation 2 game.
+
+
+=== Critical reception ===
+
+The game received "generally favorable" reviews according to the review aggregation website Metacritic.  In Japan, Famitsu gave it a score of one nine, one six, one seven, and one six, for a total of 28 out of 40. Tim Tracy of GameSpot described it as a "solid choice" for those "who have little or no interest in video games". Douglass Perry of IGN described all the minigames as "simple, instantly graspable, and fun for a single player", although highlighted that "none of [them] are deep in any way." Kristan Reed for Eurogamer felt EyeToy: Play was "tremendous fun for a quick mess around if you've got a few mates around" but playing alone "feels a bit pointless."
+
+
+=== Awards ===
+2003 E3 Game Critics Awards: Best Puzzle/Trivia/Parlor Game
+2003 Japan Media Arts Festival: Excellence Prize for Entertainment
+1st British Academy Video Games Awards: Best Children's Game, Technical Achievement
+7th Annual Interactive Achievement Awards: Outstanding Innovation in Console Gaming, Console Family Game of the Year
+
+
+== See also ==
+EyeToy: Play 2
+EyeToy: Play 3
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Bibliography ===
+Coburn, Russell (2003). EyeToy USB Camera (for PlayStation 2) Usage Instructions and Game Manual (PDF). Sony Computer Entertainment.
+
+
+== External links ==
+EyeToy: Play at MobyGames

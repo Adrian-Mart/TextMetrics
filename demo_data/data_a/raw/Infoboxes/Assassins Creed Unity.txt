@@ -1,0 +1,64 @@
+Assassin's Creed Unity
+Developer(s)
+Ubisoft Montreal
+[
+a
+]
+Publisher(s)
+Ubisoft
+Director(s)
+Alexandre Amancio
+Marc Albinet
+Producer(s)
+Vincent Pontbriand
+Antoine Vimal du Monteil
+Philippe Ducharme
+Designer(s)
+Alexandre Pedneault
+Programmer(s)
+James Therien
+Artist(s)
+Mohamed Gambouz
+Writer(s)
+Sylvain Bernard
+Alexandre Amancio
+Travis Stout
+Russell Lees
+Darby McDevitt
+Ceri Young
+Composer(s)
+Chris Tilton
+Sarah Schachner
+Ryan Amon
+Series
+Assassin's Creed
+Engine
+AnvilNext 2.0
+Platform(s)
+PlayStation 4
+Windows
+Xbox One
+Stadia
+Release
+PS4, Windows, Xbox One
+NA
+:
+ November 11, 2014
+PAL
+:
+ November 13, 2014
+UK
+:
+ November 14, 2014
+Stadia
+WW
+:
+ December 15, 2020
+Genre(s)
+Action-adventure
+, 
+stealth
+Mode(s)
+Single-player
+, 
+multiplayer

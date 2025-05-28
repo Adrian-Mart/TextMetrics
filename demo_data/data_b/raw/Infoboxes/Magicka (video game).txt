@@ -1,0 +1,22 @@
+Magicka
+Developer(s)
+Arrowhead Game Studios
+Publisher(s)
+Paradox Interactive
+Designer(s)
+Johan Pilestedt
+Emil Englund
+Engine
+Microsoft XNA
+Platform(s)
+Windows
+Release
+WW
+:
+ January 25, 2011
+Genre(s)
+Action-adventure
+Mode(s)
+Single-player
+, 
+multiplayer

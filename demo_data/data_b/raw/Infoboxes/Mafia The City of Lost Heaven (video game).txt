@@ -1,0 +1,86 @@
+Mafia
+Developer(s)
+Illusion Softworks
+Publisher(s)
+Gathering of Developers
+[
+a
+]
+Director(s)
+Petr Vochozka
+Daniel Vávra
+Producer(s)
+Lukáš Kuře
+Programmer(s)
+Dan Doležel
+Artist(s)
+Pavel Čížek
+Writer(s)
+Daniel Vávra
+Composer(s)
+Vladimír Šimůnek
+Series
+Mafia
+Platform(s)
+Windows
+PlayStation 2
+Xbox
+Release
+
+
+August 29, 2002
+
+
+Windows
+NA
+:
+ August 29, 2002
+[
+1
+]
+EU
+:
+ September 6, 2002
+[
+1
+]
+PlayStation 2
+NA
+/
+UK
+:
+ February 4, 2004
+[
+2
+]
+EU
+:
+ February 13, 2004
+[
+2
+]
+Xbox
+NA
+:
+ March 12, 2004
+[
+3
+]
+UK
+:
+ March 26, 2004
+[
+3
+]
+EU
+:
+ April 2, 2004
+[
+3
+]
+
+
+Genre(s)
+Action-adventure
+Mode(s)
+Single-player

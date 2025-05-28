@@ -1,0 +1,52 @@
+Stronghold
+Developer(s)
+Firefly Studios
+Publisher(s)
+Gathering of Developers
+[
+a
+]
+Firefly Studios (Definitive)
+Designer(s)
+Simon Bradbury
+Writer(s)
+Casimir C. Windsor
+Composer(s)
+Robert L. Euvino
+Series
+Stronghold
+Platform(s)
+Windows
+, 
+Mac OS X
+Release
+Windows
+EU
+:
+ 19 October 2001
+[
+2
+]
+NA
+:
+ 22 October 2001
+[
+1
+]
+Mac OS X
+NA
+:
+ 21 May 2002
+[
+3
+]
+Definitive Edition
+WW
+:
+ 7 November 2023
+Genre(s)
+Real-time strategy
+Mode(s)
+Single-player
+, 
+multiplayer

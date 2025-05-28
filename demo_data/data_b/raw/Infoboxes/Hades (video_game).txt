@@ -1,0 +1,61 @@
+Hades
+Developer(s)
+Supergiant Games
+[
+a
+]
+Publisher(s)
+Supergiant Games
+[
+b
+]
+Designer(s)
+Amir Rao
+Gavin Simon
+Greg Kasavin
+Eduardo Gorinstein
+Alice Lai
+Programmer(s)
+Gavin Simon
+Andrew Wang
+Dexter Friedman
+Alice Lai
+Nikola Sobajic
+Artist(s)
+Jen Zee
+Writer(s)
+Greg Kasavin
+Composer(s)
+Darren Korb
+Platform(s)
+macOS
+Nintendo Switch
+Microsoft Windows
+PlayStation 4
+PlayStation 5
+Xbox One
+Xbox Series X/S
+iOS
+Release
+macOS
+, 
+Switch
+, 
+Windows
+September 17, 2020
+PS4
+, 
+PS5
+, 
+Xbox One
+, 
+Series X/S
+August 13, 2021
+iOS
+March 19, 2024
+Genre(s)
+Roguelike
+, 
+action role-playing
+Mode(s)
+Single-player

@@ -1,0 +1,55 @@
+Stronghold: Crusader is a 2002 real-time strategy video game developed by Firefly Studios and originally published by Gathering of Developers for Windows. It is a sequel to the 2001 video game Stronghold. Crusader has much in common with the original Stronghold, but differs from its predecessor in the fact that the game is no longer set in England, instead being set in the Middle East during the Crusades. Another prominent addition not found in its predecessor is a skirmish mode in single-player, allowing customized battles with AI opponents instead of the linear campaign. The game was also released as Stronghold Warchest. This version was a compendium of Stronghold and an enhanced version of Stronghold: Crusader, containing additional characters and an additional Crusader Trail.
+Stronghold Warchest was only released in a limited number of countries (e.g. USA or Poland), meaning players in the rest of the world have never encountered the second Crusader Trail, or second set of characters. This changed when an updated version of Stronghold Crusader, Stronghold: Crusader Extreme was released in early 2008.
+Stronghold: Crusader HD, a high-definition remake of the original, was released in 2012 by Firefly Studios. Both Stronghold: Crusader and Stronghold: Crusader Extreme are included in this edition. A remaster subtitled Definitive Edition is scheduled for release on Windows on 15 July 2025 by Firefly Studios, four years after Devolver Digital purchased the company.
+
+
+== Campaigns ==
+Stronghold Crusader features several real-time strategy campaign strings. These document the First and Third Crusade, as well as conflicts within the individual Crusader states. Each campaign comprises several battles, such as Nicaea, Heraclea, the siege of Antioch, Krak des Chevaliers, and the Siege of Jerusalem.
+The game also features the Crusader Trail, a series of 50 linked missions against various opponents. Stronghold Warchest adds one more Crusader Trail, consisting of 30 linked missions.
+
+
+== Gameplay ==
+The gameplay is similar to the original Stronghold, the major difference being that the game is set in the Middle East. As a consequence, farms can only be built on oasis grass, which leads to rivalry among players for limited farmland and resources. The game adds new AI opponents (the number depending on the version of the game) and several new Arabian units purchasable from a mercenary post. The colour of the player's units have also been changed from blue to red in order to match the colours of the Knights Templar. Other than farms there are other resources such as iron ore, quarry (for stone), and marshes (for oil). These resources are deposited on the stockpile and the player can choose to either sell or use them for defence purposes. There are two ways to build an army; either make the weapons and then spend a little gold to turn peasants into soldiers, or turn them directly into soldiers using more gold via the mercenary post.
+There are historical chapters (mostly fictionalized) which are to be completed using the resources given to the player at the start of the missions. Along with that there are 50 levels designed with increasing difficulty. In each level, the player must defend the kingdom and defeat one or more Kings. There is an option of three chickens at the start of the game which the player can use to skip a particular level.
+There are 30 additional levels added by the developers in the form of an additional Crusade Trail. The design of these mirrors the original 50 levels with the difficulty rising as the player progresses through the levels.
+
+
+== Characters ==
+The game contains several different characters that all appear as AI-controlled lords in the Skirmish mode, available to be selected as allies or enemies. One unique aspect of the game is that the characters have individual binks (small short videos) by which they communicate with the player, asking for goods or help if allied with them or, if they are the players' enemy, taunting them when attacking or expressing worry when under siege. These videos were absent for Stronghold 2 but returned in a new form for Stronghold Crusader II.
+In the base game, eight AI lords are available, including the opponents from the original game (The Rat, The Snake, The Pig, and The Wolf), as well as new Arabian, Kurdish and Crusader lords (Saladin, Richard the Lionheart, The Caliph, and The Sultan). With the Warchest edition, eight additional lords were added. Three of these (Emperor Frederick, King Philip, and The Sheriff) were made available by Firefly as a free download, but the five others - Nizar (based on the real-life Hassan-i Sabbah), The Emir, The Wazir, The Marshal (a repurposed Sir Longarm from the original Stronghold), and The Abbot - had to be obtained via buying the Warchest package. These additional lords were, however, properly included within the game's later release on Steam at no extra charge.
+
+
+== Reception ==
+
+The game received "generally favorable reviews" according to the review aggregation website Metacritic.
+
+
+=== Sales ===
+As Stronghold was a commercial success in the German market, local commentators suggested before Crusader's release that it would become a hit as well. The game opened as September's fifth-best-selling full-price computer game, according to Media Control. It maintained an unbroken streak in Media Control's top 30 for full-price games through June 2003, placing 20th that month. In August, it debuted in first place on the chart for budget-price games; by August 2004, it had spent 10 total months in the budget top 20. Crusader ultimately received a "Gold" certification from the Verband der Unterhaltungssoftware Deutschland (VUD), indicating sales of at least 100,000 units across Germany, Austria, and Switzerland.
+According to Edge, Stronghold: Crusader sold at least 100,000 copies in the United States, but was beaten by the first Stronghold's 220,000 sales in the region. Total US sales of Stronghold games released during the 2000s reached 590,000 copies by August 2006.
+
+
+== Stronghold: Crusader Extreme ==
+On 28 January 2008, Firefly Studios announced an expanded version of the game: Stronghold: Crusader Extreme. It boasts "new AI opponents and maps", a "new crusader extreme trail", "battles featuring over 10,000 units" and Windows Vista compatibility. It was released in June 2008.
+It also contains an updated version of the original Stronghold: Crusader, which includes everything except for outposts, the god powers and the Extreme Crusader Trail. However, if the official HD patch is installed, outposts can be built on maps on the original Stronghold Crusader part of Stronghold Crusader Extreme.
+
+
+=== Reception ===
+
+The Extreme version received "generally unfavorable reviews" according to Metacritic. It was criticized for its extreme difficulty, lack of new audio, and not having graphical quality up to par for a game released in 2008.
+
+
+== Sequel and Definitive Edition ==
+On 30 August 2012, Firefly Studios announced Stronghold Crusader II, a sequel to the original Crusader game. The company said that the game would be self-published, with additional funding to be sourced via crowd-funding site Gambitious. The game was released on 23 September 2014.
+In early 2025, Stronghold Crusader: Definitive Edition was announced by Firefly, with a release date for July of that year. Along with upgrading the graphics and tweaking the interface, other additions included new AI lords, new in-game units, larger map sizes, and additional cooperative options for multiplayer.
+
+
+== References ==
+
+
+== External links ==
+Official website via Internet Archive
+Stronghold: Crusader at Firefly Studios
+Stronghold: Crusader at MobyGames
+Stronghold: Crusader Extreme at MobyGames
+Stronghold Nation

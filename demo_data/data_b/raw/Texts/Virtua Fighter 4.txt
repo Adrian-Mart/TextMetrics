@@ -1,0 +1,79 @@
+Virtua Fighter 4 is a fighting video game developed and published by Sega for arcades. It is the fourth game installment in the Virtua Fighter series. It was first released in arcades on the NAOMI 2 board followed by a console port as well as Virtua Fighter 4: Evolution on the PlayStation 2 under the budget-priced "Greatest Hits" label in 2002 and 2003, respectively.
+
+
+== Gameplay ==
+Virtua Fighter 4 became much more streamlined and user friendly than its predecessors, while expanding on old ideas and adding new techniques.  The evasion system was revamped from Virtua Fighter 3, the evade button was removed, and evades were split into two types, successful and unsuccessful.  When evades were not performed with the proper timing, they were unsuccessful leaving the fighter vulnerable.  The evade + throw escape option select, which was an advanced technique discovered in Virtua Fighter 3, was expanded upon. Virtua Fighter 4 allowed the player to escape as many throws as they could, and lengthened the window for performing a successful throw escape during an [unsuccessful] evade. A new move type called a Sabaki was added; an attack that also doubles as a reversal versus one or more move types.
+The two new characters, Vanessa Lewis and Lei-Fei, had moves that employed these properties significantly more than the returning cast, and were quite experimental for Virtua Fighter characters. Vanessa Lewis is a black Vale Tudo/Muay Thai kickboxer with two completely separate moves sets that can be switched between on the fly, and Lei-Fei, a Shaolin monk, employs many stances that flow into one another.
+Taka-Arashi, one of the new characters added to Virtua Fighter 3, was omitted, apparently due to the developers not being able to make him work properly with the Virtua Fighter 4 system mechanics.
+The fighting arenas reverted to the old Virtua Fighter style of flat and square, as opposed to Virtua Fighter 3's wild and undulating stage designs. The reason behind this was to make the game less random, and more balanced and competitive in nature. Walls, however, were kept and expanded upon with a wall stagger/juggle system and several wall types including high + unbreakable, low + breakable, and low + unbreakable + open corners. Some stages’ walls can be broken by knocking down the opponent while the latter is behind the wall and at low health, with the next round permanently leaves the stage's without a fence that have been broken.
+Virtua Fighter 4 introduced a comprehensive training mode. The mode consisted of an encyclopedia of fighting game terms, complete character command list walkthroughs, tips on all of the game's mechanics, recommended character combos, alternative options for failed combos, detailed command input timings, slow motion for frame counting and timing, and other useful training tips.
+VF4's training mode consists of three sections: "Free Training", "Trial Mode", and "Command Training", A complete run through each move, one-by-one. The command for the move is displayed and the player executes the command—moving to the next one. VF4 allows the option to skip the current command, view the move (computer controlled), enable advice.
+A unique feature in Evolution was the ability to play in a tournament quest mode, where the concept was that the player was competing by traveling to various arcades, as opposed to role-playing as the player's chosen fighter.  This mode was very popular due to the ability to buy cosmetic items to customize a character, as well as the ability to name a character. Many players of fighting games have unique styles; with the combination of various items allowing for vastly differing appearances a new depth of uniqueness was added. In addition, Sega took the top tournament players from the arcade version, and captured their style of play for the AI of a player's opponents for this mode. For example, playing against one Wolf character would be very different from playing another, because the actual player that character's AI was programmed to mimic had a unique play style.
+
+
+=== Characters ===
+New characters are marked below in bold:
+
+
+== Plot ==
+Virtua Fighter 4 and Virtua Fighter 4: Evolution have a two-part storyline. VF4 started out with thirteen fighters entering the tournament for their own personal reasons, while Judgement Six used them for gathering data for Dural. Evolution adds two more fighters to the mix, one of them works for Judgement Six who is ordered to kill everyone in the tournament.
+It was also revealed that for the Dural project, Judgement Six targeted Sarah Bryant as their next volunteer for a new Dural model. Akira fell short during the third tournament. In order to find out what the "real power" was within him, he enters the fourth tournament to find that answer. Pai discovers that her skill was close to her father's despite her loss in the third tournament. After hearing that Lau was looking for a successor and has a terminal illness, she enters the tournament to prove that she is a worthy successor to master her father's style. Lau suffered a terrible illness that cannot be cured after losing to Kage-Maru in the third tournament. He enters the tournament to find a worthy successor to Koen-Ken. Wolf still has reoccurring nightmares since the end of the second tournament. After losing in the third tournament, he ignored the dream but it kept coming back. He enters the fourth tournament to find out what that meant. Jeffry finally gained enough money to repair his boat, but there was only one problem: the Satan Shark mysteriously disappeared. He enters the tournament to invest in a sonar device for the shark.
+Kage-Maru won the third tournament and found a part from the new Dural model that would cure his mother. It result in his mother transforming into Dural once again and attacking him. Since Judgement Six saved her, Kage enters the tournament to kill Dural once and for all. Sarah regained her memories and lived a quiet life with her brother, until she had flashbacks of the time where she was brainwashed by Judgement Six and attempted to kill Jacky. She enters the tournament to defeat him and resolve the matter. Jacky turned his focus to racing after the end of the third tournament, where he formed his own racing team. However, Judgement Six killed one of his sponsors and they will continue unless Jacky enters the fourth tournament. He decides to enter the tournament to once again take down Judgement Six. Shun was unsuccessful on finding his missing student during the third tournament. It was revealed that his student was trying to escape from Judgement Six, but he was recaptured by the evil organization. He enters the fourth tournament to find more information about the missing student.
+Lion enters the fourth tournament in order to once again try to win the title. Aoi did not last long in the first round of the third tournament. She enters the fourth tournament to try her new skills in parrying and counterattacking. Lei-Fei entered the fourth tournament to become the successor to Lau's Koen-Ken style of martial arts. His true intention is to kill Lau after he learned his style under the clan's orders. Vanessa joins the fourth tournament to protect Sarah from Judgement Six, and to avenge the murder of her mentor, Lewis. Brad entered the fourth tournament after dominating the Muay Thai Kickboxing world. Goh infiltrated the fourth tournament under Judgement Six orders to kill everyone. The 4th tournament had come down to one final fight between Kage-Maru and Shun Di, but as Kage was about to deliver the final blow to Shun, the glowing, silver form of Dural interrupted the match. Kage is the winner, but he discovers that the Dural he fought is not his mother.
+
+
+== Development ==
+Like previous Virtua Fighter titles, the game's development was led by Yu Suzuki.
+The Naomi 2 arcade version uses about 12,000 polygons per character, and 50,000 polygons for the backgrounds. It also reportedly uses 128 MB of texture data. For the PlayStation 2 port, the graphical detail was reduced, particularly in terms of texture details.
+In Japan, Virtua Fighter 4 is famous for spearheading and opening the market for internet functionality in arcades. VF.NET started in Japan in 2001, and since companies have created their own arcade networks, e-Amusement by Konami, NESiCAxLive by Taito and Square Enix, and ALL.Net by Sega.
+
+
+== Revisions ==
+
+
+=== Virtua Fighter 4: Evolution ===
+Evolution was an updated version of Virtua Fighter 4. The game introduced two new characters and adjusted every other character as well. The two new characters were the Judoka-assassin Goh Hinogami and the Muay Thai boxer Brad Burns. With the addition of Brad Burns, Vanessa Lewis's alternate Muay Thai style from Virtua Fighter 4 was removed and replaced with a Vale Tudo "Offensive" style; making her a solely Vale Tudo brawler. In the US, the PlayStation 2 version was only released as part of the Greatest Hits budget range.
+All of the stages were adjusted. For example, Lei-Fei's stage in Virtua Fighter 4 previously took place during sunset, in Evolution it takes place during the morning.
+Features:
+
+Improved graphics: better anti-aliasing.
+New item store in Quest Mode.
+Currency system in Quest Mode.
+Opponent tracking log in Quest Mode: kept track of which opponents were fought in Quest Mode.
+Increased number of character items.
+Improved ranking system.
+Special gameplay modes (i.e. Hyper Fighter, See-Saw, Wrestler's, etc.).
+Emblem collecting: placed special incentive to defeat certain opponents or to avoid being defeated by certain opponents.
+New ring type; Semi-open/semi-walled.
+In Quest Mode, one of the tournaments is called the Sonic Cup. Its logo shows Sonic surrounded by rings.
+In the US, Virtua Fighter 4: Evolution for PlayStation 2 also included Virtua Fighter 10th Anniversary as a bonus.
+
+
+=== Virtua Fighter 10th Anniversary ===
+With the 2003 PlayStation 2 release of Virtua Fighter 4: Evolution arriving in time for the series' 10th anniversary, a remake of Virtua Fighter, Virtua Fighter 10th Anniversary, was released exclusively on the PlayStation 2. While the music, stages and low-polygon visual style were retained from the first game, the character roster, animations, mechanics and movesets were taken from Evolution. In the previous PS2 release of Virtua Fighter 4, a button code would make the player's character look like a VF1 model. In Japan, the game was included as part of a box set with a book called Virtua Fighter 10th Anniversary: Memory of a Decade and a DVD. The box set was released in November 2003 and was published by Enterbrain. In North America, the game was included within the home version of Virtua Fighter 4: Evolution, and in Europe it was only available as a promotional item; it was not sold at retail.
+
+
+=== Virtua Fighter 4: Final Tuned ===
+Final Tuned is the final update to Virtua Fighter 4. This version of the game was released only into Japanese arcades, and it made some gameplay fixes and added new stages. Also, new customization items were added.
+
+
+== Reception ==
+
+
+=== Arcade ===
+In Japan, Game Machine listed Virtua Fighter 4 on their September 15, 2001 issue as being the most-successful arcade game of the month.
+In July 2001, IGN's Anthony Chau praised the graphics of the arcade game, stating it is "one of the finest looking video games I've laid my eyes on" and "demonstrates the highest quality in visuals I've seen."
+
+
+=== PlayStation 2 ===
+In Japan, the PlayStation 2 version sold 500,000 units during its first weekend on sale in early 2002, making it Sega's fastest-selling game of that generation. The PlayStation 2 version went on to sell 541,973 units overall in Japan by the end of 2002. Worldwide sales of the PS2 port exceeded 1.5 million by June 2002. By July 2006, Virtua Fighter 4 had sold 630,000 copies and earned $23 million in the United States. Next Generation ranked it as the 97th highest-selling game launched for the PlayStation 2, Xbox or GameCube between January 2000 and July 2006 in that country. Combined sales of the Virtua Fighter 4 line reached 1 million units in the United States by July 2006.
+On release, Famitsu magazine scored the PlayStation 2 version of the game a 37 out of 40. The game received universal critical acclaim (Metacritic 94/100), with perfect scores from GMR Magazine, PSX Nation, Hot Games, GamePro, G4 TV, Official PlayStation Magazine, Into Liquid Sky, and Cinescape. G4 TV called it "The best fighting experience available on home consoles." Writing for the Chicago Tribune, Levi Buchanan hailed Virtua Fighter 4 as "the greatest fighting game since Street Fighter II." Game Informer gave the PS2 release a 9.75/10, opining that "Underneath its silky shine is a feast of fighting goodies that will change everything you have ever come to expect from this genre." Game Informer later named Virtua Fighter 4: Evolution one of "The Top 50 Games of 2003," calling it "absolutely ingenious" and "the most balanced and challenging fighting game the world has ever seen." GameSpot named Virtua Fighter 4 the best video game of March 2002, and Virtua Fighter 4: Evolution the best PlayStation 2 game of August 2003. During the 6th Annual Interactive Achievement Awards, the Academy of Interactive Arts & Sciences (AIAS) nominated Virtua Fighter 4 for "Console Fighting Game of the Year", which ultimately lost to Tekken 4. At the following year's awards ceremony, AIAS also nominated Evolution for "Console Fighting Game of the Year" as well; however, it would ultimately lose out to Soulcalibur II.
+Edge noted in retrospect that "Virtua Fighter 4: Evolution was unchallenged in having the best tutorial in fighting game history."
+
+
+== References ==
+
+
+== External links ==
+Official website
+Virtua Fighter 4 at the Killer List of Videogames

@@ -1,0 +1,114 @@
+Dragon Ball Z: Budokai Tenkaichi, released in Japan as Dragon Ball Z: Sparking! (ドラゴンボールZ Sparking!), is a series of fighting games developed by Spike based on the Dragon Ball franchise by Akira Toriyama. The series was published by Namco Bandai Games in Japan and Europe, and by Atari in North America and Australia until 2008. Since the third game, Bandai Namco has handled Dragon Ball game publishing in all regions, effectively ending Atari's involvement.
+The original game was released in 2005 as a PlayStation 2 exclusive, while the second and third installments were released for PlayStation 2 and Wii in 2006 and 2007, respectively. A spin-off titled Tenkaichi Tag Team was released on PlayStation Portable in 2010. A new installment, Dragon Ball: Sparking! Zero, was announced in March 2023 and released in October 2024 for PlayStation 5, Windows and Xbox Series X/S.
+
+
+== Origin of name ==
+ 
+The Sparking! in the Japanese title references the last lyric found in the chorus of the first opening theme to the Dragon Ball Z anime series (1989–1996), "Cha-La Head-Cha-La" (though the opening theme to the first game in Japan is the series' second opening, "We Gotta Power"). The North American title is a rearranged version of Tenkaichi Budokai (天下一武道会, Tenka'ichi Budōkai, roughly "Strongest Under the Heavens Martial Arts Tournament"), a reoccurring tournament featured in the manga and anime series. Despite the localized title, the series is not a continuation of the Dragon Ball Z: Budokai series. It has been speculated that Atari chose to market the games as part of the Budokai series in order to capitalize on its success.
+While Sparking! features actual music from Dragon Ball Z, as well as Dragon Ball (1986–1989) and Dragon Ball GT (1996–1997), as composed by Shunsuke Kikuchi, the American release of the first game features recycled music from the Budokai series, composed in Japan by Kenji Yamamoto.
+
+
+== Gameplay ==
+
+The games use a "behind-the-back" third-person camera perspective. Similar to the Super Famicom-released Dragon Ball Z: Legendary Super Warriors (2002), special forms are treated as their own character, with varying stats, movesets, and fighting styles.
+In battle, players can build up their Ki gauge to execute various techniques such as the Power Guard, which reduces the damage characters take by 1/4. The Ki gauge can also be used to use moves referred to as Blast 2 skills. Every character has a unique set of Blast 2 skills that allow the character to use special moves such as Ki blasts and physical attacks. Characters also have a self-recharging numeric gauge called Blast Stock that allows players to use techniques called Blast 1 skills. Blast 1 skills usually have a supportive effect such as allowing characters to regain health or immobilize the enemy. Players can also power up into a mode called Max Power Mode normally by building up their Ki beyond full at the cost of Blast Stock bars. Max Power Mode makes the character that initiated it faster, stronger, and able to use moves that are exclusive to the mode. One of these moves is the Ultimate Blast which is usually the most powerful move a character has, though use of any Blast 2 skill or the Ultimate Blast immediately ends Max Power Mode.
+
+
+=== Game modes ===
+In the series' story mode (called "Z Battle Gate", "Dragon Adventure", "Dragon History", and "Episode Battle" in each console installment, respectively), the objective is to compete in battles based on moments from the original manga series, as well as anime-exclusive storylines (as seen in Dragon Ball GT and several of the Dragon Ball Z films). The Dragon Balls can be acquired through story mode by destroying the environment in battle; however, the player can only keep the Dragon Ball they find if the battle is won. Each installment features several "what-if" battles and scenarios; for example, the Tenkaichi 1 story mode features modes where the player takes control of a villain and uses the character to defeat the hero, while the Tenkaichi 2 story mode has modes where Raditz and Zarbon essentially team up with the Z Fighters for one reason or another. Tenkaichi 3 features a "What If Saga", while in Sparking! Zero, the player can unlock alternate scenarios depending on decisions or battle conditions. Several levels of the Tenkaichi 2 story mode also feature cutscenes shown either before or after the fight of the level takes place. The Tenkaichi 3 story mode has cutscenes integrated into the battles themselves that are activated by hitting a certain button. These can be transformations, character changes, automatic attack use, or something as simple as a conversation. In Sparking! Zero, the "Episode Battle", which is the first to include the story of Dragon Ball Super (2015–2018), features the perspective of eight playable characters: Goku, Vegeta, Gohan, Piccolo, Frieza, Future Trunks, Goku Black, and Jiren.
+The player can enter a World Tournament and try to win their way to the top. There are three levels of the basic tournament and a Cell Games mode. Since characters can fly, characters can leave the perimeter of the arena, but will be called for ringout if they touch the ground. There are no restrictions apart from the fact that the last match of the Cell Games mode is always against Perfect Cell. In Tenkaichi 1 winning the tournaments gave players a Z-Item prize while in Tenkaichi 2, players would receive money which in turn would be used on Z-Items. The World Tournament mode could be played with several entrants, but if there is more than one human player, no prize would be awarded. Sparking! Zero introduces the Tournament of Power from Dragon Ball Super where characters are not allowed to fly. Other features in the game includes more combo attacks or character specific combos, the Blast Combos, and the Z Burst Dash. The additional combo attacks will be able to help chain in more attacks for more damage and longer combos. The Blast Combo is the normal combos however by inputting another button into the attack will allow the player to use a blast attack for extra damage. Depending on the moves of the character, the player might not be able to use this feat such as Videl or Mr. Satan. The Z Burst Dash is much faster and more evasive version of the Dragon Dash. It allows the user to get behind the opponent at high speeds for either a strike or to avoid a blast 2 attack. The drawback to this technique is that it will rapidly drain the player of energy. The player can fuse characters to make a better character but some characters can not be fused. The player also has the opportunity to upgrade characters.
+
+
+== Titles ==
+
+
+=== Main series ===
+
+
+==== Dragon Ball Z: Budokai Tenkaichi (2005) ====
+Dragon Ball Z: Budokai Tenkaichi, originally published as Dragon Ball Z: Sparking! (ドラゴンボールZ Sparking!, Doragon Bōru Zetto Supākingu!) in Japan, was released for PlayStation 2 in Japan on October 6, 2005, North America on October 18, 2005, and Europe on October 21, 2005.
+The game features 64 playable characters and 10 stages. Players can fight across the Earth Wasteland, the Earth Rock Area, Planet Namek, the Islands, the City Ruins, the Hyperbolic Time Chamber, the Cell Games Arena, the Mountain Road, the World Tournament Arena, and Kami's Lookout.
+
+
+==== Dragon Ball Z: Budokai Tenkaichi 2 (2006) ====
+
+Dragon Ball Z: Budokai Tenkaichi 2, originally published as Dragon Ball Z: Sparking! Neo (ドラゴンボールZ Sparking! NEO, Doragon Bōru Zetto Supākingu! Neo) in Japan, is the second installment in the series and first to be released for Wii. It was released for PlayStation 2 in Japan on October 5, 2006, Europe on November 3, 2006, North America on November 7, 2006, and Australia on November 9, 2006. The Wii version was released in North America on November 19, 2006, in Japan on January 1, 2007, in Europe on March 30, 2007, and Australia on April 5, 2007.
+Though originally confirmed as being a launch title in North America for the Wii, some stores started selling the Wii version on November 15, 2006. An issue of V Jump listed January 2007 as the release date for the Japanese version of the Wii release. The game originally featured 100 characters in 136 forms and 16 stages, though the Japanese and PAL Wii versions came with five additional characters (Demon King Piccolo, Cyborg Tao, Appule, Frieza Soldier, and Pilaf Robot with its combined form).
+
+
+==== Dragon Ball Z: Budokai Tenkaichi 3 (2007) ====
+
+Dragon Ball Z: Budokai Tenkaichi 3, originally published as Dragon Ball Z: Sparking! Meteor (ドラゴンボールZ Sparking! METEOR, Doragon Bōru Zetto Supākingu! Meteo) in Japan, is the third installment of the Budokai Tenkaichi series. The game was released for PlayStation 2 and Wii in Japan on October 4, 2007, in North America on November 13, 2007, and in Europe on November 9, 2007, for the PlayStation 2, while the Wii version was released in Japan on October 4, 2007, in North America on December 3, 2007, and in Europe and Australia on February 15, 2008. Tenkaichi 3 features 98 characters in 161 forms, the largest roster in a fighting game at the time.
+Several new notable features include Battle Replay, which allows players to record fights and save them to an external memory card; night and day stages, which allows certain characters ability to transform; and Wii-exclusive online multiplayer capability, the first game in the series to have such a feature. Players can fight against anyone from around the globe with a ranking system showing the player's current standing compared to anyone else who has played online. The PlayStation 2 version features the "Disc Fusion System", where inserting a Tenkaichi 1 or Tenkaichi 2 disc unlocks the "Ultimate Battle" or "Ultimate Battle Z" modes, featured in the respective games needed to unlock them. The game also supports 480p for both the Wii and the PlayStation 2 versions.
+Other features include more combo attacks or character specific combos, Blast Combos, and the Z Burst Dash. The additional combo attacks are able to help chain in more attacks for more damage and longer combos. The Blast Combos are normal combos used in the game, however by inputting another button into the attack will allow the player to use a blast attack for extra damage. Depending on the moves of the character the player might not be able to use this feat such as Videl or Hercule. The Z Burst Dash is a much faster and more evasive version of the Dragon Dash. It allows the user to get behind the opponent at high speeds for either a strike or to avoid a blast 2 attack. The drawback to this technique is that it will rapidly drain the player of energy. Also to charge up all their energy, the player must have one blast one stock filled up to power up to the very limit.
+
+
+==== Dragon Ball: Sparking! Zero (2024) ====
+
+Dragon Ball: Sparking! Zero (ドラゴンボール Sparking! ZERO, Doragon Bōru Supākingu! Zero) is the fourth installment of the Budokai Tenkaichi series, it is the sequel to the 2007 game Dragon Ball Z: Budokai Tenkaichi 3 and the first to be released under the Sparking! title outside of Japan. It was announced through a teaser trailer at Dragon Ball Games Battle Hour 2023. At the time of its announcement, the game's title had not been given; the name reveal would occur during a trailer shown at The Game Awards 2023.
+Sparking! Zero was released for PlayStation 5, Xbox Series X/S, and Microsoft Windows on October 11, 2024. The game  features both new and returning playable characters, forms, and stages, with the stages containing destructible elements, for a total of 182 playable characters. It includes characters, transformations, and elements from Dragon Ball Super and its film Dragon Ball Super: Broly (2018), with future downloadable content (DLC) set to include characters from the film Dragon Ball Super: Super Hero (2022) and the anime series Dragon Ball Daima (2024). The game is entirely influenced by Naohiro Shintani's animation style from Broly.
+
+
+=== Other games ===
+
+
+==== Dragon Ball Z: Tenkaichi Tag Team (2010) ====
+Dragon Ball Z: Tenkaichi Tag Team, originally published as Dragon Ball: Tag VS (ドラゴンボール Tag VS(タッグバーサス), Doragon Bōru Taggu Bāsasu) in Japan, was originally the last traditional game in the Budokai Tenkaichi series to retain its native gameplay, and the only installment to be released on a handheld console. The game was published by Bandai Namco and released in October 2010 for PlayStation Portable.
+The game focuses on two on two fights. "Dragon Walker" is the main story mode, following the events of the manga and anime series. Other modes include "Battle 100", where the player fights many teams; and "Free Battle", where the player can fight any team of their choice. Other features include the ability to perform fusions, and upgrade characters using "D-POINTS", the game's main currency.
+
+
+== Characters ==
+All four games includes characters in various versions, forms, and transformations. This list uses the majority of character names as featured in the most recent game in the series, Sparking! Zero.
+
+A ^2  indicates the character or transformation reappears in Budokai Tenkaichi 2
+A ^3  indicates the character or transformation reappears in Budokai Tenkaichi 3
+An ^S  indicates the character or transformation reappears in Sparking! Zero
+
+
+== Reception ==
+
+
+=== Budokai Tenkaichi (Sparking!) ===
+
+The Game received "average" reviews according to the review aggregation website Metacritic.
+
+
+=== Budokai Tenkaichi 2 (Sparking! Neo) ===
+
+The Game received "average" reviews on both platforms according to Metacritic. The PS2 version of the game received the 'Best Fighting Game of the Year' award from X-Play. Mark Bozon of IGN said of the controls, "The sheer speed and complexity of the controls may turn some people off, but the general combat will eventually come down to two buttons, making the game amazingly easy to learn, but nearly impossible to fully master." Nintendo Power gave the Wii version a score of 10 for "Dragon Ball Z fans", and 5.5 for "everyone else", rounding out the overall score to 7.5 out of 10.
+
+
+=== Budokai Tenkaichi 3 (Sparking! Meteor) ===
+
+The Game received "average" reviews on both platforms according to Metacritic. Japanese videogame magazine Famitsu gave the PS2 version a score of 32 out of 40, while the Wii version received 33 out of 40. IGN awarded both versions of Tenkaichi 3 positively, with their only complaints being the comparatively underwhelming story mode (in comparison to Tenkaichi 2), gimmicky Disc Fusion, and the lagging Wi-Fi.
+
+
+=== Tenkaichi Tag Team (Dragon Ball: Tag VS) ===
+It has a score of 63% on Metacritic. GameSpot awarded it a score of 6.0 out of 10, saying "Dragon Ball Z: Tenkaichi Tag Team is just another Dragon Ball Z fighting game, and makes little effort to distinguish itself from its predecessors."
+
+
+=== Sparking! Zero ===
+
+Sparking! Zero received "generally favorable" reviews from critics, according to review aggregator Metacritic, and 84% of critics recommended the game, according to OpenCritic. PC Gamer called it "the best Dragon Ball game we've had since the PS2 and a generous love letter to Toriyama's classic series." On the other hand, GameSpot stated that "the frenetic fighting Dragon Ball fans expect is here, but it's marred by an overall shallow experience with more repetition than revolution."
+Dragon Ball: Sparking! Zero sold over 3 million copies globally in its first 24 hours. It reached #2 in the Japanese sales charts, and #3 in the UK.
+The game set a record for the most concurrent players in a paid fighting game on PC, with a peak of 122,554 players.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+Official Budokai Tenkaichi series website (in Japanese)
+Dragon Ball Z: Budokai Tenkaichi at Bandai Namco (in English) ( Page will play audio when loaded)
+Dragon Ball Z: Budokai Tenkaichi 2 at Bandai Namco(in English) ( Page will play audio when loaded)
+Dragon Ball Z: Budokai Tenkaichi 3 at Bandai Namco (in English) ( Page will play audio when loaded)
+Dragon Ball Z: Tenkaichi Tag Team at Bandai Namco(in English) ( Page will play audio when loaded)
+Dragon Ball: Sparking Zero at Bandai Namco (in English)
+Dragon Ball Z: Budokai Tenkaichi at MobyGames
+Dragon Ball Z: Budokai Tenkaichi 2 at MobyGames
+Dragon Ball Z: Budoaki Tenkaichi 3 at MobyGames
+Dragon Ball Z: Tenkaichi Tag Team at MobyGames

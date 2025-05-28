@@ -1,0 +1,125 @@
+Dragon Ball Z: Budokai 3, released as Dragon Ball Z3 (ドラゴンボールZ3, Doragon Bōru Zetto Surī) in Japan, is a video game based on the popular anime series Dragon Ball Z and was developed by Dimps for the PlayStation 2. The game was published by Atari in North America and Australia, and Bandai in Europe and Japan. It was released on November 16, 2004 in North America through standard release and a Limited Edition release, which included a DVD featuring behind-the-scenes looks on the game's development. Europe soon saw a release on December 3, 2004. In Fall 2005, Europe obtained a new edition which included character models not available in the North American release as well as a few items and the ability to switch the voices over to Japanese. Japan later saw a release from Bandai on February 10, 2005 and also included the extras that the North American release did not have. Soon after, the Greatest Hits version in North America contained the extra features, including the ability to play with the Japanese voices.
+
+
+== Gameplay ==
+
+
+=== Game mechanics ===
+Ki - The Ki system is completely revamped from the past two Budokai games. Each character now has a base Ki level, and Ki will increase or decrease until it is at this base level. If Ki is higher than base Ki, then attack power is slightly boosted, if the Ki drops below base, defense is lowered. Transformations no longer drain Ki. Instead, most transformations increase the base Ki level, raising attack power, and exaggerating increases and decreases in stats when they are above or below base Ki.
+Transformation -  A transformation will increase the base Ki level, and is only reverted if a character is hit with less than one ki gauge, or if they allow hyper mode to run out. Additionally, some transformations are irreversible.
+Beam Struggle  - If two beam attacks collide a beam struggle is activated. Both opponents then attempt to push the beams against one another until one of the sides wins. If two beam attacks collide at close-range, the beams will instantly cancel out and cause damage to both characters.
+Fatigue - A new fatigue meter is added to the HUD. This meter fills up every time a character performs defensive maneuvers, or a dragon rush is initiated. Fatigue is lowered when characters run out of energy, or by using certain items. During an ultimate move, high fatigue makes it more difficult to power up or defend against the attack. A character becomes exhausted when hit with less than one Ki bar, and has high fatigue.
+Dodging - By pressing the guard button just before being attacked, the character will dodge the attack completely, at the cost of a little Ki.
+Teleport Counters - Before any attack connects, a character can teleport behind the opponent, and counter-attack at the cost of some Ki.
+Pursue - By pressing circle after knocking a character away, the player can begin a Pursue attack. This delivers up to three extra hits to the opponent, but can be countered by a teleport.
+Items - Item capsules can be equipped and used in battle. Items can only be used once, and have various effects ranging from increasing health, to granting temporary Ki blast immunity. If a character is interrupted while trying to use an item, the item is lost.
+Taunt - A taunt causes the opponent to lose a full bar of Ki.
+Hyper Mode - When a character enters Hyper Mode, they turn red, and their Ki begins decreasing. During hyper mode, a character is unfazed by regular melee attacks and Ki blasts, at the cost of not being able to block. Hyper mode is the only way to initiate a Dragon Rush or Ultimate Move. Once Ki runs out, the character becomes vulnerable for a few moments, losing any non-permanent transformations, and a little fatigue.
+Dragon Rush - If a character knocks their opponent away while in Hyper Mode, they can start a Dragon Rush. Dragon Rush is a three part game of chance, where both characters must choose one of the corresponding face buttons from the screen. If the defender picks the same button as the attacker, the Dragon Rush is ended, and the defender avoids all or some of the damage from the Dragon Rush. If the attacker wins all three turns, they perform either a predetermined finishing attack, or in some cases an ultimate move.
+Ultimate Attacks - When in Hyper Mode, characters can launch ultimate attacks. A mini-game is then played out where each side taps on a face button three times to fill up a gauge as high as they can. The side whose bar is the highest then wins the struggle. Depending on who wins, the attack may end up causing more or less damage, or in some cases getting sent back at the attacker.
+Fusion - Fusion isn't much changed since Budokai 2. It can only be used by a few of the characters, and provides a new form and move-set for the character, along with a status boost. Dance fusions require a button input mini-game and last until the timer bar runs out. In Budokai 3, as soon as the bar runs out the fusion ends. Transformations cause this bar to run out more quickly. Also, if the dance fusion is done incorrectly, the resulting character has severely limited status.
+Potara - A potara fusion requires both characters to tap a button, similarly to dragon rush. If the defender wins, the fusion is canceled out, and can't be done again for the rest of the match. A successful potara fusion doesn't have a time limit and lasts the entire match.
+Free Flight - New to the game is the ability to ascend or descend at any time during a match. This is done by double tapping the d-pad, and flying in the desired direction.
+
+
+=== Skills ===
+Continuing from the first and second Budokai games, is the capsule system. Every character in the game can be customized with capsules that have various effects on their status in a battle. Each character has seven slots into which capsules can be added. Each capsule takes up a predetermined amount of these slots. Certain capsules can be used to gain extra slots, and create more space. With the exception of basic melee attacks, throws, Ki blasts, and dragon rushes, capsules are required in order to use any move or transformation in the game. Otherwise, capsules provide various status effects during a battle such as increasing attack power after a certain amount of health is lost. New to Budokai 3 is the ability to use certain capsules during a battle. For example, a senzu bean capsule will restore a character's health when used during a match. If the player is interrupted before the item takes effect, then it is lost.
+
+
+=== Story mode ===
+Story mode is revamped for Budokai 3 and consists of a world called Dragon Universe. Here, the player must choose one of eleven unlockable characters, then travel around one of two maps, Planet Earth or Planet Namek. On the maps, players can collect a variety of different items such as capsules, Zennie, or Dragon Balls. Players can also choose to partake in battles to either level up, or progress the story forward. The story takes place at key points of the anime spanning events from the Saiyan Saga leading up to the Kid Buu Saga. Certain portions of the story touch on several of the Dragon Ball Z films, and a few of the events from Dragon Ball GT. Depending on what character the player selects all or some of the overall story will be revealed. Dragon Universe is where a lot of the content in Budokai 3 is unlocked, and requires several play-throughs of each character in order to unlock everything.
+
+
+=== World tournament ===
+World Tournament mode allows players to compete against the computer in the World Tournament for prizes or cash. Three different levels are available each with varying degrees of difficulty and number of opponents. Higher levels provide better prizes. The cell games are also available for the first time, and take place in the cell ring. In the Cell Games, there are no ring-outs, and fusions are allowed. It is possible for up to eight human players to participate, however if more than one is present, no prizes are won at the tournament.
+
+
+=== Dueling ===
+Dueling mode allows a player to fight the computer at a preset skill level, or two human players to fight each other using any custom skills. A player may also watch a fight between two computer fighters.
+
+
+=== Edit skills ===
+Edit Skills mode is where the player can edit a character's skills, buy skills from the skill shop, or learn how to use skills with the instructions.  A player may edit skills on either memory card.
+
+
+=== Dragon Arena ===
+
+
+=== Playable characters ===
+Budokai 3's character roster includes characters from the following: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Z Movies.
+
+Goku
+Kid Goku
+Kid Gohan
+Teen Gohan
+Gohan
+Great Saiyaman
+Piccolo
+Krillin
+Yamcha
+Tien
+Vegeta
+Kid Trunks
+Goten
+Trunks
+Hercule
+Videl
+Raditz
+Nappa
+Saibamen
+Captain Ginyu
+Recoome
+Frieza
+Android #16
+Android #17
+Android #18
+Dr. Gero
+Cell
+Cell Jr.
+Dabura
+Majin Buu
+Super Buu
+Kid Buu
+Supreme Kai
+Kibito Kai
+Gotenks
+Vegito
+Gogeta
+Super Saiyan 4 Gogeta
+Bardock
+Cooler
+Broly
+Omega Shenron
+Kid Uub
+
+
+== Japanese version ==
+The Japanese version of Dragon Ball Z: Budokai 3 had outfits that the other versions did not have. Trunks' 3rd outfit was Long Hair with Armor, Piccolo's was his father King Piccolo and Goku's third outfit was him with a Halo. Some games in this Japanese version had some glitches such as Bulma appearing as an outfit for Videl, when the game was complete. While the American version of the game only had two movie clips to unlock (the instrumental and vocal openings from Budokai 2), many fans thought there were extra movies to unlock, since the American strategy guide indicated that there were two additional "Baba's Crystal Ball" capsules to purchase. Alas, these files do not even exist on the game disc, and therefore cannot be purchased. The only other real "extras" in the Japanese version of the game would be the vocal opening theme, and the fact that character mouths actually move on menu screens (which was not in either the original European and American releases of the game).
+
+
+== Greatest Hits ==
+
+
+=== European version (Collector's Edition) ===
+The European "Collector's Edition" version of Budokai 3 was released in Autumn 2005. Months before, the hype began to build that it would include not only the option to select the Japanese vocal track for the characters in the game, but that the Japanese version's extras would also be available for unlocking. The Platinum Version is identical to the Collector's Edition. The "Baba Crystal Ball Movies" are also available on this version after extensive game play.  Several forums have been posted the process needed gain these capsules, which can be bought in the capsule store.  However the content of the movies are simply the original Japanese introduction to Dragonball Z: Budokai 2.  One clip is the intro with vocal accompaniment while the second clip is the instrumental version of the intro.
+
+
+=== American version (Greatest Hits) ===
+In late 2005, the American “Greatest Hits” version of Dragon Ball Z: Budokai 3 was released. While extra features such as the inclusion of a Japanese vocal track were advertised, the initial release of the "Greatest Hits" version game did not contain them. This version did contain a glitch that could corrupt the save data of the original version of Budokai 3. Atari released a corrected version of the game with new features, including three extra costumes which can be unlocked by entering passwords, case-sensitive, into the Dragon Arena password entry screen. This release differed from the European Collector's Edition as it contained a non-vocal opening, some localization changes and a memory card data image. contains a some differences from the European Collector's Edition Atari offered to replace the initial "Greatest Hit" release version with the corrected one. [1] Archived 2006-04-13 at the Wayback Machine The initial release and the corrected release can be distinguished by the part numbers on the disk. The initial release has a part number on the disk ending in DVA, the corrected released has a part number ending in DVB. [2] Archived 2008-01-05 at the Wayback Machine
+
+
+== Reception ==
+
+The game received a positive reception, higher than its predecessors Dragon Ball Z: Budokai and Dragon Ball Z: Budokai 2. IGN rated the game at a score of 8.0/10, stating that it was "One of the few instances of cel-shading done right, Budokai 3 also offers a healthy amount of special effects and pyrotechnics and they all look great.". During the 8th Annual Interactive Achievement Awards, the Academy of Interactive Arts & Sciences nominated Budokai 3 for "Fighting Game of the Year".
+
+
+== References ==
+
+
+== External links ==
+Dragon Ball Z: Budokai 3 at IGN
+Dragon Ball Z: Budokai 3 at Game Rankings
+Dragon Ball Z: Budokai 3 at Dranet
+Dragon Ball Z: Budokai 3 at MobyGames
+Dragon Ball Z: Budokai 3 Shoryuken Wiki
+Dragon Ball Z Budokai 3 Greatest Hits editorial at the Daizenshuu EX Forums Archived 2008-02-18 at the Wayback Machine

@@ -1,0 +1,82 @@
+Shrek 2
+Shrek 2
+ North American Microsoft Windows box art
+Developer(s)
+Luxoflux
+ 
+(console version)
+KnowWonder
+ 
+(Windows version)
+Beenox
+ 
+(Windows port of console version)
+Aspyr
+ 
+(Mac port of Windows version)
+Vicarious Visions
+ 
+(GBA)
+Eurofun and DTR 
+(mobile)
+Publisher(s)
+Activision
+Director(s)
+Phillip Trumbo (PC)
+Producer(s)
+Liz Lehmans, Elizabeth Walkey (PC)
+Designer(s)
+Elizabeth Walkey, Amanda Brightley (PC)
+Artist(s)
+Peter King, Andrew Brinkworth (PC)
+Writer(s)
+Kelly Wand, Susan O'Connor, Liz Lehmans (PC)
+Composer(s)
+Kevin Manthei
+Kevin Riepl
+Rob Berry
+Engine
+Unreal Engine 2
+ 
+(original PC and Mac)
+Platform(s)
+GameCube
+, 
+PlayStation 2
+, 
+Xbox
+, 
+Game Boy Advance
+, 
+Microsoft Windows
+, 
+OS X
+, 
+mobile
+Release
+NA
+:
+ May 4, 2004
+[
+1
+]
+PAL
+:
+ June 18, 2004
+Mobile
+NA
+:
+ May 31, 2004
+PAL
+:
+ September 1, 2004
+Genre(s)
+Action-adventure
+, 
+beat 'em up
+, 
+platform
+Mode(s)
+Single-player
+, 
+multiplayer

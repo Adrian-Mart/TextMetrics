@@ -1,0 +1,69 @@
+Garry's Mod, commonly clipped as GMod, is a 2006 sandbox game developed by Facepunch Studios and published by Valve. The base game mode of Garry's Mod has no set objectives and provides the player with a world in which to freely manipulate objects. Other game modes, notably Trouble in Terrorist Town and Prop Hunt, are created by other developers as mods and are installed separately, by means such as the Steam Workshop. Garry's Mod was created by Garry Newman as a mod for Valve's Source game engine and released in December 2004, before being expanded into a standalone release that was published by Valve in November 2006. Ports of the original Windows version for Mac OS X and Linux followed in September 2010 and June 2013, respectively. As of September 2021, Garry's Mod has sold more than 20 million copies. A spiritual successor, S&box, has been in development since 2015.
+
+
+== Gameplay ==
+
+Garry's Mod is a physics-based sandbox game that, in its base game mode, has no set objectives. The player is able to spawn non-player characters, ragdolls, and props, and interact with them by various means. Using the "physics gun", ragdolls and props can be picked up, rotated, and frozen in place. The individual limbs of ragdolls can also be manipulated. The "tool gun" is a multi-purpose item for tasks such as welding and constraining props together, and altering the facial expressions of ragdolls.
+
+
+== User-created content ==
+Garry's Mod includes the functionality to modify the game by developing scripts written in the Lua programming language. Notable mods (known as "addons") include Spacebuild, Wiremod, Elevator: Source, DarkRP, Prop Hunt, and Trouble in Terrorist Town. Specialised servers, known as Fretta servers, rotate between custom game modes every fifteen minutes. Garry's Mod version 12 introduced the "Toybox" section, through which the player could browse and install user-created mods. This was replaced by support for the Steam Workshop in version 13.
+
+
+=== Fretta Contest and Trouble in Terrorist Town ===
+In late 2009, Facepunch launched the "Fretta Contest", a competition in which people were to develop Garry's Mod game modes using the proprietary Fretta programming framework, with the winning game mode to be added to the base game. The winner of this contest was Trouble in Terrorist Town (TTT), which was added to the game in July 2010, alongside another mode, Dogfight: Arcade Assault. TTT assigns players to three groups: Traitors, Detectives, and Innocents, similar to the party game Mafia. Detectives are known to all players, whereas Traitors are only known to other Traitors and otherwise appear as Innocents. While Traitors attempt to eliminate all other players, Innocents and Detectives need to co-operate to identify and eliminate all Traitors. To do the latter, Detectives are given special equipment, such as DNA scanners that can trace a dead player's killer.
+
+
+=== Prop Hunt ===
+The game mode Prop Hunt was created by Andrew "AMT" Theis and popularised through Garry's Mod. In Prop Hunt, the players on one team are disguised as props and set to hide on the game map while the other team seeks after them. Game modes based on Prop Hunt were later included with games like Call of Duty: Modern Warfare Remastered, Call of Duty: Black Ops III, Fortnite Battle Royale, and Genshin Impact. Players recreated it in others, such as Rocket League and Fortnite Creative.
+
+
+=== GMod Tower ===
+In July 2009, four developers working under the name "PixelTail Games" opened a Garry's Mod server called GMod Tower. GMod Tower was a network of servers, designed as a social media platform for users to play minigames with friends and socialise in a hub area. Within hours of the server's opening, the website for GMod Tower reached two million views. GMod Tower temporarily shut down between January and April 2012. PixelTail Games later expanded GMod Tower into Tower Unite, a standalone game that replaced GMod Tower upon its early access release in April 2016.
+
+
+=== Machinima ===
+Garry's Mod has been used as the basis for machinima. One of the more notable examples is Half-Life: Full Life Consequences, which is based on a fan fiction set in the Half-Life universe, penned in 2008 by a user named Squirrelking. YouTube user Djy1991 used Garry's Mod to animate the fan fiction, using literal interpretations of some of the work's typographical errors and awkward grammar.
+One of the most widely-known machinimas to emerge from Garry's Mod is Skibidi Toilet. Many of the characters, backgrounds, and other assets used in the series can also be found in Garry's Mod, albeit the assets themselves originate from Source games such as Counter-Strike: Source and Half-Life 2.
+
+
+=== Glue Library incident ===
+In June 2022, the author of the popular Garry's Mod addons "Glue Library", "View Extension", "Action Extension", and "Ambient Occlusion" altered their work to display shock images such as goatse and play loud sounds. The addons' new source files contained curses directed at Newman, Valve co-founder Gabe Newell, and Steam moderators. According to PC Gamer, the files appeared to indicate the changes were a "deliberate prank" and not due to the addons being compromised. Another user changed their "Trollface Playermodel" addons to present the user with a different set of explicit images and slurs loudly played back in the voice of the cartoon character SpongeBob SquarePants.
+
+
+=== Prohibited content ===
+Facepunch Studios blacklists servers that are malicious, depict sexual violence, or contain content that is not safe for work but not marked as such. In April 2023, following a Twitter poll with close to 50,000 respondents, the company additionally banned the glorification of Nazism, including the display of swastikas and the Nazi salute.
+
+
+=== Copyright claims ===
+In response to a takedown notice from Nintendo in April 2024, Facepunch Studios began removing Nintendo-related Steam Workshop entries. Due to a large backlog, the studio asked community members to delete their relevant uploads to aid this process. Newman denied rumours that the notice was issued by a party unrelated to Nintendo, as had been the case in past instances. Newman received a takedown notice relating to the Skibidi Toilet web series in July 2024. The series's creator, DaFuq!?Boom!, argued that he wanted to subdue the spread of pornographic derivatives of his work.
+
+
+== Development and release ==
+Garry's Mod was created by the video game programmer Garry Newman. He started developing games under the studio name Facepunch Studios after dropping out of college, at the time out of his parents' house. He did this as a hobby, simultaneous to his occupation as a PHP programmer for a dating website. He was later fired when he launched his own dating website. While developing his first game, Facewound, Garry's Mod became a side-project of his as a mod for the Source game engine and, principally, the game Half-Life 2. Newman soon found more enjoyment in developing Garry's Mod than in maintaining Facewound, so development on Facewound was mostly halted (and put on indefinite hiatus in 2004) for him to focus on Garry's Mod. He stated that, at the time, his skills in computer programming were not advanced enough to create a full Source-based game and he resorted to the mod format. The first iteration of the mod, version 1, was released on 24 December 2004. Initial feedback was polarised, with some players criticising the mod for its similarity to an existing mod, JBMod. However, the increasing positive reception led Newman to continue development. Newman did not recognise that the game was gaining in popularity until he set up an online forum for it. Through 2004 and 2005, Newman released several updated versions of Garry's Mod, adding new features and culminating in version 9.0.4 on 27 November 2005. Newman's one-man operation grew to a team of multiple people for a remake of the mod as a standalone game.
+Valve, the developers of Source and Half-Life 2, contacted Newman to suggest a commercial, standalone release of the mod through their digital distribution service Steam, which Newman initially rejected. Valve and Facepunch later struck a publishing agreement wherein Valve would release Garry's Mod onto Steam at a price of US$10, while the two companies would equally split profits. The last free version of Garry's Mod remained available for download, rechristened as the demo to the retail game. The standalone game was released on 29 November 2006. Despite the game no longer being a mod, Valve and Facepunch stuck with the "Garry's Mod" name, which Newman later cited as a mistake, stating that he should have called it "Sandbox" instead. Because Garry's Mod still required a separate Source-based game to function properly, a bundle including Garry's Mod and Valve's Counter-Strike: Source was released alongside. A port of the Windows version for Mac OS X was released on 23 September 2010. Support for Kinect, a full-body motion tracking peripheral, was added to the Windows version in December 2012. When Garry's Mod was moved over to Valve's SteamPipe content delivery system, completed on 5 June 2013, an experimental Linux client was also introduced.
+
+
+== Reception ==
+GameSpy named Garry's Mod the "PC Mod of the Year" in 2005. Craig Pearson of GamesRadar regarded it one of the best mods for cooperative gameplay in 2007. In 2017, Brendan Caldwell of Rock Paper Shotgun described the game as a "must-own sandbox game", while PCGamesN included it in its 2019 list of the "best sandbox games on PC".
+
+
+=== Sales ===
+Garry's Mod sold 5,729 copies on its first day, 312,541 by December 2008, 770,628 by October 2010, 1 million by July 2011, 1.4 million by March 2012, 3.5 million by July 2013, 6 million by September 2014, 10 million by January 2016, 15 million by December 2019, 18,671,533 by December 2020, and over 20 million by September 2021. Newman estimated that, as of 2019, the game sold about 1.5 million copies annually. Sales of the game made for revenues of $3 million by December 2008, $22 million by March 2013, $30 million by February 2014, and US$119,836,074 by December 2020. The game's success allowed Facepunch to grow further, eventually branching out into other games, such as Rust. As of 2010, Garry's Mod is regularly among the then most-played games on Steam.
+
+
+== Successor ==
+Newman stated in September 2015 that a sequel to Garry's Mod was in early development, with Newman looking to include virtual reality content and choose a name other than "Garry's Mod 2". He later announced S&box, a sandbox game using Unreal Engine 4, in September 2017 as a potential spiritual successor to Garry's Mod. By December 2019, development on the game had been paused. Newman resumed development in March 2020 and later moved it to the Source 2 engine.
+
+
+== See also ==
+List of Source mods
+List of video games derived from mods
+
+
+== References ==
+
+
+== External links ==
+
+Official website

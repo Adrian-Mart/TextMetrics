@@ -1,0 +1,69 @@
+Tekken (鉄拳) is a 1994 fighting game developed and published by Namco. It was originally released on arcades, then ported to the PlayStation home console in 1995. One of the earliest 3D polygon-based games of the genre, Tekken was Namco's answer to Virtua Fighter and was designed by Seiichi Ishii, who himself was also Virtua Fighter's designer when he worked at Sega previously. The game was developed on the purpose-built low-cost System 11 board, based on PlayStation hardware.
+Plotwise, the game revolves around a tournament set up by Heihachi Mishima, who attempts to prove his power to his revenge-seeking son and protagonist, Kazuya. Tekken initially divided opinion regarding its presentation, character designs and unusual control system, which consisted of one button per limb. However, following its home console port originally released in March 1995 — only the third 3D console fighter following the first Virtua Fighter and Battle Arena Toshinden — it quickly rose in popularity and eventually became a PlayStation best seller. It started the Tekken series, with a sequel, Tekken 2, coming later in 1995.
+
+
+== Gameplay ==
+
+Players choose a character from a lineup and engage in hand-to-hand combat with an opponent. Tekken allows the player to control each of the fighter's four limbs independently. The player can watch the animation on screen and figure out the appropriate command (if the character kicks low with their right leg, the move is likely to be executed by pressing down and right kick or a similar variation). By default, there are two rounds of combat. However, the players have a choice from one to five rounds, as well as options for the time limit of each round. If the time limit for the round expires, the character with more health remaining will be declared the winner; if one does not exist, the round will be a draw.
+The name of the location is displayed in the bottom right corner of the screen. The locations are representations of real places and included Acropolis, Angkor Wat, Chicago, Fiji, King George Island, Kyoto, Marine Stadium, Monument Valley, Sichuan, Venice, and Windermere. In addition, unlike most fighting games of the period, the locations are not linked to a specific character, being randomised during gameplay with no ability for players to select a stage in Vs mode.
+
+
+== Characters ==
+
+The original arcade version features eight playable fighters. Each has a special "sub-boss" associated with them, who will be fought in Stage 8, followed by the final boss, Heihachi Mishima. The sub-boss characters are clones in terms of moveset, with only a handful of moves distinguishing them from the original.
+All sub-bosses and Heihachi were never made playable in the original arcade version. When the game was ported to the PlayStation, however, they were made unlockable by clearing Arcade Mode using different characters. In addition, the console version also adds Kazuya's alter ego, Devil, who serves as Heihachi's final boss and who can be unlocked as a costume for Kazuya by completing the Galaga-based minigame. The console version features a total of 18 playable fighters. A cutscene is unlocked when the player finishes the home version's Arcade Mode with each of the original eight characters.
+
+
+=== Playable characters ===
+
+^a  Unlockable character in home version, unplayable in arcade version
+^b  Home version-exclusive, unlockable and palette swap
+
+
+== Plot ==
+When Kazuya Mishima was only five years old, his father, Heihachi Mishima, carried him to the summit of a mountain and threw him off to test his strength and determine whether he was fit to inherit the Mishima Zaibatsu. Although Kazuya survived the fall, he bore a large scar on his chest and later made a pact with an entity known as Devil, which enabled him to not only survive the fall but gain immense strength and power but at the cost of his soul. Kazuya climbed back to the top, but Heihachi, still deeming him too weak to inherit the Zaibatsu, later adopted the orphan Lee Chaolan to become his rival. 
+21 years later, Kazuya travels across the world competing in martial arts competitions and emerging as an undefeated champion, with the only draw against Paul Phoenix, an American fighter. Heihachi organizes and announces the King of Iron Fist Tournament to prove his power and worth. Kazuya enters the tournament, defeats many competitors, including Lee, and narrowly beats Paul after an intense battle. Reaching the final round, he takes on Heihachi and is ultimately victorious. Upon his victory, he exacts his revenge by throwing Heihachi off the same summit Kazuya was thrown from as a child, and smiles, gaining control of the Mishima Zaibatsu.
+
+
+== Development and release ==
+Tekken was not originally conceived as a fighting game. The project began as an internal Namco test case for animating 3D character models, and eventually incorporated texture mapping similar to that found in Namco's 1993 racing game Ridge Racer. In 1994, Namco acquired developers from longtime competitor Sega, which had recently created the first 3D fighting game with 1993's Virtua Fighter. Namco's research managing director Shegeichi Nakamura had met with Sony Computer Entertainment head Ken Kutaragi in 1993 to discuss the preliminary PlayStation specifications, with Namco subsequently developing the Namco System 11 arcade board based on PlayStation hardware and Tekken as their answer to Sega's popular Virtua Fighter. Tekken was initially planned for the Namco System 22, the board used by Ridge Racer, but after Namco heard Sega was developing Virtua Fighter 2 for their new Sega Model 2 arcade board, before the development of Tekken was later moved to the System 11 after the meeting with Kutaragi.
+The game was originally going to be titled Rave War. This name was suggested by Jerry Momoda, Namco America's product manager, who felt the name Tekken had "zero meaning to English-speaking people". However the final name in all territories would remain Tekken. Also known as Rave Wars, the prototype was demonstrated at the Amusement & Music Operators Association (AMOA) Expo in September 1994, before being renamed Tekken upon release.
+Directed by Virtua Fighter designer Seiichi Ishii, Tekken was intended to be a fundamentally similar title to Sega's, with the addition of detailed textures and twice the frame rate (at 60 frames) — although by the time Tekken was completed, Virtua Fighter 2 had already been out and running at 60 frames per second. Originally released for the arcades in December 9, 1994 followed by a global release soon after, it was the first arcade game to use this board. Tekken was marketed to small arcades as a cheaper alternative to Sega's Virtua Fighter 2, which was released for the more expensive Model 2 arcade board. Namco held a promotional tour to market the arcade game across North America in early 1995, holding video game competition tournaments in twelve cities.
+Because it was developed for Namco's System 11 arcade board, which was based on raw PlayStation hardware, Tekken was easily ported to the latter and this was released by March 31, 1995 in Japan. The console version allowed players to unlock mid-boss characters when the game was beaten and had full-motion videos. Additionally the background music was arranged, taking advantage of the CD audio capabilities, although the original arcade's chip-generated music can be selected in the console version. The PlayStation 2 version of Tekken 5 features the arcade version of Tekken (being an emulated version of its arcade counterpart as well as the other two that were included in the arcade history mode). In 2005, Namco re-released Tekken as part of the NamCollection compilation for the PlayStation 2 to celebrate the company's 50th anniversary.
+
+
+== Reception ==
+
+
+=== Commercial ===
+In Japan, Game Machine listed it on their February 1, 1995 issue as being the fifth most-popular arcade game for the previous two weeks. It went on to be Japan's fourth highest-grossing arcade game of 1995, below Virtua Fighter 2, Street Fighter Zero and Vampire Hunter: Darkstalkers' Revenge. In the United States, it was one of top five highest-grossing arcade conversion kits of 1995.
+Tekken was the first PlayStation game to sell over a million units. In Japan, it sold 942,000 units in 1995, making it the fourth best-selling home video game of 1995, below Dragon Quest VI, Chrono Trigger and Virtua Fighter 2. Tekken was also a best-seller in the United Kingdom, where it was the top-selling game in October and December 1995. In the United States, the game sold 786,556 units, for a combined 1,728,556 units sold in Japan and the United States. It currently has sold 2.8 million copies as of 2024, according to Tekken developer and future director Katsuhiro Harada.
+Guinness World Records awarded Tekken with multiple records in the Guinness World Records Gamer's Edition 2008. These include, "First PlayStation Game to Sell Over One Million Units", "First Fighting Game To Feature Simulated 3D", as well as a record for the entire series as "The Best Selling Fighting Series for PlayStation Consoles."
+
+
+=== Critical ===
+Tekken was well received by game critics. The arcade prototype Rave War demonstrated at AMOA 1994 received a positive preview from Electronic Gaming Monthly, with a writer for the magazine comparing it favorably with Virtua Fighter 2 and stating "I found Rave War quite a bit more fun to play." There was a mixed reception, however, regarding Tekken's characters which were considered by some to be "weird" compared to those of Virtua Fighter 2, and its "a button for each limb" control system. Other critics praised its intuitive control scheme and characters. 
+On release of the PlayStation version, Famicom Tsūshin (Famitsu) scored Tekken a 38 out of 40, while giving it an 8 out of 10 in their Reader Cross Review. Edge opined that, despite "lacking the overall visual allure" of Virtua Fighter 2, Tekken "not only matches" the "style and quality of Sega's character animation, but it pushes its rival to the wire in playability terms, too." GamePro called the PlayStation version "one of the best arcade-to-home translations ever" and commented that while the graphics look rough and blocky compared to Battle Arena Toshinden, the moves all have a clear and definite usefulness. They also praised the absence of ring-outs and the sound effects, and concluded "With impressive controls, lots of fighters, and strategic gameplay, Tekken makes Toshinden look more like pretty fighting than a real fight." Maximum called it "far and away the finest beat 'em up to grace this super console so far", citing the well-balanced player characters, "innovative" control mechanic of assigning one button to each limb, complexity of the moves, and ten playable boss characters, and arguing that the game is superior to Toshinden in both gameplay and graphics. However, they did criticize the poor PAL optimization of the European release. Like GamePro, Next Generation considered the game's graphics to be its weakest point, specifically the lack of animation on the backgrounds. They nonetheless considered it a new standard for polygonal fighting games, remarking in particular that the controls are easy to master and every character in the game has their own unique and compelling special move. In 1996, GamesMaster ranked the game 49th on their "Top 100 Games of All Time."
+
+
+== See also ==
+Soul Edge/Soul Blade, also by Namco
+Other early 3D fighters:
+
+Battle Arena Toshinden (Battle Arena Toshinden 2)
+Criticom
+Fighting Vipers
+FX Fighter
+Virtua Fighter (Virtua Fighter 2)
+Zero Divide
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official website (in Japanese) (archived)
+Tekken at MobyGames

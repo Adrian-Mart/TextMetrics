@@ -1,0 +1,135 @@
+SimCity 2000 is a city-building simulation video game jointly developed by Will Wright and Fred Haslam of Maxis. It is the successor to SimCity Classic and was released for Apple Macintosh and MS-DOS personal computers in 1993, after which it was released on many other platforms over the following years, such as the Sega Saturn and SNES game consoles in 1995 and the PlayStation in 1996.
+SimCity 2000 is played from an isometric perspective as opposed to the previous title, which was played from a top-down perspective. The objective of the game is to create a city, develop residential and industrial areas, build infrastructure such as power and water facilities and collect taxes for further development of the city. Importance is put on increasing the standard of living of the population, maintaining a balance between the different sectors, and monitoring the region's environmental situation to prevent the settlement from declining and going bankrupt, as extreme deficit spending gets a game over.
+SimCity 2000 was critically praised for its vibrant and detailed graphics, improved control menu, gameplay and music. An approximate total of 4.23 million copies of SimCity 2000 have been sold, mainly in the United States, Europe and Japan. While its predecessor pioneered the city-building genre of video games, SimCity 2000 would become the model upon which subsequent urban simulators would be based over the course of the next decades.
+
+
+== Gameplay ==
+
+The unexpected and enduring success of the original SimCity, combined with the relative lack of success with other "Sim" titles, finally motivated the development of a sequel. SimCity 2000 was a major extension of the concept. It had a near-isometric dimetric view (similar to the earlier Maxis-published A-Train) instead of overhead, land could have different elevations, and underground layers were introduced for water pipes, subways and road tunnels.
+New types of facilities include prisons, schools, libraries, museums, marinas, hospitals and arcologies. Players can build highways, roads, bus depots, railway tracks, subways, train depots and zone land for seaports and airports. There are a total of nine varieties of power plants in SimCity 2000, including coal, oil, natural gas, nuclear, wind turbines, hydroelectric dams (which can only be placed on waterfall tiles), solar and the futuristic fusion power and satellite microwave plants. Most types of power plants have a limited life span and must be rebuilt periodically. Players can build highways to neighboring cities to increase trade and the population.
+The budget and finance controls are also much more elaborate—tax rates can be set individually for residential, commercial and industrial zones. Enacting city ordinances and connecting to neighboring cities became possible. The budget controls are very important in running the city effectively.
+Another new addition in SimCity 2000 is the query tool. Using the query tool on tiles reveals information such as structure name and type, altitude, and land value. Certain tiles also display additional information; power plants, for example, display the percentage of power being consumed when queried, and querying roads displays the amount of traffic on that tile. Querying a library and selecting "Ruminate" displays an essay written by Neil Gaiman.
+Graphics were added for buildings under construction in the residential, commercial, and industrial zones, as well as darkened buildings depicting abandoned buildings as a result of urban decay.
+News comes in the form of several pre-written newspaper articles with variable names that could either be called up immediately or could be subscribed to on a yearly basis. The newspaper option provided many humorous stories as well as relevant ones, such as new technology, warnings about aging power plants, recent disasters and opinion polls (highlighting city problems). SimCity 2000 is the only game in the entire series to have this feature (besides the discontinued children's version, SimTown), though newer versions have a news ticker. The newspapers had random titles (Times, Post, Herald, etc.), and prices based on the simulated year. Certain newspapers have a special monthly humor advice column by "Miss Sim". Some headlines have no purpose whatsoever in the game, such as "Bald Radio Found" or "Frog Convention".
+
+Though there is no "true" victory sequence in SimCity 2000, the "exodus" is a close parallel. An "exodus" occurs during the year 2051 or later, when 300 or more Launch Arcologies are constructed; the following January each one "takes off" into space so that their inhabitants can form new civilizations on distant worlds. This reduces the city's population to those who are not living in the Launch Arcologies, but it also opens wide areas for redevelopment and returns their construction cost to the city treasury. This is related to the event in SimEarth where all cities are moved into rocket-propelled domes that then leave to "found new worlds" (leaving no sentient life behind).
+The game also included several playable scenarios, in which the player must deal with a disaster (in most, but not all scenarios) and rebuild the city to meet a set of victory conditions. These were based in versions of real-life cities, and some were based on real events such as the Oakland firestorm of 1991, the 1989 Hurricane Hugo in Charleston, South Carolina, the Great Flood of 1993 in Davenport, Iowa, or dealing with the 1970s economic recession in Flint, Michigan—but also included more fanciful ones such as a "monster" destroying Hollywood in 2001. More scenarios added with the SimCity Urban Renewal Kit (SCURK) included a nuclear meltdown in Manhattan in 2007.
+
+
+== Development ==
+
+Fred Haslam recalled being pitched on a sequel for SimCity at a Maxis company dinner in December 1990, just as he and Will Wright had finished SimEarth. Wright had spent five years working on the original game and did not want to work on the sequel, delegating the task to Haslam. Haslam spent the first 8 months of 1991 working on a top-down two-dimensional game. At that point, Maxis had contracted to work on the game A-Train, which used near-isometric dimetric projection to represent the landscape. Maxis decided that the SimCity sequel should also use this graphical style. Haslam spent the next year trying to accomplish this task without success, at which point Will Wright joined the team.
+Haslam and Wright worked together to complete the game, and each found their input complemented the other's. Haslam gives examples such as including the square grid from A-Train, which Wright then removed for the underground view. Haslam also describes how Wright wanted to add labels for locations, which Haslam also used to signify neighbor connections. Wright's other additions were arcologies, microsimulations, and the underground view. Haslam's additions included the city newspaper (in place of the 'score' from SimCity), free-size zoning, and the ability to issue bonds. Haslam coded the lists of variable terms in the newspaper headlines, with Debra Larson writing the actual newspaper articles. Other features were removed during the production process, such as zones for mining, farming and lumbering, one-way streets, and tidal waves.
+The art team researched buildings extensively in creating the realistic look of the buildings. Jenny Martin, the art director, and her team were conscious of buildings having distinct identities: "Cities don't have one style, so we wanted to make a mix of the deco and the modern and the old style ornate buildings." 3 x 3 tile buildings were designed first, then were cut down to create 2 x 2 tile buildings, which were in turn cut down to create 1 x 1 tile buildings. Using Electronic Arts' Deluxe Paint on 486 PCs, Jenny and her team of four worked full-time on the art and appearance of the game for four months.
+There are only about ten minutes of music in the game. The music lead, Sue Kasper, was told to make the music moody and dark, like in Blade Runner. However she stated she was held back in this goal by the limited capability of sound cards at the time to sustain long notes. "One of the limitations you're working with is sustain. To have it really moody and dark you need a lot of sustainy-type sounds". The music team had to include multiple MIDI files for the DOS and Windows releases. Different versions of each MIDI file were optimised for different cards. CD-quality sound was not used because of the storage required. Many versions of the base game shipped on two 1.44 Mb floppy disks. To include the 10 minutes of music at CD quality would have required over 100 Mb of space. The 10 minutes of MIDI music by comparison took up only around 100 Kb of space.
+Maxis had a reputation for including extra information in their manuals beyond that which was needed to play the game. With this in mind, documentation manager Michael Bremer had initially wanted to write about trends in city planning. However, while researching this topic, he learned that most cities are not planned at all. So Bremer took a subjective view of the city, and included "people's opinions, in words and pictures, of what "city" means to them. There're a few poems, some drawings, some photos, a couple of essays... I think it all turned out great".
+
+
+== Expansion ==
+
+In 1994, Maxis released an expansion pack to SimCity 2000 called Scenarios Vol. I: Great Disasters, which included new scenarios based on a number of possible disasters. These disasters generally destroy the city and require the player to rebuild the city. They include: A UFO attack, two nuclear meltdown scenarios, two major chemical spill scenarios, a large flood, a major hurricane, two firestorm scenarios, a volcano, an earthquake, a high power microwave beam misfire, riots, and a typhoon.
+Alongside the Great Disasters Scenarios package came the introduction of a separate toolset called the SimCity Urban Renewal Kit (SCURK for short). It enabled players to modify the images used in-game to represent various buildings in much the same manner as general image manipulation software. The player was able to create basic bitmap files of a standard size with a standard 256 color palette. The use of limited palette cycling, which permitted animation, was also possible.
+A number of pre-altered graphics packages were distributed, including some which replaced the reward buildings with images of various well known international buildings, such as the Eiffel Tower, but most buildings were made by fan-artists and shared on the Internet. Several SCURK designs influenced the designs of SimCity 3000's original buildings. The cities made in SCURK can be saved and played in SimCity 2000. SCURK can also be used to create custom cities for SimCopter and Streets of SimCity.
+
+
+== Special editions ==
+
+
+=== SimCity 2000 Special Edition ===
+A re-packaged version of SimCity 2000, SimCity 2000 Special Edition (also known as the CD Collection), was released on February 7, 1995 for Microsoft Windows and MS-DOS. In addition to containing All expansions, it also featured the SimCity Urban Renewal Kit, the Vol. 1 scenario pack, remade music, new cities selected by Maxis from a 1994 competition, bonus scenarios and cities, and movies.
+The movies were a first for Maxis; SimCity 2000-SE was the first "Sim" game to feature produced videos. These videos included the introduction movie and four commentary videos by Will Wright; the latter were accessed via the "WillTV" application that came with the game.
+The most recent operating system that the Windows 95 version of the game will install under is Windows XP 32-bit. Various incompatibility ills with the save/load dialogs for later 64bit OS's can be cured with 3rd party patches.
+In December 2014 Electronic Arts offered SimCity 2000 Special Edition as a free download for an unspecified limited time. Unlike the original release versions of the game, this downloadable version requires connectivity to the Electronic Arts servers for saves and gameplay. It is the DOS Special Edition with the WillTV movies, packaged with preconfigured DOSBox running at fixed 640x480 and an automatic installer to run in modern Windows.
+
+
+=== SimCity 2000 Network Edition ===
+SimCity 2000 Network Edition, sometimes unofficially referred to as the "Gold Edition", was released in 1996 for Windows 32-bit only. The game features slightly different gameplay in network mode, where mayors may start with more money, but must buy land before building upon it. Players (up to 4) of the Network Edition have the ability to share in-game resources and to compete or cooperate with other cities. This edition of the game was advertised in the radio stations of a later game by Maxis, Streets of SimCity.
+This version also features a revamped user interface. Instead of a static toolbar, items are accessed via cascading menus from the right of the screen, resulting in more screen real-estate for SimCity itself, without sacrificing functionality.
+This edition of the game has trouble running on operating systems based on the Windows NT kernel. Third party fixes include a Network Interoperability Patch, a Network Launcher / Browser / Server Patch to improve slow server response and browse game IP addresses, an updated help file, and a full screen utility.
+
+
+== Ports ==
+SimCity 2000 has been released on a wide range of platforms and version since its debut in 1993, ranging from ports of personal computers and video game consoles.
+
+
+=== SimCity 2000 (RISC OS) ===
+A port for Acorn RISC OS was released in 1995. The conversion was performed by Krisalis Software which had ported the original SimCity to the platform. Music differed from the original.
+
+
+=== SimCity 2000 (Super Nintendo Entertainment System/Super Famicom) ===
+The first console port for the game was the version for the Super Famicom/Super NES, ported by HAL Laboratory and published through Imagineer exclusively in Japan in May 1995. North American and European releases followed suit through THQ's Black Pearl Software label in Late 1996, near the end of the Super Nintendo's life span.
+Due to the Super NES' hardware limitations, the game was heavily limited in content and graphics. It featured controls made to work with a controller (as like with the Super NES port of the original SimCity, there is no support for the Super NES Mouse accessory), longer load and screen scrolling times, and limits to only six maps per game under a single save slot. Removals include difficulty settings, a single newspaper no matter what size the city is, fewer songs, only five scenarios and the removal of the Riot and Volcano disasters. All team names, city names, and mayor names were limited to 8 characters, whereas the PC version allows for up to 32 characters.
+Additions include some new population gifts; a bigger city hall at 1,000,000 population, a TV station at 2,000,000 population, and a rocket launching pad at 3,000,000 population. The player can see an actual launch of a single launch arco by achieving 5,000,000 population in the last scenario. Being developed in Japan, the stock photographs featured are replaced with images that resemble something from anime or manga.
+
+
+=== SimCity 2000 (Sega Saturn) ===
+The Sega Saturn port of the game was one of the first titles announced for the system, back in August 1994. Maxis developed the title as with the computer versions, with an in-house team at Sega providing additional support. It was first released in Japan in September 1995 before shortly being released in North America and Europe.
+The Saturn had several changes when compared to the original version of the game to take advantage of its functionalities and limitations. The graphics were enhanced to showcase the power of the console's hardware with 3D animations for the buildings in the building query windows, and the buildings would change their appearances between 1950, 2000 and 2050. Taking advantage of CD-ROM technology, the game features a full CD-quality soundtrack as well as higher-quality sound effects and some FMV sequences including the opening which displays a scene of the Alien/Monster chasing a Launch Arco in space. The game, however, runs far slower than the original versions and is missing a few features including some of the disasters. The Braun Llama Dome doesn't appear in this version, instead, a Space Terminal which assists in the launching of the Arco appears instead. In the Japanese release of the game, the statue awarded after reaching 30,000 population was replaced with one featuring Sonic the Hedgehog.
+The scenarios from the Great Disasters expansion pack was also included.
+
+
+=== SimCity 2000 (PlayStation) ===
+The PlayStation version of the game was released in November 1996.
+This version of the game is based on the Sega Saturn port, although cities do not evolve over the years and the game runs at a lower framerate. Two major additions include some extra scenarios from the Great Disasters expansion pack, including one that involves a new volcano forming in Portland (destroying most of the city, and requiring the mayor to rebuild it); and to tour your city from a car's perspective. The Silicon Valley and Washington, D.C. scenarios are on the disk but are not used.
+This version was released on the PlayStation Network in Europe for both PSP and PS3 on November 20, 2008, and in North America on August 28, 2009.
+
+
+=== SimCity 2000 (Nintendo 64) ===
+A Japan-only release of SimCity 2000 for the Nintendo 64 on January 30, 1998, produced and published by Imagineer Co., Ltd.
+It featured some additional features, mainly mini-games, a dating game, TV to replace the newspaper, horse races and monster breeding, among others, all of them in 3D. A few new "natural" disasters were also included, most of them being giant monster attacks (players were able to use their monster to fight against them).
+
+
+=== SimCity 64 ===
+
+Another Japan-only release, SimCity 64 was based on the SimCity 2000 game but was heavily customized for the Nintendo 64DD game system. The ability to view the city at night was added, pedestrian level free-roaming of a city, and individual road vehicles and pedestrians controlled by their own AI wandered the player's city. Cities in the game are also presented in much more advanced 3D graphics, making SimCity 64 the first true 3D SimCity game.
+
+
+=== SimCity 2000 (Game Boy Advance) ===
+Released by Destination Software in 2003, SimCity 2000 for the Game Boy Advance featured most of the same content as previous versions, but several features are omitted, such as launch arcos. The water system is also omitted, either to improve the gameplay experience on the device, or due to the device's technical limitations.
+
+
+=== SimCity 2000 v1.01c (IBM OS/2 Warp) ===
+Released by WinWare February 6, 1996, ported by Mark A. Pietras, Micheal A. Pitts, James R. Thomas.
+
+
+== Reception ==
+In the United States, SimCity 2000 was the ninth best-selling computer game between 1993 and 1999, selling 1.4 million units. During 1996 alone, it achieved sales of 500,000 copies. According to PC Data, SimCity 2000 SE was the United States' 20th-best-selling computer game during the January–November 1998 period. According to Maxis's Lucy Bradshaw, SimCity 2000 achieved global sales of 3.4 million units across all platforms by January 2002.
+
+
+=== Critical reception ===
+
+Comparing its improvement over the first SimCity to "watching the part in The Wizard of Oz where the color kicks in", InfoWorld in 1993 praised SimCity 2000 for Macintosh as "basically the same game, but now it's the way you always wish it was when you played the first version". Computer Gaming World's reviewer, an author of a book on its predecessor, wrote in 1994 that SimCity 2000 for Macintosh offered "plenty of new challenges", fixed "virtually every criticism I leveled at the game" in the book, and "is without question a superior program". He concluded that it was "more fun than the original SimCity ... It's Sim-ply irresistible". The magazine said that the CD version's "multimedia enhancements make for a more accessible and enjoyable product".
+SimCity 2000 was named Best Simulation at the 1994 Codie awards, the fifth win in a row for Maxis. It was a runner-up for Computer Gaming World's Strategy Game of the Year award in June 1994, losing to Master of Orion. The editors wrote, "This advanced city simulator adds many of the features and considerations that were previously lacking in the original SimCity." It was also a finalist for Electronic Entertainment's 1993 "Best Game" award, which ultimately went to X-Wing.
+In 1994 PC Gamer US named SimCity 2000 the 7th best computer game ever, and PC Gamer UK named it the best computer game of all time, writing, "Near perfect in conception and execution, SimCity 2000 does what most games never even dream of." In 1996, Next Generation listed the personal computer versions as number 33 on their "Top 100 Games of All Time", calling it "easily one of the most enthralling games playable." In August 2016, SimCity 2000 placed 13th on Time's The 50 Best Video Games of All Time list. In 1996, GamesMaster ranked Sim City 2000 70th on their "Top 100 Games of All Time". In the same issue, GamesMaster rated the Sega Saturn version 10th in its "The GamesMaster Saturn Top 10".
+In 1995, SimCity 2000 won "Best Military or Strategy Computer Game of 1994" Origins Award.
+In 1998, PC Gamer declared it the 35th-best computer game ever released, and the editors called it "lots of fun".
+
+
+=== Console ports ===
+
+Famitsu magazine's Reader Cross Review gave the Super Famicom version of the game a 6 out of 10. Andromeda of GamePro commented that it suffers from an awkward control interface and repetitive music, but offers more than the Super NES version of the original and is an overall worthwhile purchase for simulation fans.
+Ed Lomas of Sega Saturn Magazine criticized the slow scrolling in the Saturn port but applauded the game itself for its depth, realism, and addictiveness, calling it "one of the few games that appeals to just about everyone. It ... has the strange ability to convert full-time arcade shooter fans into around the clock urban planners with a sense of civic duty." A reviewer for Maximum commented that the Saturn port contains all the considerable content of the PC version and is good fun to play, but has worse graphics and more slowdown than the PC version does, even when running on computers which are much less powerful than the Saturn.
+A reviewer for Next Generation said that the Saturn version "is a carbon copy of the latest installment of this city-planning simulation game, and, as such, it carries with it the monstrously addictive quality and absorbing challenge of all SimCity games." He said that the one major problem is the Saturn version's lack of mouse support. GamePro's brief review said that the expanded menu "bogs Sim City [sic] 2000 down a little" but that the game would still be enjoyable for fans of the series.
+The four reviewers of Electronic Gaming Monthly applauded the PlayStation version for including mouse support, declaring the game the killer app for the PlayStation Mouse. They criticized the port's interface and low resolution graphics, which Dan Hsu felt were enough to ruin the game, but were unanimously pleased with the addictive simulation gameplay. A reviewer for Next Generation said the game is "a true, if uninspired, descendant" of the original SimCity. He praised the addition of the 3D "ride-through" feature in the PlayStation version, but complained of the clunky interface when using the PlayStation joypad. Scary Larry of GamePro contended that the slow and confusing interface of the PlayStation conversion ruin any enjoyment that might be found in the game. IGN staff erroneously criticized the PlayStation version for lacking mouse support, and said the game doesn't compare well to other simulation titles, but nonetheless assessed it as "worth it" for fans of the genre.
+
+
+=== Promotion ===
+In March 1994, Maxis arranged with Compute! Publications to have a contest for Compute! magazine readers to design original cities with the game. Compute! handled the judging of entries submitted via posted floppy disks. The contest anticipated a minimum of five winning contestants and a maximum of twenty. The winners were awarded $50, a $50 software package from Maxis and a $15 hint book from Compute!. The contest ended by the beginning of the next month.
+
+
+=== Legacy ===
+In December 2012, the Museum of Modern Art acquired SimCity 2000 to its permanent collection of video games. As one of the more complex and longer games in the exhibition, the game is presented as a specially-designed demo.
+Several games were released as spinoffs to SimCity 2000.
+
+SimHealth – Released in 1994, the game simulated President Bill Clinton's healthcare reform proposals for the US; designed for a niche audience at best, the simulation never achieved great popularity. It featured a user interface that resembled a city in SimCity 2000.
+SimCopter – An arcade helicopter flight simulator based on the cities of SimCity 2000, SimCopter was published in 1996. It had the capability of importing SimCity 2000 cities and allowing the user to pilot a helicopter around them and accomplish missions such as rescuing people or putting out a fire.
+Streets of SimCity – Published in 1997, Streets of SimCity was a racing game based on the SimCopter engine. In addition to racing, it also featured courier missions and vehicular combat
+
+
+== References ==
+
+
+== External links ==
+Official website
+SimCity 2000 at MobyGames
+SimCity 2000 at Amiga Hall of Light

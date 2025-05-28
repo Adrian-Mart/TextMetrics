@@ -1,0 +1,66 @@
+Tekken Tag Tournament is a 1999 fighting game developed and published by Namco for arcades. It is a spin-off the Tekken series. Not canon to the main storyline, Tekken Tag Tournament features nearly all the characters in the previous Tekken games and introduces a two-on-two 'tag team' battle mechanic. It was released as an arcade game, before becoming a North American and European launch title for the PlayStation 2 in 2000. The arcade version ran on the same Namco System 12 board with a 32-bit engine as Tekken 3, while the ported home console version received upgraded graphics.
+A follow-up, Tekken Tag Tournament 2, was released in 2011. A remastered version of the game titled Tekken Tag Tournament HD was released for the PlayStation 3 in November 2011, as part of Tekken Hybrid.
+
+
+== Gameplay ==
+
+Continuing the fighting mechanics from Tekken 2 and 3, Tekken Tag Tournament sees players battling in teams of two characters. At any point in the match, the player can hit a tag button to swap out with their other fighter, allowing the resting fighter to recover some lost health. The tag can be implemented in many ways, such as in between combos or utilizing special throws. At times when a resting fighter's life bar is flashing, that character can be tagged in to be given a temporary boost in strength. Unlike other tag games such as Capcom's Vs. series, players are defeated when only one of their fighters loses all of their health, requiring players to be strategic about tagging their fighters. In the event of a timeout, the team with the most accumulative health remaining wins the round.
+The game features over 35 characters that previously appeared in Tekken 2 and Tekken 3. In addition, there is a boss character, Unknown, who is similar to Tekken 3's Mokujin in that she can randomly imitate any character's fighting style at any time during the fight. The PlayStation 2 version added enhanced graphics and various modes, including 1-on-1 mode, in which players only choose one fighter each, and Team Battle, where players choose up to eight battles and play with the tag rules, with each new character replacing the one that was defeated (the remaining fighter must fight on his/her own). Also featured is the "Tekken Bowl" mode, a bowling minigame where each character has different attributes.
+The arcade and console versions of Tekken Tag Tournament differ slightly. The arcade version ran on a 32-bit engine, utilizing the graphics engine of Tekken 3. These graphics ran using the Tekken 3 PCB board, based on the PlayStation hardware. The console version ran on a highly updated engine, utilizing the PlayStation 2's graphics processor. The game does not run on a 32-bit engine, instead running on a new and updated engine highly similar to that found on Tekken 4. The background designs and BGMs differed too, as the console version has new updated tracks, while the arcade version was based on MIDI tracks with an instrumental backing. Unknown is not playable in the arcade version, but she is in the PlayStation 2 version. The arcade version also allows players to only select the alternative colors that have been added to the costumes at first, while the normally colored ones are unlocked when the bonus characters are. There are also crucial differences concerning the playability of the characters, as some moves or attacks are much more efficient in the arcade version than in the console version and vice versa.
+
+
+== Characters ==
+
+As the game was made to be a compilation of previous games, it includes nearly every character from the original PlayStation trilogy games (from the original Tekken up to Tekken 3), including those who were absent from Tekken 3. All of them have improved appearance and movesets to make them on par with the Tekken 3 characters. Jack-2, who was a costume swap for Gun Jack in Tekken 3, is now a separate character from his successor.
+Additionally, the game adds two new characters, both of them being mimic characters: Tetsujin and Unknown. Unknown also serves as the final boss of the game. Both characters seldom appeared in future games, with Unknown resuming her role as the final boss in the sequel Tekken Tag Tournament 2, while Tetsujin was featured as a boss in the free-to-play Tekken Revolution and the mobile game Tekken.
+The only characters absent from the game that were playable in previous entries of the series are the original Jack, the first King, the first Kuma, Marshall Law, Dr. Bosconovitch, and Gon (who was a guest character in Tekken 3 and who did not appear in any subsequent games because Namco's contract only allowed them to use Gon in Tekken 3).
+All characters are available from the start in the PS3 remaster.
+
+
+=== New characters ===
+Tetsujin a: A metallic version of Mokujin.
+Unknown a b: A mysterious woman controlled by the "Forest Demon" who resembles a wolf. She looks like a corrupt version of Jun Kazama.
+
+
+=== Returning characters ===
+
+^a  Unlockable 
+^b  Unplayable in arcade version 
+^c  Costume/palette swap 
+
+
+== Development ==
+The PlayStation 2 version had reworked upgraded graphics over the arcade original, and it was first demoed at the Tokyo Games Show alongside Namco's Ridge Racer V. Tekken Tag Tournament was released just weeks after the PS2's Japanese debut, but was otherwise a launch title in North America and Europe later in 2000.
+
+
+=== Remaster ===
+
+Tekken Tag Tournament HD is a remastered version of Tekken Tag Tournament, released in November 2011 for the PlayStation 3. The game comes on the same Blu-ray Disc as the 3D movie Tekken: Blood Vengeance and is accessible if the disc is loaded on a PlayStation 3 (the entire package is referred to as Tekken Hybrid which also includes Tekken: Blood Vengeance and a demo version of Tekken Tag Tournament 2). It is based on the PlayStation 2 version and features updated HD visuals and Trophy support. A limited edition version of Tekken Hybrid was released alongside the standard version, which included an art book, selected soundtracks of both Tag Tournament and Tag Tournament 2, and PlayStation Home content.
+
+
+== Reception ==
+
+The PlayStation 2 version received "favorable" reviews according to the review aggregation website Metacritic. Jeff Gerstmann of GameSpot described the Japanese import as "delivering the same solid gameplay that Tekken fans crave in large doses" but added, "Guess we'll all have to wait for Tekken 4 to find that out." IGN praised the game's graphics and character moves. In the "Features" section for PlayStation 2, Prince Paul of GamePro praised it for its visuals "where you could see individual blades of grass!" Later, Four-Eyed Dragon said of the game in its review, "Namco has always been strong in the fighting genre, and Tekken Tag Tournament is no exception. While the game may be old in the arcades, it certainly looks and feels new for the home console, effectively utilizing the power of the PS2 with outstanding graphics, sound, and controls. This is a perfect addition to the PS2's burgeoning library." Frank O'Connor of NextGen said of the Japanese import in its June 2000 issue, "The only thing preventing Tekken Tag [sic] from receiving a perfect score is its lack of innovation – it's basically a prettier Tekken 3. However, that still makes it the best Tekken yet." Six issues later, he called the U.S. version "A densely packed, gloriously rendered, and very playable fighting game. Almost but not quite a killer app." In Japan, however, Famitsu gave it a score of 38 out of 40.
+In contrast, the remaster received a mixed critical reception, earning a Metacritic score of 65/100, based on reviews from 51 critics, indicating "mixed or average reviews". While the remaster was praised, many critics considered the lack of online play to be a missed opportunity, with the film and demo of the sequel receiving further criticism.
+
+
+=== Sales and awards ===
+In Japan, Game Machine listed the arcade version in their August 15, 1999 issue as the second most successful arcade game of the month. It went on to become the highest-grossing arcade game of 2000 there. By 2000, it had sold 19,000 arcade units worldwide, including 9,000 in Japan and 10,000 overseas.
+The PlayStation 2 version sold more than 400,000 units in its first four days of release. The game was added to the list of Sony Greatest Hits games on March 1, 2002. By July 2006, Tekken Tag Tournament had sold 1.4 million units and earned $48 million in the U.S. NextGen ranked it as the 35th highest-selling game launched for the PlayStation 2, Xbox or GameCube between January 2000 and July 2006 in that country. Combined sales of Tekken games released in the 2000s reached 3 million units in the U.S. by July 2006. It received a "Platinum" sales award from the Entertainment and Leisure Software Publishers Association (ELSPA), indicating sales of at least 300,000 units in the UK. The game sold 457,340 units in Japan, 1.61 million units in the US, and 300,000+ units in the UK, for a total of more than 2.367 million units sold worldwide.
+During the Academy of Interactive Arts & Sciences' 4th Annual Interactive Achievement Awards, the PlayStation 2 version was nominated for the "Game of the Year, "Console Game of the Year", "Console Fighting" and "Animation" awards, which ultimately went to Diablo II, SSX, Dead or Alive 2 and Final Fantasy IX, respectively. It was nominated for the "Best PlayStation 2 Game" and "Best Fighting Game" awards at GameSpot's Best and Worst of 2000 Awards, both of which went to SSX and Capcom vs. SNK: Millennium Fight 2000, respectively. In 2007, IGN listed the same console version as the 23rd best game on the PlayStation 2. In 2008, PSM stated, "Tekken Tag is regarded as the best installment in the series".
+
+
+== Sequel ==
+Tekken Tag Tournament 2, was announced at the Tokyo Game Show 2010 on September 18, 2010. The game expanded on the original's tag mechanics, allowing for more flowing tag combos and combined moves, inherited some gameplay mechanics from Tekken 6, and featured characters from more recent Tekken games. It was released as an arcade cabinet in Japan on September 14, 2011, with an "unlimited" revision following on March 27, 2012. PlayStation 3 and Xbox 360 versions were released in all territories in the week of September 11, 2012, and a Wii U port followed in November 2012. A free Tekken Bowl app based on the original Tekken Tag's bonus mode was released on iOS on July 23, 2011.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official website (in Japanese)
+Tekken Tag Tournament at the Killer List of Videogames
+Tekken Tag Tournament at MobyGames

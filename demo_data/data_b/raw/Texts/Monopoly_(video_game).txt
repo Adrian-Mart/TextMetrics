@@ -1,0 +1,70 @@
+There have been numerous Monopoly video games based on the core game mechanics of Parker Brothers and Hasbro's board game Monopoly. They have been developed by numerous teams and released on multiple platforms over 35+ years.
+
+
+== List ==
+Monopoly (1985) by Leisure Genius, multi-platform
+Monopoly (1988) by Sega and Nexa for Sega Master System
+Monopoly (1991) by Parker Brothers and Sculptured Software for Game Boy, SNES, Genesis, and NES
+Monopoly Deluxe (1992) by Virgin Games for DOS and Windows
+Monopoly (1993) for Super Famicom in Japan by Tomy, Ape and Creamsoft
+MacPlay Monopoly (1993) by HumanWave Technology for Macintosh
+Monopoly (1995) by Westwood Studios for Macintosh and Windows
+The Monopoly Game 2 (1995, Japan) by Tomy, Ape and Tomcat System for Super Famicom
+Monopoly (1997) by Gremlin Interactive for PlayStation
+Monopoly Star Wars (1997) by Artech Digital Entertainment for Windows
+Monopoly World Cup France 98 Edition (1998) by Hasbro Interactive for Windows
+Monopoly (1999) by Mind's Eye Productions for Nintendo 64
+Monopoly (2000) by Artech Studios for Macintosh, Windows and PlayStation Portable
+Monopoly Tycoon (2001) by Deep Red Games for Windows and mobiles
+EX Monopoly (2001) by Mobile 21 for Game Boy Advance
+Monopoly Party (2002) by Runecraft for PlayStation 2, Xbox, and GameCube
+Monopoly (2004) by Destination Software for Game Boy Advance
+Monopoly SpongeBob SquarePants Edition (2007) by Navarre Corporation for Windows
+Monopoly (2008) by Encore, Inc. for Windows
+Monopoly (2008) by Electronic Arts Inc. for PlayStation 2, PlayStation 3, Xbox 360 and Wii
+Monopoly Here and Now (2009) by EA Mobile for iOS
+Monopoly: Build-a-lot Edition (2009) by HipSoft for PC
+Monopoly Streets (2010) by EA Salt Lake for PlayStation 3, Xbox 360 and Wii
+Monopoly (2010) for Nintendo DS
+Monopoly (2012) by PopCap Games for Windows and Macintosh
+Monopoly Deal (2014) by Asobo Studio for PlayStation 3, PlayStation 4, Xbox 360, and Xbox One.
+Monopoly Plus (2014) by Asobo Studio for PlayStation 3, PlayStation 4, Windows, Xbox 360, and Xbox One
+Monopoly for Nintendo Switch (2017) ported by Engine Software
+Monopoly (2020) for Stadia ported by Engine Software
+Monopoly (2019) for iOS and Android devices, by Marmalade Game Studio
+Monopoly Poker (2020) by Azerion for iOS, Android and PC
+Monopoly Madness (2021) for Google Stadia, Luna, Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S ported by Engine Software
+Monopoly GO! (2023) by Scopely for iOS and Android
+Monopoly (2024) by Ubisoft for Nintendo Switch, PC, PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S
+
+
+== History ==
+
+
+=== Early versions ===
+Many unlicensed, non-commercial computer games based on Monopoly were distributed on bulletin board systems, public domain software disks and academic computer systems, and appeared as early as the late 1970s. At the time, Parker Brothers was unaware of this distribution until a user informed them of one version that stated "A Parker Brother game" on the title screen; the company then began enforcing its copyright and trademark on Monopoly.
+Over the years, Monopoly has been released for different operating systems on the PC and Macintosh platforms. The first of the legally licensed commercial adaptations began in 1985 for the BBC Micro, Amstrad CPC, ZX Spectrum and MSX. Versions have been licensed and produced for the Nintendo Entertainment System, Super NES, Game Boy, Game Boy Advance, Nintendo 64, GameCube, PlayStation, PlayStation 2, Master System, Genesis, Xbox, Xbox 360, PlayStation 3, PlayStation Portable, Wii, and Nintendo Switch consoles, as well as mobile device (PDA/Smartphone) versions.
+The Monopoly video games play by the same rules as the standard board game, allowing for single or multiplayer games. When a single player game is chosen, the game in question would generate computer-controlled opponents.
+
+
+=== Console and computer versions ===
+Monopoly for the PlayStation was developed by Gremlin Interactive, and a Windows and Macintosh version by Westwood Studios. The Windows/Mac version played top down, while the PlayStation version was in 3D. They both had cutscenes in common, played when showing the game pieces moving on their own. In 1998, Hasbro Interactive released a Monopoly video game for Microsoft Windows, which used 3D graphics instead of the top-down design used in previous versions. It ran on Windows 95 (although can be run on up to Windows XP, but will not work on Windows Vista and up) and had a special online play feature which used a modem.
+A new version developed by EA Bright Light was released in 2008 for the Wii, PlayStation 3, iPhone and Xbox 360, with a slightly stripped-down version for the PlayStation 2. It includes a transatlantic selection of boards, including the new Here & Now edition boards and new game mode, Richest. There are no online features, however. EA's Monopoly game scored fairly poorly, with a 54% average on the PS3 on Metacritic, and 56% on the Xbox 360.  The Wii version fared better with 70%. The Official Nintendo Magazine in the UK were most positive in their evaluation of the Wii version, which they called "great fun" in the Christmas 2008 issue.
+The Monopoly Family Fun Pack, produced by Ubisoft for PlayStation 4 and Xbox One, was released on November 18, 2014. It is an on-disc bundle consisting of the digitally-released Monopoly Plus and Monopoly Deal, as well as Monopoly Plus's My Monopoly expansion. In 2017, Ubisoft released a more traditional Monopoly video game on the Nintendo Switch, based on Monopoly Plus. This game takes advantage of the Joy-Con's "HD Rumble" feature. In 2020, the Stadia version of the game, based on Monopoly Plus, was released. The 2024 version produced by Ubisoft was released with custom colored dice and tokens.
+
+
+=== Mobile versions ===
+There are several official mobile Monopoly games and variants, including Monopoly Poker - Texas Holdem, Monopoly Slots - Slot Machines, Monopoly Solitaire: Card Games, Monopoly Tycoon, Monopoly, Monopoly Junior, and Monopoly GO!. Monopoly GO! has seen impressive growth, passing $1 Billion in revenue in its first seven months.
+
+
+== Other versions ==
+An official version, Safe As Houses was released for the Atari ST.
+An electronic handheld version of the game was marketed from 1997–2001.
+For several months in 2009, Google Maps hosted an online version of Monopoly, Monopoly City Streets, using its maps as the board.
+
+
+== References ==
+
+
+== External links ==
+Monopoly at MobyGames

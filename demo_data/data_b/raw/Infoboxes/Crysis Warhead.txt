@@ -1,0 +1,55 @@
+Crysis Warhead
+Developer(s)
+Crytek Budapest
+Publisher(s)
+Electronic Arts
+Director(s)
+Cevat Yerli
+Producer(s)
+Bernd Diemer
+Designer(s)
+Attila Bánki Horváth
+Programmer(s)
+Denisz Polgár
+Attila Márton
+Artist(s)
+Gábor Mogyorósi
+Writer(s)
+Tim Partlett
+Composer(s)
+Péter Antovszki
+
+
+Inon Zur
+Series
+Crysis
+Engine
+CryEngine 2
+Platform(s)
+Microsoft Windows
+Release
+NA
+:
+ 16 September 2008
+[
+2
+]
+NA
+:
+ 17 September 2008 
+(Steam)
+[
+1
+]
+EU
+:
+ 19 September 2008
+AU
+:
+ 25 September 2008
+Genre(s)
+First-person shooter
+Mode(s)
+Single-player
+, 
+multiplayer

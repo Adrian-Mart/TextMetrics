@@ -1,0 +1,110 @@
+Tekken 3 (鉄拳3) is a 1997 fighting game developed and published by Namco. It is the third installment in the Tekken series and the first game built on the Namco System 12 arcade hardware. Plotwise, the game takes place twenty years after Tekken 2 (1995) and features a largely new cast of characters, including the debut of several now-staple characters such as Jin Kazama, Ling Xiaoyu and Bryan Fury, and adds sidestepping ability to every character in-game. Tekken 3 was ported to the PlayStation in 1998 with additional content, including a beat 'em up mode called Tekken Force.
+The game was a major hit for both arcades and consoles, selling 35,000 arcade units and 8.36 million PlayStation copies worldwide, making Tekken 3 the fifth best-selling PlayStation game. Since its release, Tekken 3 has been cited as one of the greatest games of all time. It was followed by Tekken Tag Tournament (1999) and its direct sequel is Tekken 4 (2001). Later, Tekken 3's arcade version was included within Tekken 5 on PlayStation 2, while the console port was re-released as part of Sony's PlayStation Classic.
+
+
+== Gameplay ==
+
+Tekken 3 maintains the same core fighting system and concept as its predecessors. Three-dimensional movement is insignificant in previous Tekken games (aside from some characters having unique sidesteps and dodging maneuvers), but Tekken 3 adds emphasis on the third axis by allowing characters to sidestep in or out of the background. Fighters now jump more reasonable heights than in the previous games, making them less overwhelming and putting more use to sidestep dodges, as jumping can no longer dodge every ground attack. Reversals, introduced for some characters in Tekken 2, were now available to all characters. New improvements include quicker recoveries from knockdowns, more escapes from tackles and stuns, more moves with juggling enabled, and newly created combo throws.
+
+Tekken 3 introduces a beat 'em up minigame called "Tekken Force", which pits the player in various stages against enemies in a side-scrolling fashion. The concept was expanded on in a minigame for Tekken 4, and succeeded by the Devil Within campaign mode in Tekken 5. Another minigame is known as "Tekken Ball", similar to beach volleyball, where the player must hit the ball with a powerful attack to pulverize the opponent, or cause them penalty damage by letting the ball fall into the opponent's territory. 
+
+
+== Characters ==
+
+The arcade version features a total of 21 playable characters. Because the game takes place 20 years after Tekken 2, only seven characters from the previous installment return, with the rest being new.
+The console version adds two new characters, Dr. Bosconovitch and Gon, and also makes Anna Williams, a palette swap of Nina Williams in the arcade version, into a distinct character with her own moveset, voice clip, and ending. There are also several unplayable enemies faced only during the Tekken Force minigame. The console version only features 10 characters available by default, with the rest being unlocked by fulfilling various conditions.
+
+
+=== New characters ===
+Bryan Fury a: An undead cyborg kickboxer sent by mad scientist Dr. Abel to kidnap his rival scientist Dr. Bosconovitch. He also has an ill-fated history with Lei Wulong, who had been investigating Bryan's illegal activities when the cyborg was once a human.
+Crow b: A code name and member of the Tekken Force. Crow has the lowest rank.
+Dr. Bosconovitch a d: The silly, elderly genius scientist who is Yoshimitsu's friend and a prisoner of the Mishima Zaibatsu.
+Eddy Gordo: A framed Capoeira prodigy seeking revenge against the Mishima Zaibatsu for having assassinated his parents and ruined his family's business.
+Forest Law: The son of Marshall Law (whom he heavily resembles and fights like), now competing to earn money to help him out.
+Gon a d: A special guest character from the manga of the same name.
+GUN JACK a: The third model of the JACK series sent by his creator, Jane, to retrieve JACK-2's memory data.
+Hwoarang: A Tae Kwon Do student of Baek Doo San wanting to take revenge against Ogre for apparently murdering his teacher.
+Jin Kazama: The grandson of Heihachi Mishima and son of Kazuya Mishima and Jun Kazama practicing both his parents' martial arts who seeks revenge against Ogre for having supposedly killed his mother.
+Julia Chang a: The adopted daughter of Michelle Chang sets out to rescue her kidnapped mother from the Mishima Zaibatsu.
+King II: The successor of the original King who participates to save his predecessor's orphanage after the original is killed by Ogre, under tutelage of the original King's friend, Armor King.
+Kuma II a: The son of the original Kuma also serving as Heihachi's loyal pet and bodyguard.
+Ling Xiaoyu: A Chinese teenager practicing Baguazhang and Piguaquan who wants to build her own amusement park by winning the tournament.
+Mokujin a: A 2,000-year-old wooden dummy who comes to life as a result of Ogre's awakening and is able to switch between every other characters' fighting styles.
+Panda a c: Xiaoyu's pet and bodyguard; to her dismay, the current Kuma has a crush on her.
+Ogre a: A mysterious immortal bioweapon alien known as the God of Fighting. Ogre is the main antagonist and final boss, responsible for the disappearances of numerous martial artists. Ogre has two separate playable forms to distinguish their fighting styles and move sets, the initial green-colored humanoid form known as Ancient Ogre, and the final dark-colored monster form known as True Ogre.
+Tiger Jackson a c: A disco man with an afro.
+
+
+=== Returning characters ===
+Anna Williams a e
+Heihachi Mishima a
+JACK-2 a c
+Lei Wulong
+Nina Williams
+Paul Phoenix
+Yoshimitsu
+^a  Unlockable character
+^b  Unplayable enemy in Tekken Force mode
+^c  Skin/palette swap
+^d  Only playable in console version
+^e  Only skin/palette swap in arcade cabinet
+
+
+== Plot ==
+15 years after the King of the Iron Fist Tournament 2, Heihachi Mishima has established the Tekken Force: a paramilitary organization dedicated to the protection of the Mishima Zaibatsu. Using the company's influence, Heihachi is responsible for many events that have ultimately led to world peace. One day, a squadron of Tekken Force soldiers searched an ancient temple located in Mexico under the premise of an excavation project. Soon after arriving there, Heihachi learns that they were obliterated by a mysterious and malevolent creature known as Ogre. Having captured a brief glimpse of Ogre before its immediate disappearance, Heihachi seeks to capture Ogre in the hopes of harnessing its immense fighting power for his own personal gain. Soon after, Nina Williams was awakened from Dr. Bosconovitch's cold-sleep machine. Various known martial artists end up dead, attacked, or missing from all over the world, with Ogre behind all of it. 
+Jun Kazama has been living a quiet life in Yakushima with her young son, Jin Kazama, fathered during the events of the previous tournament by Heihachi's son, Kazuya Mishima. However, their peaceful life is disrupted when Jun begins to sense Ogre's encroaching presence, and knowing she is now a target, Jin is instructed to seek Heihachi if anything happens. Sometime after Jin's 15th birthday, Ogre attacks. Against Jun's wishes, Jin valiantly tries to fight Ogre off, but Ogre knocks him unconscious. When Jin awakens, he finds that the ground surrounding his house has been burnt and his mother is missing and most likely dead. Driven by revenge, Jin is confronted by the Devil, which brands Jin's left arm and possesses him. Jin goes to his grandfather, Heihachi, and explains his situation to him, begging him for training to become strong enough to face Ogre. Heihachi accepts and takes Jin under his wing, as well as sending him to Mishima High School where Jin meets a classmate named Ling Xiaoyu and her pet Panda. He also met Hwoarang during a street fight in which they fought to a draw, leading to a persistent rivalry.
+4 years later, Jin masters the Mishima karate style. On Jin's 19th birthday, Heihachi announces the King of Iron Fist Tournament 3, and Jin himself prepares for his upcoming battle, having no idea that his grandfather is secretly using him, Xiaoyu, Hwoarang, and the rest of the competitors as bait to lure Ogre out into the open.
+When Nina Williams was awakened from Dr. Bosconovitch's cold-sleep machine, she suffered amnesia. Now controlled by Ogre, Nina acts robotically, with the command to assassinate Jin.   
+During the tournament, Jin managed to bring Nina back to her senses by defeating her, allowing her to break free from Ogre's control. Jin went on to narrowly defeat Hwoarang after an hours-long fight, very similar to the fight between his father, Kazuya, and his rival Paul Phoenix. Near the end of the tournament, Paul makes it to the finals after defeating the other competitors, including Kuma and Heihachi in the previous rounds. Paul enters a large temple, defeats Ogre in a fierce battle, and walks away from the tournament, thinking he is victorious. However, unbeknownst to Paul, Ogre morphs into his 2nd, monstrous form known as "True Ogre" after absorbing Heihachi's fighting force when the latter had tried to capture it while it was unconscious. 
+Because of this, the tournament continued as a result, with the tournament officials reinstating Jin and allowing him to replace Paul in the finals. From there, Jin confronts True Ogre in an intense fight and manages to defeat it as True Ogre completely dissolves, thus Jin succeeded in avenging his mother's death and winning the tournament. Despite his hard-fought victory, Jin is suddenly gunned down by a squadron of the Tekken Force led by Heihachi, who no longer needs him, he personally fires a final shot into his grandson's head. Jin, who is unexpectedly revived by the Devil within him, reawakens and dispatches the soldiers, smashing Heihachi through the wall of the temple. Jin then sprouts black, feathery wings and flies off into the night as Heihachi, who survived the fall, looks on from the ground.
+
+
+== Development and release ==
+Tekken 3 is the first game to have been released on Namco System 12 hardware, after the original two Tekken games on System 11. The animation for the combatants was created using motion capture.
+The sub-bosses of the previous two Tekken games were dropped in Tekken 3, since the developers felt it would make for a deeper and more well-rounded game if they focused on the move sets and playability of the core characters rather than on adding bosses.
+The music for Tekken 3 was composed by Nobuyoshi Sano and Keiichi Okabe. Sano, who served as the sound director, took a big beat approach to the music with a slower tempo than the music found in previous games, as this genre had not previously been utilized in games. Game director Katsuhiro Harada initially did not understand the big beat direction, but Sano was able to convince him that it would work well in the series. During development, a tester criticized the music and wanted the music to resemble Sega's Virtua Fighter; this angered Sano, although the report was dismissed. Okabe also became ill during the music's production.
+The game had a limited Japanese release on 28 November 1996. It was followed by a wide international release in March 1997, releasing in North America on 18 March 1997.
+
+
+=== PlayStation ===
+The conversion to the PlayStation took eight months, significantly longer than the conversions of Tekken and Tekken 2, due to Tekken 3 being designed for Namco System 12, making it a much more difficult conversion than the previous two games, which were designed for the PlayStation-based Namco System 11. The conversion team was, aside from a few personnel changes, the same group which created both the PlayStation and arcade versions of Tekken and Tekken 2.
+The original port of Tekken 3 to the PlayStation features two new hidden characters: Gon and Dr. Boskonovitch. Boskonovitch was a late addition; in early 1998 Namco said that Gon would be in the PlayStation version but Boskonovitch's inclusion was still not certain. Anna was made into her own separate character, and given her own character select spot, voice, unique attacks, and ending. The PlayStation version features new "Tekken Force" and "Tekken Ball" modes, as well as all modes present in Tekken 2. Due to the PlayStation's hardware limitations of less video RAM and lower clock speed, the visual quality was downgraded. The backgrounds were re-made into 2D panoramic images, the number of polygons used for each character were slightly reduced, sound effects played at a high pitch, and the game runs at lower overall resolution. Namco representatives had in fact originally stated that they did not think it was possible to convert Tekken 3 to the PlayStation. By April 1997, Tekken 3 was popular in the arcades, and the process of its home conversion was considered certain on PlayStation but merely a controversial consideration on Nintendo 64.
+Sano and Okabe returned to compose the music for the PlayStation version, with much of the soundtrack being arranged from the arcade's music, along with the addition of several new tracks. Other composers who participated in composing additional music include Hiroyuki Kawada, Minamo Takahashi, Yuu Miyake, Yoshie Arakawa, and Hideki Tobeta. Arakawa had previously composed for the first two Tekken games, while Sano, Okabe and Miyake would go on to work on several future entries in the series, including Tekken Tag Tournament.
+The PlayStation 2 release of Tekken 5 features the arcade version of Tekken 3. The PlayStation version of Tekken 3 was one of the controversial selection of 20 games included by Sony Interactive Entertainment on the PlayStation Classic, released on 3 December 2018.
+
+
+== Reception ==
+
+
+=== Commercial ===
+The arcade game was a major hit. In Japan, 15 April 1997 issue of Game Machine listed Tekken 3 as the most-successful arcade game of the month. It went on to be the highest-grossing arcade printed circuit board (PCB) game of 1997 in Japan, and second highest-grossing overall arcade video game below Sega's rival Virtua Fighter 3 (1996). Tekken 3 sold 35,000 arcade units worldwide in 1997, including 15,000 in Japan and 20,000 overseas. While Virtua Fighter 3 was more successful in Japan at the time, Tekken 3 was more successful worldwide. Tekken 3 later became the overall highest-grossing arcade game of 1998 in Japan, above Virtua Fighter 3 Team Battle.
+The PlayStation version was also a major hit. In Japan, the game sold over 1 million copies on its first day of release. In May 1998, Sony awarded Tekken 3 a "Platinum Prize" for sales above 1 million units in Japan. According to Weekly Famitsu, Japan bought 1.13 million units of Tekken 3 during the first half of 1998, which made it the country's third-best-selling game for the period. PC Data, which tracked sales in the United States, reported that Tekken 3 sold 1.11 million copies and earned $48,500,000 (equivalent to $93,600,000 in 2024) in revenue during 1998 alone. This made it the third-best-selling PlayStation release of the year in the United States.
+In Germany, it received a "Gold" award from the Verband der Unterhaltungssoftware Deutschland (VUD) in November 1998 for sales above 100,000 units, with the VUD later raising it to "Platinum" status indicating over 200,000 sales by August 1999. At the 1999 Milia festival in Cannes, it took home a "Gold" prize for revenues above €36 million or $40,000,000 (equivalent to $77,000,000 in 2024) in the European Union during 1998. Tekken 3 grossed a further €57,209,778 or $60,974,181 (equivalent to $115,000,000 in 2024) in Europe during 1999, adding up to over €93,209,778 or $100,974,181 (equivalent to $195,000,000 in 2024) grossed in Europe by 1999, and more than $150,000,000 (equivalent to $290,000,000 in 2024) across Europe and the United States by 1999.
+According to Tekken series producer Katsuhiro Harada, Tekken 3 sold 8.36 million copies during its initial release on the original PlayStation, including 1.4 million in Japan and 6.96 million overseas.
+
+
+=== Critical ===
+According to Metacritic, the game has a score of 96 out of 100, indicating universal acclaim, and is ranked number 2 on its list of greatest PlayStation games. As of April 2011, the game is listed as the twelfth-highest-rated game of all time on the review compiling site GameRankings with an average rating of 96%.
+Next Generation reviewed the arcade version, and stated that "Tekken 3 isn't quite the artful masterpiece that [Virtua Fighter 3] is, but is still awesome in its own right, and has moved the series even further form its 'me too' roots. The fighting system has evolved nicely, resulting in some wild and effective moves and new characters, a faster responsiveness, and an impressive 3D fighting experience." GamePro gave it a 4.5 out of 5 for graphics and sound and a 5.0 for control and funfactor. While noting that it was visually not up with its competitor Virtua Fighter 3, the reviewer said it was stunning in its own right and features phenomenally responsive and easy controls. The game was a runner-up for "Arcade Game of the Year" (behind NFL Blitz) at Electronic Gaming Monthly's 1997 Editors' Choice Awards.
+Tekken 3 became the first game in three years to receive a 10 from a reviewer from Electronic Gaming Monthly, with three of the four reviewers giving it the highest possible score. Tekken 3 is the first game to have scored a 10 under EGM's revised review scale in that a game no longer needed to be "perfect" to receive a 10, and the last game to receive a 10 from the magazine was Sonic & Knuckles. The only holdout was the magazine's enigmatic fighting-game review guru, Sushi-X, who said that "no game that rewards newbies for button-mashing will ever be tops in my book", giving the game 9 out of 10. GameSpot's Jeff Gerstmann gave the game a 9.9 out of 10, saying "Not much stands between Tekken 3 and a perfect 10 score. If the PlayStation exclusive characters were better and Force mode a bit more enthralling, it could have come closer to a perfect score." He also praised the sound effects, music, and graphics.
+Next Generation reviewed the PlayStation version, and stated that "There is no better fighting game, on this system or any other. It's clearly superior to the previous games in the series and a stunning value for Tekken aficionados."
+According to PlayStation: The Official Magazine in 2009, Tekken 3 "is still widely considered one of the finest fighting games of all time". In September 2004, for the tenth anniversary of the PlayStation brand, it ranked No. 10 on the magazine's list of "Final PlayStation Top 10". It was also No. 177 on Game Informer's 2009 Top 200 games of all time.
+In 2011, Complex ranked it as the fourth best fighting game of all time. Complex also ranked Tekken 3 as the ninth best arcade video game of the 1990s, commenting that "this now classic fighter served as a welcome palette cleanser to the Mortal Kombat/Street Fighter dichotomy that dominated arcades in the 90s." Complex also ranked Tekken 3 as the eighth best PlayStation 1 video game, commenting, "When Tekken 3 finally moved from our local arcade and into our living room, we knew nothing would ever be the same. With an assortment of attacks and combos to learn, along with good controls, graphics, and sound, Tekken 3 was much more polished and smooth than its predecessors."
+Tekken 3 has also been listed among the best video games of all time by Electronic Gaming Monthly in 1997, Game Informer in 1999, Computer and Video Games in 2000, GameFAQs in 2005, and Edge in 2007. ArcadeSushi ranked Tekken 3 as the "20th Best Playstation Game", with comments "Tekken 3 changed everything. Friends became bitter rivals. Bitter rivals became even more bitter rivals. Tekken 3 was the game you played with friends you didn't want to be your friends anymore." Chris Lyon from Haydock the Tekken 3 World Champion player of 1998 - 2003 also ranked it as the "17th best fighting game", commenting, "Tekken 3'' was easily one of the best ''Tekken'' games ever created. Before the series became obsessed with wall splats and ground bounds, it simply had huge open 3D arenas with massive casts that may or may not have included boxing raptors. I remember first playing DBZ with Kirki and Budge and they just spammed the same moves" In 2015, GamesRadar ranked Tekken 3 as the 59th "best game ever", as "it possesses one of the finest fighting systems ever, the series' well-known juggle formula percolated into a perfect storm of throws, strikes, and suplexes."
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+Hurwitch, Nick (2019). The Art of Tekken: A Complete Visual History. Dynamite Entertainment. ISBN 978-1524107734.
+"Ahora que Tekken 7 marca el regreso de la saga de lucha a PlayStation, echamos la vista atrás a la creación de una de las entregas más icónicas". PlayStation Blog. 8 June 2017.
+
+
+== External links ==
+Official website (archived)
+Official website (in Japanese) (archived)
+Tekken 3 at MobyGames

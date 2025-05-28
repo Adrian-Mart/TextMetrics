@@ -1,0 +1,123 @@
+Resistance: Fall of Man is a 2006 first-person shooter video game developed by Insomniac Games and published by Sony Computer Entertainment for the PlayStation 3. The game is set in an alternate history 1951, and follows Sergeant Nathan Hale as he and the human resistance forces attempt to drive a mysterious alien-like invasion out of the United Kingdom. The story continues in Resistance 2.
+The game was originally developed under the title I-8, as it was the eighth title to be in production by Insomniac Games. It was released as a PlayStation 3 launch title in the United States on November 17, 2006 and in the PAL region on March 23, 2007. Resistance had positive critical reception, garnering particular praise in view of its status as a launch title and winning several awards. As of 2007, the game sold more than 2.1 million copies.
+Sony and Insomniac Games became embattled with the Church of England for using interior shots of Manchester Cathedral to recreate the building within the game, as well as "promoting violence" within the building.
+The game, along with its sequels Resistance 2 and Resistance 3, shut down its online servers on April 8, 2014. Digital versions of the first two games were released after the servers' closure in Europe.
+
+
+== Plot ==
+
+In the 1900s, an insect-like alien race known as the Chimera arrive in Russia. Using advanced technology, they infect hundreds of civilians and subject them to artificial evolution, creating a diverse army of creatures ranging from simple foot soldiers to spider-like giants. By 1949, all of Europe has fallen to the Chimera. 12 months later, a vast invasion force tunnels under the English Channel, conquering much of England and leaving only scattered pockets of human resistance.
+In 1951, the United States, despite taking a position of neutrality in the conflict, finally elects to deploy a task force to assist the UK as part of "Operation Deliverance". Among the soldiers is Army Ranger Sgt. Nathan Hale. However, soon after landing in York, he and his squad are ambushed by enemy troops, who infect them with the Chimera virus. Hale, the only survivor, discovers that he has an innate resistance to full infection. Instead, he gains increased strength and faster reflexes, the ability to instantly heal light injuries, and gold-colored irises, a common trait of the Chimera.
+Sent to a Chimera conversion center in Grimsby, Hale meets British intelligence officer Captain Rachel Parker and helps her escape. In turn, Parker allows him to accompany British forces launching an offensive in Manchester to recover a missing convoy. The convoy's cargo is subsequently transferred to a resistance command center in Cheshire, which soon comes under attack from the Chimera. While attempting to provide assistance, Hale is separated from Parker and ends up fighting off the attack single-handedly. He then investigates the cargo, which turns out to be an Angel, a powerful creature that directs the Chimera's hive mind. The Angel tries to use its telepathy to control Hale, forcing him to kill it.
+Hale then links up with Lieutenant Stephen Cartwright, a UK Royal Marines Commando. The two of them learn that the Chimera have established a series of metallic towers throughout Britain, connected by a network of tunnels and power conduits. To make the matter even more puzzling, Parker learns that the towers were excavated, not built. After the Chimera destroy the last British command post in Bristol, Hale undertakes a solo mission into the tunnels, following them all the way to a nexus point in London. Recognizing that the towers are altering the Earth's climate, Hale concludes that destroying them is the key to victory.
+Under Parker and Cartwright's leadership, a massive joint American-British force of soldiers enters London and storms the central tower. Despite their best efforts, the Chimera rally themselves and initiate a counterattack, killing countless soldiers and leaving Cartwright seriously wounded. Against all odds, Hale destroys the tower's power core, causing it to ignite in a massive explosion. This triggers a chain reaction, destroying the other towers and leading to a mass extinction of the Chimera in the UK, ending their threat.
+As Hale's body is never found, the US Army lists him as killed in action. Parker is not convinced, though, and believes that he may somehow have survived. In a post-credits scene, Hale is indeed still alive. He is shown walking through the snow when a squad of unknown soldiers surround him. Hale briefly contemplates suicide with his last grenade, but ultimately surrenders himself to their custody.
+
+
+== Gameplay ==
+
+Resistance: Fall of Man is a first-person shooter set in an alternate history. Many of its gameplay features stem from this, most notably the weapons. Some weapons are based on real weapons circa the 1950s, while some weapons are futuristically altered in accordance with the game's storyline. Insomniac Games has combined its passion for creating exotic weapons and vehicles, such as those found in the Ratchet and Clank series, with its proprietary development engine and physics system to create unique human and Chimeran weaponry. Each weapon provides a unique play style and strategy. An example of this is found with the Auger (Chimeran). The primary fire for this weapon is simple rapid fire, but the bullets burrow through walls, actually coming out stronger on the other side, opening up a whole new level of strategy. The secondary fire creates a barrier that is resistant to all bullets but its own. In addition to the usual short- and long-range weapons, the game features several different types of grenades, with both historical and futuristic varieties. For example, one grenade, known as the Backlash grenade, is capable of creating a dome-shaped barrier, where the player can enter for cover. The barrier reflects shots from opposing Chimera except projectiles from very powerful enemies. Some weapons are not available on the first play-through of the game but can be found at certain locations on replaying the game.
+The game features melee attacks, and the motion sensing feature of the SIXAXIS controller is used for a number of things including shaking off enemies that grab onto the player, shaking off tags and flames in multiplayer, and quickly bringing up a map or leaderboard in a multiplayer match. The player also has access to turrets and a drivable jeep with a gun turret on certain levels. The game was also on Sony's list of titles to receive an online update to support the vibration feature of the DualShock 3 controller for Japan, North America, and Europe.
+There are also skill points that can be earned throughout the single player game. These are awarded for certain actions that are hinted at by their titles; however, the specific details are not revealed until the skill point is actually earned. There are generic skill points that can be earned during any single level, and some that are specific to certain levels of the game. Each task is worth a different number of points which are used to unlock additional media for the game. The requirements for the skill points are not told to the player until unlocked making it more difficult to achieve these points
+In addition, multiple Intel documents can be found scattered throughout each level. These give the player an insight into what has happened, is happening, and will happen.
+
+
+== Multiplayer ==
+Resistance: Fall of Man featured a multiplayer mode for up to 40 players online and up to 4 players offline.
+Multiplayer games had little to no latency (subject to player's connection and host location), even while playing the 40 player online due to the implementation of dedicated servers across the PlayStation Network.
+The multiplayer version of the game also enabled players to create their own clan, create their own matches (custom games) or join pre-set games (Ranked Games). While in games, players could talk to their team mates by using a Bluetooth or USB headset. Text chat was also enabled in pre-game lobbies.
+The online multiplayer had an integrated friends system which allowed players to add one another without becoming friends on the PSN. The online friends list showed a player's friend to be either In Lobby, staging or in-game. From here players could Invite to Game, Invite to Party or Send a Message. This in game system allowed for user-friendly interaction between friends and bypassed the need for players to exit the game to talk to friends; a feature that was absent from most other PS3 titles, until system firmware 2.40 was released.
+The online servers for the game (and the sequels) were closed on March 28, 2014 and the online multiplayer is now unavailable. The closure also disabled the game updates, as it used a different updating system, through the multiplayer servers. However, a workaround was found in 2021 and released in April 2022.
+
+
+=== Downloadable content ===
+On June 7, 2007, a spokesperson from SCEA posted a message on MyResistance.net, informing players that complications had arisen and that the Worldwide Update and map pack had been delayed for an unspecified amount of time. However, the spokesperson did mention that it was only for a short period of time.
+In addition to the above maps, Insomniac made available two additional maps on June 29, 2007 in one map pack for $7.99 USD, $8.99 CAD, £2.99 GBP, €4.49 and $7.45 AU.
+An additional map pack was released on November 29, 2007 that includes two additional maps for the price of $4.99 USD.
+As of December 11, 2008, all map packs for Resistance: FoM were made available for free as a holiday gift from Insomniac due to the release of Resistance 2.
+All map packs are available for local split-screen multiplayer.
+The map packs were removed from PlayStation Store in March 2014, although only in Europe. They're still available on PlayStation Store in USA although they cannot be used because of the aforementioned server closure. Since the game used a different system to download the game updates (by entering the multiplayer modes, unlike most titles which search for updates from the XMB or after starting them), and since the updates were required for DLC compatibility, the map packs became usable only by people who downloaded the updates before the server closure, in March 2014. Shortly after the closure of the game servers, a digital version of the game was released on PlayStation Store, exclusively in Europe. It comes with all game updates and map packs, and full compatibility with savegames from the physical edition.
+
+
+=== Maps ===
+There are many different places the player can play during the game, all of which are based on places in England. The maps all vary in size and some of the more popular locations such as "Nottingham" and "Grimsby" come in four different sizes.
+Just a few days after releasing Patch 6, Insomniac Games unveiled two new maps for Resistance: Fall of Man for the PS3. The two maps, Bracknell and Axbridge, will be suitable to all types of games and can accommodate from 8 to 40 players per round.
+Bracknell is an all-interior map where players battle it out amidst the backdrop of Chimeran node and Widowmaker breeding grounds, perfect for vertical and close-quarters combat. Axbridge, on the other hand, is a narrow corridor with two human bases on each end. Aside from good sniping spots, the Axbridge map also provides the perfect venue for close-quarters combat.
+
+
+=== Rumble ===
+In November 2007, an update for the game was made available that enabled rumble functionality for DualShock 3 controllers. However, it is no longer available for download after the online multiplayer servers shut down on April 8, 2014. It is currently available only with the digital version of the game, released in Europe.
+
+
+=== Ranked Matches ===
+Ranked matches automatically place players in a match from a chosen category. The matches intend to group players whose ranks are the same or very close together, to make the matches competitive. Ranked matches give the player experience, which will allow the player to move up different ranks. As the player moves up ranks, special rewards are unlocked for their character.
+There are three categories the player can choose from, each with its own modes with one the player will automatically be placed in. The three categories are:
+Free-for-all: In this category there is a deathmatch mode, which is a simple free-for all deathmatch. There is also conversion mode, an elimination game type.
+Team Deathmatch, is the second selectable category which directly takes the player to a Team Deathmatch where two teams battle to see who can get to the point objective first (Normal scoring) by killing the members of the opposing team. Map Pack Mayhem was recently added to the Team Deathmatch game mode.
+Team Objective: When selecting this category the player will either be taken to a Meltdown, Capture the Flag, Breach or Assault game type. The most common mode the player is automatically taken to is Meltdown, in which two teams fight to capture nodes.
+
+
+=== Custom Matches ===
+The multiplayer for Resistance also allows highly customizable unranked matches, known as 'Custom' matches, allowing the hosts to set different parameters such as hit points and weapon sets. Custom matches already in progress can also be joined. The player may use a search filter that finds matches meeting the player's chosen criteria. Other players can also be invited to games using the buddy list. Custom games grant less XP than Ranked matches.
+
+
+=== Offline modes ===
+The offline (splitscreen) multiplayer also features a range of modes, These include: Deathmatch, Team-Deathmatch, Capture the Flag, Breach, Assault, Meltdown and Skirmish.
+In all of these modes the player can decide the map they play the game on, the time limit, the number of lives, the teams (if applicable), the points limit and plenty of other variables.
+Resistance's competitive multiplayer does not feature the vehicles found in the game's Campaign mode.
+Resistance: Fall Of Man also features an offline co-operative mode that allows players to play through the campaign mode with a friend.
+
+
+=== Different species ===
+While playing in multiplayer, the player will either be assigned to the Human or Chimera species, each of which has its strengths and weaknesses.
+
+
+== Development ==
+The game was previously known as I-8 when a demo of the game was first shown in E3 2005 as a World War II-inspired, alien-infested first-person shooter. Insomniac Games, who developed the Spyro and Ratchet & Clank series of video games, were going to be developers of the game. A new demo was shown by Sony Computer Entertainment in the Game Developers Conference (GDC) in March 2006. The new demo was in real-time, demonstrating the gameplay, graphics and effects like bump mapping. Insomniac was said to "love the Blu-ray's contribution of tremendous space to gaming". The team also "loved the multiple simultaneous processor units".
+Officially-renamed Resistance (Fall of Man), it was unveiled as part of Phil Harrison's "Beyond the Box" keynote address, and was fully playable on the GDC stage. Insomniac President Ted Price spoke about the benefits of PlayStation 3, the advantages of Blu-ray storage, and the reasons that his team at Insomniac decided to develop for Sony Computer Entertainment in the next generation. It was also officially revealed that Resistance would be released before the end of 2006, but no information about it being a launch title.
+
+
+== Reception ==
+
+Resistance: Fall of Man received a "Platinum" sales award from the Entertainment and Leisure Software Publishers Association (ELSPA), indicating sales of at least 300,000 copies in the United Kingdom. As of September 30, 2007, the game sold more than 2.1 million copies worldwide.
+Resistance: Fall of Man received "generally favorable reviews" according to the review aggregation website Metacritic.
+Within the first few hours of the PS3's Japanese launch, the game had already received praise from some publications. Famitsu gave the game a score of 33 out of 40. IGN was the first Western site to review the game, with reviewer Jeremy Dunham declaring that while other consoles had to wait years to get their killer app, "PlayStation 3 users get theirs on day one."
+Following closely, GameBrink.com then posted their review. However, the scores at the time of European launch were less brilliant. Eurogamer's UK review complained that, while functional, and even occasionally entertaining, the game completely failed to innovate.
+411Mania gave it a score of 9.6 out of 10 and said that it initially "felt like Call of Duty, but as I progressed through the game, I found that there was substantially more. The game plays it by the numbers in many ways but it's very polished and fun. The multiplayer will keep you occupied for months. Any PS3 owner will do themselves a disservice by not picking up this game." USA Today gave it a score of four stars out of five, saying, "Easily the best game for the new Sony PlayStation 3 game console, Resistance: Fall of Man is a first-person shooter that lets you, as an American soldier stationed in the United Kingdom, lead the fight to rid the world of a vicious alien race." Maxim similarly gave it a score of eight out of ten, saying that the game "managed to exceed our lofty expectations, but only by an wirey [sic] crotch hair." The Sydney Morning Herald also gave it four stars out of five and called it "an accomplished shooter providing many fun online modes, engaging solo missions and superb weapons." However, The New York Times gave it an average review, saying that "In spite of rave reviews it’s a fairly pedestrian humans-versus-aliens first-person shooter that brings nothing new to the genre. The artificial intelligence of combatants is lackluster, and the semi-sepia-toned graphics are surprisingly unimpressive, no better than what you would see on the five-year-old Xbox."
+During the 10th Annual Interactive Achievement Awards, the Academy of Interactive Arts & Sciences nominated Resistance for "First-Person Action Game of the Year" and "Outstanding Achievement in Visual Engineering".
+
+
+=== Manchester Cathedral controversy ===
+Following the game's release, a level containing a shootout against aliens within an unidentified, abandoned church was purported to be an unauthorized depiction of Manchester Cathedral by leaders of the Church of England. They claimed its depiction to be desecration and copyright infringement, and that it was inappropriate of Sony to allow players to fire guns in a city with a gun problem, making several legal threats. While apologizing for any perceived offense, Sony countered that the game took place in an alternate, fictional universe, and that the building was never intended to depict the cathedral. Nevertheless, the cathedral drew up a set of rules requiring game developers to ask for permission to use religious spaces. Georgia Tech professor and Persuasive Games CEO Ian Bogost defended use of the cathedral in the game, believing the set piece to be significant to the story, and called Sony disappointing for apologizing. The church leaders were called "uninformed" by critics, who stated that they mistook "science fiction for simulated murder".
+In analyzing the legal grounds for the complaint, Alex Chapman of Campbell Hooper solicitors cited a provision in the UK's Copyright, Designs and Patents Act 1988 that stated that because the cathedral was "on public display", using its interior would not be copyright infringement. Due to the lack of a valid legal argument, the complaint was ultimately dropped, and the cathedral saw a "blessing in disguise" increase in visitor numbers due to the controversy.
+
+
+== Sequels ==
+
+
+=== Resistance 2 ===
+
+Resistance 2 is the direct sequel to Fall of Man. It continues the story of Nathan Hale as he defends the United States from the Chimera. Multiplayer in the game now supports up to 60 players online and up to 8 players in co-op mode. The game was released in North America on the November 4, 2008.
+
+
+=== Resistance: Retribution ===
+
+A spin-off sequel, Resistance: Retribution, was announced on July 15, 2008 at Sony's E3 2008 press conference. It is a third-person shooter for PlayStation Portable and was developed by Bend Studio, better known for developing the Syphon Filter series. The story takes place in Europe following the destruction of the Tower of London and features returning characters from Fall of Man as well as the new protagonist named James Grayson.  It was released March 17, 2009 in North America.
+
+
+=== Resistance 3 ===
+
+On October 11, 2009, the website Joystiq reported that a billboard advertising Resistance 3 was spotted in Shreveport, Louisiana.
+Resistance 3 was officially announced on August 17, 2010 during Sony's Gamescom 2010 press conference along with a live-action trailer. It was released in North America on September 6, 2011.
+
+
+=== Resistance: Burning Skies ===
+
+Resistance: Burning Skies is the second spin-off in the Resistance series, developed by Nihilistic Software. It was released on the PlayStation Vita in May (NA, AU), June (EU) and July (JP) 2012.
+
+
+== References ==
+
+
+== External links ==
+Resistance: Fall of Man at MobyGames

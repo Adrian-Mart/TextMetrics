@@ -1,0 +1,66 @@
+EverQuest
+Developer(s)
+Verant Interactive
+ 
+ 
+989 Studios
+Publisher(s)
+NA
+:
+ 
+Sony Online Entertainment
+EU
+:
+ 
+Ubisoft
+Producer(s)
+Brad McQuaid
+Designer(s)
+Steve Clover 
+ Brad McQuaid 
+ William Trost
+Programmer(s)
+Steve Clover
+Artist(s)
+Rosie Rappaport
+Composer(s)
+Jay Barbeau
+[
+a
+]
+Engine
+True3D
+[
+4
+]
+Platform(s)
+Microsoft Windows
+ (1999–) 
+ 
+Mac OS X
+ (2003–2013)
+Release
+Microsoft Windows
+NA
+:
+ March 16, 1999
+[
+2
+]
+EU
+:
+ April 28, 2000
+[
+1
+]
+Mac OS X
+NA
+:
+ June 24, 2003
+[
+3
+]
+Genre(s)
+Massively multiplayer online role-playing game
+Mode(s)
+Multiplayer

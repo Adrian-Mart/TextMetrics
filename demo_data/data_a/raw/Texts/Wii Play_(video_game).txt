@@ -1,0 +1,87 @@
+Wii Play is a party video game developed and published by Nintendo for the Wii console. It was released as a launch game for the console in Japan, Europe, and Australia in December 2006, and was released in North America in February 2007. The game features nine minigames, including a Duck Hunt-esque shooting range, a fishing game, and a billiards game, each of which are designed to showcase the features of the Wii Remote controller.
+Developed as a compilation of prototype games originally shown off at the E3 expo in 2006, Wii Play was developed by Nintendo EAD simultaneously with Wii Sports, which also contained tech demos from E3. The featured games make use of several aspects of the Wii Remote, such as its detection of rotation and depth movement through motion sensing and its infrared pointer.
+Despite mixed reception from critics who criticized the game for its repetitiveness, Wii Play was a commercial success, with strong sales being largely connected to the game's inclusion of an additional Wii Remote at the time of its release. The game is the fifth best-selling game for the Wii and the twenty-sixth best-selling video game of all-time, having sold 28.02 million copies worldwide. A sequel to the game titled Wii Play: Motion was released in 2011.
+
+
+== Gameplay ==
+
+Wii Play is a party game consisting of nine minigames that make use of the Wii Remote's several unique features. These games can either be played in single-player mode or in a two-player multiplayer versus mode in which each player's number of wins are recorded. Upon starting the game, only one of the featured minigames is accessible, but the other eight are systematically unlocked as the player tries each one. The player is able to use their own custom Mii avatars created through the Mii Channel, who appear in several of the included minigames. High scores are saved when playing in single-player mode, and achieving certain high scores awards the player with bronze, silver, gold and platinum medals for the respective game, along with a message sent to the Wii Message Board containing a short tip for that respective game.
+
+
+=== Games ===
+
+
+==== Shooting Range ====
+A shooting game similar to Duck Hunt in which players go through several consecutive rounds of shooting objects that appear on the screen by pointing the Wii Remote at the Wii's sensor bar to aim and firing with the controller's trigger button. Objects include balloons, bullseye targets, clay disks, tin cans, and UFOs which descend from the sky and attempt to abduct tiny copies of the player's Mii. Extra points can be earned by shooting several objects consecutively without missing, and ducks also occasionally fly across the screen which can be shot for additional points. The game's multiplayer mode has two players competing to earn the highest number of points; conversely, a second player can join during single-player mode and help player one earn points, or player one can take a second Wii Remote and use it with their primary controller to assist in shooting.
+
+
+==== Find Mii ====
+Crowds of unique Mii characters gather on the screen, out of which the player must locate certain Miis whose qualities pertain to the instructions given to the player, such as locating two identical characters or locating the fastest-moving character in a crowd of walking people. In single-player mode, the player must get through as many stages as possible before the time limit runs out, with each Mii found extending the number of seconds left on the timer and giving a certain number of points depending on how quickly the player locates and chooses them. In multiplayer mode, two players compete to find the highest number of Mii characters within two minutes. Choosing an incorrect Mii in single-player mode removes a number of seconds from the timer, while in multiplayer mode the player who picks the incorrect character loses points.
+
+
+==== Table Tennis ====
+A standard game of table tennis, in which the player volleys a ping-pong ball back and forth by pointing at the sensor bar and moving the Wii Remote from side to side. In single-player mode, the player cooperates with a computer player in order to rally the ball back and forth with each other as many times as possible. In multiplayer mode, two opponents compete to hit the ball past each other in order to score points, with the first player to achieve eleven points winning.
+
+
+==== Pose Mii ====
+The player controls their Mii character around an open background via the Wii Remote pointer and tries to burst large, falling bubbles and prevent them from descending to the bottom of the screen, twisting the Wii Remote in order to rotate the character and fit them into the silhouettes on the bubbles and pushing certain buttons to cycle between different poses that the Mii can strike in order to conform to the shapes of the silhouettes. The game is over once the player allows three bubbles to float past them and reach the bottom of the screen. In multiplayer mode, red and blue bubbles pertaining to each player's respective color fall down, and players attempt to get the highest number of points with each player losing a point if a bubble in their color falls to the bottom.
+
+
+==== Laser Hockey ====
+An air hockey game comparable to Pong in which two players try to hit a laser puck across the screen into the opponent's goal using a paddle controlled via the Wii Remote pointer. The paddle can be twisted around by twisting the Wii remote in order to hit the ball in different directions. Single-player mode is a two-minute match against the CPU, whereas in two-player mode, the first player to score eight points wins.
+
+
+==== Billiards ====
+A simplified nine-ball game of pool. In the game, the player uses the Wii Remote like a cue stick to strike the cue ball, which can be hit at different angles in order to add spin or execute jump shots. The player can also toggle the in-game camera angle between a top-down view and a view from behind the cue ball. The game ends when all object balls have been pocketed. Points are earned differently depending on the game mode; in single player mode, it is determined by the number of turns taken to pocket all of the object balls, while in multiplayer mode, points are earned corresponding to the number on the object ball that is pocketed. In both game modes, points are taken away for committing a foul shot, either by pocketing the cue ball or hitting an object ball not marked with a target.
+
+
+==== Fishing ====
+A game of fishing in which the player attempts to catch different types of fish swimming in a pond within a set time limit. The player uses the Wii Remote like a fishing pole, lowering it to move the hook into the pond and quickly pulling it upwards once a fish grabs onto it while moving the remote in different directions to move the hook through the pond. Points are given and deducted based on the different types of fish that are caught; additional points are awarded for catching a fish corresponding with the bonus fish type, which continually changes. In multiplayer mode, two players compete to obtain the highest score.
+
+
+==== Charge! ====
+The player controls their Mii character riding a cow as they attempt to navigate a short course within a time limit while knocking down scarecrows and avoiding hurdles. The game is played by holding the Wii Remote horizontally and using it similarly to a steering wheel: tilting the remote left and right to steer the cow; tilting it forwards or backwards to accelerate or decelerate, respectively; and quickly raising the controller upwards to jump. In multiplayer mode, both players compete to earn a higher score.
+
+
+==== Tanks! ====
+A top-down combat game similar to the Atari game Combat in which the player maneuvers a small tank through several stages and fights enemy tanks. The only included minigame that can be played using the Wii Nunchuk, the tank is moved using either the D-pad or the Nunchuk's analog stick, while the tank's gun turret is independently moved by aiming the Wii Remote at the sensor bar. The tank can fire shells from its gun and place land mines on the ground. Each of these shells can ricochet off of a wall once.
+In single-player mode, the player is given three lives at the start of the game and receives an extra life after every five missions completed, with the game ending if all lives are lost. Prior to earning a gold medal, a single-player game ends at the 20th stage, but there are a total of 100 missions which can be played through after earning a gold medal for completing mission 20 on a previous run. In multiplayer mode, two players progress through the missions, competing to destroy the most enemy tanks. The game ends if both players lose their tank in the same mission, though a player who is defeated in a mission comes back if the other player clears the mission. Only the first 20 missions are accessible in multiplayer mode.
+
+
+== Development ==
+Wii Play was one of several games that were developed as a part of Shigeru Miyamoto's "Wii Project", along with Wii Sports, Wii Fit, and Wii Music. The project was a compilation of several technical demos exhibiting the capabilities of the then-upcoming Wii console and its controller, the Wii Remote. These prototypes took advantage of several of the Wii Remote's features; the controller was able to sense rotation, which was prominently used in Pose Mii and Laser Hockey, while the detection of depth movement was featured in Table Tennis, Fishing and Billiards. These tech demos were first publicly shown at the 2006 E3 convention alongside the games used in Wii Sports. A demo of the shooting range minigame titled Shooting, which was speculated by several people to be a sequel to Duck Hunt, was also presented during the 2006 Nintendo Fusion Tour.
+Wii Play officially began development when Miyamoto decided that the demonstrational games would be fleshed out and released together for the console. The development team at Nintendo EAD was given around seven to eight months to develop the game, with Motoi Okamoto, who had previously worked on Pikmin and the touchscreen minigames included in Super Mario 64 DS, serving as the game's director. The demo games were put into two different categories; the sports-themed games were grouped together and bundled into Wii Sports, while the rest of the games which made use of the Wii Remote's pointer became Wii Play. The game was developed directly alongside Wii Sports, with the two games' development teams sharing several artists and programmers. As the games progressed further into development, more attention was put towards Sports and the team ultimately decided that the latter was the higher priority. Because of this, some of the demos shown off at E3 did not make it into the game due to time constraints. These unused demos later went on to inspire later games; for instance, the game Obstacle Course was later adapted into the Wii Fit game "Balance Bubble", whereas the design of the game Bird found its way into Nintendo Land as the Balloon Fight-inspired game "Balloon Trip Breeze". Wii Maestro, an orchestra-themed game demo, was planned to be included as one of the games, but the developers decided it would be more fitting as its own separate game and ultimately made it into Wii Music.
+Wii Play was first publicly announced at a press conference held by Nintendo in Japan under the name Hajimete no Wii, where it was shown to be a compilation of the demo games shown off at E3. Nintendo announced that the game would be released in Japan on December 2, 2006, as a launch title for the system, and that it would also be bundled with a Wii Remote at its release. It was later made playable at the Nintendo World event in New York on September 14, 2006, where all nine games were presented, now much closer to their final versions than the demos at E3, and support for the Wii's Mii characters was officially revealed to be part of the game.  Miyamoto wanted Play to be a pack-in game instead of Wii Sports, but then-president of Nintendo of America, Reggie Fils-Aimé, objected on the grounds that Play would not provide a complete entry-level experience for the console.
+
+
+== Reception ==
+
+Wii Play received mixed reviews from critics, holding an aggregate score of 61.64% on GameRankings and 58/100 on Metacritic.
+Common Sense Media gave the game 3 stars out of 5, concluding that the game "isn't as fun as Wii Sports." The reviewers at Electronic Gaming Monthly gave the game varying scores of 6.0, 4.5 and 5.0, stating that while "anybody can play it, including grandma,... [y]ou'll probably be bored in minutes".  GamesTM gave the game a more scathing reaction, scoring it 3/10 and stating that "Even the games that do work break down due to a combination of being extremely bland or too repetitive", and even that the strongest game, Shooting, "loses its charm as soon as you realise the targets follow a similar path every time you play". Pete Metzger of Variety, who reviewed the game alongside Fuzion Frenzy 2 for the Xbox 360, was highly critical of the game, calling its controls "a step backwards" from the innovation presented in Wii Sports. GamePro reviewer "The Grim Wiiper" called the nine included games "repetitive and mediocre," but believed that the game's included Wii Remote "makes the whole package much more compelling." IGN Australia were more positive in their reaction, awarding the game 8.3/10, saying that it was "effectively being sold at A$10 on top of the cost of a wiimote" and that "as a training game, it succeeds completely".  Official Nintendo Magazine also praised the game and gave it 91%, describing the games as "surprisingly addictive" as well as citing the value of supplying an additional Wii Remote.
+
+
+=== Sales ===
+Despite mixed reception, Wii Play was an immense commercial success, frequently making it onto The NPD Group's video game sales charts throughout the 2000s after its release in North America. Within two days of its release as a launch title in Japan, the game had sold 171,888  copies, making it the second best-selling title for the system behind Wii Sports. In January 2007, Nintendo reported that Wii Play was one of 19 Wii titles that had surpassed sales of one million units. The NPD Group reported that the game was the 2nd best-selling game of April 2007. The game sold 293,000 units in June 2007, making it the 2nd best-selling game of the month. It sold 1.08 million units in December 2007, and was the 2nd highest-selling game of 2007 behind Halo 3 with sales of 4.12 million units. By February 2008, the game had sold 4.4 million copies, according to the NPD Group, and by October of the same year the game managed to sell over 7.2 million copies. The game sold 1.46 million copies in December 2008, making it the highest-selling game of the month. Across all of 2008, the game managed to sell 5.28 million copies, making it the best-selling game of 2008.
+By March 2009, the game had sold 10 million copies in the US, and in April of that same year Nintendo reported that the game had sold 2.7 million copies in Japan. In May 2009, Nintendo reported that the game had sold 22.9 million units. Wii Play has sold 28.02 million copies worldwide as of March 31, 2018 according to Nintendo, making it the fifth best-selling Wii game and the 14th best selling video game of all time. Strong sales were largely attributed to the game's inclusion of an extra Wii Remote at the time of its release and its North American price of US$49.99 in comparison to a separate Wii Remote which cost $39.99 at the time, meaning that the game itself essentially costed $10.
+Speaking of the game's strong sales, Nintendo of America vice president Cammie Dunaway noted that the game's sales figures, in combination with the 12.9 million individual Wii Remotes sold, "reinforces the growing 'social gaming' trend we have been seeing where friends and family use their Wii as a social hub."
+Wii Play had sold 18.4 million units worldwide by July 2009. The game received a "Diamond" sales award from the Entertainment and Leisure Software Publishers Association, indicating sales of at least 1 million copies in the United Kingdom. In Australia, the game sold over 900,000 units by July 2010.
+
+
+== Sequel ==
+
+A sequel to Wii Play was first announced in a press conference held by Nintendo on April 12, 2011. Wii Play: Motion was later shown off at the E3 convention and was released for the Wii in June of the same year.
+The game makes prominent use of the Wii's Wii MotionPlus peripheral, which allows for more precise motion control in games, and features several minigames designed to demonstrate the enhanced motion capabilities of the device. Similarly to its predecessor, Wii Play: Motion was bundled with a black Wii MotionPlus Wii Remote in North America and a red Wii Remote in Europe.
+
+
+== See also ==
+List of best-selling Wii video games
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official website

@@ -1,0 +1,81 @@
+The Witcher
+Developer(s)
+CD Projekt Red
+Publisher(s)
+Atari
+[
+a
+]
+Director(s)
+Jacek Brzeziński
+Producer(s)
+Maciej Miąsik
+Designer(s)
+Michał Madej
+Programmer(s)
+Maciej Siniło
+Artist(s)
+Adam Badowski
+Writer(s)
+Artur Ganszyniec
+Sebastian Stępień
+Marcin Blacha
+Composer(s)
+Adam Skorupa
+Paweł Blaszczak
+Series
+The Witcher
+Engine
+Aurora Engine
+Platform(s)
+Windows
+, 
+OS X
+Release
+EU
+:
+ 26 October 2007
+[
+1
+]
+NA
+:
+ 30 October 2007
+[
+1
+]
+AU
+:
+ 9 November 2007
+[
+1
+]
+Enhanced Edition
+Windows
+NA
+:
+ 16 September 2008
+[
+2
+]
+EU
+:
+ 19 September 2008
+[
+2
+]
+AU
+:
+ 30 September 2008
+[
+2
+]
+OS X
+5 April 2012
+[
+3
+]
+Genre(s)
+Action role-playing
+Mode(s)
+Single-player

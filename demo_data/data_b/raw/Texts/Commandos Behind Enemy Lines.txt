@@ -1,0 +1,48 @@
+Commandos: Behind Enemy Lines is a 1998 real-time tactics video game developed by the Spanish company Pyro Studios and published by Eidos Interactive. The game sees players take control of a group of six Allied Commandos, who conduct a range of missions across wartime Europe and Africa, using small unit tactics. Each mission's objective varies, but ranges from sabotage, assassination or rescuing captured allied units, with players having a full view of a mission's map to plan their strategy and its execution in advance.
+The game was a commercial success, with global sales above 1 million units. GameSpot Spain declared it Spain's biggest game hit of all time by 2001. The game was followed by the Commandos series that used the same system of game mechanics, beginning with the expansion pack Commandos: Beyond the Call of Duty in 1999, and later with three sequels - Commandos 2: Men of Courage in 2001, Commandos 3: Destination Berlin in 2003 and Commandos: Strike Force in 2006.
+
+
+== Gameplay ==
+The player assumes the role of an allied officer, who has been entrusted to command a group of commandos on twenty missions. A briefing given before a mission begins is divided into two parts - the first, focuses on the background of the mission and where it takes place, and the second, using the mission's map, details the objectives the commandos must complete, any important information they need to know, and what they must use to escape the area. Commandos features six commandos that the player can control, though each mission gives a specific subset of commandos that the player can use to complete objectives, though a mission is failed if any of the commandos are killed in action.
+Each commando that the player gets to control has a different set of abilities and equipment that they can use to deal with enemies and help them complete their missions - the Green Beret is able to move barrels, climb rough surfaces, use a lure to distract enemies, and can kill soldiers with a knife; the Marine can dive underwater, use a harpoon gun, can kill enemies with a knife, and can pilot ships and boats; the Driver can drive vehicles and operate tanks and mounted guns, and is one of two commandos who can treat the injuries of his comrades; the Sapper is capable of using grenades and handling explosives, can cut through wire fences and set up traps; the Sniper can use a sniper rifle to take out targets, and the second commando who can treat his comrades injuries with a first aid kit; the Spy can wear enemy uniforms, distract soldiers when disguised as an officer, and can kill enemies with a lethal injection. In addition to their abilities, all commandos carry a handgun that they can use as a last resort to defend themselves. The game's emphasis is towards stealth and carefully planned tactics rather than gun battles, as the commandos will not survive for long if shot at.
+The enemies are divided into ranks - soldiers, who are armed with rifles or MP40 sub-machine guns; sergeants, armed with service pistols, with some manning fixed machine-gun nests; and officers, who are armed with pistols. In addition to foot soldiers, some missions include enemy tanks and armored cars operating in the area. As a rule, all enemies are on alert, and thus man guard posts or conduct patrols in the area, either by themselves or a group of three or four, searching for anything suspicious. The player can monitor the line of sight of the enemy during a mission and use it to plan their moves, although they can only keep tabs on a single enemy's field of vision at any one time. An enemy's field of vision is represented by a cone in front of them, colored green, that extends out from an enemy to a certain distance, and is divided into two sections - close range, represented by light green, in which commandos will be spotted if they step into this area; and long range, represented by dark green, in which commandos will only be spotted if they are standing up when they step into this area. If any commando is spotted, enemies will usually order them to halt in order to capture them, and will only fire on them if they fail to comply or witness any hostile action. If an enemy detects something suspicious, such as seeing footprints or dead bodies, or hearing gunshots and other unusual noises, they will immediately investigate what the cause is. In most missions, an alarm will be raised if the enemy discovers they are under attack, such as an explosion happening in their vicinity. When this happens, the enemy will be more active and will more likely shoot the commandos if they see them, and more soldiers will deploy from garrisons, marked by flags, to patrol the area. If the alarm is raised, the completion of a mission is made much more difficult; in some missions, the sounding of an alarm will cause instant mission failure.
+
+
+== Development ==
+
+According to Gonzalo Suarez of Pyro Studios, the game began development because he "saw that there were hardly any tactical action games being developed and [he] decided to make one". The soundtrack for the game was composed by David García-Morales.
+During the development of the game, a writer for MeriStation cited it as evidence that "the Spanish entertainment software is slowly re-emerging from its ashes".
+
+
+== Reception ==
+
+
+=== Critical reviews ===
+
+Commandos: Behind Enemy Lines received "favourable" reviews according to the review aggregation website GameRankings. Next Generation gave a high praise to the game, citing its graphics as "gorgeous", and its gameplay "tough" and "challenging".
+
+
+=== Sales ===
+The game was a significant and unexpected commercial success. Designer Gonzalo Suarez attributed its sales to word of mouth, as the game received little promotion and said that they were aiming to sell around 15,000 copies. In the German market, it spent 16 weeks at #1 on the computer game sales charts, taking the position from Anno 1602 and holding it through Media Control's rankings for the second halves of June, July and August 1998. The game's sales in German-speaking countries totaled 158,000 units by the end of September, which made it the region's second-best-selling computer game during the first nine months of 1998, behind Anno. It was ultimately the German market's fourth-best-selling computer game of 1998 as a whole. The title was also a hit in the UK, where it spent 15 weeks at #1 on the computer game sales lists.
+The game achieved global sales of 600,000 units by November 1998, and Pyro reported a total of 706,000 sales by year's end. At the 1999 Milia festival in Cannes, it took home a "Gold" prize for revenues above €16 million in the European Union during 1998. The Verband der Unterhaltungssoftware Deutschland presented the game with a "Gold" award in January 1999, indicating sales of at least 100,000 units across Germany, Austria and Switzerland. It rose to "Platinum" status, for 200,000 units sold, by the end of May 1999. Combined with its expansion pack, the game's global sales totaled 1.3 million units by July 1999. It sold over 1.5 million units by May 2000. In 2001, GameSpot Spain declared it the biggest hit in the history of Spanish games.
+
+
+== Expansion ==
+
+Commandos: Beyond the Call of Duty is an expansion pack that was developed by Pyro Studios, published by Eidos Interactive, and released on 31 March 1999. Designed as a stand-alone pack, the expansion included eight new missions, as well as the ability to play it at higher resolutions. In addition, the gameplay of the main game was improved with a few new features. The commandos now have additional abilities and equipment that they can use - some commandos can now knock out enemies, each having a unique way of doing so, with all able to handcuff them once unconscious; stones and cigarette packs can be used as distractions; some missions require the player to capture enemies and order them about at gunpoint; the Spy now can steal uniforms on-site and use them when needed; and the Driver is now able to use a Lee–Enfield rifle to take out targets. While the enemies featured are the same as the main game, some missions see the player having to be careful of new threats, including Gestapo agents and wild animals.
+
+
+=== Reception ===
+
+Commandos: Beyond the Call of Duty received "favourable" reviews, albeit slightly less than the original Commandos, according to GameRankings. Greg Kasavin of GameSpot praised the beautiful maps but criticized the missions as clumsy. He also criticized the keyboard hotkeys as they had been changed from the original and the players cannot customize them in the options menu.
+By late 2000, Beyond the Call of Duty had sold over 350,000 units.
+
+
+== References ==
+
+
+== External links ==
+Official Commandos: Behind Enemy Lines website (archived page)
+Official Commandos: Beyond the Call of Duty website  (archived page)
+Commandos: Behind Enemy Lines at MobyGames
+Commandos: Beyond the Call of Duty at MobyGames

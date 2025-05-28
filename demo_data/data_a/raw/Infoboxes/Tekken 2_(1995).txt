@@ -1,0 +1,85 @@
+Tekken 2
+Developer(s)
+Namco
+Publisher(s)
+Namco
+PlayStation
+NA
+:
+ Namco Hometek
+EU
+:
+ 
+Sony Computer Entertainment
+Director(s)
+Seiichi Ishii
+Masamichi Abe (PS)
+Masahiro Kimoto (PS)
+Producer(s)
+Hajime Nakatani
+Designer(s)
+Seiichi Ishii
+Programmer(s)
+Masanori Yamada
+Composer(s)
+Yoshie Takayanagi (Arcade)
+Yoshie Arakawa (Arcade, PS)
+Akira Nishizaki (PS)
+Series
+Tekken
+Platform(s)
+Arcade
+PlayStation
+Release
+Arcade
+JP
+:
+ August 1995
+[
+2
+]
+[
+a
+]
+NA
+:
+ August 1995
+[
+1
+]
+WW
+:
+ October 1995
+[
+4
+]
+PlayStation
+JP
+:
+ March 29, 1996
+[
+6
+]
+NA
+:
+ August 27, 1996
+[
+5
+]
+EU
+:
+ October 2, 1996
+[
+7
+]
+Genre(s)
+Fighting
+Mode(s)
+Single-player
+, 
+multiplayer
+Arcade system
+Namco System 11
+[
+8
+]

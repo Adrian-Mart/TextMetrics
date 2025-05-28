@@ -1,0 +1,23 @@
+The Binding of Isaac
+Designer(s)
+Edmund McMillen
+Florian Himsl
+Artist(s)
+Edmund McMillen
+Composer(s)
+Danny Baranowsky
+Engine
+Adobe Flash
+Platform(s)
+Windows
+OS X
+Linux
+Release
+September 28, 2011
+Genre(s)
+Roguelike
+, 
+action-adventure
+Mode(s)
+Single-player
+multiplayer

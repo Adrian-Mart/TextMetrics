@@ -1,0 +1,37 @@
+Kinect Adventures! is a sports video game released by Microsoft Game Studios for the Xbox 360. Released in 2010, it is a collection of five adventure and sports minigames and was developed by Good Science Studio, a subsidiary of Microsoft Game Studios. The game utilizes the Kinect motion camera and was offered as a pack-in game with the accessory. It was unveiled at the 2010 Electronic Entertainment Expo and went on to become the best-selling game on the Xbox 360 as well as earning a place within the top 50 best-selling games of all time, selling 24 million units worldwide.
+
+
+== Gameplay ==
+Kinect Adventures! uses full body motion to allow the player to engage in a variety of minigames, all of which feature jump-in, jump-out multiplayer play. Each minigame lasts about three minutes. While most of the minigames are co-operative in two player mode, Reflex Ridge is a competitive game. The game also supports Xbox Live multiplayer. At many points during the game, Kinect's RGB camera would take photos, which were shown to the player(s) and saved to a storage device. These could then be viewed within the game, with the option of uploading these to a private repository on the now defunct KinectShare.com and downloaded to a computer or uploaded to social networking sites.
+The object of all the minigames is to get the highest number of adventure pins, which are collected in different ways. Adventure pins earn the player(s) medals which, in story mode, affect progression. Medals can be bronze, silver, gold and platinum, in order from least to most pins needed to acquire each.
+As a pack-in game, Kinect Adventures! also contains features which aid users in proper set-up and use of the Kinect sensor.
+
+
+=== Game types ===
+20,000 Leaks
+20,000 Leaks is set in a glass cube underwater. Players position their limbs and heads to plug cracks as crabs, fish, etc. crack the glass. There are also bosses (which cause more cracks then the crabs, fish etc.) such as sharks and swordfish. As difficulty increases, up to five leaks must be plugged at a time to earn Adventure pins. Each game consists of three waves, which end when time expires or when all leaks are plugged. Extra time left over at the end of each wave is added to the Adventure pin total. The name is a reference to the novel 20,000 Leagues Under the Sea by Jules Verne.
+River Rush
+In River Rush, one or two players stand in a raft and work together to pick up the adventure pins scattered throughout the winding rapids. The raft is controlled by stepping left or right to steer, and by jumping to make the raft jump. There are many secret places that players can reach by taking ramps. There are considerably more adventure points there than on the river. Crashing into barrels, wood, markers, or rapid markers causes the player to not lose points, but keeps it just like in-game.
+Rally Ball
+Rally Ball is a Breakout clone, but also similar to handball. Players use their limbs and heads to hit balls at blocks and targets which are at the end of a virtual hallway. When certain targets are hit, the ball splits into multiple balls which can be handled simultaneously. Each game consists of three rounds, each with a different set of blocks and targets. Rounds end when time expires or when all blocks and targets are destroyed. Extra time left over at the end of each round is added to the Adventure pin total.
+Reflex Ridge
+Reflex Ridge is a track-and-field inspired game, but played on a moving platform in an environment similar to a wooden roller coaster or minecart. One or two players (in split screen) race on a platform, jump over hurdles, lean away from obstacles, and limbo to avoid hitting their heads on low beams. Jumping in place makes the platform move faster along its rail. Adventure pins are earned by avoiding obstacles or touching ones scattered throughout the course. They will not be earned if the players end up biffing, bonking, and bashing into the obstacles or touching ones scattered throughout it. The game is timed, with extra time left over at the end of the course added to the Adventure pin total.
+Space Pop
+In Space Pop, transparent balls (soap bubbles) shuttle between holes on the walls, floors and ceilings of a virtual zero-gravity room. Players attempt to pop the bubbles by touching them to earn Adventure pins. Space Pop utilizes depth, requiring players to move toward and away from the sensor. To move upwards, players can flap their arms, and to stay at current height, players hold their arms out to their sides.
+
+
+== Release ==
+Pre-order Kinect bundles included a card with codes redeemable for two exclusive levels of Rallyball and one exclusive level of Reflex Ridge, as well as a helicopter prop for use with an Xbox Live Avatar.
+
+
+== Reception ==
+
+Kinect Adventures! received "mixed" reviews according to the review aggregation website Metacritic. Video game talk show Good Game's two presenters gave the game 6.5 and 6 out of 10, saying that it's a good demonstration of what the Kinect is capable of but lamented that there weren't more mini-games in the game, also stating that only 2 of the 5 mini-games were worth playing. In Japan, Famitsu gave it a score of three sevens and one nine for a total of 30 out of 40.
+Being a pack-in game for Kinect, Kinect Adventures! has sold 24 million copies worldwide, making it the bestselling game for the Xbox 360.
+
+
+== References ==
+
+
+== External links ==
+Kinect Adventures! at MobyGames

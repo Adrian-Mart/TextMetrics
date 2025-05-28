@@ -1,0 +1,64 @@
+Sacred
+Developer(s)
+Ascaron
+Publisher(s)
+GER
+:
+ 
+Take 2 Interactive
+EU
+:
+ 
+Koch Media
+NA
+:
+ 
+Encore
+AU
+:
+ 
+Red Ant Enterprises
+Linux Game Publishing
+ (Linux)
+Designer(s)
+Aarne Jungerberg
+Michael Bhatty
+ Franz Stradal 
+Hans-Arno Wegner
+Platform(s)
+Microsoft Windows
+, 
+Linux
+Release
+Microsoft Windows
+GER
+:
+ 27 February 2004
+[
+2
+]
+EU
+:
+ 19 March 2004
+[
+1
+]
+NA
+:
+ 24 March 2004
+[
+3
+]
+Linux
+WW
+:
+ 9 April 2009
+[
+4
+]
+Genre(s)
+Action role-playing
+Mode(s)
+Single-player
+, 
+multiplayer

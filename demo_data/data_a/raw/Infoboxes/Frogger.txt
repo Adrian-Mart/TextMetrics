@@ -1,0 +1,73 @@
+Frogger
+Developer(s)
+Konami
+Publisher(s)
+JP
+/
+EU
+:
+ Konami/
+Sega
+[
+5
+]
+[
+4
+]
+NA
+:
+ 
+Sega/Gremlin
+Designer(s)
+Takahide Arima
+[
+6
+]
+Series
+Frogger
+Platform(s)
+Arcade
+, 
+Apple II
+, 
+Atari 8-bit
+, 
+Atari 2600
+, 
+Atari 5200
+, 
+Intellivision
+, 
+ColecoVision
+, 
+Commodore 64
+, 
+TI-99/4A
+, 
+VIC-20
+Release
+JP
+:
+ August 1981
+[
+3
+]
+NA
+:
+ September 1981
+[
+1
+]
+[
+2
+]
+EU
+:
+ October 1981
+[
+4
+]
+Genre(s)
+Action
+Mode(s)
+1-2 players alternating turns

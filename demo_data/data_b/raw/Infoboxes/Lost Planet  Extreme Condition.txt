@@ -1,0 +1,87 @@
+Lost Planet: Extreme Condition
+Developer(s)
+Capcom
+Publisher(s)
+Capcom
+Director(s)
+Kenji Oguro
+Producer(s)
+Jun Takeuchi
+Artist(s)
+Takahiro Kawano
+Writer(s)
+Tomoyuki Hosokawa
+Composer(s)
+Akihiko Narita
+Shuji Uchiyama
+Series
+Lost Planet
+Engine
+MT Framework
+[
+5
+]
+[
+6
+]
+Platform(s)
+Xbox 360
+Microsoft Windows
+PlayStation 3
+Release
+Xbox 360
+[
+1
+]
+JP
+:
+ December 21, 2006
+WW
+:
+ January 12, 2007
+Microsoft Windows
+[
+2
+]
+NA
+:
+ June 26, 2007
+PAL
+:
+ June 29, 2007
+PlayStation 3
+[
+3
+]
+JP
+:
+ February 21, 2008
+NA
+:
+ February 26, 2008
+AU
+:
+ February 27, 2008
+EU
+:
+ February 29, 2008
+Colonies Edition
+Xbox 360 & Microsoft Windows
+[
+4
+]
+NA
+:
+ May 27, 2008
+JP
+:
+ May 29, 2008
+EU
+:
+ June 6, 2008
+Genre(s)
+Third-person shooter
+Mode(s)
+Single-player
+, 
+multiplayer

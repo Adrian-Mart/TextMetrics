@@ -1,0 +1,78 @@
+Tekken 2 (鉄拳2) is a 1995 fighting game developed and published by Namco. The second entry in the Tekken series, it was released for arcades in August 1995, and was ported to the PlayStation in 1996. The home console version introduced new, now-staple game modes to the series, as well as full-motion video endings for every character. It was re-released as a playable game within Tekken 5 on PlayStation 2 (PS2) in 2005, digitally on PlayStation Network for PS3 and PSP in 2007, and on PlayStation Plus for PS4 and PS5 in 2023.
+There are 25 playable fighters in the game, which includes 17 returning veterans from the original Tekken and eight newcomers, including Jun Kazama and Lei Wulong. The former boss, Heihachi Mishima, is now playable from the start as he seeks revenge in the plot, with Kazuya becoming the new antagonist. Tekken 2 was a critical as well as commercial success, with about 40,000 arcade units and 5.7 million PlayStation copies sold worldwide, and becoming one of the best-selling PlayStation games. Critics praised its graphical visuals and light sourcing, as well as its deep system of moves and combos, and the soundtrack. It has been cited as one of the greatest video games of all time. Tekken 2 was followed by a sequel, Tekken 3 (1997).
+
+
+== Gameplay ==
+
+The gameplay in Tekken 2 is much like its predecessor Tekken with a few additions. It continues to use 2D backgrounds in its stages, an infinite playing field and a fighting system that utilizes four buttons: left punch, right punch, left kick and right kick. Distinct additions included attack reversals for some characters, back throws, chain-throws and a sidestep unique to two characters, Kazuya Mishima and Heihachi Mishima. However, Yoshimitsu has a spinning sidestep move that lowers his health. Tackles were also modified to inflict damage when running from a greater distance. Each time the game is beaten with one of the default available characters in arcade mode, the associated sub-boss character becomes selectable.
+The home console version of Tekken 2 introduced various modes that would become staples to the series. These include Survival mode, Team Battle mode, Time Attack mode and Practice mode. Survival mode takes the player through an endless number of matches to see how many opponents they can defeat without being defeated themselves. In addition, any health lost during a match will carry over to the next match, but the player would regain a little bit more health. Team Battle mode allows the player to select up to eight characters to participate in single-round matches. Like Survival mode, any health lost during a match will carry over to the next match, but the player will regain a small amount. The player will also keep their character for the next match until they are eliminated, in which the next character will take their place. The mode ends when all characters on either team are eliminated. Time Attack mode is similar to Arcade mode, except it is played to see how fast the player can go through it and beat records. Finally, Practice mode allows a player to train their skills in using a selected character's moves and techniques against a training dummy.
+
+
+== Characters ==
+
+The game features a total of 25 playable fighters, consisting of 17 returning veterans and eight newcomers. Characters who were clones in the original game have been made into distinct playable characters, although they still share many moves with their counterparts. Devil Kazuya, originally a bonus palette swap of Kazuya in the console version of the first game, is now a fully separate playable character with unique moves, serving as the final boss.
+Ten of the twenty-five playable fighters are available by default; the other fifteen were made available via the arcade version's "time release" system and individual secret codes, whilst the home console version requires the player to clear Arcade Mode with specific characters. As with the first game, the character select screen only displays the ten default fighters, with the unlockable fighters available to select by scrolling past the screen. The screen defaults the character option to Jun Kazama, but the arcade version contains a code that can toggle it to Baek Doo San and vice versa.
+
+
+=== New characters ===
+Alex a b: A genetically-altered boxing dinosaur.
+Angel a b: A mysterious entity connected to Kazuya.
+Baek Doo San a: A taekwondo practitioner whom Marshall Law challenges in the tournament to avenge his dojo.
+Bruce Irvin a: A Muay Thai kickboxer who suffers from amnesia and is now serving as one of Kazuya's personal bodyguards.
+JACK-2: An updated JACK model who replaces the previous JACK and is sent to battle Prototype Jack.
+Jun Kazama: A mixed martial artist and animal rights activist sent to arrest Kazuya.
+Lei Wulong: A Hong Kong cop practicing five form Kung-Fu, also sent to arrest Kazuya.
+Roger a: A genetically-altered boxing kangaroo.
+
+
+=== Returning characters ===
+
+^a  Unlockable character
+^b  Skin/palette swap
+
+
+== Plot ==
+2 years after the  King of the Iron Fist Tournament, the Mishima Zaibatsu, under the leadership of Kazuya Mishima, has become more powerful than ever before and is involved in many illegal operations. While his father Heihachi Mishima was rather ruthless in his endeavors, Kazuya acts completely without a conscience. He hires assassins to eliminate any of his critics and rivals, extorts money from several businesses and organizations, and smuggles endangered species to conduct genetic experiments on them. The reason for his evil deeds is that he has allowed the Devil within him to consume his soul and mind as a result of his hatred towards Heihachi.
+Meanwhile, Kazuya is sentenced to being arrested by animal rights activist and operative Jun Kazama for his experiments. Heihachi on the other hand, whom Kazuya had defeated and thrown off a cliff 2 years ago, has climbed back up and is training himself, plotting to overthrow Kazuya and take back the Mishima Zaibatsu. In an attempt to rid himself of Heihachi and his enemies once and for all, Kazuya announces the King of Iron Fist Tournament 2, with a large cash prize of 1,000,000,000,000 dollars, knowing that Heihachi will appear in an attempt to get his revenge.
+When Jun enters the tournament and eventually comes face to face with Kazuya, she tries to arrest him, but instead, the two can not help being drawn to one another, propelled by a mystic force beyond Jun's control. Besides her duty to arrest Kazuya, who smuggles protected animals, she wants to free Kazuya of his evil power and drops out of the tournament as a result. 
+Meanwhile, during the tournament, Heihachi defeats the opposing fighters, including his adopted son Lee Chaolan, who had sided with Kazuya and worked for him as a secretary at the Mishima Zaibatsu. Despite his victory, however, Heihachi was defeated by Kazuya's old rival, Paul Phoenix, in the semi-finals of the tournament. Thus, Paul had earned the right to have a rematch with Kazuya.
+Later on, the tournament officials reinstated Heihachi, allowing him to replace Paul in the finals when the latter was forced to forfeit after getting stuck in traffic due to a multi-car collision on the expressway and, therefore, unable to make the match on time. At some point during this time, Jun was able to cause an internal conflict within Kazuya, weakening Devil's hold over him. 
+Despite her efforts, Jun fails to prevent Kazuya from going on to meet his father, Heihachi, in the tournament finals, to which Heihachi confronts Kazuya, and they battle once again. Kazuya is too weak to overpower Heihachi because of the internal conflict between his evil side - Devil - and his good side - an unknown entity called Angel, which was brought forth after his past meeting with Jun. 
+After defeating Kazuya in the finals, Heihachi throws Kazuya's unconscious body into a volcano before escaping on a helicopter just as the volcano erupts behind him, taking revenge and regaining the Mishima Zaibatsu. In the meantime, Jun, who became pregnant after her past meeting with Kazuya during the tournament, gives birth to Kazuya's illegitimate son Jin Kazama, resulting in her leaving everything behind to raise their child.
+
+
+== Development and release ==
+Tekken 2 development took about seven months before its release in August 1995. The updated Ver. B followed in October the same year. Each of the characters in Tekken 2 is composed of roughly 800 polygons and took between three days and a week to model. Roger the Kangaroo originated as a pet project of one of the development team members, who designed and modeled the character in his free time. When he showed Roger to some of his colleagues in the development team, they pushed to include the character in the game. Adding the kangaroo character, as well as Alex the raptor and the devil, was also a way to break with the realism that was offered by rival series Virtua Fighter. Much of the time developing the PlayStation conversion was devoted to rewriting the code to fit the console's memory, which is roughly half the size of the game data used in the arcade version.
+Tekken 2's port to the PlayStation includes unique CGI endings for every character and numerous modes such as Survival, Time Attack, Team Battle and Practice mode. It contains arranged music, like the port of the first game.
+Tekken 5 on the PlayStation 2 features the emulated arcade version of Tekken 2 (Ver. B) as a playable bonus in the Arcade History mode. Tekken 2 standalone is also available for the PlayStation 3, PlayStation Portable (both based on the PlayStation version), on Zeebo via ZeeboNet, and PlayStation 4 and PlayStation 5 via PS Plus Premium (also based on the PlayStation version).
+
+
+== Soundtrack ==
+The music in Tekken 2 was composed mainly by Yoshie Takayanagi and Yoshie Arakawa. The arrangements in the console version were handled by a large team ("Namco Sound Team") consisting of Yoshie Arakawa, Shinji Hosoe, Ayako Saso, Nobuyoshi Sano, Takayuki Aihara, Hiroto Sasaki and Keiichi Okabe. The ending music, "Landscape Under The Ghost - KAMIMANO" was composed by Akira Nishizaki and Takashi Furukawa, with Ryoko Shiraishi being the vocalist. Additional compositions in the game are credited to Hideaki Mitsui.
+Official soundtrack CDs, Tekken 2 Strike Fighting Vol.1, Tekken 2 Strike Fighting Vol.2, and Tekken 2 Strike Arranges, were released by NEC Avenue in Japan in June, July and August of 1996 respectively. In 2020, TEKKEN 2 (Original Soundtrack) was released by Lace Records as an LP record.
+
+
+== Reception ==
+
+
+=== Commercial ===
+In Japan, Game Machine listed Tekken 2 on their September 15, 1995 issue as being the most-successful arcade game of the month. It went on to become a major worldwide arcade hit. In Japan, it sold about 15,000 arcade units and became the highest-grossing arcade video game of 1996. It was also highly successful overseas, selling 25,000 arcade units outside of Japan, for a total of about 40,000 arcade units sold worldwide as of December 1996. In the United States, RePlay reported Tekken 2 was the second most-popular arcade game at the time. It also topped the Play Meter arcade conversion kit chart in March 1996, and became one of the top five highest-grossing arcade conversion kits of 1996. In Australia, it was the fourth top-grossing arcade conversion kit in March 1996.
+The PlayStation port also became a major worldwide hit. In Japan, it sold more than one million units by October 1996, and over 1.2 million by the end of the year, becoming the best-selling video game of 1996 in Japan. In North America, it sold nearly 1 million copies within four months. In Europe, it sold 420,000 copies by December 1996, becoming the year's second best-selling PlayStation game in Europe. In the United Kingdom, it was a best-seller earning more than £15 million or $23,000,000 (equivalent to $46,000,000 in 2024) by December 1996, and contributed to the PlayStation's UK installed base increasing to 750,000 units at the time. In Germany, it received a Gold award from the Verband der Unterhaltungssoftware Deutschland for sales above 100,000 copies. Worldwide sales of the PlayStation version exceeded 3 million units by early 1998, and 5.7 million units as of 2013.
+
+
+=== Critical ===
+The game was acclaimed by game critics, with the PlayStation version holding a 93% rating at GameRankings. Critics praised the game's light sourcing, fluid character movement, detailed backgrounds, complex system of moves and combos, accessibility to inexperienced gamers, large set of playable characters, and the practice mode, which several critics predicted would become a standard feature in fighting games. Crispen Boyer of Electronic Gaming Monthly called it "the best 3-D fighting game you can find for any system" and GamePro, further comparing it to fighting games still in development, assured gamers that it would be at least a year before Tekken 2 would be topped. It received a number of Game of the Year awards from various publications.
+Next Generation reviewed the arcade version of the game, and stated: "It's the style of body slamming and wrestling moves that sets this game apart from its closest cousin, Virtua Fighter 2, which makes it of interest. And the variation of moves and combinations surely place this game near the top of the heap, though the game is still not truly 3D in viewing perspective."
+In 1996, GamesMaster ranked the game 12th on their "Top 100 Games of All Time". In 1997, PSM named the PlayStation port of Tekken 2 one of the "Top 25 PlayStation Games of All Time" at number three, describing it as better than the arcade version in many regards due to added features and "one of the best fighting games ever." In a 1999 retrospective review, Official UK PlayStation Magazine wrote: "The very best in its day, Tekken 2 is still virtually perfect". It was also listed among the best games of all time by Next Generation in 1996, Electronic Gaming Monthly (both staff and readers) in 1997, Game Informer in 2001, GameSpot in 2006, Empire in 2009 and Guinness World Records in 2009.
+Footballer David James was a notable fan of the game, crediting his passion for the game as the reason why his performance declined.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official website (in Japanese) (archived)
+Tekken 2 at MobyGames

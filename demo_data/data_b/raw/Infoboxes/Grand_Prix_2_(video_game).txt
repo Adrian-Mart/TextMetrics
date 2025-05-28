@@ -1,0 +1,27 @@
+Grand Prix 2
+Developer(s)
+MicroProse
+Publisher(s)
+MicroProse
+Producer(s)
+Stephen Hand
+Designer(s)
+Geoff Crammond
+Composer(s)
+John Broomhall
+Andrew Parton
+Platform(s)
+DOS
+Release
+WW
+:
+ July 23, 1996
+[
+1
+]
+Genre(s)
+Simulation racing game
+Mode(s)
+Single-player
+, 
+multiplayer

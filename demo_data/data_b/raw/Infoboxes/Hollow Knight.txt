@@ -1,0 +1,41 @@
+Hollow Knight
+Developer(s)
+Team Cherry
+Publisher(s)
+Team Cherry
+Designer(s)
+Ari Gibson
+William Pellen
+Programmer(s)
+William Pellen
+David Kazi
+Artist(s)
+Ari Gibson
+Composer(s)
+Christopher Larkin
+Engine
+Unity
+Platform(s)
+Windows
+Linux
+macOS
+Nintendo Switch
+PlayStation 4
+Xbox One
+Release
+Windows
+24 February 2017
+Linux
+, 
+macOS
+11 April 2017
+Nintendo Switch
+12 June 2018
+PlayStation 4
+, 
+Xbox One
+25 September 2018
+Genre(s)
+Metroidvania
+Mode(s)
+Single-player

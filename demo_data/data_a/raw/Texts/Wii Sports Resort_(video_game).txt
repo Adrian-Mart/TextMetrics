@@ -1,0 +1,73 @@
+Wii Sports Resort is a 2009 sports simulation video game developed and published by Nintendo for the Wii video game console. It is the sequel to Wii Sports (2006). It is the first first-party Wii game to support the Wii MotionPlus accessory and the first game overall to require it, which was bundled with the game. Wii Sports Resort was first announced at E3 2008 and was released in Japan on June 25, 2009, and in nearly all other regions the following month. While Wii Sports Resort was first released as a stand-alone title, it was later bundled with newer Wii consoles alongside Wii Sports.
+Wii Sports Resort features a collection of twelve sports. The game makes full usage of the Wii MotionPlus accessory, an add-on to the Wii Remote controller which gives it full omnidirectional movement detection. This is an improvement over the base controller, which only repeated straight-arm movement.
+Wii Sports Resort received positive reviews from critics for its improved controls, gameplay, and graphics. It was a major commercial success, with 33.14 million copies sold worldwide, making it the third best-selling game on the Wii, after its predecessor Wii Sports and Mario Kart Wii, as well as one of the best-selling video games of all time. The game was followed by Wii Sports Club (2014) and Nintendo Switch Sports (2022).
+
+
+== Gameplay ==
+Wii Sports Resort is a sports video game set in a tropical island on an archipelago named Wuhu Island. The first time a player starts the game, several instructional videos will play, then the strap usage screen and the Wii MotionPlus test. Finally, the player will skydive to Wuhu Island. Twelve different sports are available; like the original Wii Sports game, the sports are each played by holding the Wii Remote (and in some cases, the Nunchuk) like the actual sport being replicated.
+Most notably, in archery, the player holds the Wii Remote vertically to hold the bow and pulls back the Nunchuk to pull back the bow's string. The new feature that Wii Sports Resort brings is Wii MotionPlus compatibility, which enables 1:1 control and allows the games to be played with greater accuracy. For example, the game's new variation, Table Tennis, gives the player greater control over adding spin to the ball by twisting the Wii Remote while swinging. In Golf, the player can spin the ball by rotating the Wii Remote while swinging. Some sports involving more than two players support hot seat multiplayer, in which just one Wii Remote is needed and is shared among players while taking turns. The only games returning from the original Wii Sports are Bowling and Golf, while Table Tennis was originally a game in Wii Play although played in a radically different way using the pointer instead of the movements of the player. The other nine sports are entirely new and unique to the game.
+
+
+=== List of sports ===
+
+Some of these sports are one-player, and some have a different version of the sport that is two-player. Most sports support multiplayer; in those sports, the maximum number of players is two or four, depending on the game. Three of the previously available sports, tennis, baseball and boxing, are unavailable.
+
+
+== Setting ==
+Wuhu Island is a fictional tropical island that is the largest of an archipelago of various islands and rock formations. "Wedge Island" is the second largest island of the archipelago, where the golf minigame takes place in Wii Sports Resort. At the center-right of the island, a large volcano is prominent, called "Maka Wuhu" ("Mt. Tenganamanga" in the European version of the game). To the south, a town and beach can be seen, called "Wuhu Town" and "Sugarsand Beach", respectively. To the west, a group of wind turbines and a lighthouse can be observed. At the center of the island, there is a large lake, called "Duckling Lake", which contains a waterfall.
+
+
+=== History ===
+
+
+==== Wii Sports demo and Wii Fit ====
+Before being given a name, a similar but less detailed version of the island was featured in a playable demo at E3 2006 titled Wii Sports: Airplane, a minigame similar to PilotWings where the player would fly a plane around an island, passing through rings on a set time limit. The game was showcased alongside other sports demos of other sport-related minigames, which were later incorporated into Wii Sports; the airplane minigame was never added into the final game, but was later repurposed in a jogging minigame for Wii Fit. The island was called "Wii Fit Island" in the game's manual, although the island lacked certain characteristics that were refined later on in future Nintendo games, such as in Wii Sports Resort.
+
+
+==== Wii Sports Resort ====
+To celebrate the release of Wii Sports Resort, on 23 July 2009, Nintendo transformed a part of Times Square in New York City to a beach-style vacation area based on Wuhu Island, containing a beach, pool, lounge, and bar. Additionally, people who visited were allowed to play the full game before its intended release on 26 July 2009. In the Air Sports minigame, players can fly around the island freely, seeing more details than in other minigames.
+In an interview with Satoru Iwata about Wii Sports Resort, Shigeru Miyamoto's intentions of the island was to make it a notable franchise, saying that he thought of having an island concept for more than 10 years. He suggested the island was so much of a concrete location, with polished graphics and key details, it was as if it has become its own character. He furthered that the island generated familiarity, stating, "We thought it would be a fun idea to have a location that everyone knows and then have all sorts of stuff going on there." Miyamoto agreed that the island would be featured in multiple genres of video games, listing adventure games, role-playing games, and simulation games.
+
+
+==== Later appearances ====
+A few months after the release of Wii Sports Resort, Wii Fit Plus, the sequel to Wii Fit, utilizes the island as its location in several of its minigames.
+Wuhu Island is the named location of the third installment of the PilotWings series, titled PilotWings Resort. The game features gameplay similar to the piloting minigame in Wii Sports Resort.
+Mario Kart 7 includes three courses set on Wuhu Island, those being "Wuhu Loop", "Maka Wuhu", and "Wuhu Town". A glitch was later discovered where the player was able to skip sections of the Wuhu Loop and Maka Wuhu maps, which Nintendo fixed a few months later. The Wuhu Town map was also included in Mario Kart 8 Deluxe.
+Wuhu island acts as a selectable stage in Nintendo's Super Smash Bros. series, first appearing in Super Smash Bros. for Wii U. On the stage, the players fight on an airplane that flies around the island, stopping at various locations. The stage returned in Super Smash Bros. Ultimate.
+
+
+== Development ==
+
+The idea for a sequel to Wii Sports was considered well before the idea of the Wii MotionPlus peripheral. Development only moved forward after realizing the new possibilities of the control. The game was first revealed at Nintendo's E3 2008 press conference. Two minigames, fishing and water slide riding, were first considered for inclusion in the game but were scrapped during development. A prototype kendama minigame was also created, but it was left out of the final product as the developers felt it did not fit into the resort theme.
+While wishing to avoid sports that already were present in Wii Sports, bowling and golf made their return in Wii Sports Resort with changes. Bowling was added with the inclusion of a 100-pin mode and the addition of Golf (with additional courses) was imposed by Miyamoto after he talked in an interview about the influence of the player's backswing in golf.
+The principal setting of Wii Sports Resort, Wuhu Island, originally appeared at E3 2006 in the scrapped "Airplane" mode for Wii Sports but was subsequently changed to fit the mold of the Wii Fit series as "Wii Fit Island". It was then remolded again into the profile of a resort island, where it would earn its official name of Wuhu Island. Hotels, a castle, some rock formations and ruins of an older civilization, and various sports arenas (such as the tennis courts from Wii Sports, a bowling alley, and a swordplay arena) were added. The island has since appeared as a stage in Nintendo games such as Wii Fit Plus (as well as its Wii U counterpart Wii Fit U), Pilotwings Resort, Mario Kart 7, Mario Kart 8 Deluxe, Super Smash Bros. for Wii U, and Super Smash Bros. Ultimate.
+
+
+== Reception ==
+
+Wii Sports Resort has received generally “favorable reviews”, with an average score on Metacritic of 80%. IGN gave it a 7.7 out of 10, saying that the controls were impressive and the graphics were superb compared to most Wii games. GameTrailers gave an 8.6 out of 10. GameSpot gave it an 8.0 out of 10. Edge magazine gave it a 6 out of 10. On 1UP.com, the average score between the editors' reviews and users was an 'A-.' GamesRelay gave the game a score of 8.2, citing it to be a fun-loving game for family and friends. SPOnG.com's Tim Smith awarded the game 90%, calling Wii Sports Resort and the MotionPlus peripheral "simple but welcome additions to the Wii's line-up."
+In May 2010, the American Heart Association (AHA) endorsed the Wii to encourage sedentary people to take the first step toward fitness. The AHA heart icon covers the console, and its more active games, Wii Fit Plus and Wii Sports Resort. Nintendo Power listed Wii Sports Resort and its predecessor Wii Sports as two of the best multi-player experiences in Nintendo history, stating that everyone can have fun with them, ranging from young children to grandparents. They also cite the wide range of sports available. Like its predecessor, Wii Sports Resort found success with senior citizens. 
+Alex Spencer at Kotaku praised the island setting for its design and attributes, saying, "Wuhu Island is relaxing in a way that games rarely are." He also compared the island to other maps in video game titles at the time, such as Liberty City in Grand Theft Auto IV, first criticizing the island for its blocky geometry and empty space, but admiring the design of the island when viewed from the sky, with such flaws of the island vanishing. A paper craft model was created to represent Wuhu Island, featured by Engadget.
+During the 13th Annual Interactive Achievement Awards, the Academy of Interactive Arts & Sciences nominated Wii Sports Resort for "Family Game of the Year". Additionally, the game received two nomination from the British Academy Games Awards for "Best Family and Social Game" and "Best Sports Game" winning the former.
+
+
+=== Sales ===
+In Japan, Wii Sports Resort sold 152,000 copies within its first day of release and over 514,000 copies in two weeks. In North America, it sold over 500,000 copies in its first week. By mid-July 2009, the game had sold over 2 million copies worldwide, with 600,000 copies sold in Europe and 828,000 sold in Japan. Nintendo announced that it had sold over one million units individually in the United States, Japan, and Europe, accounting for over 3 million copies sold by August 2009.
+In 2009, Wii Sports Resort sold 7.57 million copies, making it the second-biggest-selling game worldwide of that year. As of March 31, 2021, Wii Sports Resort has sold 33.14 million copies worldwide.
+
+
+== See also ==
+
+Kinect Sports
+Sports Champions
+Pilotwings Resort
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official website

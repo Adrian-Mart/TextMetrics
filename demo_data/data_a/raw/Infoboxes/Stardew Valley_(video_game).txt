@@ -1,0 +1,73 @@
+Stardew Valley
+Developer(s)
+ConcernedApe
+Publisher(s)
+ConcernedApe
+[
+a
+]
+Designer(s)
+ConcernedApe
+[
+b
+]
+Engine
+MonoGame
+Platform(s)
+Windows
+Linux
+macOS
+PlayStation 4
+Xbox One
+Nintendo Switch
+PlayStation Vita
+iOS
+Android
+Release
+
+
+February 26, 2016
+
+
+ 
+Windows
+February 26, 2016
+
+ 
+Linux
+, 
+macOS
+July 29, 2016
+
+ 
+PlayStation 4
+December 13, 2016
+
+ 
+Xbox One
+December 14, 2016
+
+ 
+Nintendo Switch
+October 5, 2017
+
+ 
+PlayStation Vita
+May 22, 2018
+
+ 
+iOS
+October 24, 2018
+
+ 
+Android
+March 14, 2019
+
+
+
+Genre(s)
+Farm life sim
+Mode(s)
+Single-player
+, 
+multiplayer

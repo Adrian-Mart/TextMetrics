@@ -1,0 +1,38 @@
+DayZ
+Developer(s)
+Bohemia Interactive
+Publisher(s)
+Bohemia Interactive
+Director(s)
+Dean Hall
+Brian Hicks
+Producer(s)
+Eugen Harton
+Programmer(s)
+Filip Doksanský
+Miroslav Maněna
+Composer(s)
+Filip Míšek
+Platform(s)
+Microsoft Windows
+, 
+Xbox One
+, 
+PlayStation 4
+Release
+Windows
+December 13, 2018
+Xbox One
+March 27, 2019
+[
+1
+]
+PlayStation 4
+May 29, 2019
+[
+2
+]
+Genre(s)
+Survival
+Mode(s)
+Multiplayer

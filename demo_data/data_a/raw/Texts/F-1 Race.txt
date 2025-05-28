@@ -1,0 +1,30 @@
+F1 Race is a racing video game developed by HAL Laboratory and published by Nintendo for the Famicom in 1984. A version was released in 1990 for the Game Boy in Japan and in 1991 in Europe and North America, including the Four Player Adapter for four-player gameplay.
+
+
+== Gameplay ==
+
+The game features racing in one of two Formula One cars on a variety of tracks in landmark scenery. On Famicom, the cars come in three colors: red, light orange, and dark blue.
+Famicom gameplay is similar to that of Namco's Pole Position. The player must finish 2 laps of each course within the time limit in order to progress to the next. Points are scored based on the distance the car travels, with the goal being to gain a high score. Vehicles in the game have a generic two-speed manual transmission governing their speed (with a "LOW" setting and a "HI" setting). A time extension is granted after completing the first lap of each course. The game has 3 skill levels, with each skill level having a set of 5 tracks, where the tracks in skill level 1 are the simplest, and the tracks in skill level 3 are the most complex. On the fifth track of each skill level, the race will never end, no matter how many laps the player completes, and the time extension granted with each lap completion diminishes, eventually forcing a game over. When the player's car come into contact with other cars racing on the track, or with objects off the side of the road, it will be destroyed and respawn, usually losing several seconds. Additionally, the player must be careful on bends, as if the car is going too fast, it will skid on them, forcing the car towards the outside of the bend and will potentially cause a crash or run off the road.
+Several Nintendo characters appear at the end of race circuits for the Game Boy version: Mario, Luigi, Princess Peach, Toad, Bowser, Link, Samus, Pit and Donkey Kong. The game resulted in a Grand Prix series sequel, featuring Famicom Grand Prix: F-1 Race and Famicom Grand Prix II: 3D Hot Rally. Similar to the original, both games were never released outside Japan.
+The Game Boy version has different gameplay, with longer race tracks set in different countries and new driving mechanics, and different game modes. The player can activate a temporary speed boost by holding up on the D-pad, replacing the low-high gear setting from the Famicom version. Powersliding is activated by continuing to hold left or right at sharp corners. Unlike the Famicom version, colliding with other cars does not destroy the player's car and hitting an obstacle simply makes the car spin out.
+
+
+== Development and release ==
+HAL Laboratory developed F1 Race, in a small team led by Satoru Iwata. Production began shortly after the completion of Golf, and lasted alongside several other Famicom games such as Pinball, Mach Rider, and Balloon Fight. In a 1999 interview with Used Games magazine, Iwata recalled production being a challenge, as the first Famicom game with raster scrolling, a feature not built into the system and so programmed from scratch. It was developed based on Iwata's personal love for racing games, which influenced later Nintendo projects such as the F-Zero and Mario Kart series. It was published by Nintendo and released in Japan on November 2, 1984.
+A Game Boy version of F1 Race was published in Japan on November 9, 1990, in North America on February 3, 1991, and in Europe on October 10 of the same year. It was developed by Nintendo Research & Development 1 (R&D1) and designed by Naotaka Onishi, with music by Ryo Yoshiyoshi Ninohe and programming by Kenji Imai. Renamed F-1 Race, it allows for four-person multiplayer via the Game Boy Four Player Adapter.
+
+
+== Reception ==
+
+GamesRadar ranked it the 49th best game on the Game Boy and Game Boy Color, calling it a "first-class racing game" and praising its wide appeal to racing fans.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+F1 Race at MobyGames
+F1 Race on the Famicom 40th Anniversary page (in Japanese)

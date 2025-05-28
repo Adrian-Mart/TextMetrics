@@ -1,0 +1,62 @@
+Human: Fall Flat
+Developer(s)
+No Brakes Games
+Publisher(s)
+Curve Digital
+505 Games
+ (iOS, Android)
+Director(s)
+Tomas Sakalauskas
+Producer(s)
+Tomas Sakalauskas
+[
+1
+]
+Writer(s)
+Tomas Sakalauskas
+Engine
+Unity
+Platform(s)
+Windows
+macOS
+Linux
+PlayStation 4
+Xbox One
+Nintendo Switch
+iOS
+Android
+Stadia
+Xbox Series X/S
+PlayStation 5
+Release
+
+
+22 July 2016
+
+
+
+
+Windows, macOS, Linux
+22 July 2016
+PlayStation 4
+9 May 2017
+Xbox One
+12 May 2017
+Nintendo Switch
+7 December 2017
+iOS, Android
+26 June 2019
+Stadia
+1 October 2020
+Xbox Series X/S
+28 May 2021
+PlayStation 5
+24 June 2021
+
+
+Genre(s)
+Puzzle-platform
+Mode(s)
+Single-player
+, 
+multiplayer

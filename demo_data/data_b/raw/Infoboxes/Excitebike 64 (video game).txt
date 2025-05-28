@@ -1,0 +1,50 @@
+Excitebike 64
+North American N64 box art
+Developer(s)
+Left Field Productions
+Publisher(s)
+Nintendo
+Producer(s)
+James Maxwell
+Programmer(s)
+Sam Baker
+Mike Lamb
+Ben Stragnell
+Artist(s)
+Jon Evans
+Allan Hayburn
+Richie Romero
+George Simmons
+Composer(s)
+Matt Furniss
+Chris Lamb
+Series
+Excite
+Platform(s)
+Nintendo 64
+, 
+iQue Player
+Release
+Nintendo 64
+NA
+:
+ May 2, 2000
+[
+1
+]
+JP
+:
+ June 23, 2000
+EU
+:
+ June 8, 2001
+iQue Player
+CHN
+:
+ 2005
+Genre(s)
+Racing
+Mode(s)
+Single-player
+, 
+multiplayer

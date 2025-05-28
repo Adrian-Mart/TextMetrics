@@ -1,0 +1,32 @@
+Rust
+Developer(s)
+
+
+Facepunch Studios
+
+
+Double Eleven
+
+
+Publisher(s)
+Facepunch Studios
+Engine
+Unity
+Platform(s)
+macOS
+Windows
+PlayStation 4
+Xbox One
+Release
+macOS
+, 
+Windows
+8 February 2018
+PlayStation 4
+, 
+Xbox One
+21 May 2021
+Genre(s)
+Survival
+Mode(s)
+Multiplayer

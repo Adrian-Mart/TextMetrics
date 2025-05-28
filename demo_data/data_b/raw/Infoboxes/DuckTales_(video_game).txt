@@ -1,0 +1,56 @@
+DuckTales
+Original North American NES cover art
+Developer(s)
+Capcom
+Publisher(s)
+Capcom
+Producer(s)
+Tokuro Fujiwara
+David Mullich
+Darlene Waddington
+Designer(s)
+Capcom
+Programmer(s)
+Nobuyuki Matsushima
+Artist(s)
+Keiji Inafune
+Naoya Tomita
+Hironori Matsumara
+Miki Kijima
+Composer(s)
+Hiroshige Tonomura
+Platform(s)
+NES
+, 
+Game Boy
+Release
+NES
+NA
+:
+ October 1989
+[
+1
+]
+[
+2
+]
+JP
+:
+ January 26, 1990
+EU
+:
+ December 14, 1990
+Game Boy
+JP
+:
+ September 21, 1990
+NA
+:
+ November 1990
+EU
+:
+ 1991
+Genre(s)
+Platform
+Mode(s)
+Single-player

@@ -1,0 +1,54 @@
+The Last Ninja
+Developer(s)
+System 3
+Eclipse Software Design
+Publisher(s)
+Activision
+Superior Software
+Designer(s)
+Mark Cale
+Tim Best
+Artist(s)
+C64
+Hugh Riley 
+Atari ST, Amiga
+Hugh Riley
+Erik Simon
+Tim Lange
+Apple II, MS-DOS
+Erol Otus
+Electron, BBC Micro
+Peter Scott
+Composer(s)
+C64
+Ben Daglish
+Anthony Lees
+Atari ST, Amiga
+Jochen Hippel
+Russell Lieblich
+Series
+Last Ninja
+Platform(s)
+Commodore 64
+, 
+Apple IIGS
+, 
+BBC Micro
+, 
+Acorn Electron
+, 
+MS-DOS
+, 
+Apple II
+, 
+Atari ST
+, 
+Amiga
+, 
+Archimedes
+Release
+1987
+Genre(s)
+Action-adventure
+Mode(s)
+Single-player

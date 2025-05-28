@@ -1,0 +1,56 @@
+Final Fantasy VII Remake
+Cover art, featuring the game's protagonist 
+Cloud Strife
+Developer(s)
+Square Enix Business Division 1
+Publisher(s)
+Square Enix
+Director(s)
+Tetsuya Nomura
+Naoki Hamaguchi
+Motomu Toriyama
+Producer(s)
+Yoshinori Kitase
+Designer(s)
+Naoki Hamaguchi
+Teruki Endo
+Programmer(s)
+Naoki Hamaguchi
+Daiki Hoshina
+Satoru Koyama
+Artist(s)
+Shintaro Takai
+Roberto Ferrari
+Writer(s)
+Kazushige Nojima
+Motomu Toriyama
+Composer(s)
+Masashi Hamauzu
+Mitsuto Suzuki
+[
+a
+]
+Series
+Final Fantasy
+Engine
+Unreal Engine 4
+Platform(s)
+PlayStation 4
+Intergrade
+PlayStation 5
+Windows
+Nintendo Switch 2
+Release
+PlayStation 4
+April 10, 2020
+Intergrade
+PlayStation 5
+June 10, 2021
+Windows
+December 16, 2021
+Nintendo Switch 2
+TBA
+Genre(s)
+Action role-playing
+Mode(s)
+Single-player

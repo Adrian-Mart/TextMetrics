@@ -1,0 +1,117 @@
+Turok: Dinosaur Hunter
+Developer(s)
+Iguana Entertainment
+[
+a
+]
+Publisher(s)
+Acclaim Entertainment
+[
+a
+]
+Producer(s)
+David Dienstbier
+Designer(s)
+David Dienstbier
+Programmer(s)
+Robert Cohen
+Artist(s)
+Alan D. Johnson
+Composer(s)
+Darren Mitchell
+Series
+Turok
+Platform(s)
+Nintendo 64
+Windows
+OS X
+Xbox One
+Linux
+Nintendo Switch
+PlayStation 4
+PlayStation 5
+Xbox Series X/S
+Release
+Nintendo 64
+NA
+:
+ March 4, 1997
+[
+1
+]
+[
+2
+]
+EU
+:
+ March 4, 1997
+[
+1
+]
+AU
+:
+ March 17, 1997
+[
+3
+]
+Windows
+NA
+:
+ November 26, 1997
+[
+4
+]
+EU
+:
+ 1997
+[
+5
+]
+WW
+:
+ December 17, 2015
+[
+6
+]
+OS X
+WW
+:
+ February 23, 2016
+[
+7
+]
+Xbox One
+WW
+:
+ March 2, 2018
+[
+8
+]
+Linux
+WW
+:
+ June 21, 2018
+[
+9
+]
+Nintendo Switch
+WW
+:
+ March 18, 2019
+[
+10
+]
+PlayStation 4
+WW
+:
+ February 25, 2021
+PS5
+, 
+Xbox Series X/S
+WW
+:
+ February 28, 2025
+Genre(s)
+First-person shooter
+Mode(s)
+Single-player

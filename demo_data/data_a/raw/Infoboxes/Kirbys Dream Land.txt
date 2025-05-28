@@ -1,0 +1,39 @@
+Kirby's Dream Land
+North American and European box art
+Developer(s)
+HAL Laboratory
+Publisher(s)
+Nintendo
+Director(s)
+Masahiro Sakurai
+Producer(s)
+Makoto Kanai
+Programmer(s)
+Satoru Iwata
+Artist(s)
+Masahiro Sakurai
+[
+1
+]
+Composer(s)
+Jun Ishikawa
+Series
+Kirby
+Platform(s)
+Game Boy
+Release
+JP
+:
+ April 27, 1992
+NA
+:
+ August 1, 1992
+PAL
+:
+ August 3, 1992
+Genre(s)
+Action
+, 
+platform
+Mode(s)
+Single-player

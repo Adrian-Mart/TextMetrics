@@ -1,0 +1,30 @@
+Euro Truck Simulator 2
+Developer(s)
+SCS Software
+Publisher(s)
+SCS Software
+Series
+Truck Simulator
+Engine
+Prism3D
+Platform(s)
+Microsoft Windows
+Linux
+macOS
+Release
+Microsoft Windows
+18 October 2012
+[
+1
+]
+Linux
+16 April 2013 
+(beta)
+macOS
+29 January 2015
+Genre(s)
+Vehicle simulation
+Mode(s)
+Single-player
+, 
+multiplayer

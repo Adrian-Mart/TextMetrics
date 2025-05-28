@@ -1,0 +1,249 @@
+eFootball Pro Evolution Soccer (eFootball PES), known as eFootball Winning Eleven (eFootball WE) in Japan, was a series of association football simulation video games developed by Konami Digital Entertainment Co., Ltd. and published by Konami.
+The series consists of eighteen main installments and several spin-offs, including the mobile game Pro Evolution Soccer Club Manager. Listed as one of the best-selling video game franchises, the series has sold 111 million copies worldwide, in addition to 400 million mobile downloads, December 2020.
+Pro Evolution Soccer was regarded as a rival to the EA Sports' FIFA series; it has been described by The Guardian as the "greatest rivalry" in the history of sports video games.
+An esports league, eFootball.Open (previously named PES World Finals or PES League), has been held by Konami annually since 2010.
+As the successor to the PES series, Konami released eFootball in 2021.
+
+
+== Gameplay ==
+Gameplay simulates a typical game of association football, with the player controlling either an entire team or a selected player; objectives coincide with the rules of association football. Various game modes have been featured in the series, allowing for gameplay variety, including the Kick Off, Online and Offline modes. In addition to these modes, there is an editing one where the player can create teams of their own.
+
+
+=== Master League ===
+The Master League mode, gives the user control of a team of user's selection. Originally, the players were all generic-fictional players, however this later changed giving the user the option to change the settings and choose to play with default players. These players, such as Brazilian forward Castolo, have become cult figures to many people playing the Master League. The aim is to use these players and gain points by winning matches, cups and leagues. Using acquired points to purchase real players to join the team. Ultimately, one should end up with a team of skilled players.
+From PES 3 (Winning Eleven 7), players' growth and decline curves were added, where a player's statistics may improve or decline, depending on training and age. This added a new depth to purchasing players, adding value to an up-and-coming youngster whose abilities rise dramatically and creating a trade-off if the player buys skilled but declining veterans.
+
+
+=== Editing ===
+Fans of the series often make "option files" and "patches" which modify all player names into those of their real life counterparts, as well as including transfers from the latest transfer window and, occasionally, altered stats of more obscure players whose in-game attributes do not precisely replicate their real life skills.
+More experienced gamers often use "patches", editing the actual game code and modifying the graphical content to include accurate kits for unlicensed teams, new stadiums, and footballs from Nike, Inc., Puma, Umbro and Mitre, as well as more Adidas balls. Most patches also contain licensed referee kits from FIFA and the official logos of the various European leagues. These patches are technically a breach of copyright, and are often sold illegally in territories like South America. Konami have become less tolerant of this kind of fan editing in recent years, and now encrypt the data pertaining to kits and player statistics in each new release. However, fan communities invariably find ways to crack this encryption, and patches still appear once this has been achieved.
+Since Pro Evolution Soccer 6 onwards, there has been a separate league with 18 generic teams (Team A, Team B, Team C etc.) present, which can be edited fully. This is thought to be due to the fact that Konami failed to get the rights to the German Bundesliga, and is usually made into the Bundesliga or another league of one's preference by patch makers. However, most people use this to put their edited players into playable teams from the start instead of having to play through Master League to purchase them or alternatively edit the existing non-generic teams. This feature does not appear in the Wii version of the game (but, as stated above, the non-generic teams can be edited anyway).
+
+
+== History ==
+International Superstar Soccer (1994), the first game in Konami's International Superstar Soccer (ISS) series, released for the SNES. A rivalry subsequently emerged between the FIFA and ISS franchises.
+International Superstar Soccer Pro (ISS Pro), released for the PlayStation in 1997, was considered a "game-changer" for association football games, which had been largely dominated by rival FIFA on home systems for the last several years. Developed by Konami Tokyo, ISS Pro introduced a new 3D engine capable of better graphics and more sophisticated gameplay than its rival. Whereas FIFA had a simpler "arcade-style" approach to its gameplay, ISS Pro introduced more complex simulation gameplay emphasizing tactics and improvisation, enabled by tactical variety such as nine in-match strategy options. It spawned the Pro Evolution Soccer (PES) series, which became known for having "faster-paced tactical play" and more varied emergent gameplay, while FIFA was known for having more licenses.
+The PES series had sold more than 10 million units by 2002, while the FIFA series had sold over 16 million units by 2000. In the late 2000s and onwards, EA and Konami began borrowing gameplay elements from one another's respective titles, and eventually (due to poor impressions of PES 2008, and higher-than-expected impressions of FIFA 08), FIFA managed to pull ahead by a significant margin in the early 2010s and emerged as the world's most successful sports video game franchise. The rivalry between FIFA and PES is considered the "greatest rivalry" in the history of sports video games.
+In 2020 the series was rebranded to eFootball and switched to a new engine. This was met with mixed to negative reviews from both critics and customers alike.
+
+
+== Series overview ==
+
+
+=== Goal Storm / ISS Pro series ===
+
+Pro Evolution Soccer series traces its roots to Goal Storm (also known as World Soccer Winning Eleven in Japan). The game was developed by Konami Computer Entertainment Tokyo and was released in 1996. The first Winning Eleven game, without the World Soccer prefix, was J.League Jikkyou Winning Eleven which was released only in Japan for the PlayStation in 1995, and featured only the 14 clubs that played in 1995 J.League. The following three games in the series were also produced by Konami Computer Entertainment Tokyo and they were released under the name of ISS Pro for the European market and Winning Eleven for the rest of the world.  Every game in this series was released on the PlayStation.
+
+
+=== Pro Evolution Soccer series ===
+
+
+==== Series overview ====
+
+
+==== Pro Evolution Soccer ====
+
+Tagline: "We are the Football Tribe"
+The first installment in the series of Pro Evolution Soccer games was released in October 2001 for both PlayStation and PlayStation 2. It was released under the name World Soccer: Winning Eleven 5 in Japan. Commentary on the game was provided by Jon Briggs and Terry Butcher.
+
+
+==== Pro Evolution Soccer 2 ====
+
+Tagline: "They Will Rock You"
+Pro Evolution Soccer 2 (World Soccer: Winning Eleven 6 in Japan and World Soccer: Winning Eleven 6 - International in the United States, PS2 and GameCube only) and World Soccer Winning Eleven 2002 exclusively in PS1 is the second installment and was released in October 2002 and some felt that it was a slight backwards step from the original Pro Evolution Soccer. Others argued that it had improved. The pace of gameplay was much faster than in the game's older sibling, with sharper turns and quicker reactions to tackles. It also included a training session mode. Extra clubs were added, with an extra Master League division. There were two new commentators, Peter Brackley and Trevor Brooking, but this aspect of the game was criticised for the commentators' inaccuracies and tendency to speak over each other.
+The licensing was much the same, but infamously all Dutch players were called "Oranges" (e.g. goalkeeper Edwin van der Sar was renamed "Oranges025", Johan Cruyff was "Oranges082", etc.), because Konami did not hold the rights from the Royal Dutch Football Association, for use from Dutch players; in fact, plenty of other football games of the period with FIFPro licences also saw this happen to them (including FIFA 2002), following Netherlands' unsuccessful campaign at the 2002 World Cup qualifiers. Also, unlike in the original game, the "unofficial" club names stopped using obvious city names (e.g. Manchester United was Manchester, Real Madrid was Madrid, etc.), and instead used very ambiguous names (e.g. Manchester United were now Aragon, Liverpool became Europort, and West Ham became Lake District). The edit mode included a club editor which offset this problem to some extent, with editable kits and logos as well as club and player names.
+The game notably included licensed tracks by Queen: "We Will Rock You" as opening theme and "We are the Champions" as ending for champions final. A PlayStation version (known as World Soccer: Winning Eleven 2002 in Japan) was also released in last April 2002 with matchball world cup 2002 by adidas Fevernova, which was the last Pro Evolution Soccer release for the original PlayStation with matchball by Umbro.
+
+
+==== Pro Evolution Soccer 3 ====
+
+First tagline: "The Season Starts Here" (Winning Eleven 7/Pro Evolution Soccer 3/Winning Eleven 7: International (US))
+Second tagline: "Football is Life" (Winning Eleven 7: International (JP))
+Pro Evolution Soccer 3 (World Soccer: Winning Eleven 7 in Japan and World Soccer: Winning Eleven 7 - International in the United States) is the third installment in the series and was released in 2003, and featured the Italian referee Pierluigi Collina on the cover (although he is not present as an in-game referee). The most significant update was the overhaul in the graphics engine, with more life like players and much improved likeness. The gameplay was changed to accompany this, with more fast-paced action than that of PES 2, a much better physics engine, additions such as the advantage rule improved passing and long-ball functions, while as per usual, more licences (with the infamous Dutch "Oranges" removed, replaced with pseudonyms such as "Froibaad" in the place of Patrick Kluivert), more club teams and the Master League is now split into regional divisions, with competitions equivalent to the Champions League with matchball Adidas Finale 03 without UCL watermark, the UEFA Cup and as Umbro was no longer revived, the company has been replaced by Adidas and Adidas Fevernova as Official Match in Winning Eleven 7 Japan version.
+Pro Evolution Soccer 3 is the first in the series (3rd overall) to be released for Microsoft Windows and was well received by the PC games magazines but criticised by fans for its lack of online mode and bloated system requirements at its time, particularly not supporting the common Geforce MX series. Its rival, FIFA Football 2004, had online functions and had more modest system requirements in comparison. The game was essentially a direct conversion of the PlayStation 2 code, albeit with sharper graphics and is easier to download fan made mods for the game. First time, 7 Team fully licensed was added with 3 renamed stadium from generic to real stadium name with 6 club. A.C Milan, SS Lazio, AS Roma, Juventus, Parma from Serie A and Feyenoord Rotterdam from Eredivisie. National team was added South Korea from Asia.
+
+
+==== Pro Evolution Soccer 4 ====
+
+Tagline: "The long road to the Final"
+Pro Evolution Soccer 4 (World Soccer: Winning Eleven 8, World Soccer Winning Eleven 8: Liveware Evolution Online aka WE 8 Final Evolution in Japan and World Soccer: Winning Eleven 8 - International in the United States) was the fourth installment in the series and was released in 2004; featuring referee Pierluigi Collina, Thierry Henry and Francesco Totti on the cover. This is the first Pro Evolution Soccer game to feature full leagues, namely the English, French, German, Spanish La Liga, Italian Lega Calcio Serie A, and Dutch top divisions Eredivisie, though with full league licences only for the latter three. As a result, clubs in, for example, the English League, an unlicensed league, have ambiguous names like "West London Blue" and "Man Red" for Chelsea and Manchester United respectively, and their home grounds Stamford Bridge and Old Trafford are respectively named "Blue Bridge" and "Trad Brick Stadium".
+The gameplay has improved from Pro Evolution Soccer 3 (though not as much of a significant leap as its predecessor) with improved AI, tweaked play-on advantages and better throughballs. Dribbling is tighter with the players (though at one-star difficulty, a player receiving the ball on either wing can dribble the ball down the length of the pitch relatively uncontested), plus free-kicks have been changed to allow lay-offs. The gameplay was criticised for its relatively easy scoring opportunities, as players can pass their way through opposing defenses, or hold on to the ball at the edge of the penalty area and simply wait for the opposing defenders to move away and thus give him space to shoot. A new 6-star difficulty was added as an unlockable in the shop, as well as the previous items, while the Master League included enhancements such as player development, so many players over 30 would see certain attributes decline as the game progresses. Conversely, players could improve upon their attributes up to the age of 24–25, though the improvement is most rapid and obvious in players aged 22 and under.
+The edit mode has been enhanced rapidly, with the options to add text and logos to shirts (essentially sponsors) and pixel logo editing as well as the traditional preset shapes, thus making it easier to replicate a team. The game also includes an "International Cup" and four regional Cups:
+
+The "European Cup" is remarkably inclusive, including almost every major European country, as well as smaller countries like Slovenia, Hungary, and Slovakia. However, countries like Israel and Iceland are not included. The Czech Republic is simply called "Czech".
+The "American Championship" is a merger of the CONCACAF Gold Cup and the Copa América. It includes most North, Central and South American countries.
+The "Asia-Oceania Cup" includes only five Asian countries: Japan, Saudi Arabia, Iran, China, and South Korea, plus Australia. In real life, Australia would later join the Asian Football Confederation, winning the 2015 AFC Asian Cup. South Korea is simply called "Korea". Adidas templates are used in Edit Kit in Edit mode
+
+
+==== Pro Evolution Soccer 5 ====
+
+Tagline: "Bring it On"
+Pro Evolution Soccer 5 (known as World Soccer: Winning Eleven 9 in North America and Japan) the fifth installment in the series, was released in October 2005 and featured John Terry and Thierry Henry on the cover and alongside Didier Drogba on the main menu. The improvements are mainly tweaks to the gameplay engine, while online play finally made it to the PlayStation 2 version. The game was perceived as much harder by fans, with a very punishing defence AI making it harder to score. Some players have pointed out inconsistencies in the star difficulty rating, such as 3 star mode being harder to beat than 6 star due to its more defensive nature, but in general scoring is harder. Referees are very fussy over decisions, awarding free kicks for very negligible challenges.
+There are various new club licences present, including Arsenal, Chelsea, Celtic, Rangers and a few other European clubs, as well as the full Dutch, Spanish and Italian Leagues.
+Since crowd animations on the PS2 version slowed down the framerate to an unplayable level in the testing phase, crowds were rendered as flat animated 2D bitmaps which, on certain angles, become unseen, making the stands appear empty; however, fully 3D-rendered crowds are present during cut-scenes. There are however fan-made patches which address this in the PC version, although no official patch was released. Official PlayStation 2 Magazine UK gave it a perfect 10/10 score.
+Pro Evolution Soccer 5, was released for Xbox, Windows and PS2, all online enabled. A PSP version was released, but with stripped down features, such as no Master League, no commentary, only one stadium and limitations in the editor, due to the limitations to the UMD. The PSP version featured Wi-fi play, and the gameplay was faster and more "pin-ball like" in comparison to its console siblings, but it did not receive the same acclaim as the mainstream console/PC versions.
+
+
+==== Pro Evolution Soccer 6 ====
+
+Tagline: "Express Yourself!"
+Pro Evolution Soccer 6 (World Soccer: Winning Eleven 10 in Japan and Winning Eleven: Pro Evolution Soccer 2007 in the United States) is the sixth installment in the series and was officially released in the UK on 27 October 2006 and 28 April 2006 exclusively PlayStation 2 released in Japan, upgraded from stuck kits without licensed league in Season 2005-2006 but used kits licensed from previously World Soccer Winning Eleven 8 Japanese version to new kits 3 licensed league from season 2004–2005 to season 2005-2006 included real font and numberic football players, for the PlayStation 2, PlayStation Portable, Xbox 360 and PC platforms and on 9 February 2007 for the Nintendo DS. The PC version does not utilise the Xbox 360 engine but is a conversion of the PS2 edition. The PSP version is similar in many ways to its PS2 brother, while the DS version has graphics and gameplay reminiscent of the older PES series on the original PlayStation.
+A criticism of the previous version was that the game was too unforgiving and so suppressed fluid attacking football. Pro Evolution Soccer 6 was issued with more tricks and an overall more attacking mentality, but whether it does make it easier to take on defenders and get forward is debatable.
+More new real face young players likely Lionel Messi, new licensed national team and 3 new licensed club were added since World Soccer Winning Eleven 10 announced trailer in March 2006 in Japan, including fully licensed kits World Cup 2006 by the National football team England, Spain,
+Italy, Argentina and Australia and 3 new licensed club between FC Bayern Munich only licensed from Bundesliga, Boca Juniors with include real name stadium call La Bombonera from Argentina League Division 1 and São Paulo FC from Brazil Serie A, to name a few (as well as the ever-present by Japan and JFA MAX).  The French Ligue 1 is now included as fully licensed league first time from Pro Evolution Soccer 6, as well as the Spain LaLiga, Italian Lega Calcio Serie A and Dutch Eredivisie, plus several other individual clubs. However, the Chelsea F.C. licence from PES5 was removed and, due to a lawsuit, Konami were forced to drop the Bundesliga licence. The game had not updated Arsenal's venue to the Emirates stadium; the defunct Highbury is still present. The same applies for Bayern Munich, who, despite having moved to the Allianz Arena, are still represented in the game as playing at Munich's Olympic Stadium. Also, the recent extensions to Old Trafford are not included, but included only J-League Winning Eleven 10 + Europe League 06'-07' with real name Manchester United stadium Old Trafford, while Serbia and Montenegro are still present despite the dissolution of the country in May 2006, this being due to the disestablished state competing at the 2006 World Cup. All teams which competed at the World Cup featured their 23-man squads from the tournament, including those who retired from international football (e.g. Phillip Cocu of the Netherlands) and from the game altogether (e.g. Zinedine Zidane of France), although club teams were fairly up to date.
+The Xbox 360 version features next-generation, high-definition graphics and more animations, but gameplay similar to the other console versions, according to a recent interview with Seabass. The Xbox 360 version also finally introduces the Pro Evolution series to widescreen gaming, a feature that was sorely missing from the PS2 and Xbox versions of the game. Much of the gameplay and editing options were severely stripped down for the 360 release.
+
+
+==== Pro Evolution Soccer 2008 ====
+
+Tagline: "If football is your life, PES 2008 is your game."
+Pro Evolution Soccer 2008 (Known as World Soccer: Winning Eleven 2008) is the seventh installment in the series. The game was released for PC, PlayStation 3, Xbox 360, PlayStation 2 on 26 October 2007 in Europe, 2 November 2007 in Australia, and 31 December 2007 in Japan. The PlayStation Portable and Nintendo DS version were released in November, and the rather different Wii version. Pro Evo Wii was released in March 2008. It was the first game in the series to drop the Winning Eleven name from its title in the United States.
+The game cover features Portugal and Manchester United player Cristiano Ronaldo and a local player (Michael Owen in the UK, Didier Drogba in France, Jan Schlaudraff in Germany, Gianluigi Buffon in Italy and Lucas Neill in Australia). A new adaptive AI system entitled 'Teamvision' was implemented into the game, Teamvision is a sophisticated AI programming that learns and adapts according to an individual's style of play. As such, it will learn new ways to build attacks and to counter specific movements and previous attacking or defensive errors, ensuring games are more in line with the tactical but flowing nature of the real thing. The English commentary was provided by Jon Champion and Mark Lawrenson for the first time. 20 teams are also in the D1 and D2 Leagues, four more than in past editions.
+The game's 'in-game editor' however was a large downgrade from previous versions, with players unable to add text to unlicensed team shirts or base copy specific players; however, the PC version allows for face pictures to be uploaded or directly photographed through a webcam. On the PS3, the game was a huge disappointment with many frame rate issues and strange glitches.
+
+
+==== Pro Evolution Soccer 2009 ====
+
+Pro Evolution Soccer 2009 (known as World Soccer: Winning Eleven 2009) is the eighth installment in the series. Released on 17 October in Europe, featuring FC Barcelona Argentine star Lionel Messi as its cover star (opposite Mexican midfielder Andrés Guardado from Deportivo La Coruña in some versions).
+While in some respects keeping the same structure of its predecessor, PES 2009 makes a large number of improvements, starting from the graphics, now better suited for HD image technologies. Also, the overall pace of the gameplay was slowed down, with a better AI for computer-controlled teammates as well: they will look for better passing spaces and goal routes.
+A new addition of this game is the Become a Legend mode, which follows the entire career of a single player (as opposed to a whole team, like in the Master League) as he moves to better teams, achieves national team caps and wins MVP awards, like the similar mode called Fantasista in J-League Winning Eleven 2007 Club Championship, a special edition only for Japan. This also inspired the Be a Pro mode introduced in FIFA 08.
+This game has sponsored Lazio once in real life (during a match against Inter Milan), but the team's in-game kit does not feature the PES 2009 sponsorship. This was also the first version to include the UEFA Champions League licence.
+
+
+==== Pro Evolution Soccer 2010 ====
+
+Tagline: "Where Champions Live!"
+Pro Evolution Soccer 2010 (known as World Soccer: Winning Eleven 2010) is the ninth installment in the series. The cover features players Fernando Torres and Lionel Messi.
+The game has gone through a complete overhaul as it tries to compete with the FIFA series. PES 2010 has improved animations and 360-degree control was introduced, available on the PC, PS3, and Xbox 360 versions of the game via the analog sticks on the respective controllers. PS3 owners benefited from this when using the DualShock's D-Pad, but the Wii D-Pad is limited to eight-directional control and the Xbox 360 D-Pad to sixteen-directional control due to their hardware. The A.I. was improved thanks to Teamvision 2.0. The referees were reworked to make better calls during matches. It also features more licensed teams and players than ever before. In addition to the UEFA Champions League licence first time for PlayStation 2 and PlayStation Portable since Pro Evolution 2010, the UEFA Europa League licence was also added first time in 7th Console Generation, both playable included the Master League.
+
+
+==== Pro Evolution Soccer 2011 ====
+
+Tagline: "Engineered for Freedom."
+Pro Evolution Soccer 2011 (known as World Soccer: Winning Eleven 2011) is the tenth installment in the series. PES 2011 is a football video game developed and published by Konami. The UEFA Champions League and UEFA Europa League feature in the game; and for the first time CONMEBOL's Copa Libertadores and UEFA Super Cup are fully licensed.
+
+
+==== Pro Evolution Soccer 2012 ====
+
+Tagline: "Can You Play?"
+Pro Evolution Soccer 2012 (known as World Soccer: Winning Eleven 2012) is the 11th installment of the series. Both Jon Champion and Jim Beglin remain as commentators. Real Madrid star Cristiano Ronaldo who was the first time in the cover art of Pro Evolution Soccer 2008 replaced Lionel Messi as the cover star.
+
+
+==== Pro Evolution Soccer 2013 ====
+
+Pro Evolution Soccer 2013 (known as World Soccer: Winning Eleven 2013) is the 12th installment of the series. The gameplay improves the AI as well as giving the player the ability to accurately aim passes and shots. Real Madrid player Cristiano Ronaldo is featured for the front cover. For the first time of the series, all 20 teams from the Brazilian National League, Campeonato Brasileiro Serie A, are included in the game series. The UEFA Champions League and the Copa Santander Libertadores is once again appeared in the game.
+
+
+==== Pro Evolution Soccer 2014 ====
+
+Pro Evolution Soccer 2014, officially abbreviated to PES 2014, also known in Asia as World Soccer: Winning Eleven 2014 is the 13th installment in the series, developed and published by Konami. The game features a modified version of the new Fox Engine. It was released on 19 September 2013, in Europe, 20 September in United Kingdom, 24 September in North America and on 14 November in Japan. This game also become the last game with PlayStation 2, PlayStation Portable, and Nintendo 3DS.
+
+
+==== Pro Evolution Soccer 2015 ====
+
+Tagline: "The Pitch is Ours"
+Pro Evolution Soccer 2015, officially abbreviated as PES 2015 and also known in Asia as World Soccer: Winning Eleven 2015, is the 14th installment in the series. The cover art features then Bayern Munich player Mario Götze. For the first time in the series' history (excluding the regional versions which included the J & K-Leagues 1 and 2), the game featured unlicensed secondary leagues.
+
+
+==== Pro Evolution Soccer 2016 ====
+
+Tagline: "Love the Past, Play the Future"
+Pro Evolution Soccer 2016, officially abbreviated as PES 2016 and also known in Asia as World Soccer: Winning Eleven 2016, is the 15th installment in the series. It is also the game to be released during the series' 20th anniversary. The cover of the game features Brazil and Barcelona forward player Neymar. It was released on 15 September 2015, in North America, 17 September in Europe, 18 September in United Kingdom, and on 1 October in Japan. Also in April 2016, the special edition of PES 2016 called UEFA Euro 2016 which features Real Madrid and Wales player Gareth Bale on the cover, updated start from Data Pack 3.00 released in March 2016 with official background UEFA EURO 2016 France with official HUD in during live game, in title game and Cup mode or Exhibition mode when you selected this real competition name. English commentary by Peter Drury is provided for the first time with Jim Beglin.
+
+
+==== Pro Evolution Soccer 2017 ====
+
+Tagline: "Control Reality"
+Pro Evolution Soccer 2017 (officially abbreviated as PES 2017, also known in Japan as Winning Eleven 2017) is the 16th installment in the series. On 25 May, Pro Evolution Soccer 2017 was announced and scheduled to be released on PC, Xbox 360, Xbox One, PlayStation 3 and PlayStation 4. The cover of the game features Barcelona players, including Neymar, Lionel Messi, Luis Suárez, Ivan Rakitić and Gerard Piqué. On 26 July 2016, Konami Digital Entertainment officially announced a premium partnership with Barcelona allowing "extensive" access to the Camp Nou, which will be exclusive to the game for three years. Features includes, among others, improved passing, Real Touch ball control, and improved goalkeeping technique. Konami has released Pro Evolution Soccer 2017 for mobile phones.
+
+
+==== Pro Evolution Soccer 2018 ====
+
+Tagline: "Where Legends are Made"
+Pro Evolution Soccer 2018 (officially abbreviated as PES 2018, also known in Japan as Winning Eleven 2018) is the 17th installment in the game series. The cover of the game features Barcelona players, including Neymar (who was replaced by Gerard Piqué after his transfer to Paris Saint-Germain before the game's release; due to this as well, the Brazilian edition cover which was to feature him in the Barcelona colors now features Philippe Coutinho playing for the national team), Lionel Messi, Luis Suárez, Andrés Iniesta and Sergi Roberto. It was released worldwide in September 2017. This was the last game to feature the UEFA Champions League, UEFA Europa League and UEFA Super Cup until FIFA 19, after Konami lost the license to these franchises to EA Sports.
+
+
+==== Pro Evolution Soccer 2019 ====
+
+Tagline: "The Power of Football"
+Pro Evolution Soccer 2019 (officially abbreviated as PES 2019, also known in Japan as Winning Eleven 2019) is the 18th installment in the game series. PES 2019 is the first PES in 10 years not to feature the UEFA Champions League, UEFA Europa League and UEFA Super Cup license after Konami lost the rights to EA Sports.
+
+
+=== eFootball PES series ===
+
+
+==== Series overview ====
+
+
+==== eFootball PES 2020 ====
+
+eFootball PES 2020 (officially abbreviated as eFootball PES 2020, also known in Japan as eFootball Winning Eleven 2020) is the 19th installment in the game series. eFootball PES 2020 introduces a change in the name and a focus from Konami in the online gaming space. The game will also mark its installment of the UEFA Euro 2020, which was originally scheduled in the same year before being postponed to next year following to the COVID-19 pandemic. In place of a new edition for the 2020–21 season, eFootball PES 2020 will receive a content update, known as eFootball PES 2021 Season Update, while the development team works on the following game, eFootball and its first season entitled eFootball 2022, which will see the Fox Engine replaced by Unreal Engine 4 on its eighth and ninth-generation versions, as well as PC.
+In December 2019, Arsenal midfielder Mesut Özil was completely removed from the Mandarin version of eFootball PES 2020 in China following a tweet from Özil, himself a Muslim of Turkish descent, that characterized the Xinjiang internment camps as a "crackdown" on Uyghurs. According to NetEase Games, they stated his comments "hurt the feelings of Chinese fans and violated the sport's spirit of love and peace. We do not understand, accept or forgive this." Özil was later added during the 2022 April update.
+
+
+==== eFootball PES 2021 Season Update ====
+
+On 15 July 2020, it was announced that eFootball PES 2021 Season Update would be released in celebration of the series' 25th anniversary. Due to PES Productions focusing development efforts on eFootball 2022 for the ninth generation consoles, the game was based on the eFootball PES 2020 engine.
+Lionel Messi (Barcelona) is the cover star of the standard edition, alongside PES ambassadors Cristiano Ronaldo (Juventus), Alphonso Davies (Bayern Munich), and Marcus Rashford (Manchester United), each representing one of the game's partner clubs.
+Konami announced an exclusive multi-year partnership with A.S. Roma and S.S. Lazio, while A.C. Milan and Inter Milan are not featured after they signed exclusive partnership deals with EA Sports, and instead are known as Milano RN and Lombardia NA respectively.
+The Season Update was released for PlayStation 4, Xbox One and Windows on 15 September.
+
+
+=== eFootball ===
+eFootball is the first football game from Konami without the title PES. The game was released on PlayStation 4, PlayStation 5, Microsoft Windows, Xbox One, Xbox Series X, Android, and iOS, on 30 September 2021. The cover of eFootball features Paris Saint-Germain’s Lionel Messi. eFootball was met with overwhelmingly negative reception from critics and players alike because of the game's poor technical and graphical quality, and its lack of teams and features.
+
+
+=== Other titles ===
+Arcade
+World Soccer: Winning Eleven Arcade Game Style
+World Soccer: Winning Eleven Arcade Game Style 2003
+World Soccer: Winning Eleven 2006 Arcade Championship
+World Soccer: Winning Eleven Arcade Championship 2008
+World Soccer: Winning Eleven Arcade Championship 2010
+World Soccer: Winning Eleven Arcade Championship 2012
+World Soccer: Winning Eleven Arcade Championship 2014
+Game Boy Advance
+Wi-El: World Soccer Winning Eleven (2002)
+J-League Winning Eleven Advance 2002 (2002)
+GameCube
+ESPN MLS ExtraTime 2002
+PlayStation
+ESPN MLS GameNight
+PlayStation 2
+ESPN MLS ExtraTime
+Nintendo 3DS
+Pro Evolution Soccer 2011 3D
+Xbox
+ESPN MLS ExtraTime 2002
+Windows MMO
+Winning Eleven Online
+Winning Eleven Online 2014
+
+
+==== J-League Winning Eleven series ====
+The J-League Winning Eleven series is exclusive to Japan and has been released since 1995 with the release of J-League Jikkyou Winning Eleven exclusively for PlayStation.
+
+
+==== Management games ====
+
+
+==== Card collection (trading card) games ====
+
+
+== See also ==
+FIFA (video game series)
+List of soccer games licensed by J. League
+PES League
+PES Society
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+Pro Evolution Soccer series's channel on YouTube
+PES League (archived)

@@ -1,0 +1,92 @@
+Turok 2: Seeds of Evil
+Developer(s)
+Iguana Entertainment
+Nightdive Studios
+ (remaster)
+Publisher(s)
+Acclaim Entertainment
+Nightdive Studios (remaster)
+Designer(s)
+David Dienstbier
+Programmer(s)
+Stephen Broumley
+Artist(s)
+Alan D. Johnson
+Composer(s)
+Darren Mitchell
+Series
+Turok
+Engine
+
+
+TurokTech (original)
+[
+2
+]
+
+
+Kex Engine (remaster)
+
+
+Platform(s)
+Nintendo 64
+Windows
+Xbox One
+Linux
+macOS
+Nintendo Switch
+PlayStation 4
+Release
+
+
+December 10, 1998
+
+
+Nintendo 64
+NA
+:
+ December 10, 1998
+EU
+:
+ December 18, 1998
+Microsoft Windows
+Original
+NA
+:
+ February 9, 1999
+EU
+:
+ March 5, 1999
+[
+1
+]
+Remaster
+WW
+:
+ March 16, 2017
+Xbox One
+WW
+:
+ March 2, 2018
+Linux
+, 
+macOS
+WW
+:
+ September 12, 2018
+Nintendo Switch
+WW
+:
+ August 9, 2019
+PlayStation 4
+WW
+:
+ February 25, 2021
+
+
+Genre(s)
+First-person shooter
+Mode(s)
+Single-player
+, 
+multiplayer

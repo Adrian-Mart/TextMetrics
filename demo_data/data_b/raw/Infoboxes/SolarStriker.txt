@@ -1,0 +1,52 @@
+SolarStriker
+Developer(s)
+Nintendo R&D1
+Minakuchi Engineering
+Publisher(s)
+Nintendo
+Director(s)
+Satoru Okada
+ 
+ Keisuke Terasaki
+[
+1
+]
+Producer(s)
+Gunpei Yokoi
+[
+1
+]
+Designer(s)
+K. Hayashi 
+ A. Higashiya 
+ K. Katsuyama 
+ K. Yamagami
+[
+1
+]
+Programmer(s)
+K. Sugimoto
+[
+1
+]
+Composer(s)
+Toru Osada
+[
+2
+]
+Platform(s)
+Game Boy
+Release
+JP
+:
+ January 26, 1990
+NA
+:
+ February 2, 1990
+EU
+:
+ September 28, 1990
+Genre(s)
+Scrolling shooter
+Mode(s)
+Single-player

@@ -1,0 +1,108 @@
+Pac-Man
+North American arcade flyer
+Developer(s)
+Namco
+Publisher(s)
+JP
+/
+DE
+:
+ Namco
+[
+3
+]
+NA
+/
+FRA
+:
+ 
+Midway
+[
+2
+]
+Designer(s)
+Toru Iwatani
+Programmer(s)
+Shigeo Funaki
+Shigeichi Ishimura
+Artist(s)
+Hiroshi Ono
+[
+4
+]
+Composer(s)
+Shigeichi Ishimura
+Toshio Kai
+Series
+Pac-Man
+Platform(s)
+
+
+Arcade
+
+
+Atari 2600
+, 
+Atari 5200
+, 
+Apple II
+, 
+Atari 8-bit
+, 
+MSX
+, 
+NES
+, 
+Commodore 64
+, 
+VIC-20
+, 
+Intellivision
+, 
+ZX Spectrum
+, 
+TI-99/4A
+, 
+IBM PC
+, 
+Game Boy
+, 
+Game Gear
+, 
+Game Boy Color
+, 
+Neo Geo Pocket Color
+, 
+Mobile phone
+, 
+Game Boy Advance
+, 
+iPod Touch
+, 
+Xbox 360
+, 
+PlayStation 4
+, 
+Xbox One
+, 
+iOS
+, 
+Android
+
+
+Release
+JP
+:
+ July 1980
+[
+1
+]
+WW
+:
+ December 1980
+Genre(s)
+Maze
+Mode(s)
+Single-player
+, 
+multiplayer

@@ -1,0 +1,28 @@
+Garry's Mod
+Developer(s)
+Facepunch Studios
+Publisher(s)
+Valve
+Designer(s)
+Garry Newman
+Programmer(s)
+Garry Newman
+Engine
+Source
+Platform(s)
+Windows
+Mac OS X
+Linux
+Release
+Windows
+29 November 2006
+Mac OS X
+23 September 2010
+Linux
+5 June 2013
+Genre(s)
+Sandbox
+Mode(s)
+Single-player
+, 
+multiplayer

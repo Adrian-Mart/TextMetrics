@@ -1,0 +1,45 @@
+Excitebike 64 is a racing video game developed by Left Field Productions and published by Nintendo for the Nintendo 64. It was released on May 2, 2000 in North America, June 23 in Japan, and June 8, 2001, in Europe. It is the second installment in the Excite series, acting as a sequel to Excitebike on the NES, and is the first 3D game in the series. Many real-life dirt bike gear brands are extensively featured throughout the game, such as Bell Helmets, Alpinestars and No Fear.
+The game received positive reviews from critics and was later re-released for Wii U via the Virtual Console in 2016 and on the Nintendo Classics service on August 30, 2023 but with the removal of every Fox Racing brand logo. A third game in the series, Excite Truck, was released in 2006 for the Wii.
+
+
+== Gameplay ==
+
+Players can choose from one of six riders, each with their own pre-set handling attributes. Players control the bike by using either the control stick or D-pad. They can use the gamepad to accelerate, brake, slide and use turbo boost. As in the original, holding down gives the player more air on jumps, while holding up aims the front wheel forward to enable landing on slopes. The player can also tilt the bike to the side while in the air, to adjust the angle at which they hit the turns, and can sideswipe their opponents. Besides the tracks main course many of the levels have hidden shortcuts, that require the player to slow down and change direction, or use a speed boost for jumping over chasms, from hill to hill, over other vehicles and buildings, choosing to follow the original game in its "extreme" jumps and physics.
+
+
+=== Features ===
+The main game features a 20-track season mode. Completing races unlocks more tracks and features. There is a tutorial that teaches players how to play through the 17 different tracks. There are a variety of exhibitions and time trial modes that lets players do more activities other than the main game. A major feature is the track editor, where players can create their own fully functional track and save it into the game. The announcer, Limua, shouts out the tricks and crashes throughout the race. Also featured is an emulated version of the original Excitebike and a 3D remake of it with the same obstacles called Excite 3D. There are also several other mini games such as a Stunt Course, Hill Climb, a Soccer game with a giant human sized soccer ball, and an "infinite, randomly generated" Desert Track where the player needs to put out ten campfires by driving over them, which Nintendo Power called "one of the coolest concepts ever". As bonus features to the game, cheat modes were introduced, requiring the player to press buttons in a certain order to unlock a hidden "Cheats Menu". From there they could enter passwords that unlocked additional features, such as Invisible riders, Big heads, Debug mode, Midnight mode and even unlocking a picture of the programmers in the game's credits.
+
+
+== Development ==
+While in development some of the main features they concentrated on were the game's sense of speed, the jumps and the ability to perform tricks, similar to the original game, as well as taking inspiration from the earlier released Wave Race 64. To recreate the riders' movements and tricks the developers used a technique called 'inverse kinematics' to create a life like feel. While other parts of the tracks were littered with bumps, log bridges and streams to run through. Using the N64's Rumble Pak allowed the player to feel these game experiences, as well as such things as making a hard landing. Besides the standard tracks, several mini games were also added as unlockable content. The Desert Track was fractally generated for an endless desert, but despite the random building of its dunes, it also keeps the current configuration in the game's memory, allowing the player to return to the same spot that they once left. The game was revealed by Nintendo to the public at the pre-E3 conference on May 12, 1999. The game was shown playable the next day.
+
+
+== Reception ==
+
+The game received "generally favorable reviews", just two points shy of "universal acclaim", according to the review aggregation website Metacritic. In Japan, Famitsu gave it a score of 29 out of 40.
+N64 Magazine mentioned the low quality of other similar games released around the same time and said: "After the lackluster efforts of Jeremy McGrath and Supercross 2000, we now have an intelligent racer." IGN commended the game for its "fantastic 3D engine, delightfully realistic physics, intuitive control, brilliantly detailed graphics, ingenious subtleties and tons of options". Levi Buchanan of GameFan stated: "In addition to the superb animation, the game sounds awesome... Its dirt bikes actually sound like the real thing--none of that high-pitched tin squeal you'll find in other sub-par racers." Michael Wolf of NextGen said, "With all the secrets and special tracks, not to mention the realistic physics that'll make you wince during crashes, this is one motocross racing game that will entertain for hours on end." The Freshman of GamePro said of the game in one review, "It could have been so much more, but Excitebike 64 manages to be only the latest motocross game whose reoccurring bugs mar an otherwise excellent racing game. Various unlocked extras make Excitebike 64 a truckload of fun, but it's playing to get those goodies that kicks up the dirt." In another GamePro review, Dan Elektro said, "While you can't help but feel that Excitebike 64 is a few tweaks short of greatness, it's still a quality, enjoyable ride."
+While the game received high praise, certain publications voiced complaints. GameCritics said,  "The game isn't perfect — I would have liked even more tracks to race on as well as a few more racers." GameSpot opined, "Some will cry about the frame rate, and some will wish the game featured real riders."
+Another problem the game encountered was that it was one of the last games released for the N64 in Europe, having been released there over a year later than the Japan and U.S. releases. The delay was due to Nintendo's struggle to keep up with the demand for the games Pokémon Stadium and Perfect Dark. This led some to feel that it was released too late in the system's life and if it "had appeared earlier... it would have been a bigger hit".
+Nonetheless, the game ultimately went on to sell approximately two million units, according to information provided by former employees of Left Field Productions.
+The game was nominated for the "N64 Game of the Year" award at The Electric Playground's Blister Awards 2000, which went to Perfect Dark.
+
+
+== See also ==
+Nitrobike
+F-Zero X
+Road Rash 64
+Supercross 2000
+Top Gear Hyper Bike
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official Nintendo Japan Excitebike 64 site
+Official Nintendo of America Excitebike 64 guide
+Excitebike 64 at MobyGames

@@ -1,0 +1,60 @@
+RollerCoaster Tycoon 3 is a 2004 construction and management simulation video game. It is the third installment in the RollerCoaster Tycoon series, and was developed by Frontier Developments and published by Atari Interactive. RollerCoaster Tycoon 3 places players in charge of managing amusement parks; rides can be built or demolished, terrain and scenery can be adjusted, and prices can be controlled to balance visitor engagement and profitability.
+RollerCoaster Tycoon 3 features two methods of gameplay. In career mode, players must complete predetermined objectives in predesigned scenarios. In the newly added sandbox mode, players have unlimited time and money to create their own custom parks and rides. Features introduced in the series include the ability to import and export custom attractions, design custom scenarios and peeps, as well as design an in-game roller coaster and a fully three-dimensional world players can view from all angles.
+In 2016, publisher Atari continued the series with its fourth main installment, RollerCoaster Tycoon World, to largely negative reception. The same year, Frontier developed and released Planet Coaster, a spiritual successor to the RollerCoaster Tycoon series, which received considerably better reviews.
+
+
+== Gameplay ==
+
+Like the previous games in the series, RollerCoaster Tycoon 3 is a strategy and simulation game in which players manage all aspects of an amusement park by building or removing the rides, scenery and amenities, placing shops and facilities, adjusting the park's finances, hiring staff, and keeping the park visitors, known as "peeps", happy. RollerCoaster Tycoon 3 features two main game modes. The career mode features scenarios where players must accomplish goals, such as impressing a visiting celebrity or attaining a certain park rating. Each scenario has three levels of objectives, which are ranked as Apprentice, Entrepreneur, and Tycoon; the higher the level, the more challenging the goal is to complete. A third of the scenarios are playable from the start, with the rest unlocked when the player completes the objectives at each level. The second mode of play is the sandbox mode. In sandbox mode, players are given a large, empty plot of land and unlimited funds with which to build their own custom parks. However, the land given in this mode is limited as it cannot be expanded.
+
+RollerCoaster Tycoon 3 introduces gameplay features in the series such as the CoasterCam, which allows players to "ride" roller coasters and other rides, and the MixMaster, which allows the player to coordinate firework shows and time them to in-game music. Unlike the two previous versions of the game, RollerCoaster Tycoon and RollerCoaster Tycoon 2, the guests, called "peeps", arrive in groups and show variation in gender and age, including children, teenagers and adults. A day/night cycle changes the demographics of the park's peeps; rides at night appeal to teenagers, while the daytime attracts families with children. Peeps can be harmed and injured by crashing vehicles, but will never die as they did in the previous titles, and if placed in water they will swim out. When cars derail from the tracks, they explode after a short period, whereas in the older games, they exploded on contact. Furthermore, a feature was added in which, after a cheat code was entered, people could utilize the Peep Cam from which they could see the park through a peeps' eyes.  Parks now have opening and closing times, and the time of day is displayed. Scenery is divided into themes to customize parks, with western-, spooky-, science fiction-, prehistoric-, tropic (Paradise Island)- atlantis- and adventure-themed pieces. Another feature is the ability to import coasters from previous games in the series into RollerCoaster Tycoon 3.
+The game uses full 3D graphics instead of the isometric viewpoint of the previous games; this means that players can rotate and zoom the view of the park to any degree. However, there is an option to fix the camera's rotation to a preset angle, as in the previous games. 3D land shaping is also available for creating mountains and hills inside the park, as well as the ability to change portions of the land into water.
+
+
+== Development ==
+Although the core features of Roller Coaster Tycoon 3 are based on the previous games, Chris Sawyer, the developer of the first two games, acted only as a consultant, as the game was instead developed by Frontier Developments, since Sawyer was developing Chris Sawyer's Locomotion at the time. It is powered by the Cobra engine.
+
+
+=== Expansion packs ===
+Two expansion packs for RollerCoaster Tycoon 3 were released – Soaked! and Wild!. A bundle, RollerCoaster Tycoon 3 Gold, was also released, including the original game and the Soaked! expansion pack; this was followed by RollerCoaster Tycoon 3 Platinum (Deluxe for the EU version of the game), including both expansion packs and the original game.  RollerCoaster Tycoon 3 Platinum is available for Windows and Mac OS X. The game was also published by Aspyr Inc. on the Mac App Store in 2012.
+Soaked!, the first expansion, allows the player to build water parks, which include swimming pools, water slides and underwater  aquariums, while adding more rides and scenery to the original game such as the ability to create waterfalls. Using the MixMaster feature, the expansion pack also allows players to make their own water-jet displays and co-ordinate them to music. Soaked! received an average rating of 79 on Metacritic.
+Wild!, the second expansion, allows the player to build zoos and safari rides, similar to Zoo Tycoon in an amusement park setting, in which animals can be placed, and adds more ride types and scenery to the original game. Additionally, it addressed several criticisms of the first game, such as the inability to build underground, which is available without the expansion pack in the form of an update patch. Wild! received an average rating of 71 on Metacritic.
+Frontier released an iOS port of RollerCoaster Tycoon 3 on August 12, 2015.
+
+
+=== Subsequent lawsuits and Complete Edition ===
+The original series' creator Chris Sawyer sued Atari in 2005 for allegedly breaching the terms of a licensing agreement by not allowing auditors access to accounts from 1999 to 2001, during which he claimed he was owed US$4.8 million. Atari counter-claimed in 2007 by claiming that Sawyer broke an agreement by signing a license-agreement with developer Frontier Developments, allowing them to create a demo for console platforms based on assets and mechanics from RollerCoaster Tycoon 3. It was claimed by Atari that this induced Frontier to breach its contractual obligations to Atari by allowing Frontier to market and/or elicit funding for Thrillville through this demo. According to Atari, without this demo, Frontier would not have been able to create Thrillville independently from Atari. The lawsuit ended with an out of court settlement.
+Frontier later sued Atari in January 2017 for underpaid royalties for RollerCoaster Tycoon. When Atari filed for bankruptcy in 2013, Frontier modified its contract for how future royalties would be paid. Atari has paid Frontier $1.17 million to date for RollerCoaster Tycoon 3, but Frontier observed from Steam Spy that sales of RollerCoaster Tycoon 3 were much larger than Atari claimed, and under the new contract, Frontier would be owed an additional $2.2 million. Frontier sought to have rights to audit Atari's records and claim the additional royalties it is owed. Frontier's Chief Operating Officer David Walsh confirmed the report in statements to Eurogamer and GameSpot, stating that they had previously attempted to resolve the issue without legal action since April 2016. Later in May 2018, the game was pulled from both Steam and GOG due to "expiring rights".
+While no resolution of the case has been publicly stated, Frontier announced the release of a self-published version of RollerCoaster Tycoon 3, named RollerCoaster Tycoon 3: Complete Edition. Like Platinum / Deluxe, this release includes both Soaked! and Wild! expansions. Additions included in the Complete Edition were to update the game to run on more modern computers, an adjustment in aspect ratios, and the removal of all references to the game's previous publisher - Atari. Alongside this updated computer version, a console port for the Nintendo Switch was also created. The Complete Edition was released on September 24, 2020, to Steam, Epic Games Store, and Nintendo eShop. In March 2024, Limited Run Games announced a physical version of the Switch release of RollerCoaster Tycoon 3: Complete Edition. On the Mac App Store, the version published by Aspyr Inc. was updated to the Complete Edition.
+On 15 March 2024, Frontier sold the publishing rights to the game back to Atari, Inc. for seven million dollars. In a trading update published by the London Stock Exchange on 2 April, it was reported that Frontier made $1.5 million a year from their sales of RollerCoaster Tycoon 3: Complete Edition on all platforms. This was confirmed by their parent Atari SA on 2 April. Anticipating the 25th anniversary of the RollerCoaster Tycoon series, Atari SA CEO Wade Rosen said "I am really pleased that we can unite this important and successful title in the series with the rest of the franchise".
+On 18 February 2025, Atari and Frontier Developments announced that the Complete Edition would be released for the PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S consoles on 20 March.
+
+
+== Reception ==
+
+
+=== Release ===
+RollerCoaster Tycoon 3 received mostly positive reviews. The game has an average rating of 81/100 at Metacritic and 84% at GameRankings.
+Publications such as GameSpot and Computer Gaming World were overall positive about the game citing its many new features. However, fans of the first two games in the series tended to be more critical. Several other criticisms stemmed from bugs and technical issues, such as the game crashing, the camera freezing, staff getting stuck on railings, low framerates and graphical glitches mainly caused when adjusting the landscape.
+The editors of Computer Gaming World nominated RollerCoaster Tycoon 3 as their 2004 "Strategy Game of the Year (General)", although it lost to The Sims 2. They wrote that it "overcame the series' sophomore slump with a great state-of-the-art design." During the 8th Annual Interactive Achievement Awards, the Academy of Interactive Arts & Sciences nominated RollerCoaster Tycoon 3 for "Simulation Game of the Year", which was ultimately awarded to The Sims 2.
+
+
+=== Sales ===
+On the week of November 7, 2004, RollerCoaster Tycoon 3 was the second best-selling PC game on Amazon.com. Within the next week, the game became the best-selling PC game on Amazon.com. According to The NPD Group, RollerCoaster Tycoon 3 was the ninth-best-selling computer game of 2004. It claimed fifth place on NPD's annual chart for the following year. The game also received a "Silver" sales award from the Entertainment and Leisure Software Publishers Association (ELSPA), indicating sales of at least 100,000 copies in the United Kingdom.
+In June 2015, Frontier CEO David Braben reported that the game had sold "more than 10 million copies".
+
+
+== See also ==
+Planet Coaster
+Thrillville: Off the Rails
+RollerCoaster Tycoon World
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official website

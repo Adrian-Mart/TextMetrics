@@ -1,0 +1,75 @@
+Age of Empires III
+Developer(s)
+Ensemble Studios
+Publisher(s)
+
+
+Microsoft Game Studios
+
+
+MacSoft
+ & 
+Destineer
+ (Mac)
+
+
+Glu
+ (Windows Mobile, N-Gage)
+
+
+Designer(s)
+Bruce Shelley
+[
+2
+]
+Programmer(s)
+Dave Pottinger
+Composer(s)
+Stephen Rippy
+Series
+Age of Empires
+Platform(s)
+Microsoft Windows
+OS X
+Windows Mobile
+N-Gage
+Java (J2ME)
+Release
+
+
+October 18, 2005
+
+
+Windows
+NA
+:
+ October 18, 2005
+EU
+:
+ November 4, 2005
+OS X
+NA
+:
+ November 27, 2006
+[
+1
+]
+EU
+:
+ September 29, 2006
+N-Gage
+WW
+:
+ April 28, 2009
+Windows Mobile
+WW
+:
+ April 30, 2009
+
+
+Genre(s)
+Real-time strategy
+Mode(s)
+Single-player
+, 
+multiplayer

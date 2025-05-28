@@ -1,0 +1,28 @@
+Trials HD
+Developer(s)
+RedLynx
+Publisher(s)
+Microsoft Game Studios
+[
+1
+]
+Series
+Trials
+Engine
+Bullet Physics Library
+[
+2
+]
+Platform(s)
+Xbox 360
+ (
+XBLA
+)
+Release
+August 12, 2009
+Genre(s)
+Racing game
+, 
+puzzle game
+Mode(s)
+Single-player

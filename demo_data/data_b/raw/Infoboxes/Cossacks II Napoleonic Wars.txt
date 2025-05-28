@@ -1,0 +1,49 @@
+Cossacks II: Napoleonic Wars
+European cover art
+Developer(s)
+GSC Game World
+Publisher(s)
+CDV Software
+Producer(s)
+Sergey Grygorovych
+Designer(s)
+Alexander Chuchkevich
+Andrew Zavolokin
+Programmer(s)
+Andrew Shpagin
+Andrii Frolov
+Artist(s)
+Ivan Khivrenko
+Pavel Markevich
+Composer(s)
+Alexey Omelchuk
+Platform(s)
+Microsoft Windows
+Release
+CIS
+:
+ 4 April 2005
+[
+2
+]
+UK
+:
+ 15 April 2005
+[
+1
+]
+NA
+:
+ 26 April 2005
+[
+3
+]
+[
+4
+]
+Genre(s)
+Real-time strategy
+Mode(s)
+Single-player
+, 
+multiplayer

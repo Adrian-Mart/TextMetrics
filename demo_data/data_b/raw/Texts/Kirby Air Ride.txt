@@ -1,0 +1,58 @@
+Kirby Air Ride is a 2003 racing video game developed by HAL Laboratory and published by Nintendo for the GameCube. A spin-off of the Kirby series, player controls Kirby or his multicolored counterparts as they compete in races. The game supports up to four players, and was the first GameCube title to support LAN play using broadband adapters and up to four GameCube systems.
+The game had a convoluted development cycle, starting as one of the first wave of Nintendo 64 games before undergoing numerous revisions to the basic concept and being cancelled for a time. It was the final Kirby game directed by series creator Masahiro Sakurai until 2025, due to his departure from HAL Laboratory. Upon its eventual release for the GameCube it saw a mixed reception from critics, who criticized its simplicity, but was a commercial success. 
+The game has developed a cult following in the years following it's release, with dedicated fans praising the game's battle royale multiplayer for being ahead of its time, and continuing to play the game through emulator online play. A sequel, Kirby Air Riders, is scheduled for release for the Nintendo Switch 2 in 2025.
+
+
+== Gameplay ==
+Kirby Air Ride is played primarily through use of a vehicle, many of which are taken from the previous Kirby games, such as the Warpstar. Players take control of Kirby or any of his multicolored counterparts to compete in races or other minigames.
+The simple controls are a defining feature of Kirby Air Ride. Unlike most racers, no input is necessary for the craft to move forward. Other than the use of the Control Stick to steer, the A button performs all the other actions in the game, including braking, charging up for a boost, sucking in nearby enemies and thereafter using the powers absorbed from them. Gliding is also a definitive feature of the game, as the player can control the crafts' altitude when they go airborne.
+Each of the three game modes has a "checklist" associated with it. These are 12x10 grids which contain 120 squares, all of which are initially blank. Each square has a hidden goal contained inside it, and certain goals also have unlockable content attached to them, such as alternate machines, new items and courses, new characters, and music tracks for the sound test. When a goal is completed, the squares fill to reveal completed goals. In practice, this system of discovering unknown goals is balanced out by several goals which are relatively easy to obtain, such as "finish a race three times" or "race on every course," and various other goals which only require the accrual of play time; these, in turn, make it easier to find out what other, more specific goals are, since each goal unlocked will open up the objective of the goals touching the goal completed.
+Kirby is the only playable character available from the start of the game, and the only one who can ride different machines and suck up enemies to copy their abilities. Multiple players are represented by different colors of Kirby. Meta Knight, Kirby's rival, is an unlockable character; instead of riding a vehicle he simply floats with his wings. He controls like a combination of Wing Kirby and Sword Kirby, as he uses sword attacks automatically when he approaches enemies or other players. Because he has high speed and acceleration in the game, he cannot charge. King Dedede is also unlockable. Controlling him is almost exactly like using the Wheelie Bike, except he can attack automatically with his hammer, similar to Meta Knight's attack.
+
+
+=== Modes of play ===
+
+Air Ride
+Air Ride is a basic, back-view racing mode. The player chooses a racing machine and races against up to three other human or computer players via split-screen or LAN to get to the finish before anyone else. There are two ways to play a typical Air Ride race:
+
+Laps: Laps is the default mode, where the player finishes the race by completing a set number of laps around the course.  The number of laps can be custom set from 1 to 99, or kept at the track's default. The default number of laps may depend on the current course.
+Time: In Time mode, players race for a set amount of time, and the player that goes the farthest down the track wins the match.
+In both modes, the Kirbys may swallow and acquire the abilities of enemies strewn along the track and use those powers against their rivals. Doing so will slow Kirby's enemies down and potentially do damage to them (if the Health Bar is activated for the race.) In addition to the racing mode, Air Ride also has the option of Time Attack mode, where a single-player races around a track for three laps. Lastly, a single player can also race Free Run mode, an endless race with the sole purpose of reaching the fastest possible Lap Time.
+
+Top Ride
+Top Ride is a racing mode on smaller, simpler tracks, and is viewed from above the track. Due to the decreased track size, the default number of laps is increased per track. Top Ride has only two vehicles to choose from; the red Free Star moves in the direction the Control Stick is tilted, while the blue Steer Star rotates clockwise or counterclockwise based on tilting the Control Stick right or left. Like Air Ride, Top Ride also has Time Attack and Free Run modes.  There are seven courses total, based on seven different themes: Grass, Sand, Sky, Fire, Light, Water, and Metal.
+
+City Trial
+City Trial is a larger mode where players must navigate a city, along with several more sections such as a forest, cave, and volcano, while grabbing Air Ride machine upgrade items, such as boosts, top speeds, charges, offense, defense, and more. Various Air Ride vehicles are randomly scattered throughout the city, allowing the player to switch vehicles at any time in the game. Players can even collect rare machine pieces to fuse together into a "Legendary Air Ride Machine," either the Dragoon or the Hydra. This mode also features random events such as falling meteors, UFOs, Dyna Blade, rail station fires, bouncing items, fake power-ups, a strange pillar, a thief, all the boxes containing the same items, dense fog, and more. When time expires, players face off in a small competition that tests how well your machine ended up, which can vary between a drag race, a brawl, a contest to destroy the most enemies, a gliding game, and even a lap on one of the Air Ride courses.
+
+
+== Development ==
+Kirby Air Ride was initially known interchangeably as Kirby Bowl 64 or Kirby Ball 64 (Kirby Ball is the Japanese name for Kirby's Dream Course), and later as Kirby's Air Ride. It began development during the early days of the Nintendo 64 video game console. Much of the development was spearheaded by Masahiro Sakurai, the creator of Kirby. It was one of only two playable demos shown at the Nintendo 64's unveiling at the 1995 Shoshinkai show (the other being Super Mario 64). At this point the game consisted of two sub-games. One was somewhat similar to Marble Madness, as players would control a ball-shaped Kirby to either race across an obstacle course (in single player) or knock competing players off the playing field (in multiplayer), similar to Kirby's Dream Course. The other more closely resembled the final game: a snowboarding race in which Kirby collects stars for points. It went through many changes during its elongated development period (the version shown at the 1996 E3 resembled a skateboarding sim) before eventually being canceled. Producer Shigeru Miyamoto said in an early 1998 interview that the project had been temporarily halted so that Nintendo could focus efforts on finishing 1080° Snowboarding and rework the Kirby's Air Ride concept.
+The game resurfaced on the GameCube in the form of a short video preview in March 2003 at the annual DICE summit in Las Vegas, at which point it received its final title. This preview received a mainly negative reception due to slow speeds and poor graphics, factors which the Nintendo 64 prototype had also been criticized for.
+Kirby Air Ride was first seen in playable form at E3 in May later that year. The demo contained five playable tracks and three different game modes. The reception to this playable demo was more positive than the video preview.
+Masahiro Sakurai, the game designer behind most of the early games in the Kirby series, resigned from his position at HAL Laboratory shortly after the game's release, citing that he was tiring of the constant pressure from the industry to keep creating sequels.
+
+
+=== Music ===
+The soundtrack was composed by Jun Ishikawa, Shogo Sakai, Hirokazu Ando, and Tadashi Ikegami. The latter three of those composers also worked on Super Smash Bros. Melee, while Ishikawa has been a regular composer for the Kirby series since its debut.
+Kirby Air Ride also features songs from the Japanese version of Kirby: Right Back at Ya!, composed by Akira Miyagawa; the game was advertised at the end of some episodes, and a two-part special featuring vehicles from the game aired alongside the game's launch.
+
+
+== Reception ==
+
+Kirby Air Ride sold 422,311 copies in Japan and 750,000 in the United States.  Upon its release, the game received "mixed or average" reviews from critics, according to the review aggregation website Metacritic. Most websites and magazines praised its clean presentation, music, and the originality of the City Trial mode while criticizing its gameplay as being overly simple. Kirby Air Ride's similarity to other titles released for the GameCube around the same time (most notably F-Zero GX and Mario Kart: Double Dash, both of which were also made by Nintendo) resulted in it being categorized as a rather throwaway title.  In Japan, four critics from Famitsu gave the game a total score of 34 out of 40.
+
+
+== Sequel ==
+A sequel, Kirby Air Riders, was announced for release on the Nintendo Switch 2 in 2025 during a Nintendo Direct presentation. It was announced with Sakurai returning as director and his team at Bandai Namco Studios developing. Development started in 2021 when the idea was proposed, with production starting in April 2022; Sakurai teased the game as a top secret project on his YouTube channel, Masahiro Sakurai on Creating Games, that he had been developing after the completion of his YouTube series and development of Super Smash Bros. Ultimate.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Kirby Air Ride at Nintendo.com (archives of the original at the Internet Archive)
+Kirby Air Ride at MobyGames

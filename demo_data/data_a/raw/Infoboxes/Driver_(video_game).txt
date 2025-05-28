@@ -1,0 +1,89 @@
+Driver
+Developer(s)
+Reflections Interactive
+[
+a
+]
+Publisher(s)
+GT Interactive
+[
+b
+]
+Producer(s)
+Peter Hawley
+Designer(s)
+Martin Edmondson
+Writer(s)
+Maurice Suckling
+Composer(s)
+Allister Brimble
+Series
+Driver
+Platform(s)
+PlayStation
+, 
+Microsoft Windows
+, 
+Game Boy Color
+, 
+Classic Mac OS
+, 
+iOS
+, 
+Palm Pre
+Release
+PlayStation
+EU
+:
+ 25 June 1999
+NA
+:
+ 8 July 1999
+[
+1
+]
+Microsoft Windows
+NA
+/
+UK
+:
+ 1 October 1999
+[
+2
+]
+[
+3
+]
+Game Boy Color
+NA
+:
+ 10 May 2000
+[
+5
+]
+UK
+:
+ 23 June 2001
+[
+4
+]
+Macintosh
+NA
+:
+ 12 December 2000
+[
+6
+]
+iOS/Palm Pre
+WW
+:
+ 8 December 2009
+[
+7
+]
+Genre(s)
+Driving
+, 
+action
+Mode(s)
+Single player

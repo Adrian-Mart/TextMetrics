@@ -1,0 +1,30 @@
+Tennis is a sports video game for the Atari VCS (later called the Atari 2600) which was written by Activision co-founder Alan Miller and published by Activision in 1981.
+
+
+== Gameplay ==
+
+Tennis offers singles matches for one or two players; one player is colored pink, the other blue. The game has two user-selectable speed levels. When serving and returning shots, the tennis players automatically swing forehand or backhand depending on the situation, and all shots automatically clear the net and land in bounds.
+The first player to win one six-game set is declared the winner of the match (if the set ends in a 6-6 tie, the set restarts from 0-0). This differs from professional tennis, where players must win at least two out of three six-game sets.
+
+
+== Reception ==
+Tennis received an award for "Best Competitive Game" and an honorable mention for "Best Sports Game" at the 3rd annual Arkie Awards. Arkie Award judges stated "Tennis is as far removed from the primitive Pong-style games from which it derives as gasoline is from the dinosaurs", and specific praise was given to the game's "realistic illusion of depth" and its competitive aspects which allow for "hard fought contest[s]" and "glorious comebacks from the brink of defeat" and which give "more methodical players a chance to taste victory against the kings and queens of hand-eye coordination".: 76 
+Covered in Video magazine's 1982 Guide to Electronic Games, Tennis was characterized by critics as "not terribly complicated", but also as "one of the few very good sports games for the Atari VCS".: 52 
+
+
+== Reviews ==
+Games
+
+
+== See also ==
+
+List of Atari 2600 games
+List of Activision games: 1980–1999
+RealSports Tennis, a 2600 game developed by Atari, Inc.
+
+
+== References ==
+
+
+== External links ==
+Tennis at Atari Mania
