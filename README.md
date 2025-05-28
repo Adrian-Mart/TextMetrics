@@ -38,3 +38,7 @@ Aunque el enfoque principal es la predicción de ventas de videojuegos, la arqui
 ## Créditos
 
 Desarrollado como parte de un estudio experimental sobre análisis y predicción en procesamiento de texto.
+
+## Agradecimientos
+
+Este proyecto utiliza datos descargados desde Wikipedia a través de su API. Agradecemos a Wikipedia por proporcionar acceso abierto a su base de datos, lo que ha sido fundamental para el desarrollo de TextMetrics.
